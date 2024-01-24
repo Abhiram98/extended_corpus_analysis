@@ -1,6 +1,7 @@
 source_filename,function_name,loc_suggestion
-projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,iterator,"(244, 247)"
-projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,iterator,"(243, 247)"
-projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,iterator,"(241, 247)"
-projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,size,"(319, 322)"
-projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,setNextObjectHelper,"(427, 434)"
+projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,iterator,"(245, 248)"
+projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,iterator,"(244, 248)"
+projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,iterator,"(243, 249)"
+projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,size,"(321, 324)"
+projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,setNextObject,"(426, 432)"
+projects/CoreNLP/src/edu/stanford/nlp/objectbank/ObjectBank.java,setNextObject,"(425, 446)"

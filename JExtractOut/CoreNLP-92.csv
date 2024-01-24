@@ -1,14 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,process,"(84, 87)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,process,"(92, 118)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,process,"(66, 70)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,process,"(62, 70)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,process,"(84, 91)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,exportData,"(170, 172)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,exportData,"(169, 172)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,exportData,"(170, 176)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,exportData,"(171, 176)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,exportData,"(169, 172)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,main,"(176, 176)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,main,"(176, 176)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefDataExporter.java,main,"(176, 176)"
+JExtract internal error.

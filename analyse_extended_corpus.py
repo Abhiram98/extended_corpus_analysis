@@ -55,12 +55,21 @@ def analyse():
     hits_and_misses = []
     tolerance_pct = 3
 
+    no_sug = 0
+    LIMIT = 100
+    all_base_dirs = []
+
     for i, ref in enumerate(data):
+        if i > LIMIT:
+            break
 
         function_name = ref['functionName']
         oracle_start, oracle_end, hf_loc = ref['lineStart'], ref['lineEnd'], ref['hfLoc']
         relpath = f"projects/CoreNLP/{ref['filename']}"
         base_dir = relpath.split('src')[0] + 'src'
+        all_base_dirs.append(base_dir)
+        # if base_dir!='projects/CoreNLP/src':
+        #     continue
         # git
         # restore.
         subprocess.run([
@@ -76,10 +85,16 @@ def analyse():
         # with open(relpath) as f:
         #     hf_loc = f.read()
 
-
-        convert_jextract(["--jextract-out", f"JExtractOut/CoreNLP-{i}",
-                          "--base-dir", base_dir],
-                         standalone_mode=False)
+        try:
+            convert_jextract(["--jextract-out", f"JExtractOut/CoreNLP-{i}",
+                              "--base-dir", base_dir],
+                             standalone_mode=False)
+        except:
+            print("Coudn't read data.")
+            # hits_and_misses.append(False)
+            with open(f"JExtractOut/CoreNLP-{i}.csv", "w") as f:
+                f.write("JExtract internal error.")
+            # continue
 
         df = pd.read_csv(f"JExtractOut/CoreNLP-{i}.csv")
         # suggestions = df[
@@ -106,6 +121,8 @@ def analyse():
                 hits_and_misses.append(False)
         else:
             hits_and_misses.append(False)
+            print("no suggestions found.")
+            no_sug+=1
 
 
     # convert_jextract(["--jextract-out", "JExtractOut/CoreNLP-1",
@@ -114,6 +131,8 @@ def analyse():
 
     print(f"{len(hits_and_misses)}")
     print(f"{sum(hits_and_misses)/len(hits_and_misses)}")
+    print(f"{no_sug=}")
+    print(Counter(all_base_dirs))
     pass
 if __name__ == '__main__':
     main()
