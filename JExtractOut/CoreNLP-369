@@ -1,0 +1,5 @@
+edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e3402:179;
+edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2777:812;
+edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2749:840;
+edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2712:929;
+edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2712:903;

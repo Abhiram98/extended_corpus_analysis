@@ -1,0 +1,7 @@
+edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern	public static edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern valueOf(edu.stanford.nlp.ling.tokensregex.Env, Map<java.lang.String,java.lang.String>) 	e1796:3206;
+edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern	public static edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern valueOf(edu.stanford.nlp.ling.tokensregex.Env, Map<java.lang.String,java.lang.String>) 	e1771:3333;
+edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern	public static edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern valueOf(edu.stanford.nlp.ling.tokensregex.Env, Map<java.lang.String,java.lang.String>) 	e1713:3391;
+edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern	public static edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern valueOf(edu.stanford.nlp.ling.tokensregex.Env, Map<java.lang.String,java.lang.String>) 	e2132:393;
+edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern	public static edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern valueOf(edu.stanford.nlp.ling.tokensregex.Env, Map<java.lang.String,java.lang.String>) 	e1670:3434;
+edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern	protected boolean match(edu.stanford.nlp.util.CoreMap, Map<Class#RAW,java.lang.Object>) 	e5964:152;
+edu.stanford.nlp.ling.tokensregex.CoreMapNodePattern	public sealed java.lang.String toString() 	e6426:109;

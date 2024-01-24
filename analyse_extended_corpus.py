@@ -56,12 +56,13 @@ def analyse():
     tolerance_pct = 3
 
     no_sug = 0
-    LIMIT = 100
+    # LIMIT = 1010
     all_base_dirs = []
+    unreadable = 0
 
     for i, ref in enumerate(data):
-        if i > LIMIT:
-            break
+        # if i > LIMIT:
+        #     break
 
         function_name = ref['functionName']
         oracle_start, oracle_end, hf_loc = ref['lineStart'], ref['lineEnd'], ref['hfLoc']
@@ -70,8 +71,7 @@ def analyse():
         all_base_dirs.append(base_dir)
         # if base_dir!='projects/CoreNLP/src':
         #     continue
-        # git
-        # restore.
+
         subprocess.run([
             "git", "-C", "projects/CoreNLP",
             "restore", "."
@@ -91,10 +91,11 @@ def analyse():
                              standalone_mode=False)
         except:
             print("Coudn't read data.")
-            # hits_and_misses.append(False)
+            hits_and_misses.append(False)
             with open(f"JExtractOut/CoreNLP-{i}.csv", "w") as f:
                 f.write("JExtract internal error.")
-            # continue
+            unreadable += 1
+            continue
 
         df = pd.read_csv(f"JExtractOut/CoreNLP-{i}.csv")
         # suggestions = df[
@@ -133,7 +134,35 @@ def analyse():
     print(f"{sum(hits_and_misses)/len(hits_and_misses)}")
     print(f"{no_sug=}")
     print(Counter(all_base_dirs))
-    pass
+    print(f"{unreadable=}")
+
+    with open("hits_and_misses.json", "w") as f:
+        json.dump(hits_and_misses, f, indent=1)
+
+
+def update_completed():
+    with open("CoreNLP-data.json") as f:
+        data = json.load(f)
+
+    completed = []
+    # LIMIT = 1010
+    for i, ref in enumerate(data):
+        # if i > LIMIT:
+        #     break
+        with open(f"JExtractOut/CoreNLP-{i}") as f:
+            first_line = f.read().split("\n")[0]
+        try:
+            dotfile, func_signature, em_suggestion = first_line.split("	")
+            completed.append(i)
+        except:
+            pass
+
+
+
+    print("completed.", len(completed))
+    with open("CoreNLP-completed.json", 'w') as f:
+        json.dump(completed, f, indent=1)
 if __name__ == '__main__':
-    main()
+    # main()
     analyse()
+    # update_completed()

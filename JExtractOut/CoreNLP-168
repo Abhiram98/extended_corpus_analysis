@@ -1,193 +1,62 @@
-edu.stanford.nlp.stats.Counters	public static double max(Counter<E>, double) 	e5596:87;
-edu.stanford.nlp.stats.Counters	public static double max(Counter<E>, double) 	e5551:114;
-edu.stanford.nlp.stats.Counters	public static E argmin(Counter<E>) 	e7070:224;
-edu.stanford.nlp.stats.Counters	public static E argmax(Counter<E>, Comparator<E>, E) 	e8401:304;
-edu.stanford.nlp.stats.Counters	public static E argmax(Counter<E>, Comparator<E>, E) 	e8444:261;
-edu.stanford.nlp.stats.Counters	public static E argmax(Counter<E>, Comparator<E>, E) 	e8401:285;
-edu.stanford.nlp.stats.Counters	public static E argmax(Counter<E>, Comparator<E>, E) 	e8184:212;
-edu.stanford.nlp.stats.Counters	public static E argmax(Counter<E>, Comparator<E>, E) 	e8465:240;
-edu.stanford.nlp.stats.Counters	public static E argmin(Counter<E>, Comparator<E>) 	e9027:221;
-edu.stanford.nlp.stats.Counters	public static List<E> deleteOutofRange(Counter<E>, int, int) 	e18056:346;
-edu.stanford.nlp.stats.Counters	public static List<E> deleteOutofRange(Counter<E>, int, int) 	e18056:322;
-edu.stanford.nlp.stats.Counters	public static List<E> deleteOutofRange(Counter<E>, int, int) 	e18098:304;
-edu.stanford.nlp.stats.Counters	public static List<E> deleteOutofRange(Counter<E>, int, int) 	e18098:280;
-edu.stanford.nlp.stats.Counters	public static List<E> deleteOutofRange(Counter<E>, int, int) 	e18216:186;
-edu.stanford.nlp.stats.Counters	public static void retainTop(Counter<E>, int) 	e18633:118;
-edu.stanford.nlp.stats.Counters	public static void retainTopKeyComparable(Counter<E>, int) 	e19017:153;
-edu.stanford.nlp.stats.Counters	public static void retainTopKeyComparable(Counter<E>, int) 	e19072:98;
-edu.stanford.nlp.stats.Counters	public static List<E> retainBottom(Counter<E>, int) 	e19434:216;
-edu.stanford.nlp.stats.Counters	public static List<E> retainBottom(Counter<E>, int) 	e19475:175;
-edu.stanford.nlp.stats.Counters	public static List<E> retainBottom(Counter<E>, int) 	e19475:155;
-edu.stanford.nlp.stats.Counters	public static List<E> retainBottom(Counter<E>, int) 	e19434:196;
-edu.stanford.nlp.stats.Counters	public static List<E> retainBottom(Counter<E>, int) 	e19562:62;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainNonZeros(Counter<E>) 	e19996:76;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainNonZeros(Counter<E>) 	e19877:114;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainNonZeros(Counter<E>) 	e19833:158;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainAbove(Counter<E>, double) 	e20696:76;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainAbove(Counter<E>, double) 	e20567:124;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainAbove(Counter<E>, double) 	e20523:168;
-edu.stanford.nlp.stats.Counters	public static Set<Pair<E1,E2>> retainAbove(TwoDimensionalCounter<E1,E2>, double) 	e21606:109;
-edu.stanford.nlp.stats.Counters	public static Set<Pair<E1,E2>> retainAbove(TwoDimensionalCounter<E1,E2>, double) 	e21315:286;
-edu.stanford.nlp.stats.Counters	public static Set<Pair<E1,E2>> retainAbove(TwoDimensionalCounter<E1,E2>, double) 	e21266:335;
-edu.stanford.nlp.stats.Counters	public static Set<Pair<E1,E2>> retainAbove(TwoDimensionalCounter<E1,E2>, double) 	e21383:212;
-edu.stanford.nlp.stats.Counters	public static Counter<E> retainBelow(Counter<E>, double) 	e22413:111;
-edu.stanford.nlp.stats.Counters	public static Counter<E> retainBelow(Counter<E>, double) 	e22176:232;
-edu.stanford.nlp.stats.Counters	public static Counter<E> retainBelow(Counter<E>, double) 	e22225:183;
-edu.stanford.nlp.stats.Counters	public static Counter<E> retainBelow(Counter<E>, double) 	e22264:138;
-edu.stanford.nlp.stats.Counters	public static Set<java.lang.String> retainMatchingKeys(Counter<java.lang.String>, List<java.util.regex.Pattern>) 	e22956:233;
-edu.stanford.nlp.stats.Counters	public static Set<java.lang.String> retainMatchingKeys(Counter<java.lang.String>, List<java.util.regex.Pattern>) 	e22987:146;
-edu.stanford.nlp.stats.Counters	public static Set<java.lang.String> retainMatchingKeys(Counter<java.lang.String>, List<java.util.regex.Pattern>) 	e22956:177;
-edu.stanford.nlp.stats.Counters	public static Set<java.lang.String> retainMatchingKeys(Counter<java.lang.String>, List<java.util.regex.Pattern>) 	e22987:202;
-edu.stanford.nlp.stats.Counters	public static Set<java.lang.String> retainMatchingKeys(Counter<java.lang.String>, List<java.util.regex.Pattern>) 	e22912:283;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainKeys(Counter<E>, Collection<E>) 	e23664:98;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainKeys(Counter<E>, Collection<E>) 	e23773:76;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainKeys(Counter<E>, Collection<E>) 	e23625:143;
-edu.stanford.nlp.stats.Counters	public static Set<E> retainKeys(Counter<E>, Collection<E>) 	e23581:187;
-edu.stanford.nlp.stats.Counters	public static Counter<E> toTiedRankCounter(Counter<E>) 	e33156:100;
-edu.stanford.nlp.stats.Counters	public static Counter<E> toTiedRankCounter(Counter<E>) 	e33156:61;
-edu.stanford.nlp.stats.Counters	public static Counter<E> toTiedRankCounter(Counter<E>) 	e33180:76;
-edu.stanford.nlp.stats.Counters	public static Counter<E> toTiedRankCounter(Counter<E>) 	e33156:291;
-edu.stanford.nlp.stats.Counters	public static Counter<E> toTiedRankCounter(Counter<E>) 	e32896:226;
-edu.stanford.nlp.stats.Counters	public static List<Pair<E,java.lang.Double>> toDescendingMagnitudeSortedListWithCounts(Counter<E>) 	e33768:134;
-edu.stanford.nlp.stats.Counters	public static List<Pair<E,java.lang.Double>> toDescendingMagnitudeSortedListWithCounts(Counter<E>) 	e33829:88;
-edu.stanford.nlp.stats.Counters	public static Counter<E> intersection(Counter<E>, Counter<E>) 	e36511:128;
-edu.stanford.nlp.stats.Counters	public static Counter<E> intersection(Counter<E>, Counter<E>) 	e36471:168;
-edu.stanford.nlp.stats.Counters	public static Counter<E> intersection(Counter<E>, Counter<E>) 	e36431:134;
-edu.stanford.nlp.stats.Counters	public static Counter<E> intersection(Counter<E>, Counter<E>) 	e36431:208;
-edu.stanford.nlp.stats.Counters	public static double dotProduct(Counter<E>, Counter<E>) 	e37959:734;
-edu.stanford.nlp.stats.Counters	public static double dotProduct(Counter<E>, Counter<E>) 	e37959:714;
-edu.stanford.nlp.stats.Counters	public static double dotProduct(Counter<E>, Counter<E>) 	e37993:674;
-edu.stanford.nlp.stats.Counters	public static double dotProduct(Counter<E>, Counter<E>) 	e38282:377;
-edu.stanford.nlp.stats.Counters	public static double dotProduct(Counter<E>, Counter<E>) 	e38253:414;
-edu.stanford.nlp.stats.Counters	public static double dotProduct(Counter<E>, double[], Index<E>) 	e39022:123;
-edu.stanford.nlp.stats.Counters	private static double getDotProd(Counter<E>, Counter<E>) 	e41117:100;
-edu.stanford.nlp.stats.Counters	private static double getDotProd(Counter<E>, Counter<E>) 	e41088:137;
-edu.stanford.nlp.stats.Counters	private static double getDotProd(Counter<E>, Counter<E>) 	e41048:177;
-edu.stanford.nlp.stats.Counters	public static Counter<E> absoluteDifference(Counter<E>, Counter<E>) 	e41545:138;
-edu.stanford.nlp.stats.Counters	public static double entropy(Counter<E>) 	e43111:189;
-edu.stanford.nlp.stats.Counters	public static double entropy(Counter<E>) 	e43073:227;
-edu.stanford.nlp.stats.Counters	public static double entropy(Counter<E>) 	e43040:266;
-edu.stanford.nlp.stats.Counters	public static double klDivergence(Counter<E>, Counter<E>) 	e44877:522;
-edu.stanford.nlp.stats.Counters	public static double jensenShannonDivergence(Counter<E>, Counter<E>) 	e46054:113;
-edu.stanford.nlp.stats.Counters	public static double L1Norm(C) 	e47850:100;
-edu.stanford.nlp.stats.Counters	public static double saferL2Norm(C) 	e49139:179;
-edu.stanford.nlp.stats.Counters	public static double saferL2Norm(C) 	e49004:130;
-edu.stanford.nlp.stats.Counters	public static double saferL2Norm(C) 	e48979:155;
-edu.stanford.nlp.stats.Counters	public static double saferL2Norm(C) 	e49164:154;
-edu.stanford.nlp.stats.Counters	public static double saferL2Norm(C) 	e49164:115;
-edu.stanford.nlp.stats.Counters	public static double cosine(Counter<E>, Counter<E>) 	e50269:143;
-edu.stanford.nlp.stats.Counters	public static double cosine(Counter<E>, Counter<E>) 	e50121:143;
-edu.stanford.nlp.stats.Counters	public static double cosine(Counter<E>, Counter<E>) 	e50155:103;
-edu.stanford.nlp.stats.Counters	public static double cosine(Counter<E>, Counter<E>) 	e50121:291;
-edu.stanford.nlp.stats.Counters	public static double cosine(Counter<E>, Counter<E>) 	e49951:151;
-edu.stanford.nlp.stats.Counters	public static Counter<E> average(Counter<E>, Counter<E>) 	e51073:123;
-edu.stanford.nlp.stats.Counters	public static Counter<E> average(Counter<E>, Counter<E>) 	e51040:136;
-edu.stanford.nlp.stats.Counters	public static Counter<E> linearCombination(Counter<E>, double, Counter<E>, double) 	e51614:103;
-edu.stanford.nlp.stats.Counters	public static Counter<E> linearCombination(Counter<E>, double, Counter<E>, double) 	e51475:134;
-edu.stanford.nlp.stats.Counters	public static int hIndex(Counter<E>) 	e52916:343;
-edu.stanford.nlp.stats.Counters	public static int hIndex(Counter<E>) 	e52712:199;
-edu.stanford.nlp.stats.Counters	public static int hIndex(Counter<E>) 	e52771:272;
-edu.stanford.nlp.stats.Counters	public static int hIndex(Counter<E>) 	e52771:226;
-edu.stanford.nlp.stats.Counters	public static int hIndex(Counter<E>) 	e53048:211;
-edu.stanford.nlp.stats.Counters	public static C perturbCounts(C, java.util.Random, double) 	e53619:182;
-edu.stanford.nlp.stats.Counters	public static C perturbCounts(C, java.util.Random, double) 	e53469:288;
-edu.stanford.nlp.stats.Counters	public static C perturbCounts(C, java.util.Random, double) 	e53469:332;
-edu.stanford.nlp.stats.Counters	public static void printCounterComparison(Counter<E>, Counter<E>, java.io.PrintWriter) 	e54840:349;
-edu.stanford.nlp.stats.Counters	public static void printCounterComparison(Counter<E>, Counter<E>, java.io.PrintWriter) 	e54546:271;
-edu.stanford.nlp.stats.Counters	public static void printCounterComparison(Counter<E>, Counter<E>, java.io.PrintWriter) 	e54924:265;
-edu.stanford.nlp.stats.Counters	public static void printCounterComparison(Counter<E>, Counter<E>, java.io.PrintWriter) 	e54891:298;
-edu.stanford.nlp.stats.Counters	public static void printCounterComparison(Counter<E>, Counter<E>, java.io.PrintWriter) 	e54546:372;
-edu.stanford.nlp.stats.Counters	public static C tfLogScale(C, double) 	e56496:105;
-edu.stanford.nlp.stats.Counters	public static C tfLogScale(C, double) 	e56496:144;
-edu.stanford.nlp.stats.Counters	public static C tfLogScale(C, double) 	e56460:141;
-edu.stanford.nlp.stats.Counters	public static C tfLogScale(C, double) 	e56460:180;
-edu.stanford.nlp.stats.Counters	public static C tfLogScale(C, double) 	e56526:114;
-edu.stanford.nlp.stats.Counters	private static void loadIntoCounter(java.lang.String, Class<E>, Counter<E>) throws java.lang.RuntimeException	e58472:219;
-edu.stanford.nlp.stats.Counters	private static void loadIntoCounter(java.lang.String, Class<E>, Counter<E>) throws java.lang.RuntimeException	e58525:166;
-edu.stanford.nlp.stats.Counters	private static void loadIntoCounter(java.lang.String, Class<E>, Counter<E>) throws java.lang.RuntimeException	e58349:368;
-edu.stanford.nlp.stats.Counters	private static void loadIntoCounter(java.lang.String, Class<E>, Counter<E>) throws java.lang.RuntimeException	e58292:407;
-edu.stanford.nlp.stats.Counters	private static void loadIntoCounter(java.lang.String, Class<E>, Counter<E>) throws java.lang.RuntimeException	e58411:306;
-edu.stanford.nlp.stats.Counters	public static void loadInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounter<T1,T2>) throws java.lang.RuntimeException	e60319:258;
-edu.stanford.nlp.stats.Counters	public static void loadInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounter<T1,T2>) throws java.lang.RuntimeException	e60369:208;
-edu.stanford.nlp.stats.Counters	public static void loadInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounter<T1,T2>) throws java.lang.RuntimeException	e60196:407;
-edu.stanford.nlp.stats.Counters	public static void loadInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounter<T1,T2>) throws java.lang.RuntimeException	e60070:533;
-edu.stanford.nlp.stats.Counters	public static void loadInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounter<T1,T2>) throws java.lang.RuntimeException	e60402:175;
-edu.stanford.nlp.stats.Counters	public static void loadIncInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounterInterface<T1,T2>) throws java.lang.RuntimeException	e61211:264;
-edu.stanford.nlp.stats.Counters	public static void loadIncInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounterInterface<T1,T2>) throws java.lang.RuntimeException	e61261:214;
-edu.stanford.nlp.stats.Counters	public static void loadIncInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounterInterface<T1,T2>) throws java.lang.RuntimeException	e61088:413;
-edu.stanford.nlp.stats.Counters	public static void loadIncInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounterInterface<T1,T2>) throws java.lang.RuntimeException	e60973:528;
-edu.stanford.nlp.stats.Counters	public static void loadIncInto2DCounter(java.lang.String, Class<T1>, Class<T2>, TwoDimensionalCounterInterface<T1,T2>) throws java.lang.RuntimeException	e61294:181;
-edu.stanford.nlp.stats.Counters	public static void save2DCounterSorted(TwoDimensionalCounterInterface<T1,T2>, java.lang.String) throws java.io.IOException	e62249:149;
-edu.stanford.nlp.stats.Counters	public static void save2DCounterSorted(TwoDimensionalCounterInterface<T1,T2>, java.lang.String) throws java.io.IOException	e62204:194;
-edu.stanford.nlp.stats.Counters	public static void serializeStringCounter(Counter<java.lang.String>, java.lang.String, double) throws java.io.IOException	e63050:344;
-edu.stanford.nlp.stats.Counters	public static ClassicCounter<java.lang.String> deserializeStringCounter(java.lang.String) throws java.io.IOException	e64274:198;
-edu.stanford.nlp.stats.Counters	public static ClassicCounter<java.lang.String> deserializeStringCounter(java.lang.String) throws java.io.IOException	e64221:251;
-edu.stanford.nlp.stats.Counters	public static ClassicCounter<java.lang.String> deserializeStringCounter(java.lang.String) throws java.io.IOException	e64099:445;
-edu.stanford.nlp.stats.Counters	public static ClassicCounter<java.lang.String> deserializeStringCounter(java.lang.String) throws java.io.IOException	e64080:443;
-edu.stanford.nlp.stats.Counters	public static ClassicCounter<java.lang.String> deserializeStringCounter(java.lang.String) throws java.io.IOException	e64099:424;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toSortedString(Counter<T>, int, java.lang.String, java.lang.String, java.lang.String) 	e66569:130;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toSortedString(Counter<T>, int, java.lang.String, java.lang.String, java.lang.String) 	e66504:201;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat) 	e69529:176;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat) 	e69529:115;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat) 	e69556:88;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat) 	e69463:294;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat) 	e69463:268;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 	e70278:301;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 	e70479:94;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 	e70423:80;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 	e70278:328;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toString(Counter<E>, java.text.NumberFormat, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 	e70087:492;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toBiggestValuesFirstString(Counter<E>, int) 	e71271:134;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toBiggestValuesFirstString(Counter<E>, int) 	e71218:193;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toBiggestValuesFirstString(Counter<java.lang.Integer>, int, Index<T>) 	e71803:147;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toBiggestValuesFirstString(Counter<java.lang.Integer>, int, Index<T>) 	e71750:206;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toVerticalString(Counter<E>, int, java.lang.String, boolean) 	e73316:259;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toVerticalString(Counter<E>, int, java.lang.String, boolean) 	e73316:198;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toVerticalString(Counter<E>, int, java.lang.String, boolean) 	e73343:171;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toVerticalString(Counter<E>, int, java.lang.String, boolean) 	e73343:232;
-edu.stanford.nlp.stats.Counters	public static java.lang.String toVerticalString(Counter<E>, int, java.lang.String, boolean) 	e73216:391;
-edu.stanford.nlp.stats.Counters	public static E restrictedArgMax(Counter<E>, Collection<E>) 	e73881:147;
-edu.stanford.nlp.stats.Counters	public static Counter<T> toCounter(double[], Index<T>) 	e74314:134;
-edu.stanford.nlp.stats.Counters	public static Counter<T> toCounter(double[], Index<T>) 	e74314:120;
-edu.stanford.nlp.stats.Counters	public static Counter<T> toCounter(double[], Index<T>) 	e74133:176;
-edu.stanford.nlp.stats.Counters	public static Counter<T> toCounter(double[], Index<T>) 	e74271:163;
-edu.stanford.nlp.stats.Counters	public static double[] asArray(Counter<E>, Index<E>, int) 	e75925:97;
-edu.stanford.nlp.stats.Counters	public static double[] asArray(Counter<E>, Index<E>, int) 	e75898:148;
-edu.stanford.nlp.stats.Counters	public static double[] asArray(Counter<E>, Index<E>, int) 	e75898:130;
-edu.stanford.nlp.stats.Counters	public static double[] asArray(Counter<E>, Index<E>, int) 	e75854:192;
-edu.stanford.nlp.stats.Counters	public static double[] asArray(Counter<E>, Index<E>, int) 	e75854:174;
-edu.stanford.nlp.stats.Counters	public static double[] asArray(Counter<E>) 	e76296:95;
-edu.stanford.nlp.stats.Counters	public static double[] asArray(Counter<E>) 	e76296:77;
-edu.stanford.nlp.stats.Counters	public static double[] asArray(Counter<E>) 	e76281:92;
-edu.stanford.nlp.stats.Counters	public static T sample(Counter<T>, java.util.Random) 	e77662:323;
-edu.stanford.nlp.stats.Counters	public static T sample(Counter<T>, java.util.Random) 	e77687:298;
-edu.stanford.nlp.stats.Counters	public static T sample(Counter<T>, java.util.Random) 	e77576:81;
-edu.stanford.nlp.stats.Counters	public static boolean equals(Counter<E>, Counter<E>, double) 	e80279:152;
-edu.stanford.nlp.stats.Counters	public static boolean equals(Counter<E>, Counter<E>, double) 	e80208:223;
-edu.stanford.nlp.stats.Counters	public static Counter<T> unmodifiableCounter(Counter<T>) 	e82306:1116;
-edu.stanford.nlp.stats.Counters	public static Counter<T> unmodifiableCounter(Counter<T>) 	e82140:1404;
-edu.stanford.nlp.stats.Counters	public static Counter<T> unmodifiableCounter(Counter<T>) 	e82596:658;
-edu.stanford.nlp.stats.Counters	public static Counter<E> asCounter(FixedPrioritiesPriorityQueue<E>) 	e84545:113;
-edu.stanford.nlp.stats.Counters	public static Counter<E> asCounter(FixedPrioritiesPriorityQueue<E>) 	e84516:148;
-edu.stanford.nlp.stats.Counters	public static Counter<E> fromMap(Map<E,N>, Class<N>) 	e90130:416;
-edu.stanford.nlp.stats.Counters	public static Counter<E> fromMap(Map<E,N>, Class<N>) 	e90026:637;
-edu.stanford.nlp.stats.Counters	public static Counter<E> fromMap(Map<E,N>, Class<N>) 	e92768:456;
-edu.stanford.nlp.stats.Counters	public static Counter<E> fromMap(Map<E,N>, Class<N>) 	e92647:694;
-edu.stanford.nlp.stats.Counters	public static Counter<E> fromMap(Map<E,N>, Class<N>) 	e85601:261;
-edu.stanford.nlp.stats.Counters	public static Map<E,java.lang.Double> asMap(Counter<E>) 	e94287:95;
-edu.stanford.nlp.stats.Counters	public static void retainTopMass(Counter<E>, double) 	e97809:127;
-edu.stanford.nlp.stats.Counters	public static void retainTopMass(Counter<E>, double) 	e97809:106;
-edu.stanford.nlp.stats.Counters	public static void retainTopMass(Counter<E>, double) 	e97851:85;
-edu.stanford.nlp.stats.Counters	public static void retainTopMass(Counter<E>, double) 	e97751:191;
-edu.stanford.nlp.stats.Counters	public static double pearsonsCorrelationCoefficient(Counter<E>, Counter<E>) 	e98510:185;
-edu.stanford.nlp.stats.Counters	public static double pearsonsCorrelationCoefficient(Counter<E>, Counter<E>) 	e98555:140;
-edu.stanford.nlp.stats.Counters	public static double pearsonsCorrelationCoefficient(Counter<E>, Counter<E>) 	e98510:122;
-edu.stanford.nlp.stats.Counters	public static double pearsonsCorrelationCoefficient(Counter<E>, Counter<E>) 	e98465:230;
-edu.stanford.nlp.stats.Counters	public static double pearsonsCorrelationCoefficient(Counter<E>, Counter<E>) 	e98428:267;
-edu.stanford.nlp.stats.Counters	public static List<E> topKeys(Counter<E>, int) 	e99493:103;
-edu.stanford.nlp.stats.Counters	public static List<E> topKeys(Counter<E>, int) 	e99510:103;
-edu.stanford.nlp.stats.Counters	public static List<E> topKeys(Counter<E>, int) 	e99510:86;
-edu.stanford.nlp.stats.Counters	public static List<Pair<E,java.lang.Double>> topKeysWithCounts(Counter<E>, int) 	e99874:79;
-edu.stanford.nlp.stats.Counters	public static List<Pair<E,java.lang.Double>> topKeysWithCounts(Counter<E>, int) 	e99815:144;
-edu.stanford.nlp.stats.Counters	public static List<Pair<E,java.lang.Double>> topKeysWithCounts(Counter<E>, int) 	e99832:144;
-edu.stanford.nlp.stats.Counters	public static List<Pair<E,java.lang.Double>> topKeysWithCounts(Counter<E>, int) 	e99832:127;
+java.lang.NullPointerException
+	at br.ufmg.dcc.labsoft.jextract.ranking.DependenciesAstVisitor.visit(DependenciesAstVisitor.java:50)
+	at org.eclipse.jdt.core.dom.MethodInvocation.accept0(MethodInvocation.java:220)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
+	at org.eclipse.jdt.core.dom.VariableDeclarationFragment.accept0(VariableDeclarationFragment.java:238)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.VariableDeclarationStatement.accept0(VariableDeclarationStatement.java:254)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
+	at org.eclipse.jdt.core.dom.EnhancedForStatement.accept0(EnhancedForStatement.java:181)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
+	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:677)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.fillEntitySets(EmrScoringFunction.java:125)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.computeScore(EmrScoringFunction.java:45)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.handleSlice(EmrGenerator.java:300)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.end(EmrGenerator.java:250)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:224)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:208)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.forEachSlice(EmrGenerator.java:136)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethod(EmrGenerator.java:188)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.access$1(EmrGenerator.java:179)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$2.visit(EmrGenerator.java:114)
+	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:653)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:258)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethods(EmrGenerator.java:107)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$1.visit(EmrGenerator.java:84)
+	at org.eclipse.core.internal.resources.Resource.lambda$1(Resource.java:117)
+	at org.eclipse.core.internal.resources.Resource.lambda$0(Resource.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.generateRecomendations(EmrGenerator.java:66)
+	at br.ufmg.dcc.labsoft.jextract.ui.AbstractProjectMenuAction$1.doWorkIteration(AbstractProjectMenuAction.java:124)
+	at br.ufmg.dcc.labsoft.jextract.ui.AbstractJob.run(AbstractJob.java:28)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

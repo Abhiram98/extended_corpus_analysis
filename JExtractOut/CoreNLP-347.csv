@@ -1,1 +1,8 @@
 source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/ling/tokensregex/CoreMapNodePattern.java,valueOf,"(49, 100)"
+projects/CoreNLP/src/edu/stanford/nlp/ling/tokensregex/CoreMapNodePattern.java,valueOf,"(48, 103)"
+projects/CoreNLP/src/edu/stanford/nlp/ling/tokensregex/CoreMapNodePattern.java,valueOf,"(47, 103)"
+projects/CoreNLP/src/edu/stanford/nlp/ling/tokensregex/CoreMapNodePattern.java,valueOf,"(54, 57)"
+projects/CoreNLP/src/edu/stanford/nlp/ling/tokensregex/CoreMapNodePattern.java,valueOf,"(46, 103)"
+projects/CoreNLP/src/edu/stanford/nlp/ling/tokensregex/CoreMapNodePattern.java,match,"(138, 140)"
+projects/CoreNLP/src/edu/stanford/nlp/ling/tokensregex/CoreMapNodePattern.java,toString,"(154, 157)"

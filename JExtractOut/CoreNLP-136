@@ -1,9 +1,0 @@
-edu.stanford.nlp.coref.neural.NeuralCorefAlgorithm	public void <init>(java.util.Properties, edu.stanford.nlp.coref.data.Dictionaries) 	e1836:556;
-edu.stanford.nlp.coref.neural.NeuralCorefAlgorithm	public void <init>(java.util.Properties, edu.stanford.nlp.coref.data.Dictionaries) 	e1710:219;
-edu.stanford.nlp.coref.neural.NeuralCorefAlgorithm	public void <init>(java.util.Properties, edu.stanford.nlp.coref.data.Dictionaries) 	e1935:534;
-edu.stanford.nlp.coref.neural.NeuralCorefAlgorithm	public void <init>(java.util.Properties, edu.stanford.nlp.coref.data.Dictionaries) 	e1768:317;
-edu.stanford.nlp.coref.neural.NeuralCorefAlgorithm	public void runCoref(edu.stanford.nlp.coref.data.Document) 	e2681:170;
-edu.stanford.nlp.coref.neural.NeuralCorefAlgorithm	public void runCoref(edu.stanford.nlp.coref.data.Document) 	e2610:241;
-edu.stanford.nlp.coref.neural.NeuralCorefAlgorithm	public void runCoref(edu.stanford.nlp.coref.data.Document) 	e2857:1718;
-edu.stanford.nlp.coref.neural.NeuralCorefAlgorithm	public void runCoref(edu.stanford.nlp.coref.data.Document) 	e3677:898;
-edu.stanford.nlp.coref.neural.NeuralCorefAlgorithm	public void runCoref(edu.stanford.nlp.coref.data.Document) 	e3848:727;

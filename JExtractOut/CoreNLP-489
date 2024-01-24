@@ -1,0 +1,17 @@
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void testClassifier(java.lang.String) 	e2774:933;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void testClassifier(java.lang.String) 	e2561:175;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void testClassifier(java.lang.String) 	e2774:869;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void testClassifier(java.lang.String) 	e2838:869;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void testClassifier(java.lang.String) 	e2887:750;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private void outputTestSummary(Collection<java.lang.String>, GeneralDataset<java.lang.String,java.lang.String>, IntCounter<java.lang.String>) 	e5311:201;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private void outputTestSummary(Collection<java.lang.String>, GeneralDataset<java.lang.String,java.lang.String>, IntCounter<java.lang.String>) 	e5271:241;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private void outputTestSummary(Collection<java.lang.String>, GeneralDataset<java.lang.String,java.lang.String>, IntCounter<java.lang.String>) 	e5222:290;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e5982:243;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e6036:189;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e5982:183;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e5946:219;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e6837:130;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e6837:590;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e6837:298;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e7009:524;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e6761:206;
