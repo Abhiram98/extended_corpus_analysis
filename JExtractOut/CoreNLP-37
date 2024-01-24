@@ -1,70 +1,30 @@
-java.lang.NullPointerException
-	at br.ufmg.dcc.labsoft.jextract.ranking.DependenciesAstVisitor.visit(DependenciesAstVisitor.java:50)
-	at org.eclipse.jdt.core.dom.MethodInvocation.accept0(MethodInvocation.java:220)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.PrefixExpression.accept0(PrefixExpression.java:253)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.InfixExpression.accept0(InfixExpression.java:357)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.ParenthesizedExpression.accept0(ParenthesizedExpression.java:131)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.InfixExpression.accept0(InfixExpression.java:356)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.WhileStatement.accept0(WhileStatement.java:157)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:677)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.fillEntitySets(EmrScoringFunction.java:125)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.computeScore(EmrScoringFunction.java:45)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.handleSlice(EmrGenerator.java:300)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.end(EmrGenerator.java:250)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:224)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:208)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.forEachSlice(EmrGenerator.java:136)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethod(EmrGenerator.java:188)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.access$1(EmrGenerator.java:179)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$2.visit(EmrGenerator.java:114)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:653)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:258)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethods(EmrGenerator.java:107)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$1.visit(EmrGenerator.java:84)
-	at org.eclipse.core.internal.resources.Resource.lambda$1(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.lambda$0(Resource.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.generateRecomendations(EmrGenerator.java:66)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractProjectMenuAction$1.doWorkIteration(AbstractProjectMenuAction.java:103)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractJob.run(AbstractJob.java:28)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed boolean hasNext() 	e1914:106;
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed boolean hasNext() 	e1914:135;
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed boolean hasNext() 	e1957:92;
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed boolean hasNext() 	e2006:84;
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed boolean hasNext() 	e1957:133;
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed List<IN> next() 	e2498:106;
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed List<IN> next() 	e2498:135;
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed List<IN> next() 	e2541:133;
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed List<IN> next() 	e2590:84;
+edu.stanford.nlp.sequences.ObjectBankWrapper.WrappedIterator	public sealed List<IN> next() 	e2541:92;
+edu.stanford.nlp.sequences.ObjectBankWrapper	public List<IN> processDocument(List<IN>) 	e2846:59;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private java.lang.String fix(java.lang.String) 	e3537:101;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void doBasicStuff(List<IN>) 	e3881:1627;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void doBasicStuff(List<IN>) 	e4193:215;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void doBasicStuff(List<IN>) 	e3881:689;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void doBasicStuff(List<IN>) 	e4193:311;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void doBasicStuff(List<IN>) 	e4744:764;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void fixDocLengths(List<List<IN>>) 	e6765:296;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void fixDocLengths(List<List<IN>>) 	e6717:344;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void fixDocLengths(List<List<IN>>) 	e6226:952;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void fixDocLengths(List<List<IN>>) 	e6717:455;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void fixDocLengths(List<List<IN>>) 	e6765:407;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void iobTags(List<IN>) 	e7470:559;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void iobTags(List<IN>) 	e7398:680;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void iobTags(List<IN>) 	e7511:518;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void iobTags(List<IN>) 	e7470:534;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void iobTags(List<IN>) 	e7534:495;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void mergeTags(List<IN>) 	e8544:116;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void mergeTags(List<IN>) 	e8488:180;
+edu.stanford.nlp.sequences.ObjectBankWrapper	private void mergeTags(List<IN>) 	e8488:242;

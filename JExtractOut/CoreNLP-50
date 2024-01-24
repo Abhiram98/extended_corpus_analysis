@@ -1,60 +1,95 @@
-java.lang.NullPointerException
-	at br.ufmg.dcc.labsoft.jextract.ranking.DependenciesAstVisitor.visit(DependenciesAstVisitor.java:50)
-	at org.eclipse.jdt.core.dom.MethodInvocation.accept0(MethodInvocation.java:220)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.ExpressionStatement.accept0(ExpressionStatement.java:136)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.TryStatement.accept0(TryStatement.java:274)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:677)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.fillEntitySets(EmrScoringFunction.java:125)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.computeScore(EmrScoringFunction.java:45)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.handleSlice(EmrGenerator.java:300)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.end(EmrGenerator.java:250)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:224)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:208)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.forEachSlice(EmrGenerator.java:136)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethod(EmrGenerator.java:188)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.access$1(EmrGenerator.java:179)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$2.visit(EmrGenerator.java:114)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:653)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:258)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethods(EmrGenerator.java:107)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$1.visit(EmrGenerator.java:84)
-	at org.eclipse.core.internal.resources.Resource.lambda$1(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.lambda$0(Resource.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.generateRecomendations(EmrGenerator.java:66)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractProjectMenuAction$1.doWorkIteration(AbstractProjectMenuAction.java:103)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractJob.run(AbstractJob.java:28)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void <init>(java.util.Properties, int, int, boolean) throws java.io.IOException	e5500:121;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void <init>(java.util.Properties, int, int, boolean) throws java.io.IOException	e5528:133;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void <init>(java.util.Properties) throws java.io.IOException	e7656:1369;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void <init>(java.util.Properties) throws java.io.IOException	e6810:195;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void <init>(java.util.Properties) throws java.io.IOException	e7656:1579;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void <init>(java.util.Properties) throws java.io.IOException	e8869:366;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void <init>(java.util.Properties) throws java.io.IOException	e7010:3618;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static Map<java.lang.String,java.lang.String> getURLParams(java.net.URI) throws java.io.UnsupportedEncodingException	e11369:401;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static Map<java.lang.String,java.lang.String> getURLParams(java.net.URI) throws java.io.UnsupportedEncodingException	e11321:481;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static Map<java.lang.String,java.lang.String> getURLParams(java.net.URI) throws java.io.UnsupportedEncodingException	e11321:457;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static Map<java.lang.String,java.lang.String> getURLParams(java.net.URI) throws java.io.UnsupportedEncodingException	e11172:630;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static Map<java.lang.String,java.lang.String> getURLParams(java.net.URI) throws java.io.UnsupportedEncodingException	e11172:606;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.Annotation getDocument(java.util.Properties, com.sun.net.httpserver.HttpExchange) throws java.io.IOException, java.lang.ClassNotFoundException	e13812:156;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.Annotation getDocument(java.util.Properties, com.sun.net.httpserver.HttpExchange) throws java.io.IOException, java.lang.ClassNotFoundException	e12912:1056;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.Annotation getDocument(java.util.Properties, com.sun.net.httpserver.HttpExchange) throws java.io.IOException, java.lang.ClassNotFoundException	e13011:599;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.Annotation getDocument(java.util.Properties, com.sun.net.httpserver.HttpExchange) throws java.io.IOException, java.lang.ClassNotFoundException	e12912:698;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.Annotation getDocument(java.util.Properties, com.sun.net.httpserver.HttpExchange) throws java.io.IOException, java.lang.ClassNotFoundException	e13011:957;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.StanfordCoreNLP mkStanfordCoreNLP(java.util.Properties) 	e15017:294;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.StanfordCoreNLP mkStanfordCoreNLP(java.util.Properties) 	e15608:529;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.StanfordCoreNLP mkStanfordCoreNLP(java.util.Properties) 	e15608:600;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.StanfordCoreNLP mkStanfordCoreNLP(java.util.Properties) 	e15317:1003;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private edu.stanford.nlp.pipeline.StanfordCoreNLP mkStanfordCoreNLP(java.util.Properties) 	e14990:321;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private java.util.Properties getProperties(com.sun.net.httpserver.HttpExchange) throws java.io.UnsupportedEncodingException	e17194:715;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private java.util.Properties getProperties(com.sun.net.httpserver.HttpExchange) throws java.io.UnsupportedEncodingException	e17613:296;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private java.util.Properties getProperties(com.sun.net.httpserver.HttpExchange) throws java.io.UnsupportedEncodingException	e17556:353;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private java.util.Properties getProperties(com.sun.net.httpserver.HttpExchange) throws java.io.UnsupportedEncodingException	e17056:853;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private java.util.Properties getProperties(com.sun.net.httpserver.HttpExchange) throws java.io.UnsupportedEncodingException	e17556:2618;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static void respondUnauthorized(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e22069:205;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static void respondUnauthorized(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e22155:145;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static void respondUnauthorized(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e21911:239;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static void respondUnauthorized(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e21984:239;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static Pair<java.net.Inet4Address,java.lang.Integer> parseSubnet(java.lang.String) 	e23249:199;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static Pair<java.net.Inet4Address,java.lang.Integer> parseSubnet(java.lang.String) 	e23141:307;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static Pair<java.net.Inet4Address,java.lang.Integer> parseSubnet(java.lang.String) 	e23141:103;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static Pair<java.net.Inet4Address,java.lang.Integer> parseSubnet(java.lang.String) 	e23124:120;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static boolean netMatch(Pair<java.net.Inet4Address,java.lang.Integer>, java.net.Inet4Address) 	e23919:231;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ReadyHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e27332:375;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ReadyHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e27309:398;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ReadyHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e27350:357;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ReadyHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e27638:162;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ReadyHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e27332:440;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ShutdownHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e29334:163;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ShutdownHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e29334:215;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ShutdownHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e29411:138;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ShutdownHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e29122:427;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.ShutdownHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e29122:375;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e30395:137;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e30539:135;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e30316:216;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e30463:183;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e30514:160;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.CoreNLPHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e34402:153;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.CoreNLPHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e37283:145;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.CoreNLPHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e37183:245;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.CoreNLPHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e37183:215;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.CoreNLPHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e35623:559;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TokensRegexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e39800:4231;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TokensRegexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e43322:318;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TokensRegexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e39720:4311;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TokensRegexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e43598:264;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TokensRegexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e43488:374;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.SemgrexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e45296:4336;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.SemgrexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e48945:300;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.SemgrexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e45216:4416;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.SemgrexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e49203:264;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.SemgrexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e49101:366;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TregexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e50893:2923;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TregexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e53131:299;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TregexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e50813:3003;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TregexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e53388:264;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer.TregexHandler	public void handle(com.sun.net.httpserver.HttpExchange) throws java.io.IOException	e53286:366;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static void sendAndGetResponse(com.sun.net.httpserver.HttpExchange, byte[]) throws java.io.IOException	e53971:238;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static void sendAndGetResponse(com.sun.net.httpserver.HttpExchange, byte[]) throws java.io.IOException	e54150:141;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static void sendAndGetResponse(com.sun.net.httpserver.HttpExchange, byte[]) throws java.io.IOException	e54052:211;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static com.sun.net.httpserver.HttpsServer addSSLContext(com.sun.net.httpserver.HttpsServer) 	e54877:815;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static com.sun.net.httpserver.HttpsServer addSSLContext(com.sun.net.httpserver.HttpsServer) 	e54877:777;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static com.sun.net.httpserver.HttpsServer addSSLContext(com.sun.net.httpserver.HttpsServer) 	e55300:334;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static com.sun.net.httpserver.HttpsServer addSSLContext(com.sun.net.httpserver.HttpsServer) 	e54994:698;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private static com.sun.net.httpserver.HttpsServer addSSLContext(com.sun.net.httpserver.HttpsServer) 	e54994:660;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private void livenessServer(java.util.concurrent.atomic.AtomicBoolean) 	e56393:632;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private void livenessServer(java.util.concurrent.atomic.AtomicBoolean) 	e56393:396;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private void livenessServer(java.util.concurrent.atomic.AtomicBoolean) 	e56393:270;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private void livenessServer(java.util.concurrent.atomic.AtomicBoolean) 	e56393:540;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	private void livenessServer(java.util.concurrent.atomic.AtomicBoolean) 	e56393:488;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void run() 	e57605:200;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void run(Optional<Pair<java.lang.String,java.lang.String>>, Predicate<java.util.Properties>, Consumer<edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FinishedRequest>, edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler, boolean, java.util.concurrent.atomic.AtomicBoolean) 	e60226:386;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void run(Optional<Pair<java.lang.String,java.lang.String>>, Predicate<java.util.Properties>, Consumer<edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FinishedRequest>, edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler, boolean, java.util.concurrent.atomic.AtomicBoolean) 	e60226:314;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void run(Optional<Pair<java.lang.String,java.lang.String>>, Predicate<java.util.Properties>, Consumer<edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FinishedRequest>, edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler, boolean, java.util.concurrent.atomic.AtomicBoolean) 	e60461:151;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void run(Optional<Pair<java.lang.String,java.lang.String>>, Predicate<java.util.Properties>, Consumer<edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FinishedRequest>, edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler, boolean, java.util.concurrent.atomic.AtomicBoolean) 	e59570:970;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public void run(Optional<Pair<java.lang.String,java.lang.String>>, Predicate<java.util.Properties>, Consumer<edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FinishedRequest>, edu.stanford.nlp.pipeline.StanfordCoreNLPServer.FileHandler, boolean, java.util.concurrent.atomic.AtomicBoolean) 	e60057:483;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public static void main(java.lang.String[]) throws java.io.IOException	e62247:192;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public static void main(java.lang.String[]) throws java.io.IOException	e62273:166;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public static void main(java.lang.String[]) throws java.io.IOException	e62186:253;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public static void main(java.lang.String[]) throws java.io.IOException	e62247:789;
+edu.stanford.nlp.pipeline.StanfordCoreNLPServer	public static void main(java.lang.String[]) throws java.io.IOException	e62135:1389;

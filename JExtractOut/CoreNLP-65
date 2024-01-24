@@ -1,3 +1,0 @@
-edu.stanford.nlp.neural.rnn.RNNCoreAnnotations	public static double getPredictedClassProb(edu.stanford.nlp.ling.Label) 	e4071:91;
-edu.stanford.nlp.neural.rnn.RNNCoreAnnotations	public static double getPredictedClassProb(edu.stanford.nlp.ling.Label) 	e3996:166;
-edu.stanford.nlp.neural.rnn.RNNCoreAnnotations	public static double getPredictedClassProb(edu.stanford.nlp.ling.Label) 	e3771:220;

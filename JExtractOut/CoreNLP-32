@@ -1,0 +1,15 @@
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	private Pair<edu.stanford.nlp.ling.IndexedWord,edu.stanford.nlp.trees.GrammaticalRelation> getGovAndReln(double, edu.stanford.nlp.ling.IndexedWord, java.lang.String, List<edu.stanford.nlp.ling.IndexedWord>) 	e2351:199;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	private Pair<edu.stanford.nlp.ling.IndexedWord,edu.stanford.nlp.trees.GrammaticalRelation> getGovAndReln(double, edu.stanford.nlp.ling.IndexedWord, java.lang.String, List<edu.stanford.nlp.ling.IndexedWord>) 	e2383:167;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	private Pair<edu.stanford.nlp.ling.IndexedWord,edu.stanford.nlp.trees.GrammaticalRelation> getGovAndReln(double, edu.stanford.nlp.ling.IndexedWord, java.lang.String, List<edu.stanford.nlp.ling.IndexedWord>) 	e2328:222;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	private Pair<edu.stanford.nlp.ling.IndexedWord,edu.stanford.nlp.trees.GrammaticalRelation> getGovAndReln(double, edu.stanford.nlp.ling.IndexedWord, java.lang.String, List<edu.stanford.nlp.ling.IndexedWord>) 	e2557:248;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	private Pair<edu.stanford.nlp.ling.IndexedWord,edu.stanford.nlp.trees.GrammaticalRelation> getGovAndReln(double, edu.stanford.nlp.ling.IndexedWord, java.lang.String, List<edu.stanford.nlp.ling.IndexedWord>) 	e2557:206;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public Pair<edu.stanford.nlp.semgraph.SemanticGraph,edu.stanford.nlp.semgraph.SemanticGraph> apply(java.lang.String) 	e3672:3795;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public Pair<edu.stanford.nlp.semgraph.SemanticGraph,edu.stanford.nlp.semgraph.SemanticGraph> apply(java.lang.String) 	e4650:2817;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public Pair<edu.stanford.nlp.semgraph.SemanticGraph,edu.stanford.nlp.semgraph.SemanticGraph> apply(java.lang.String) 	e3612:3855;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public Pair<edu.stanford.nlp.semgraph.SemanticGraph,edu.stanford.nlp.semgraph.SemanticGraph> apply(java.lang.String) 	e3740:3727;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public Pair<edu.stanford.nlp.semgraph.SemanticGraph,edu.stanford.nlp.semgraph.SemanticGraph> apply(java.lang.String) 	e3452:212;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.WordProcessor	public edu.stanford.nlp.ling.IndexedWord apply(java.lang.String) 	e7973:291;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.WordProcessor	public edu.stanford.nlp.ling.IndexedWord apply(java.lang.String) 	e7973:227;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.WordProcessor	public edu.stanford.nlp.ling.IndexedWord apply(java.lang.String) 	e8017:247;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.WordProcessor	public edu.stanford.nlp.ling.IndexedWord apply(java.lang.String) 	e8017:183;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.WordProcessor	public edu.stanford.nlp.ling.IndexedWord apply(java.lang.String) 	e8278:1863;

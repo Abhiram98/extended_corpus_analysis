@@ -1,60 +1,52 @@
-java.lang.NullPointerException
-	at br.ufmg.dcc.labsoft.jextract.ranking.DependenciesAstVisitor.visit(DependenciesAstVisitor.java:50)
-	at org.eclipse.jdt.core.dom.MethodInvocation.accept0(MethodInvocation.java:220)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.ExpressionStatement.accept0(ExpressionStatement.java:136)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:677)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.fillEntitySets(EmrScoringFunction.java:125)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.computeScore(EmrScoringFunction.java:45)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.handleSlice(EmrGenerator.java:300)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.end(EmrGenerator.java:250)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:224)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:208)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.forEachSlice(EmrGenerator.java:136)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethod(EmrGenerator.java:188)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.access$1(EmrGenerator.java:179)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$2.visit(EmrGenerator.java:114)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:653)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:258)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethods(EmrGenerator.java:107)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$1.visit(EmrGenerator.java:84)
-	at org.eclipse.core.internal.resources.Resource.lambda$1(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.lambda$0(Resource.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.generateRecomendations(EmrGenerator.java:66)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractProjectMenuAction$1.doWorkIteration(AbstractProjectMenuAction.java:103)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractJob.run(AbstractJob.java:28)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+edu.stanford.nlp.parser.nndep.Classifier	public void <init>(edu.stanford.nlp.parser.nndep.Config, edu.stanford.nlp.parser.nndep.Dataset, double[][], double[][], double[], double[][], List<java.lang.Integer>) 	e4314:71;
+edu.stanford.nlp.parser.nndep.Classifier	public void <init>(edu.stanford.nlp.parser.nndep.Config, edu.stanford.nlp.parser.nndep.Dataset, double[][], double[][], double[], double[][], List<java.lang.Integer>) 	e4296:89;
+edu.stanford.nlp.parser.nndep.Classifier	public void <init>(edu.stanford.nlp.parser.nndep.Config, edu.stanford.nlp.parser.nndep.Dataset, double[][], double[][], double[], double[][], List<java.lang.Integer>) 	e4391:327;
+edu.stanford.nlp.parser.nndep.Classifier	public void <init>(edu.stanford.nlp.parser.nndep.Config, edu.stanford.nlp.parser.nndep.Dataset, double[][], double[][], double[], double[][], List<java.lang.Integer>) 	e4314:102;
+edu.stanford.nlp.parser.nndep.Classifier	public void <init>(edu.stanford.nlp.parser.nndep.Config, edu.stanford.nlp.parser.nndep.Dataset, double[][], double[][], double[], double[][], List<java.lang.Integer>) 	e4296:61;
+edu.stanford.nlp.parser.nndep.Classifier.CostFunction	public edu.stanford.nlp.parser.nndep.Classifier.Cost process(Pair<Collection<edu.stanford.nlp.parser.nndep.Example>,edu.stanford.nlp.parser.nndep.Classifier.FeedforwardParams>) 	e5860:4275;
+edu.stanford.nlp.parser.nndep.Classifier.CostFunction	public edu.stanford.nlp.parser.nndep.Classifier.Cost process(Pair<Collection<edu.stanford.nlp.parser.nndep.Example>,edu.stanford.nlp.parser.nndep.Classifier.FeedforwardParams>) 	e7037:226;
+edu.stanford.nlp.parser.nndep.Classifier.CostFunction	public edu.stanford.nlp.parser.nndep.Classifier.Cost process(Pair<Collection<edu.stanford.nlp.parser.nndep.Example>,edu.stanford.nlp.parser.nndep.Classifier.FeedforwardParams>) 	e9545:129;
+edu.stanford.nlp.parser.nndep.Classifier.CostFunction	public edu.stanford.nlp.parser.nndep.Classifier.Cost process(Pair<Collection<edu.stanford.nlp.parser.nndep.Example>,edu.stanford.nlp.parser.nndep.Classifier.FeedforwardParams>) 	e6542:994;
+edu.stanford.nlp.parser.nndep.Classifier.CostFunction	public edu.stanford.nlp.parser.nndep.Classifier.Cost process(Pair<Collection<edu.stanford.nlp.parser.nndep.Example>,edu.stanford.nlp.parser.nndep.Classifier.FeedforwardParams>) 	e6542:1204;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void <init>(double, double, double[][], double[], double[][], double[][]) 	e11816:75;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void <init>(double, double, double[][], double[], double[][], double[][]) 	e11788:77;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void <init>(double, double, double[][], double[], double[][], double[][]) 	e11743:94;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void <init>(double, double, double[][], double[], double[][], double[][]) 	e11719:90;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	public void merge(edu.stanford.nlp.parser.nndep.Classifier.Cost) 	e12232:176;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	public void merge(edu.stanford.nlp.parser.nndep.Classifier.Cost) 	e12173:178;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	public void merge(edu.stanford.nlp.parser.nndep.Classifier.Cost) 	e12112:180;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	public void merge(edu.stanford.nlp.parser.nndep.Classifier.Cost) 	e12072:153;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void backpropSaved(Set<java.lang.Integer>) 	e12979:283;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void backpropSaved(Set<java.lang.Integer>) 	e13080:172;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void backpropSaved(Set<java.lang.Integer>) 	e13035:217;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void backpropSaved(Set<java.lang.Integer>) 	e12911:351;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void addL2Regularization(double) 	e13860:464;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void addL2Regularization(double) 	e13696:395;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void addL2Regularization(double) 	e13457:395;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void addL2Regularization(double) 	e14099:225;
+edu.stanford.nlp.parser.nndep.Classifier.Cost	private void addL2Regularization(double) 	e13860:231;
+edu.stanford.nlp.parser.nndep.Classifier	private Set<java.lang.Integer> getToPreCompute(List<edu.stanford.nlp.parser.nndep.Example>) 	e14949:383;
+edu.stanford.nlp.parser.nndep.Classifier	private Set<java.lang.Integer> getToPreCompute(List<edu.stanford.nlp.parser.nndep.Example>) 	e15251:216;
+edu.stanford.nlp.parser.nndep.Classifier	private Set<java.lang.Integer> getToPreCompute(List<edu.stanford.nlp.parser.nndep.Example>) 	e14985:254;
+edu.stanford.nlp.parser.nndep.Classifier	private Set<java.lang.Integer> getToPreCompute(List<edu.stanford.nlp.parser.nndep.Example>) 	e14949:296;
+edu.stanford.nlp.parser.nndep.Classifier	private Set<java.lang.Integer> getToPreCompute(List<edu.stanford.nlp.parser.nndep.Example>) 	e14902:343;
+edu.stanford.nlp.parser.nndep.Classifier	public edu.stanford.nlp.parser.nndep.Classifier.Cost computeCostFunction(int, double, double) 	e16924:192;
+edu.stanford.nlp.parser.nndep.Classifier	public edu.stanford.nlp.parser.nndep.Classifier.Cost computeCostFunction(int, double, double) 	e16924:601;
+edu.stanford.nlp.parser.nndep.Classifier	public edu.stanford.nlp.parser.nndep.Classifier.Cost computeCostFunction(int, double, double) 	e16924:833;
+edu.stanford.nlp.parser.nndep.Classifier	public edu.stanford.nlp.parser.nndep.Classifier.Cost computeCostFunction(int, double, double) 	e16803:722;
+edu.stanford.nlp.parser.nndep.Classifier	public edu.stanford.nlp.parser.nndep.Classifier.Cost computeCostFunction(int, double, double) 	e16803:954;
+edu.stanford.nlp.parser.nndep.Classifier	public void takeAdaGradientStep(edu.stanford.nlp.parser.nndep.Classifier.Cost, double, double) 	e19003:283;
+edu.stanford.nlp.parser.nndep.Classifier	public void takeAdaGradientStep(edu.stanford.nlp.parser.nndep.Classifier.Cost, double, double) 	e18768:518;
+edu.stanford.nlp.parser.nndep.Classifier	public void takeAdaGradientStep(edu.stanford.nlp.parser.nndep.Classifier.Cost, double, double) 	e18232:765;
+edu.stanford.nlp.parser.nndep.Classifier	public void takeAdaGradientStep(edu.stanford.nlp.parser.nndep.Classifier.Cost, double, double) 	e18207:790;
+edu.stanford.nlp.parser.nndep.Classifier	public void takeAdaGradientStep(edu.stanford.nlp.parser.nndep.Classifier.Cost, double, double) 	e18610:676;
+edu.stanford.nlp.parser.nndep.Classifier	public void preCompute(Set<java.lang.Integer>) 	e20989:253;
+edu.stanford.nlp.parser.nndep.Classifier	public void preCompute(Set<java.lang.Integer>) 	e20957:285;
+edu.stanford.nlp.parser.nndep.Classifier	public void preCompute(Set<java.lang.Integer>) 	e21065:177;
+edu.stanford.nlp.parser.nndep.Classifier	public void preCompute(Set<java.lang.Integer>) 	e20922:326;
+edu.stanford.nlp.parser.nndep.Classifier	public void preCompute(Set<java.lang.Integer>) 	e21027:215;
+edu.stanford.nlp.parser.nndep.Classifier	private double[] computeScores(int[], Map<java.lang.Integer,java.lang.Integer>) 	e22346:368;
+edu.stanford.nlp.parser.nndep.Classifier	private double[] computeScores(int[], Map<java.lang.Integer,java.lang.Integer>) 	e22504:210;
+edu.stanford.nlp.parser.nndep.Classifier	private double[] computeScores(int[], Map<java.lang.Integer,java.lang.Integer>) 	e22346:349;
+edu.stanford.nlp.parser.nndep.Classifier	private double[] computeScores(int[], Map<java.lang.Integer,java.lang.Integer>) 	e21740:600;
+edu.stanford.nlp.parser.nndep.Classifier	private double[] computeScores(int[], Map<java.lang.Integer,java.lang.Integer>) 	e21687:653;

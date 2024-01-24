@@ -1,66 +1,45 @@
-java.lang.NullPointerException
-	at br.ufmg.dcc.labsoft.jextract.ranking.DependenciesAstVisitor.visit(DependenciesAstVisitor.java:50)
-	at org.eclipse.jdt.core.dom.MethodInvocation.accept0(MethodInvocation.java:220)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.PrefixExpression.accept0(PrefixExpression.java:253)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.InfixExpression.accept0(InfixExpression.java:357)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.ParenthesizedExpression.accept0(ParenthesizedExpression.java:131)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.VariableDeclarationFragment.accept0(VariableDeclarationFragment.java:238)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.VariableDeclarationStatement.accept0(VariableDeclarationStatement.java:254)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:677)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.fillEntitySets(EmrScoringFunction.java:125)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.computeScore(EmrScoringFunction.java:45)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.handleSlice(EmrGenerator.java:300)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.end(EmrGenerator.java:250)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:224)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:208)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.forEachSlice(EmrGenerator.java:136)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethod(EmrGenerator.java:188)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.access$1(EmrGenerator.java:179)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$2.visit(EmrGenerator.java:114)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:653)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:258)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethods(EmrGenerator.java:107)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$1.visit(EmrGenerator.java:84)
-	at org.eclipse.core.internal.resources.Resource.lambda$1(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.lambda$0(Resource.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.generateRecomendations(EmrGenerator.java:66)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractProjectMenuAction$1.doWorkIteration(AbstractProjectMenuAction.java:103)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractJob.run(AbstractJob.java:28)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+edu.stanford.nlp.util.ArgumentParser.LazyFileIterator	public void <init>(java.io.File, java.io.FilenameFilter) 	e4362:124;
+edu.stanford.nlp.util.ArgumentParser.LazyFileIterator	public void <init>(java.io.File, java.io.FilenameFilter) 	e4465:78;
+edu.stanford.nlp.util.ArgumentParser.LazyFileIterator	public void <init>(java.io.File, java.io.FilenameFilter) 	e4362:164;
+edu.stanford.nlp.util.ArgumentParser.LazyFileIterator	public void <init>(java.io.File, java.io.FilenameFilter) 	e4255:203;
+edu.stanford.nlp.util.ArgumentParser.LazyFileIterator	private void enqueue() 	e5086:100;
+edu.stanford.nlp.util.ArgumentParser.LazyFileIterator	private void enqueue() 	e5057:129;
+edu.stanford.nlp.util.ArgumentParser.LazyFileIterator	private void enqueue() 	e5057:105;
+edu.stanford.nlp.util.ArgumentParser.LazyFileIterator	private void enqueue() 	e4987:340;
+edu.stanford.nlp.util.ArgumentParser	private static void fillField(java.lang.Object, java.lang.reflect.Field, java.lang.String) 	e7200:242;
+edu.stanford.nlp.util.ArgumentParser	private static void fillField(java.lang.Object, java.lang.reflect.Field, java.lang.String) 	e7200:185;
+edu.stanford.nlp.util.ArgumentParser	private static void fillField(java.lang.Object, java.lang.reflect.Field, java.lang.String) 	e6616:92;
+edu.stanford.nlp.util.ArgumentParser	private static void fillField(java.lang.Object, java.lang.reflect.Field, java.lang.String) 	e6089:270;
+edu.stanford.nlp.util.ArgumentParser	private static void fillField(java.lang.Object, java.lang.reflect.Field, java.lang.String) 	e6068:360;
+edu.stanford.nlp.util.ArgumentParser	private static Class#RAW filePathToClass(java.lang.String, java.lang.String) 	e8902:323;
+edu.stanford.nlp.util.ArgumentParser	private static Class#RAW filePathToClass(java.lang.String, java.lang.String) 	e8832:393;
+edu.stanford.nlp.util.ArgumentParser	private static Class#RAW filePathToClass(java.lang.String, java.lang.String) 	e8783:442;
+edu.stanford.nlp.util.ArgumentParser	private static Class#RAW filePathToClass(java.lang.String, java.lang.String) 	e8628:269;
+edu.stanford.nlp.util.ArgumentParser	private static Class#RAW filePathToClass(java.lang.String, java.lang.String) 	e8628:199;
+edu.stanford.nlp.util.ArgumentParser	private static Class<?>[] getVisibleClasses() 	e9794:1860;
+edu.stanford.nlp.util.ArgumentParser	private static Class<?>[] getVisibleClasses() 	e9762:1957;
+edu.stanford.nlp.util.ArgumentParser	private static Class<?>[] getVisibleClasses() 	e9762:1898;
+edu.stanford.nlp.util.ArgumentParser	private static Class<?>[] getVisibleClasses() 	e10519:955;
+edu.stanford.nlp.util.ArgumentParser	private static Class<?>[] getVisibleClasses() 	e10503:1100;
+edu.stanford.nlp.util.ArgumentParser	private static java.lang.String threadRootClass() 	e12297:258;
+edu.stanford.nlp.util.ArgumentParser	private static java.lang.String threadRootClass() 	e12267:249;
+edu.stanford.nlp.util.ArgumentParser	private static Map<java.lang.String,java.lang.reflect.Field> fillOptionsImpl(java.lang.Object[], Class<?>[], java.util.Properties, boolean, boolean) 	e13762:463;
+edu.stanford.nlp.util.ArgumentParser	private static Map<java.lang.String,java.lang.reflect.Field> fillOptionsImpl(java.lang.Object[], Class<?>[], java.util.Properties, boolean, boolean) 	e13731:500;
+edu.stanford.nlp.util.ArgumentParser	private static Map<java.lang.String,java.lang.reflect.Field> fillOptionsImpl(java.lang.Object[], Class<?>[], java.util.Properties, boolean, boolean) 	e13676:555;
+edu.stanford.nlp.util.ArgumentParser	private static Map<java.lang.String,java.lang.reflect.Field> fillOptionsImpl(java.lang.Object[], Class<?>[], java.util.Properties, boolean, boolean) 	e13390:127;
+edu.stanford.nlp.util.ArgumentParser	private static Map<java.lang.String,java.lang.reflect.Field> fillOptionsImpl(java.lang.Object[], Class<?>[], java.util.Properties, boolean, boolean) 	e13341:176;
+edu.stanford.nlp.util.ArgumentParser	public static transient void fillOptions(java.util.Properties, java.lang.String[]) 	e24312:365;
+edu.stanford.nlp.util.ArgumentParser	public static transient void fillOptions(java.util.Properties, java.lang.String[]) 	e24118:171;
+edu.stanford.nlp.util.ArgumentParser	public static transient void fillOptions(java.util.Properties, java.lang.String[]) 	e24312:299;
+edu.stanford.nlp.util.ArgumentParser	public static transient void fillOptions(java.util.Properties, java.lang.String[]) 	e24312:229;
+edu.stanford.nlp.util.ArgumentParser	public static transient void fillOptions(java.util.Properties, java.lang.String[]) 	e24179:294;
+edu.stanford.nlp.util.ArgumentParser	public static void fillOptions(java.lang.Object[], java.lang.String[]) 	e25842:133;
+edu.stanford.nlp.util.ArgumentParser	public static void fillOptions(java.lang.Object[], java.lang.String[]) 	e25893:132;
+edu.stanford.nlp.util.ArgumentParser	public static void fillOptions(edu.stanford.nlp.pipeline.Annotator, java.lang.String, java.util.Properties) 	e27637:187;
+edu.stanford.nlp.util.ArgumentParser	public static void fillOptions(edu.stanford.nlp.pipeline.Annotator, java.lang.String, java.util.Properties) 	e27590:234;
+edu.stanford.nlp.util.ArgumentParser	public static void fillOptions(edu.stanford.nlp.pipeline.Annotator, java.lang.String, java.util.Properties) 	e27637:245;
+edu.stanford.nlp.util.ArgumentParser	public static java.lang.String usage(Class#RAW[]) 	e29083:1106;
+edu.stanford.nlp.util.ArgumentParser	public static java.lang.String usage(Class#RAW[]) 	e29211:978;
+edu.stanford.nlp.util.ArgumentParser	public static java.lang.String usage(Class#RAW[]) 	e28530:1685;
+edu.stanford.nlp.util.ArgumentParser	public static java.lang.String usage(Class#RAW[]) 	e29083:1132;
+edu.stanford.nlp.util.ArgumentParser	public static java.lang.String usage(Class#RAW[]) 	e28330:135;

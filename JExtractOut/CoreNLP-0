@@ -1,0 +1,5 @@
+edu.stanford.nlp.parser.lexparser.TreeCollinizer	private edu.stanford.nlp.trees.Tree transformTree(edu.stanford.nlp.trees.Tree, Iterator<edu.stanford.nlp.trees.Tree>) 	e2475:347;
+edu.stanford.nlp.parser.lexparser.TreeCollinizer	private edu.stanford.nlp.trees.Tree transformTree(edu.stanford.nlp.trees.Tree, Iterator<edu.stanford.nlp.trees.Tree>) 	e3720:256;
+edu.stanford.nlp.parser.lexparser.TreeCollinizer	private edu.stanford.nlp.trees.Tree transformTree(edu.stanford.nlp.trees.Tree, Iterator<edu.stanford.nlp.trees.Tree>) 	e3675:301;
+edu.stanford.nlp.parser.lexparser.TreeCollinizer	private edu.stanford.nlp.trees.Tree transformTree(edu.stanford.nlp.trees.Tree, Iterator<edu.stanford.nlp.trees.Tree>) 	e4037:92;
+edu.stanford.nlp.parser.lexparser.TreeCollinizer	private edu.stanford.nlp.trees.Tree transformTree(edu.stanford.nlp.trees.Tree, Iterator<edu.stanford.nlp.trees.Tree>) 	e3981:148;
