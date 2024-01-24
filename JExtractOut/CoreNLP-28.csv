@@ -1,0 +1,11 @@
+source_filename,function_name,loc_suggestion
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,runTest,"(32, 45)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,runTest,"(32, 43)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,runTest,"(32, 41)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,runTest,"(31, 43)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,runTest,"(31, 41)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,processFile,"(73, 79)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,processFile,"(74, 79)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,processFile,"(74, 79)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,processFile,"(73, 79)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/ie/crf/TrueCaseAnnotatorITest.java,processFile,"(79, 90)"

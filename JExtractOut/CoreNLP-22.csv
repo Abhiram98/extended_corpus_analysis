@@ -1,0 +1,11 @@
+source_filename,function_name,loc_suggestion
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,setUp,"(29, 34)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,setUp,"(28, 34)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,setUp,"(28, 33)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,setUp,"(25, 33)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,setUp,"(25, 30)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,readInExpectedNERLabels,"(42, 53)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,readInExpectedNERLabels,"(42, 53)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,readInExpectedNERLabels,"(42, 53)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,readInExpectedNERLabels,"(46, 52)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/pipeline/NERPipelineEndToEndSlowITest.java,readInExpectedNERLabels,"(49, 51)"

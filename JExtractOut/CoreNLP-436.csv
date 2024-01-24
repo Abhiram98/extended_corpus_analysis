@@ -1,0 +1,11 @@
+source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,entitySubclassify,"(65, 93)"
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,entitySubclassify,"(64, 93)"
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,entitySubclassify,"(93, 209)"
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,entitySubclassify,"(140, 202)"
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,entitySubclassify,"(110, 198)"
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,countEntityResults,"(262, 266)"
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,countEntityResults,"(262, 266)"
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,countEntityResults,"(262, 267)"
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,countEntityResults,"(286, 314)"
+projects/CoreNLP/src/edu/stanford/nlp/sequences/IOBUtils.java,countEntityResults,"(278, 326)"

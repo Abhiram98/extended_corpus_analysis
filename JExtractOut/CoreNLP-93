@@ -1,0 +1,15 @@
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	private static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1327:830;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	private static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1393:764;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	private static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1457:229;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	private static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1900:339;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	private static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1327:912;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e4151:1401;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e4092:1466;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e4814:738;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e4591:807;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e4591:656;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public void testDcoref() throws java.lang.Exception	e5890:1258;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public void testDcoref() throws java.lang.Exception	e6478:577;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public void testDcoref() throws java.lang.Exception	e6379:676;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public void testDcoref() throws java.lang.Exception	e6379:577;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public void testDcoref() throws java.lang.Exception	e6275:681;

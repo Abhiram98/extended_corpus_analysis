@@ -1,0 +1,10 @@
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printSemanticGraph(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.semgraph.SemanticGraph, boolean) 	e1475:479;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printSemanticGraph(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.semgraph.SemanticGraph, boolean) 	e1565:375;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printSemanticGraph(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.semgraph.SemanticGraph, boolean) 	e2041:3662;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printSemanticGraph(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.semgraph.SemanticGraph, boolean) 	e1475:648;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printSemanticGraph(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.semgraph.SemanticGraph, boolean) 	e2136:3567;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printPOSAnnotations(edu.stanford.nlp.util.CoreMap) 	e6169:623;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printPOSAnnotations(edu.stanford.nlp.util.CoreMap) 	e6258:534;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printPOSAnnotations(edu.stanford.nlp.util.CoreMap) 	e6344:448;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printPOSAnnotations(edu.stanford.nlp.util.CoreMap) 	e6435:357;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentWriter	public java.lang.String printPOSAnnotations(edu.stanford.nlp.util.CoreMap) 	e6079:721;

@@ -1,0 +1,11 @@
+source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,matchSentence,"(30, 41)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,matchSentence,"(29, 41)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,matchSentence,"(29, 35)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,matchSentence,"(30, 35)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,matchSentence,"(35, 41)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processRequest,"(48, 66)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processRequest,"(57, 66)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processRequest,"(62, 66)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processRequest,"(55, 66)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processRequest,"(51, 66)"

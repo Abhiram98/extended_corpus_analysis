@@ -1,0 +1,11 @@
+source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printSemanticGraph,"(48, 54)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printSemanticGraph,"(49, 53)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printSemanticGraph,"(57, 128)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printSemanticGraph,"(48, 57)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printSemanticGraph,"(58, 128)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printPOSAnnotations,"(148, 154)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printPOSAnnotations,"(149, 154)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printPOSAnnotations,"(150, 154)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printPOSAnnotations,"(151, 154)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentWriter.java,printPOSAnnotations,"(146, 155)"

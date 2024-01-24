@@ -1,0 +1,5 @@
+edu.stanford.nlp.semgraph.semgrex.ProcessSemgrexRequest	public static edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexResponse processRequest(edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexRequest) 	e1914:986;
+edu.stanford.nlp.semgraph.semgrex.ProcessSemgrexRequest	public static edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexResponse processRequest(edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexRequest) 	e1879:1031;
+edu.stanford.nlp.semgraph.semgrex.ProcessSemgrexRequest	public static edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexResponse processRequest(edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexRequest) 	e1914:922;
+edu.stanford.nlp.semgraph.semgrex.ProcessSemgrexRequest	public static edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexResponse processRequest(edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexRequest) 	e2033:803;
+edu.stanford.nlp.semgraph.semgrex.ProcessSemgrexRequest	public static edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexResponse processRequest(edu.stanford.nlp.pipeline.CoreNLPProtos.SemgrexRequest) 	e1681:1297;

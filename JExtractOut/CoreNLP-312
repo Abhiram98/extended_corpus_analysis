@@ -1,0 +1,4 @@
+edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void updatePatterns(Map<java.lang.String,Map<java.lang.Integer,Set<E>>>) 	e1242:93;
+edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void updatePatterns(Map<java.lang.String,Map<java.lang.Integer,Set<E>>>) 	e1173:162;
+edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void updatePatterns(Map<java.lang.String,Map<java.lang.Integer,Set<E>>>) 	e1173:111;
+edu.stanford.nlp.patterns.surface.PatternsForEachToken	public static PatternsForEachToken#RAW getPatternsInstance(java.util.Properties, edu.stanford.nlp.patterns.ConstantsAndVariables.PatternForEachTokenWay) 	e1720:824;

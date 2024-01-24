@@ -1,0 +1,5 @@
+edu.stanford.nlp.pipeline.SentenceAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e3903:139;
+edu.stanford.nlp.pipeline.SentenceAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2511:180;
+edu.stanford.nlp.pipeline.SentenceAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e3628:156;
+edu.stanford.nlp.pipeline.SentenceAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e1580:2204;
+edu.stanford.nlp.pipeline.SentenceAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e3808:244;

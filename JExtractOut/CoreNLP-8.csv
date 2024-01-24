@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/pipeline/TextOutputter.java,print,"(165, 170)"
+projects/CoreNLP/src/edu/stanford/nlp/pipeline/TextOutputter.java,print,"(180, 218)"
+projects/CoreNLP/src/edu/stanford/nlp/pipeline/TextOutputter.java,print,"(151, 218)"
+projects/CoreNLP/src/edu/stanford/nlp/pipeline/TextOutputter.java,print,"(158, 218)"
+projects/CoreNLP/src/edu/stanford/nlp/pipeline/TextOutputter.java,print,"(159, 218)"

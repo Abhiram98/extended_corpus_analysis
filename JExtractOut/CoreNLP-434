@@ -1,0 +1,10 @@
+edu.stanford.nlp.sequences.IOBUtils	public static void entitySubclassify(List<TOK>, Class<? extends Key<java.lang.String>>, java.lang.String, java.lang.String, boolean) 	e2915:641;
+edu.stanford.nlp.sequences.IOBUtils	public static void entitySubclassify(List<TOK>, Class<? extends Key<java.lang.String>>, java.lang.String, java.lang.String, boolean) 	e2902:654;
+edu.stanford.nlp.sequences.IOBUtils	public static void entitySubclassify(List<TOK>, Class<? extends Key<java.lang.String>>, java.lang.String, java.lang.String, boolean) 	e3561:3685;
+edu.stanford.nlp.sequences.IOBUtils	public static void entitySubclassify(List<TOK>, Class<? extends Key<java.lang.String>>, java.lang.String, java.lang.String, boolean) 	e5252:1848;
+edu.stanford.nlp.sequences.IOBUtils	public static void entitySubclassify(List<TOK>, Class<? extends Key<java.lang.String>>, java.lang.String, java.lang.String, boolean) 	e4099:2900;
+edu.stanford.nlp.sequences.IOBUtils	public static boolean countEntityResults(List<? extends edu.stanford.nlp.util.CoreMap>, Counter<java.lang.String>, Counter<java.lang.String>, Counter<java.lang.String>, java.lang.String) 	e9795:115;
+edu.stanford.nlp.sequences.IOBUtils	public static boolean countEntityResults(List<? extends edu.stanford.nlp.util.CoreMap>, Counter<java.lang.String>, Counter<java.lang.String>, Counter<java.lang.String>, java.lang.String) 	e9795:138;
+edu.stanford.nlp.sequences.IOBUtils	public static boolean countEntityResults(List<? extends edu.stanford.nlp.util.CoreMap>, Counter<java.lang.String>, Counter<java.lang.String>, Counter<java.lang.String>, java.lang.String) 	e9795:162;
+edu.stanford.nlp.sequences.IOBUtils	public static boolean countEntityResults(List<? extends edu.stanford.nlp.util.CoreMap>, Counter<java.lang.String>, Counter<java.lang.String>, Counter<java.lang.String>, java.lang.String) 	e11298:970;
+edu.stanford.nlp.sequences.IOBUtils	public static boolean countEntityResults(List<? extends edu.stanford.nlp.util.CoreMap>, Counter<java.lang.String>, Counter<java.lang.String>, Counter<java.lang.String>, java.lang.String) 	e10876:1719;

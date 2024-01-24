@@ -1,0 +1,13 @@
+source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,<init>,"(51, 54)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,<init>,"(50, 53)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,<init>,"(49, 52)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,<init>,"(49, 51)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,<init>,"(48, 50)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,setupFindIterator,"(134, 143)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,setupFindIterator,"(134, 143)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,setupFindIterator,"(145, 154)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,setupFindIterator,"(145, 154)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,setupFindIterator,"(138, 143)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,find,"(178, 195)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/SemgrexMatcher.java,find,"(173, 195)"

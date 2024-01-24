@@ -1,0 +1,5 @@
+source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/patterns/surface/PatternsForEachToken.java,updatePatterns,"(48, 52)"
+projects/CoreNLP/src/edu/stanford/nlp/patterns/surface/PatternsForEachToken.java,updatePatterns,"(46, 52)"
+projects/CoreNLP/src/edu/stanford/nlp/patterns/surface/PatternsForEachToken.java,updatePatterns,"(46, 50)"
+projects/CoreNLP/src/edu/stanford/nlp/patterns/surface/PatternsForEachToken.java,getPatternsInstance,"(60, 85)"
