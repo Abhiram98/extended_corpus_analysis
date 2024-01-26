@@ -1,0 +1,13 @@
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public sealed void setUp() 	e819:105;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public sealed void setUp() 	e757:167;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public sealed void setUp() 	e757:112;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public sealed void setUp() 	e688:236;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public sealed void setUp() 	e688:181;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public List<List<java.lang.String>> readInExpectedNERLabels(java.lang.String) 	e1176:465;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public List<List<java.lang.String>> readInExpectedNERLabels(java.lang.String) 	e1539:88;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public List<List<java.lang.String>> readInExpectedNERLabels(java.lang.String) 	e1227:444;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public List<List<java.lang.String>> readInExpectedNERLabels(java.lang.String) 	e1227:414;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public List<List<java.lang.String>> readInExpectedNERLabels(java.lang.String) 	e1277:358;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public void testEnglish3Class() 	e2041:223;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public void testEnglish3Class() 	e1964:300;
+edu.stanford.nlp.pipeline.NERPipelineEndToEndSlowITest	public void testEnglish3Class() 	e2098:160;

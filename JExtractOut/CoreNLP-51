@@ -1,4 +1,6 @@
 edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType	private static Map<java.lang.String,edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType> initializeNameMap() 	e2465:154;
+edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType	private static Map<java.lang.String,edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType> initializeNameMap() 	e2465:100;
+edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType	private static Map<java.lang.String,edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType> initializeClassMap() 	e2976:94;
 edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType	public static edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType getTokenizerType(java.util.Properties) 	e3668:658;
 edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType	public static edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType getTokenizerType(java.util.Properties) 	e4016:310;
 edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType	public static edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType getTokenizerType(java.util.Properties) 	e3759:241;
@@ -12,13 +14,15 @@ edu.stanford.nlp.pipeline.TokenizerAnnotator	private static java.lang.String com
 edu.stanford.nlp.pipeline.TokenizerAnnotator	public void <init>(boolean, java.util.Properties, java.lang.String) 	e6920:903;
 edu.stanford.nlp.pipeline.TokenizerAnnotator	public void <init>(boolean, java.util.Properties, java.lang.String) 	e6817:1006;
 edu.stanford.nlp.pipeline.TokenizerAnnotator	public void <init>(boolean, java.util.Properties, java.lang.String) 	e6920:978;
+edu.stanford.nlp.pipeline.TokenizerAnnotator	public void <init>(boolean, java.util.Properties, java.lang.String) 	e7903:108;
 edu.stanford.nlp.pipeline.TokenizerAnnotator	public void <init>(boolean, java.util.Properties, java.lang.String) 	e7828:183;
-edu.stanford.nlp.pipeline.TokenizerAnnotator	public void <init>(boolean, java.util.Properties, java.lang.String) 	e7095:648;
+edu.stanford.nlp.pipeline.TokenizerAnnotator	private static TokenizerFactory<edu.stanford.nlp.ling.CoreLabel> initFactory(edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType, java.util.Properties, java.lang.String) throws java.lang.IllegalArgumentException	e9710:218;
 edu.stanford.nlp.pipeline.TokenizerAnnotator	private static TokenizerFactory<edu.stanford.nlp.ling.CoreLabel> initFactory(edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType, java.util.Properties, java.lang.String) throws java.lang.IllegalArgumentException	e9710:335;
-edu.stanford.nlp.pipeline.TokenizerAnnotator	private static TokenizerFactory<edu.stanford.nlp.ling.CoreLabel> initFactory(edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType, java.util.Properties, java.lang.String) throws java.lang.IllegalArgumentException	e9107:1546;
-edu.stanford.nlp.pipeline.TokenizerAnnotator	private static TokenizerFactory<edu.stanford.nlp.ling.CoreLabel> initFactory(edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType, java.util.Properties, java.lang.String) throws java.lang.IllegalArgumentException	e9374:1299;
-edu.stanford.nlp.pipeline.TokenizerAnnotator	private static TokenizerFactory<edu.stanford.nlp.ling.CoreLabel> initFactory(edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType, java.util.Properties, java.lang.String) throws java.lang.IllegalArgumentException	e9374:1279;
-edu.stanford.nlp.pipeline.TokenizerAnnotator	private static TokenizerFactory<edu.stanford.nlp.ling.CoreLabel> initFactory(edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType, java.util.Properties, java.lang.String) throws java.lang.IllegalArgumentException	e8695:482;
+edu.stanford.nlp.pipeline.TokenizerAnnotator	private static TokenizerFactory<edu.stanford.nlp.ling.CoreLabel> initFactory(edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType, java.util.Properties, java.lang.String) throws java.lang.IllegalArgumentException	e10213:144;
+edu.stanford.nlp.pipeline.TokenizerAnnotator	private static TokenizerFactory<edu.stanford.nlp.ling.CoreLabel> initFactory(edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType, java.util.Properties, java.lang.String) throws java.lang.IllegalArgumentException	e9802:243;
+edu.stanford.nlp.pipeline.TokenizerAnnotator	private static TokenizerFactory<edu.stanford.nlp.ling.CoreLabel> initFactory(edu.stanford.nlp.pipeline.TokenizerAnnotator.TokenizerType, java.util.Properties, java.lang.String) throws java.lang.IllegalArgumentException	e8695:102;
+edu.stanford.nlp.pipeline.TokenizerAnnotator	public void setTokenBeginTokenEnd(List<edu.stanford.nlp.ling.CoreLabel>) 	e11063:139;
+edu.stanford.nlp.pipeline.TokenizerAnnotator	public void setTokenBeginTokenEnd(List<edu.stanford.nlp.ling.CoreLabel>) 	e11136:86;
 edu.stanford.nlp.pipeline.TokenizerAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e12422:314;
 edu.stanford.nlp.pipeline.TokenizerAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e11927:898;
 edu.stanford.nlp.pipeline.TokenizerAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e11927:809;

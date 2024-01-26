@@ -1,7 +1,14 @@
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void <init>(edu.stanford.nlp.ie.NERClassifierCombiner, boolean, int, long, int) 	e2168:73;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void <init>(edu.stanford.nlp.ie.NERClassifierCombiner, boolean, int, long, int) 	e2140:53;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void <init>(edu.stanford.nlp.ie.NERClassifierCombiner, boolean, int, long, int) 	e2120:43;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void <init>(edu.stanford.nlp.ie.NERClassifierCombiner, boolean, int, long, int) 	e2097:38;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2965:72;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e3043:55;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2997:101;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2876:116;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2876:83;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e4349:533;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e3683:1783;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e4449:425;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e4449:341;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e3704:240;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e5320:140;

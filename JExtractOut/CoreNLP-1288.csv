@@ -2,5 +2,5 @@ source_filename,function_name,loc_suggestion
 projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(50, 54)"
 projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(42, 54)"
 projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(47, 54)"
+projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(52, 53)"
 projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(56, 61)"
-projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(44, 54)"

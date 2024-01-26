@@ -1,9 +1,7 @@
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	private static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2689:1392;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	private static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2623:1435;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	private static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2689:1369;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	private static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2689:281;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	private static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2975:1106;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	private static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2689:181;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	private static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2975:173;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4311:136;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4311:183;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	public edu.stanford.nlp.util.CoreMap doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e5197:518;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	public edu.stanford.nlp.util.CoreMap doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e4893:1178;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	public edu.stanford.nlp.util.CoreMap doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e5293:416;

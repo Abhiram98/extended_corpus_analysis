@@ -1,10 +1,9 @@
 source_filename,function_name,loc_suggestion
 projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,makeDatumFromLine,"(215, 217)"
-projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,makeDatumFromLine,"(215, 217)"
-projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,makeDatumFromLine,"(215, 217)"
-projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,makeDatumFromLine,"(215, 217)"
 projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,finishRanking,"(437, 443)"
 projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,finishRanking,"(437, 440)"
 projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,finishRanking,"(436, 440)"
+projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,makeDatum,"(657, 659)"
+projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,makeNGramFeatures,"(863, 866)"
 projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,printFeatures,"(931, 933)"
 projects/CoreNLP/src/edu/stanford/nlp/classify/ColumnDataClassifier.java,makeClassifierAdaptL1,"(957, 964)"

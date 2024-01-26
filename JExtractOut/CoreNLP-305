@@ -1,1 +1,20 @@
-java.lang.NullPointerException
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public sealed void setUp() 	e665:88;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public sealed void setUp() 	e620:86;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public void testDoubleEnclosedInSingle() 	e3200:166;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public void testDoubleEnclosedInSingle() 	e3323:103;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public void testDoubleEnclosedInSingle() 	e3153:165;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public void testSingleEnclosedInDouble() 	e3592:122;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public void testSingleEnclosedInDouble() 	e3673:99;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public void testSingleEnclosedInDouble() 	e3545:123;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public void testEmbeddedQuotes() 	e4293:393;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public void testEmbeddedQuotes() 	e4200:88;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public void testEmbeddedQuotes() 	e4247:397;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public static List<edu.stanford.nlp.util.CoreMap> runQuotes(java.lang.String, int) 	e10340:177;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public static List<edu.stanford.nlp.util.CoreMap> runQuotes(java.lang.String, int) 	e10806:99;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public static List<edu.stanford.nlp.util.CoreMap> runQuotes(java.lang.String, int) 	e10806:80;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public static List<edu.stanford.nlp.util.CoreMap> runQuotes(java.lang.String, int) 	e10340:66;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public static List<edu.stanford.nlp.util.CoreMap> runQuotes(java.lang.String, int) 	e10383:134;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public static void assertEmbedded(java.lang.String, java.lang.String, List<edu.stanford.nlp.util.CoreMap>) 	e11079:344;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public static void assertEmbedded(java.lang.String, java.lang.String, List<edu.stanford.nlp.util.CoreMap>) 	e11185:230;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public static void assertEmbedded(java.lang.String, java.lang.String, List<edu.stanford.nlp.util.CoreMap>) 	e11264:151;
+edu.stanford.nlp.pipeline.QuotationAnnotatorTest	public static void assertEmbedded(java.lang.String, java.lang.String, List<edu.stanford.nlp.util.CoreMap>) 	e11299:106;

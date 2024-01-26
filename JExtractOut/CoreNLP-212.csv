@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/CoreNLP/itest/src/edu/stanford/nlp/international/spanish/SpanishTokenizerITest.java,testSpanishTokenizerWord,"(68, 70)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/international/spanish/SpanishTokenizerITest.java,testSpanishTokenizerWord,"(68, 69)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/international/spanish/SpanishTokenizerITest.java,testSpanishTokenizerWord,"(74, 84)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/international/spanish/SpanishTokenizerITest.java,testSpanishTokenizerWord,"(75, 84)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/international/spanish/SpanishTokenizerITest.java,testSpanishTokenizerWord,"(72, 85)"

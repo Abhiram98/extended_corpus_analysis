@@ -1,10 +1,2 @@
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2975:1395;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2909:1436;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2975:1370;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e2975:281;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	static final edu.stanford.nlp.ie.NERClassifierCombiner createNERClassifierCombiner(java.lang.String, java.util.Properties) 	e3261:1109;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e5576:518;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e5272:1178;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e5672:416;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e5672:334;
-edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e5293:271;

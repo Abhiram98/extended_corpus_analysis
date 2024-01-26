@@ -3,6 +3,8 @@ edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void <init>(java.lang
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void <init>(java.lang.String, java.util.Properties) 	e2898:390;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void <init>(java.lang.String, java.util.Properties) 	e3044:230;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void <init>(java.lang.String, java.util.Properties) 	e2953:329;
+edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4239:75;
+edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4439:77;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4408:160;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4239:164;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void splitCharacters(edu.stanford.nlp.util.CoreMap) 	e5787:3107;

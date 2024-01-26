@@ -3,13 +3,14 @@ edu.stanford.nlp.ie.util.RelationTriple	public List<edu.stanford.nlp.ling.CoreLa
 edu.stanford.nlp.ie.util.RelationTriple	public List<edu.stanford.nlp.ling.CoreLabel> asSentence() 	e2703:161;
 edu.stanford.nlp.ie.util.RelationTriple	public List<edu.stanford.nlp.ling.CoreLabel> asSentence() 	e2535:372;
 edu.stanford.nlp.ie.util.RelationTriple	public List<edu.stanford.nlp.ling.CoreLabel> asSentence() 	e2535:329;
+edu.stanford.nlp.ie.util.RelationTriple	public sealed boolean equals(java.lang.Object) 	e3075:146;
 edu.stanford.nlp.ie.util.RelationTriple	private static Optional<List<edu.stanford.nlp.ling.CoreLabel>> getValidChunk(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.ling.IndexedWord, Set<java.lang.String>) 	e6632:223;
 edu.stanford.nlp.ie.util.RelationTriple	private static Optional<List<edu.stanford.nlp.ling.CoreLabel>> getValidChunk(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.ling.IndexedWord, Set<java.lang.String>) 	e6632:191;
 edu.stanford.nlp.ie.util.RelationTriple	private static Optional<List<edu.stanford.nlp.ling.CoreLabel>> getValidChunk(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.ling.IndexedWord, Set<java.lang.String>) 	e6632:160;
 edu.stanford.nlp.ie.util.RelationTriple	private static Optional<List<edu.stanford.nlp.ling.CoreLabel>> getValidChunk(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.ling.IndexedWord, Set<java.lang.String>) 	e6581:274;
 edu.stanford.nlp.ie.util.RelationTriple	private static Optional<List<edu.stanford.nlp.ling.CoreLabel>> getValidChunk(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.ling.IndexedWord, Set<java.lang.String>) 	e6581:242;
+edu.stanford.nlp.ie.util.RelationTriple	public static Optional<edu.stanford.nlp.ie.util.RelationTriple> segment(edu.stanford.nlp.semgraph.SemanticGraph) 	e10427:106;
+edu.stanford.nlp.ie.util.RelationTriple	public static Optional<edu.stanford.nlp.ie.util.RelationTriple> segment(edu.stanford.nlp.semgraph.SemanticGraph) 	e9489:167;
 edu.stanford.nlp.ie.util.RelationTriple	public static Optional<edu.stanford.nlp.ie.util.RelationTriple> segment(edu.stanford.nlp.semgraph.SemanticGraph) 	e9413:253;
 edu.stanford.nlp.ie.util.RelationTriple	public static Optional<edu.stanford.nlp.ie.util.RelationTriple> segment(edu.stanford.nlp.semgraph.SemanticGraph) 	e9347:319;
-edu.stanford.nlp.ie.util.RelationTriple	public static Optional<edu.stanford.nlp.ie.util.RelationTriple> segment(edu.stanford.nlp.semgraph.SemanticGraph) 	e10907:350;
-edu.stanford.nlp.ie.util.RelationTriple	public static Optional<edu.stanford.nlp.ie.util.RelationTriple> segment(edu.stanford.nlp.semgraph.SemanticGraph) 	e10907:303;
-edu.stanford.nlp.ie.util.RelationTriple	public static Optional<edu.stanford.nlp.ie.util.RelationTriple> segment(edu.stanford.nlp.semgraph.SemanticGraph) 	e10907:270;
+edu.stanford.nlp.ie.util.RelationTriple	public static Optional<edu.stanford.nlp.ie.util.RelationTriple> segment(edu.stanford.nlp.semgraph.SemanticGraph) 	e10696:124;

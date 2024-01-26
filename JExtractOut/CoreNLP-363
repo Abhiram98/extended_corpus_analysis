@@ -1,9 +1,8 @@
 edu.stanford.nlp.classify.ColumnDataClassifier	public Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String, int) 	e26795:452;
-edu.stanford.nlp.classify.ColumnDataClassifier	public Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String, int) 	e26859:388;
-edu.stanford.nlp.classify.ColumnDataClassifier	public Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String, int) 	e26754:493;
-edu.stanford.nlp.classify.ColumnDataClassifier	public Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String, int) 	e26859:293;
 edu.stanford.nlp.classify.ColumnDataClassifier	private void finishRanking(Counter<java.lang.String>, double) 	e39275:235;
 edu.stanford.nlp.classify.ColumnDataClassifier	private void finishRanking(Counter<java.lang.String>, double) 	e39275:139;
 edu.stanford.nlp.classify.ColumnDataClassifier	private void finishRanking(Counter<java.lang.String>, double) 	e39215:199;
+edu.stanford.nlp.classify.ColumnDataClassifier	private void makeDatum(java.lang.String, edu.stanford.nlp.classify.ColumnDataClassifier.Flags, java.lang.Object, java.lang.String) 	e48854:60;
+edu.stanford.nlp.classify.ColumnDataClassifier	private Collection<java.lang.String> makeNGramFeatures(java.lang.String, edu.stanford.nlp.classify.ColumnDataClassifier.Flags, boolean, java.lang.String) 	e56961:99;
 edu.stanford.nlp.classify.ColumnDataClassifier	private static void printFeatures(java.lang.String[], ClassicCounter<java.lang.String>) 	e59500:93;
 edu.stanford.nlp.classify.ColumnDataClassifier	private Classifier<java.lang.String,java.lang.String> makeClassifierAdaptL1(GeneralDataset<java.lang.String,java.lang.String>) 	e60542:188;

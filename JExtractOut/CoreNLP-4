@@ -1,8 +1,12 @@
 edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.TregexPattern Root() throws edu.stanford.nlp.trees.tregex.ParseException	e2089:219;
 edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.TregexPattern Root() throws edu.stanford.nlp.trees.tregex.ParseException	e1714:374;
 edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.TregexPattern Root() throws edu.stanford.nlp.trees.tregex.ParseException	e1816:272;
+edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.TregexPattern Root() throws edu.stanford.nlp.trees.tregex.ParseException	e1714:74;
 edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.TregexPattern Root() throws edu.stanford.nlp.trees.tregex.ParseException	e2067:241;
-edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.TregexPattern Root() throws edu.stanford.nlp.trees.tregex.ParseException	e1714:348;
+edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.DescriptionPattern Node(edu.stanford.nlp.trees.tregex.Relation) throws edu.stanford.nlp.trees.tregex.ParseException	e2651:46;
 edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.DescriptionPattern Node(edu.stanford.nlp.trees.tregex.Relation) throws edu.stanford.nlp.trees.tregex.ParseException	e2623:74;
+edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.DescriptionPattern Node(edu.stanford.nlp.trees.tregex.Relation) throws edu.stanford.nlp.trees.tregex.ParseException	e2623:46;
 edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.DescriptionPattern ModDescription(edu.stanford.nlp.trees.tregex.Relation) throws edu.stanford.nlp.trees.tregex.ParseException	e4841:381;
+edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.TregexPattern Relation() throws edu.stanford.nlp.trees.tregex.ParseException	e16378:59;
 edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.TregexPattern Relation() throws edu.stanford.nlp.trees.tregex.ParseException	e16347:90;
+edu.stanford.nlp.trees.tregex.TregexParser	public final edu.stanford.nlp.trees.tregex.TregexPattern Relation() throws edu.stanford.nlp.trees.tregex.ParseException	e16347:52;

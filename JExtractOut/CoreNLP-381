@@ -1,1 +1,20 @@
-java.lang.NullPointerException
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	private static void runIOB2ResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e1419:246;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	private static void runIOB2ResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e1505:128;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	private static void runIOB2ResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e1505:154;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	private static void runIOB2ResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e1267:398;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	private static void runIOB2ResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e1670:430;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOB2Results() 	e5111:121;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOB2Results() 	e5048:184;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOB2Results() 	e5048:121;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOB2Results() 	e4985:247;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOB2Results() 	e4985:184;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public static void runIOBResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e5891:246;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public static void runIOBResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e5977:128;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public static void runIOBResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e5977:154;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public static void runIOBResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e5739:398;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public static void runIOBResultsTest(java.lang.String[], java.lang.String[], double, double, double) 	e6142:429;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOBResults() 	e7337:115;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOBResults() 	e7277:175;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOBResults() 	e7277:115;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOBResults() 	e7217:235;
+edu.stanford.nlp.ie.AbstractSequenceClassifierTest	public void testIOBResults() 	e7217:175;

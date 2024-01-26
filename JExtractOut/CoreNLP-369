@@ -1,5 +1,15 @@
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void init() throws javax.servlet.ServletException	e820:202;
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void init() throws javax.servlet.ServletException	e1062:1077;
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void init() throws javax.servlet.ServletException	e2018:110;
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void init() throws javax.servlet.ServletException	e1963:165;
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void init() throws javax.servlet.ServletException	e1963:112;
+edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e3429:95;
+edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2837:40;
+edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2967:70;
 edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e3402:179;
 edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2777:812;
-edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2749:840;
-edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2712:929;
-edu.stanford.nlp.naturalli.OpenIEServlet	public static java.lang.String quote(java.lang.String) 	e2712:903;
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void doGet(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException, java.io.IOException	e4142:1222;
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void doGet(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException, java.io.IOException	e4015:1373;
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void doGet(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException, java.io.IOException	e4015:1355;
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void doGet(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException, java.io.IOException	e4186:1178;
+edu.stanford.nlp.naturalli.OpenIEServlet	public sealed void doGet(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException, java.io.IOException	e4383:566;

@@ -1,6 +1,17 @@
 edu.stanford.nlp.objectbank.ObjectBank	public Iterator<E> iterator() 	e9936:116;
 edu.stanford.nlp.objectbank.ObjectBank	public Iterator<E> iterator() 	e9898:154;
 edu.stanford.nlp.objectbank.ObjectBank	public Iterator<E> iterator() 	e9866:194;
+edu.stanford.nlp.objectbank.ObjectBank	public Iterator<E> iterator() 	e9981:71;
+edu.stanford.nlp.objectbank.ObjectBank	public Iterator<E> iterator() 	e9898:74;
+edu.stanford.nlp.objectbank.ObjectBank	public int size() 	e11547:26;
 edu.stanford.nlp.objectbank.ObjectBank	public int size() 	e11516:63;
+edu.stanford.nlp.objectbank.ObjectBank	public java.lang.Object[] toArray() 	e11809:57;
+edu.stanford.nlp.objectbank.ObjectBank	public T[] toArray(T[]) 	e12124:57;
 edu.stanford.nlp.objectbank.ObjectBank.OBIterator	private void setNextObject() 	e13907:170;
-edu.stanford.nlp.objectbank.ObjectBank.OBIterator	private void setNextObject() 	e13884:501;
+edu.stanford.nlp.objectbank.ObjectBank.OBIterator	private void setNextObject() 	e14129:81;
+edu.stanford.nlp.objectbank.ObjectBank.OBIterator	private void setNextObject() 	e13923:69;
+edu.stanford.nlp.objectbank.ObjectBank.OBIterator	private void setNextObject() 	e13828:40;
+edu.stanford.nlp.objectbank.ObjectBank.OBIterator	private void setNextObject() 	e14238:36;
+edu.stanford.nlp.objectbank.ObjectBank.OBIterator	public sealed E next() 	e14630:34;
+edu.stanford.nlp.objectbank.ObjectBank.OBIterator	public sealed E next() 	e14604:42;
+edu.stanford.nlp.objectbank.ObjectBank.OBIterator	public sealed E next() 	e14520:77;

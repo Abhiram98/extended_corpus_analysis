@@ -1,1 +1,4 @@
 source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/neural/rnn/RNNCoreAnnotations.java,getPredictionsAsStringList,"(68, 70)"
+projects/CoreNLP/src/edu/stanford/nlp/neural/rnn/RNNCoreAnnotations.java,getPredictedClass,"(98, 99)"
+projects/CoreNLP/src/edu/stanford/nlp/neural/rnn/RNNCoreAnnotations.java,getPredictedClass,"(95, 97)"

@@ -1,11 +1,3 @@
 source_filename,function_name,loc_suggestion
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,createNERClassifierCombiner,"(93, 136)"
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,createNERClassifierCombiner,"(90, 136)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,createNERClassifierCombiner,"(93, 136)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,createNERClassifierCombiner,"(93, 103)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,createNERClassifierCombiner,"(103, 136)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,doOneSentence,"(168, 185)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,doOneSentence,"(156, 192)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,doOneSentence,"(169, 184)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,doOneSentence,"(169, 181)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/NERCombinerAnnotator.java,doOneSentence,"(157, 168)"

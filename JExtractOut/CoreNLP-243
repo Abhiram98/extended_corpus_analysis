@@ -1,8 +1,8 @@
 edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3588:113;
+edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3588:82;
+edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3287:70;
 edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3257:100;
-edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3468:100;
-edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3221:136;
-edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3369:338;
+edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3498:70;
 edu.stanford.nlp.ling.CoreLabel	private void initFromStrings(java.lang.String[], java.lang.String[]) 	e5272:2371;
 edu.stanford.nlp.ling.CoreLabel	private void initFromStrings(java.lang.String[], java.lang.String[]) 	e5304:2339;
 edu.stanford.nlp.ling.CoreLabel	private void initFromStrings(java.lang.String[], java.lang.String[]) 	e6776:537;
@@ -15,6 +15,6 @@ edu.stanford.nlp.ling.CoreLabel.CoreLabelFactory	public edu.stanford.nlp.ling.La
 edu.stanford.nlp.ling.CoreLabel.CoreLabelFactory	public edu.stanford.nlp.ling.Label newLabel(edu.stanford.nlp.ling.Label) 	e8363:376;
 edu.stanford.nlp.ling.CoreLabel	public java.lang.String toString(edu.stanford.nlp.ling.CoreLabel.OutputFormat) 	e17949:101;
 edu.stanford.nlp.ling.CoreLabel	public java.lang.String toString(edu.stanford.nlp.ling.CoreLabel.OutputFormat) 	e17853:197;
+edu.stanford.nlp.ling.CoreLabel	public java.lang.String toString(edu.stanford.nlp.ling.CoreLabel.OutputFormat) 	e16709:75;
 edu.stanford.nlp.ling.CoreLabel	public java.lang.String toString(edu.stanford.nlp.ling.CoreLabel.OutputFormat) 	e17763:472;
 edu.stanford.nlp.ling.CoreLabel	public java.lang.String toString(edu.stanford.nlp.ling.CoreLabel.OutputFormat) 	e16629:131;
-edu.stanford.nlp.ling.CoreLabel	public java.lang.String toString(edu.stanford.nlp.ling.CoreLabel.OutputFormat) 	e17812:360;

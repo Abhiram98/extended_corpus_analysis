@@ -9,11 +9,15 @@ edu.stanford.nlp.tagger.maxent.Dictionary	private void readTags(java.io.DataInpu
 edu.stanford.nlp.tagger.maxent.Dictionary	private void readTags(java.io.DataInputStream, java.lang.String) throws java.io.IOException	e5483:277;
 edu.stanford.nlp.tagger.maxent.Dictionary	private void readTags(java.io.DataInputStream, java.lang.String) throws java.io.IOException	e5642:118;
 edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.lang.String) 	e5953:308;
+edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.lang.String) 	e6152:58;
 edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.lang.String) 	e6018:261;
 edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.lang.String) 	e6018:243;
 edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.lang.String) 	e6152:101;
-edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.lang.String) 	e6049:230;
+edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.io.DataInputStream) 	e6546:60;
 edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.io.DataInputStream) 	e6439:218;
 edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.io.DataInputStream) 	e6546:103;
 edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.io.DataInputStream) 	e6513:136;
 edu.stanford.nlp.tagger.maxent.Dictionary	protected void read(java.io.DataInputStream) 	e6472:185;
+edu.stanford.nlp.tagger.maxent.Dictionary	protected void setAmbClasses(edu.stanford.nlp.tagger.maxent.AmbiguityClasses, int, edu.stanford.nlp.tagger.maxent.TTags) 	e8155:114;
+edu.stanford.nlp.tagger.maxent.Dictionary	public static void main(java.lang.String[]) 	e8605:81;
+edu.stanford.nlp.tagger.maxent.Dictionary	public static void main(java.lang.String[]) 	e8567:77;

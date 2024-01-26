@@ -1,1 +1,11 @@
 source_filename,function_name,loc_suggestion
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,runCorefTest,"(56, 57)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,runCorefTest,"(53, 57)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,runCorefTest,"(37, 53)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,runCorefTest,"(40, 43)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,runCorefTest,"(42, 43)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,testChineseDcoref,"(170, 172)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,testChineseDcoref,"(170, 179)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,testChineseDcoref,"(173, 179)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,testChineseDcoref,"(165, 180)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/hcoref/DcorefChineseBenchmarkSlowITest.java,testChineseDcoref,"(166, 179)"

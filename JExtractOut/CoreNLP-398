@@ -1,0 +1,10 @@
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2577:72;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2655:55;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2609:101;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2488:116;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e2488:83;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e3599:518;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e3295:1178;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e3695:416;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e3695:334;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e2803:106;

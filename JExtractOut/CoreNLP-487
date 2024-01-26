@@ -10,7 +10,8 @@ edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	private java.la
 edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	private java.lang.String correctLine(java.lang.String, java.lang.String) 	e2053:416;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	private java.lang.String correctDepRel(java.lang.String, java.lang.String[]) 	e3077:157;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	private java.lang.String correctDepRel(java.lang.String, java.lang.String[]) 	e3043:217;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	public static void main(java.lang.String[]) 	e3905:61;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	public static void main(java.lang.String[]) 	e3721:48;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	public static void main(java.lang.String[]) 	e3781:118;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	public static void main(java.lang.String[]) 	e3854:112;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	public static void main(java.lang.String[]) 	e3781:185;
-edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	public static void main(java.lang.String[]) 	e3692:83;
-edu.stanford.nlp.international.spanish.pipeline.HamleDTCorrector	public static void main(java.lang.String[]) 	e3692:157;

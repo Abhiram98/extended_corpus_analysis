@@ -1,0 +1,10 @@
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e2035:80;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1996:119;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1212:816;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1342:229;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1455:116;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e7533:258;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e7533:677;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e7798:412;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e7300:916;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e7344:866;

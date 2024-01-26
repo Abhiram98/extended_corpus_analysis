@@ -1,56 +1,69 @@
-java.lang.NullPointerException
-	at br.ufmg.dcc.labsoft.jextract.ranking.DependenciesAstVisitor.visit(DependenciesAstVisitor.java:50)
-	at org.eclipse.jdt.core.dom.MethodInvocation.accept0(MethodInvocation.java:220)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.ExpressionStatement.accept0(ExpressionStatement.java:136)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:677)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.fillEntitySets(EmrScoringFunction.java:125)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.computeScore(EmrScoringFunction.java:45)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.handleSlice(EmrGenerator.java:300)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.end(EmrGenerator.java:250)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:224)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:208)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.forEachSlice(EmrGenerator.java:136)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethod(EmrGenerator.java:188)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.access$1(EmrGenerator.java:179)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$2.visit(EmrGenerator.java:114)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:653)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:258)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethods(EmrGenerator.java:107)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$1.visit(EmrGenerator.java:84)
-	at org.eclipse.core.internal.resources.Resource.lambda$1(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.lambda$0(Resource.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.generateRecomendations(EmrGenerator.java:66)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractProjectMenuAction$1.doWorkIteration(AbstractProjectMenuAction.java:124)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractJob.run(AbstractJob.java:28)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected Optional<edu.stanford.nlp.ie.util.RelationTriple> mkExtraction(java.lang.String, int, boolean) 	e2614:455;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected Optional<edu.stanford.nlp.ie.util.RelationTriple> mkExtraction(java.lang.String, int, boolean) 	e1338:1250;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected Optional<edu.stanford.nlp.ie.util.RelationTriple> mkExtraction(java.lang.String, int, boolean) 	e2065:523;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected Optional<edu.stanford.nlp.ie.util.RelationTriple> mkExtraction(java.lang.String, int, boolean) 	e2080:508;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected Optional<edu.stanford.nlp.ie.util.RelationTriple> mkExtraction(java.lang.String, int, boolean) 	e1384:1204;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarnNoIndices() 	e3390:148;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarnNoIndices() 	e3340:198;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarnNoIndices() 	e3290:248;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarnNoIndices() 	e3140:195;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarnNoIndices() 	e3140:145;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarn() 	e3846:147;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarn() 	e3797:196;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarn() 	e3748:245;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarn() 	e3600:192;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple blueCatsPlayWithYarn() 	e3600:143;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple yarnBlueCatsPlayWith() 	e4301:147;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple yarnBlueCatsPlayWith() 	e4252:196;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple yarnBlueCatsPlayWith() 	e4203:245;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple yarnBlueCatsPlayWith() 	e4055:192;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	protected edu.stanford.nlp.ie.util.RelationTriple yarnBlueCatsPlayWith() 	e4055:143;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceNoIndices() 	e4679:79;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceNoIndices() 	e4636:122;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceNoIndices() 	e4636:79;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceNoIndices() 	e4593:122;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceNoIndices() 	e4593:79;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceInOrder() 	e5037:77;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceInOrder() 	e4995:119;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceInOrder() 	e4995:77;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceInOrder() 	e4953:119;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceInOrder() 	e4953:77;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceOutOfOrder() 	e5387:77;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceOutOfOrder() 	e5345:119;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceOutOfOrder() 	e5345:77;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceOutOfOrder() 	e5303:119;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testToSentenceOutOfOrder() 	e5303:77;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPassiveNSubj() 	e10884:143;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPassiveNSubj() 	e10745:282;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPassiveNSubj() 	e10745:205;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPassiveNSubj() 	e10663:287;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPassiveNSubj() 	e10663:216;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testObjInRelation() 	e14931:443;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testObjInRelation() 	e14837:537;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testObjInRelation() 	e14837:400;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testObjInRelation() 	e14766:608;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testObjInRelation() 	e14766:471;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testDogsInheaven() 	e16919:152;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testDogsInheaven() 	e16843:187;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testDogsInheaven() 	e16772:141;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testDogsInheaven() 	e16631:207;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAmericanActorChrisPratt() 	e22358:150;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAmericanActorChrisPratt() 	e22317:191;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAmericanActorChrisPratt() 	e22317:113;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAmericanActorChrisPratt() 	e22236:272;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAmericanActorChrisPratt() 	e22236:194;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPPExtraction() 	e24455:151;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPPExtraction() 	e24230:376;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPPExtraction() 	e24230:291;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPPExtraction() 	e24153:368;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testPPExtraction() 	e24153:297;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testCompoundPossessive() 	e26055:145;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testCompoundPossessive() 	e26014:186;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testCompoundPossessive() 	e26014:107;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testCompoundPossessive() 	e25942:258;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testCompoundPossessive() 	e25942:179;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAllNominals() 	e26764:149;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAllNominals() 	e26693:220;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAllNominals() 	e26693:142;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAllNominals() 	e26646:267;
+edu.stanford.nlp.naturalli.RelationTripleSegmenterTest	public void testAllNominals() 	e26646:189;

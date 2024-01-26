@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(41, 54)"
+projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(56, 58)"
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(41, 44)"
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(45, 54)"
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(45, 51)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(45, 50)"

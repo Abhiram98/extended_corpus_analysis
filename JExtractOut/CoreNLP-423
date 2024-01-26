@@ -1,1 +1,2 @@
 edu.stanford.nlp.classify.ColumnDataClassifier	private void makeDatum(java.lang.String, edu.stanford.nlp.classify.ColumnDataClassifier.Flags, java.lang.Object, java.lang.String) 	e50340:203;
+edu.stanford.nlp.classify.ColumnDataClassifier	private edu.stanford.nlp.classify.ColumnDataClassifier.Flags[] setProperties(java.util.Properties) 	e70717:102;

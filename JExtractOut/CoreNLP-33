@@ -1,0 +1,3 @@
+edu.stanford.nlp.neural.rnn.RNNCoreAnnotations	public static List<java.lang.Double> getPredictionsAsStringList(edu.stanford.nlp.trees.Tree) 	e2154:106;
+edu.stanford.nlp.neural.rnn.RNNCoreAnnotations	public static int getPredictedClass(edu.stanford.nlp.trees.Tree) 	e3183:94;
+edu.stanford.nlp.neural.rnn.RNNCoreAnnotations	public static int getPredictedClass(edu.stanford.nlp.trees.Tree) 	e3035:143;

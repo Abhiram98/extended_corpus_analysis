@@ -4,6 +4,8 @@ projects/CoreNLP/src/edu/stanford/nlp/pipeline/ChineseSegmenterAnnotator.java,<i
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/ChineseSegmenterAnnotator.java,<init>,"(75, 85)"
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/ChineseSegmenterAnnotator.java,<init>,"(78, 83)"
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/ChineseSegmenterAnnotator.java,<init>,"(76, 84)"
+projects/CoreNLP/src/edu/stanford/nlp/pipeline/ChineseSegmenterAnnotator.java,annotate,"(109, 111)"
+projects/CoreNLP/src/edu/stanford/nlp/pipeline/ChineseSegmenterAnnotator.java,annotate,"(114, 116)"
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/ChineseSegmenterAnnotator.java,annotate,"(113, 119)"
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/ChineseSegmenterAnnotator.java,annotate,"(109, 112)"
 projects/CoreNLP/src/edu/stanford/nlp/pipeline/ChineseSegmenterAnnotator.java,splitCharacters,"(143, 214)"

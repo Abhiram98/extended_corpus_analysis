@@ -19,6 +19,7 @@ def main():
     all_shas = []
     all_filenames = []
     data = []
+    ef_locs = []
     for obj in all_objs:
         url = obj['host_function_before_ef']['url']
         # proj = "/".join(url.split('https://github.com/')[1].split('/')[:2])
@@ -36,11 +37,14 @@ def main():
         all_proj.append(project_name)
 
         all_shas.append(obj['sha_before_ef'])
+        ef_locs.append(obj['oracle']['line_end']-obj['oracle']['line_start']+1)
 
     print(Counter(all_proj))
     sha_counter = Counter(all_shas).values()
     print(len(sha_counter))
     print(np.mean(list(sha_counter)))
+    print(f"{min(ef_locs)=}")
+    print(f"{max(ef_locs)=}")
 
     for pname in project_data.keys():
         with open(f"{pname}-data.json", 'w') as f:
@@ -140,8 +144,8 @@ def analyse():
         json.dump(hits_and_misses, f, indent=1)
 
 
-def update_completed():
-    with open("CoreNLP-data.json") as f:
+def update_completed(project_name):
+    with open(f"{project_name}-data.json") as f:
         data = json.load(f)
 
     completed = []
@@ -149,8 +153,11 @@ def update_completed():
     for i, ref in enumerate(data):
         # if i > LIMIT:
         #     break
-        with open(f"JExtractOut/CoreNLP-{i}") as f:
-            first_line = f.read().split("\n")[0]
+        try:
+            with open(f"JExtractOut/{project_name}-{i}") as f:
+                first_line = f.read().split("\n")[0]
+        except FileNotFoundError:
+            continue
         try:
             dotfile, func_signature, em_suggestion = first_line.split("	")
             completed.append(i)
@@ -160,9 +167,22 @@ def update_completed():
 
 
     print("completed.", len(completed))
-    with open("CoreNLP-completed.json", 'w') as f:
+    with open(f"{project_name}-completed.json", 'w') as f:
         json.dump(completed, f, indent=1)
+
+
+def analyse_intellij():
+    with open("intellij-community-data.json") as f:
+        data = json.load(f)
+    pass
+
+
+
 if __name__ == '__main__':
     # main()
-    analyse()
-    # update_completed()
+    # analyse()
+    # update_completed("intellij-community")
+    update_completed("CoreNLP")
+    # analyse_intellij()
+
+# platform/analysis-api/src/com/intellij/codeInsight/intention/preview/IntentionPreviewInfo.java

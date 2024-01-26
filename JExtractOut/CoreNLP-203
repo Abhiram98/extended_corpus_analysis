@@ -1,0 +1,15 @@
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e2063:80;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e2024:119;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1240:816;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1370:229;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1483:116;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e6279:412;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e6014:677;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e6014:258;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e5781:916;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	public void testChineseDcoref() throws java.lang.Exception	e6121:570;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	private static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e6994:1401;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	private static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e6935:1466;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	private static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e7657:738;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	private static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e7434:807;
+edu.stanford.nlp.hcoref.DcorefChineseBenchmarkSlowITest	private static Counter<java.lang.String> getCorefResults(java.lang.String) throws java.io.IOException	e7434:656;

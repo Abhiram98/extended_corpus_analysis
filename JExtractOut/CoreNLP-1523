@@ -1,61 +1,35 @@
-java.lang.NullPointerException
-	at br.ufmg.dcc.labsoft.jextract.ranking.DependenciesAstVisitor.visit(DependenciesAstVisitor.java:50)
-	at org.eclipse.jdt.core.dom.MethodInvocation.accept0(MethodInvocation.java:220)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.VariableDeclarationFragment.accept0(VariableDeclarationFragment.java:238)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.VariableDeclarationStatement.accept0(VariableDeclarationStatement.java:254)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:677)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.fillEntitySets(EmrScoringFunction.java:125)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.computeScore(EmrScoringFunction.java:45)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.handleSlice(EmrGenerator.java:300)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.end(EmrGenerator.java:250)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:224)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:223)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:208)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:206)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.forEachSlice(EmrGenerator.java:136)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethod(EmrGenerator.java:188)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.access$1(EmrGenerator.java:179)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$2.visit(EmrGenerator.java:114)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:653)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:258)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethods(EmrGenerator.java:107)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$1.visit(EmrGenerator.java:84)
-	at org.eclipse.core.internal.resources.Resource.lambda$1(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.lambda$0(Resource.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.generateRecomendations(EmrGenerator.java:66)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractProjectMenuAction$1.doWorkIteration(AbstractProjectMenuAction.java:124)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractJob.run(AbstractJob.java:28)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+edu.stanford.nlp.sentiment.SentimentPipeline	static void setSentimentLabels(edu.stanford.nlp.trees.Tree) 	e2112:112;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void setSentimentLabels(edu.stanford.nlp.trees.Tree) 	e1988:236;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void setSentimentLabels(edu.stanford.nlp.trees.Tree) 	e1956:268;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void setSentimentLabels(edu.stanford.nlp.trees.Tree) 	e1875:75;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void setSentimentLabels(edu.stanford.nlp.trees.Tree) 	e1875:232;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int setIndexLabels(edu.stanford.nlp.trees.Tree, int) 	e2545:104;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int setIndexLabels(edu.stanford.nlp.trees.Tree, int) 	e2545:86;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int setIndexLabels(edu.stanford.nlp.trees.Tree, int) 	e2532:117;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int setIndexLabels(edu.stanford.nlp.trees.Tree, int) 	e2532:99;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int setIndexLabels(edu.stanford.nlp.trees.Tree, int) 	e2480:60;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeVectors(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e2891:240;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeVectors(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e2891:227;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeVectors(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e2926:192;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeVectors(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e2926:173;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeVectors(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e2992:126;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeScores(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e3488:241;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeScores(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e3488:228;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeScores(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e3523:193;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeScores(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e3523:174;
+edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeScores(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e3590:126;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4420:130;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4097:89;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4240:129;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4240:88;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4610:128;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e5304:163;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e5179:288;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e5179:189;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e5110:357;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e5110:258;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void main(java.lang.String[]) throws java.io.IOException	e7346:356;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void main(java.lang.String[]) throws java.io.IOException	e7346:431;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void main(java.lang.String[]) throws java.io.IOException	e7255:522;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void main(java.lang.String[]) throws java.io.IOException	e7255:447;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void main(java.lang.String[]) throws java.io.IOException	e7155:622;
