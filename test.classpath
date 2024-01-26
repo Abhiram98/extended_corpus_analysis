@@ -1,0 +1,117 @@
+<classpath>
+	<classpathentry kind="src" path="src" />
+
+	<classpathentry kind="src" path="platform-external-system-impl" /><classpathentry kind="src" path="platform-build-scripts-icons" /><classpathentry kind="src" path="platform-build-scripts-downloader" /><classpathentry kind="src" path="platform-build-scripts-dev-server" /><classpathentry kind="src" path="platform-build-scripts" /><classpathentry kind="src" path="platform-webSymbols-web-types-gen-ext" /><classpathentry kind="src" path="platform-webSymbols" /><classpathentry kind="src" path="platform-platform-impl" /><classpathentry kind="src" path="platform-warmup-performanceTesting" /><classpathentry kind="src" path="platform-warmup" /><classpathentry kind="src" path="platform-configuration-store-impl" /><classpathentry kind="src" path="platform-ml-api" /><classpathentry kind="src" path="platform-projectModel-api" /><classpathentry kind="src" path="platform-analysis-api" /><classpathentry kind="src" path="platform-lvcs-api" /><classpathentry kind="src" path="platform-ml-impl" /><classpathentry kind="src" path="platform-built-in-server-client-node-rpc-client" /><classpathentry kind="src" path="platform-built-in-server" /><classpathentry kind="src" path="platform-built-in-server-api" /><classpathentry kind="src" path="platform-indexing-impl" /><classpathentry kind="src" path="platform-editor-ui-api" /><classpathentry kind="src" path="platform-editor-ui-ex" /><classpathentry kind="src" path="platform-platform-util-netty" /><classpathentry kind="src" path="platform-refactoring" /><classpathentry kind="src" path="platform-core-api" /><classpathentry kind="src" path="platform-jps-bootstrap" /><classpathentry kind="src" path="platform-remoteDev-util" /><classpathentry kind="src" path="platform-script-debugger-debugger-ui" /><classpathentry kind="src" path="platform-script-debugger-protocol-schema-reader-generator" /><classpathentry kind="src" path="platform-script-debugger-protocol-protocol-reader" /><classpathentry kind="src" path="platform-script-debugger-protocol-protocol-model-generator" /><classpathentry kind="src" path="platform-script-debugger-protocol-protocol-reader-runtime" /><classpathentry kind="src" path="platform-script-debugger-backend" /><classpathentry kind="src" path="platform-reproducible-builds" /><classpathentry kind="src" path="platform-structure-view-impl" /><classpathentry kind="src" path="platform-credential-store-ui" /><classpathentry kind="src" path="platform-vcs-api-vcs-api-core" /><classpathentry kind="src" path="platform-vcs-api" /><classpathentry kind="src" path="platform-duplicates-analysis" /><classpathentry kind="src" path="platform-elevation-client" /><classpathentry kind="src" path="platform-elevation-daemon" /><classpathentry kind="src" path="platform-elevation-common" /><classpathentry kind="src" path="platform-elevation" /><classpathentry kind="src" path="platform-indexing-api" /><classpathentry kind="src" path="platform-vcs-log-api" /><classpathentry kind="src" path="platform-vcs-log-graph-api" /><classpathentry kind="src" path="platform-vcs-log-graph" /><classpathentry kind="src" path="platform-vcs-log-impl" /><classpathentry kind="src" path="platform-code-style-api" /><classpathentry kind="src" path="platform-icons" /><classpathentry kind="src" path="platform-smart-update" /><classpathentry kind="src" path="platform-execution" /><classpathentry kind="src" path="platform-platform-cds-agent" /><classpathentry kind="src" path="platform-macro" /><classpathentry kind="src" path="platform-diff-impl" /><classpathentry kind="src" path="platform-smRunner-vcs" /><classpathentry kind="src" path="platform-smRunner" /><classpathentry kind="src" path="platform-dvcs-api" /><classpathentry kind="src" path="platform-code-style-impl" /><classpathentry kind="src" path="platform-object-serializer" /><classpathentry kind="src" path="platform-markdown-utils" /><classpathentry kind="src" path="platform-extensions" /><classpathentry kind="src" path="platform-feedback" /><classpathentry kind="src" path="platform-wsl-impl" /><classpathentry kind="src" path="platform-collaboration-tools-auth" /><classpathentry kind="src" path="platform-collaboration-tools" /><classpathentry kind="src" path="platform-tips-of-the-day" /><classpathentry kind="src" path="platform-sqlite" /><classpathentry kind="src" path="platform-execution-impl" /><classpathentry kind="src" path="platform-remote-servers-api" /><classpathentry kind="src" path="platform-remote-servers-agent-rt" /><classpathentry kind="src" path="platform-remote-servers-impl" /><classpathentry kind="src" path="platform-util-class-loader" /><classpathentry kind="src" path="platform-util-rt" /><classpathentry kind="src" path="platform-usageView-impl" /><classpathentry kind="src" path="platform-dependencies-toolwindow" /><classpathentry kind="src" path="platform-usageView" /><classpathentry kind="src" path="platform-forms_rt" /><classpathentry kind="src" path="platform-diagnostic-telemetry" /><classpathentry kind="src" path="platform-diagnostic" /><classpathentry kind="src" path="platform-xdebugger-impl" /><classpathentry kind="src" path="platform-xdebugger-api" /><classpathentry kind="src" path="platform-external-system-api-dependency-updater" /><classpathentry kind="src" path="platform-external-system-api" /><classpathentry kind="src" path="platform-platform-api" /><classpathentry kind="src" path="platform-ide-core" /><classpathentry kind="src" path="platform-platform-resources-en" /><classpathentry kind="src" path="platform-analysis-impl" /><classpathentry kind="src" path="platform-util-ex" /><classpathentry kind="src" path="platform-workspaceModel-storage" /><classpathentry kind="src" path="platform-workspaceModel-codegen" /><classpathentry kind="src" path="platform-workspaceModel-jps" /><classpathentry kind="src" path="platform-workspaceModel-codegen-impl" /><classpathentry kind="src" path="platform-dvcs-impl" /><classpathentry kind="src" path="platform-platform-util-io-impl" /><classpathentry kind="src" path="platform-platform-util-io" /><classpathentry kind="src" path="platform-util-base" /><classpathentry kind="src" path="platform-util-jdom" /><classpathentry kind="src" path="platform-util-xmlDom" /><classpathentry kind="src" path="platform-util-immutable-key-value-store-benchmark" /><classpathentry kind="src" path="platform-util-immutable-key-value-store" /><classpathentry kind="src" path="platform-util-zip" /><classpathentry kind="src" path="platform-util-rt-java8" /><classpathentry kind="src" path="platform-util-diff" /><classpathentry kind="src" path="platform-util-trove" /><classpathentry kind="src" path="platform-util-text-matching" /><classpathentry kind="src" path="platform-util-ui" /><classpathentry kind="src" path="platform-util" /><classpathentry kind="src" path="platform-platform-main" /><classpathentry kind="src" path="platform-projectModel-impl" /><classpathentry kind="src" path="platform-core-ui" /><classpathentry kind="src" path="platform-boot" /><classpathentry kind="src" path="platform-bootstrap-dev" /><classpathentry kind="src" path="platform-bootstrap" /><classpathentry kind="src" path="platform-tasks-platform-impl" /><classpathentry kind="src" path="platform-rd-platform-community" /><classpathentry kind="src" path="platform-vcs-impl" /><classpathentry kind="src" path="platform-inspect" /><classpathentry kind="src" path="platform-tracing-ide" /><classpathentry kind="src" path="platform-ide-core-impl" /><classpathentry kind="src" path="platform-lang-api" /><classpathentry kind="src" path="platform-lang-impl" /><classpathentry kind="src" path="platform-external-system-rt" /><classpathentry kind="src" path="platform-credential-store" /><classpathentry kind="src" path="platform-lvcs-impl" /><classpathentry kind="src" path="platform-external-process-auth-helper-rt" /><classpathentry kind="src" path="platform-external-process-auth-helper" /><classpathentry kind="src" path="platform-remote-core" /><classpathentry kind="src" path="platform-service-container" /><classpathentry kind="src" path="platform-core-impl" /><classpathentry kind="src" path="platform-tracing" /><classpathentry kind="src" path="platform-platform-resources" /><classpathentry kind="src" path="platform-lang-core" /><classpathentry kind="src" path="platform-diff-api" /><classpathentry kind="src" path="platform-tasks-platform-api" /><classpathentry kind="src" path="platform-statistics-devkit" /><classpathentry kind="src" path="platform-statistics-config" /><classpathentry kind="src" path="platform-statistics-uploader" /><classpathentry kind="src" path="platform-statistics" /><classpathentry combineaccessrules="false" exported="true" kind="src" path="/intellij.platform.ide" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.lang" />
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/intellij.platform.core.impl" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.indexing" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.projectModel.impl" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.workspaceModel.jps" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.jps.model.impl" />
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/intellij.platform.analysis.impl">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/analysis-impl/" />
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/intellij.platform.editor.ex" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.diff" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.builtInServer.impl" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.builtInServer" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.configurationStore.impl" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.credentialStore.ui" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.dependenciesToolwindow" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.objectSerializer" />
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/intellij.platform.util.ui" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.ide.util.io.impl" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.util" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.externalSystem.impl" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.serviceContainer" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.statistics" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.statistics.devkit" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.rd.community" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.util.classLoader" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.concurrency" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.core.ui" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.elevation" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.statistics.uploader" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.util.zip" />
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/intellij.platform.remote.core" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.util.xmlDom" />
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/intellij.platform.ide.core.impl" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.ide.util.netty" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.remoteDev.util" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.feedback" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.util.jdom" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.diagnostic" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.diagnostic.telemetry" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.tips" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.codeStyle.impl" />
+	<classpathentry combineaccessrules="false" kind="src" path="/intellij.platform.util.text.matching" />
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Mac" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Log4J" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-codec" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OroMatcher" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/CGLIB" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jna" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/winp" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/swingx" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/miglayout-swing" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-imaging" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Guava" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gson" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/http-client" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/imgscalr" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/kotlin-stdlib" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Slf4j" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/slf4j-jdk14" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/StreamEx" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/kotlinx-coroutines-jdk8" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/netty-codec-http" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/error-prone-annotations" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jackson" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Java Compatibility" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javax.activation" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jaxb-api" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jaxb-runtime" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javax.annotation-api" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/kotlin-reflect" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jackson-databind" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jcef" />
+	<classpathentry kind="var" path="MAVEN_REPOSITORY/net/bytebuddy/byte-buddy-agent/1.14.0/byte-buddy-agent-1.14.0.jar" sourcepath="/MAVEN_REPOSITORY/net/bytebuddy/byte-buddy-agent/1.14.0/byte-buddy-agent-1.14.0-sources.jar" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ASM" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jsoup" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/fastutil-min" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.groovy:groovy-jsr223" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.groovy:groovy-json" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.groovy:groovy-templates" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.groovy:groovy-xml" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/blockmap" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/netty-buffer" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/classgraph" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/caffeine" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/zip-signer" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jackson-jr-objects" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/icu4j" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/netty-handler-proxy" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/rhino" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/aalto-xml" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgoodies-common" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgoodies-forms" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jbr-api" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/kotlinx-serialization-json" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/kotlinx-serialization-core" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/assertJ" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jvm-native-trusted-roots" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opentelemetry" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opentelemetry-extension-kotlin" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HdrHistogram" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/kotlinx-collections-immutable" />
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hash4j" />
+	<classpathentry kind="lib" path="/Users/abhiram/Downloads/annotations-24.1.0.jar" />
+	<classpathentry kind="output" path="bin" />
+</classpath>
