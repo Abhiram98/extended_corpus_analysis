@@ -1,0 +1,5 @@
+com.intellij.util.ui.BaseButtonBehavior	public void <init>(javax.swing.JComponent, com.intellij.util.ui.TimedDeadzone.Length) 	e1617:163;
+com.intellij.util.ui.BaseButtonBehavior	public void <init>(javax.swing.JComponent, com.intellij.util.ui.TimedDeadzone.Length) 	e1675:105;
+com.intellij.util.ui.BaseButtonBehavior	public void <init>(javax.swing.JComponent, com.intellij.util.ui.TimedDeadzone.Length) 	e1548:232;
+com.intellij.util.ui.BaseButtonBehavior	public void <init>(javax.swing.JComponent, com.intellij.util.ui.TimedDeadzone.Length) 	e1491:240;
+com.intellij.util.ui.BaseButtonBehavior	public void <init>(javax.swing.JComponent, com.intellij.util.ui.TimedDeadzone.Length) 	e1402:84;
