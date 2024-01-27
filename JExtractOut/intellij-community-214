@@ -1,0 +1,5 @@
+com.intellij.util.indexing.impl.ValueContainerImpl	public sealed void saveTo(java.io.DataOutput, DataExternalizer<? super Value>) throws java.io.IOException	e14553:232;
+com.intellij.util.indexing.impl.ValueContainerImpl	public sealed void saveTo(java.io.DataOutput, DataExternalizer<? super Value>) throws java.io.IOException	e14169:78;
+com.intellij.util.indexing.impl.ValueContainerImpl	public sealed void saveTo(java.io.DataOutput, DataExternalizer<? super Value>) throws java.io.IOException	e14705:80;
+com.intellij.util.indexing.impl.ValueContainerImpl	public sealed void saveTo(java.io.DataOutput, DataExternalizer<? super Value>) throws java.io.IOException	e14169:141;
+com.intellij.util.indexing.impl.ValueContainerImpl	public sealed void saveTo(java.io.DataOutput, DataExternalizer<? super Value>) throws java.io.IOException	e14795:401;

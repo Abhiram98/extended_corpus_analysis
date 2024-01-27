@@ -1,0 +1,5 @@
+com.intellij.util.io.PersistentMapImpl	private SLRUCache<Key,com.intellij.openapi.util.io.BufferExposingByteArrayOutputStream> createAppendCache(KeyDescriptor<Key>) 	e10896:819;
+com.intellij.util.io.PersistentMapImpl	private SLRUCache<Key,com.intellij.openapi.util.io.BufferExposingByteArrayOutputStream> createAppendCache(KeyDescriptor<Key>) 	e10927:788;
+com.intellij.util.io.PersistentMapImpl	private SLRUCache<Key,com.intellij.openapi.util.io.BufferExposingByteArrayOutputStream> createAppendCache(KeyDescriptor<Key>) 	e10927:672;
+com.intellij.util.io.PersistentMapImpl	private SLRUCache<Key,com.intellij.openapi.util.io.BufferExposingByteArrayOutputStream> createAppendCache(KeyDescriptor<Key>) 	e10896:703;
+com.intellij.util.io.PersistentMapImpl	private SLRUCache<Key,com.intellij.openapi.util.io.BufferExposingByteArrayOutputStream> createAppendCache(KeyDescriptor<Key>) 	e10951:764;

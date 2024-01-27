@@ -1,0 +1,5 @@
+com.intellij.util.io.PersistentEnumeratorBase	public Data valueOf(int) throws java.io.IOException	e13301:109;
+com.intellij.util.io.PersistentEnumeratorBase	public Data valueOf(int) throws java.io.IOException	e13301:90;
+com.intellij.util.io.PersistentEnumeratorBase	public Data valueOf(int) throws java.io.IOException	e13301:67;
+com.intellij.util.io.PersistentEnumeratorBase	public Data valueOf(int) throws java.io.IOException	e13126:69;
+com.intellij.util.io.PersistentEnumeratorBase	public Data valueOf(int) throws java.io.IOException	e13112:144;

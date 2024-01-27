@@ -1,0 +1,2 @@
+com.intellij.util.io.PersistentMapImpl	public final Value get(Key) throws java.io.IOException	e20300:110;
+com.intellij.util.io.PersistentMapImpl	public final Value get(Key) throws java.io.IOException	e20300:128;

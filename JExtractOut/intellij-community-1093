@@ -1,0 +1,5 @@
+com.intellij.util.io.ResizeableMappedFile	private void writeLength(long) 	e4872:60;
+com.intellij.util.io.ResizeableMappedFile	private void writeLength(long) 	e4530:325;
+com.intellij.util.io.ResizeableMappedFile	private void writeLength(long) 	e4663:127;
+com.intellij.util.io.ResizeableMappedFile	private void writeLength(long) 	e4663:184;
+com.intellij.util.io.ResizeableMappedFile	private void writeLength(long) 	e4799:48;
