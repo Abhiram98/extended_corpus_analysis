@@ -1,0 +1,5 @@
+com.intellij.application.options.colors.ColorSettingsUtil	private static void addInspectionSeverityAttributes(List<? super com.intellij.openapi.options.colors.AttributesDescriptor>) 	e4442:374;
+com.intellij.application.options.colors.ColorSettingsUtil	private static void addInspectionSeverityAttributes(List<? super com.intellij.openapi.options.colors.AttributesDescriptor>) 	e2802:1634;
+com.intellij.application.options.colors.ColorSettingsUtil	private static void addInspectionSeverityAttributes(List<? super com.intellij.openapi.options.colors.AttributesDescriptor>) 	e4629:173;
+com.intellij.application.options.colors.ColorSettingsUtil	private static void addInspectionSeverityAttributes(List<? super com.intellij.openapi.options.colors.AttributesDescriptor>) 	e3954:862;
+com.intellij.application.options.colors.ColorSettingsUtil	private static void addInspectionSeverityAttributes(List<? super com.intellij.openapi.options.colors.AttributesDescriptor>) 	e3319:1117;

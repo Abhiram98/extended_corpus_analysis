@@ -1,0 +1,5 @@
+com.intellij.openapi.vfs.newvfs.persistent.FSRecords	private static void markAsDeletedRecursively(int) throws java.io.IOException	e11045:148;
+com.intellij.openapi.vfs.newvfs.persistent.FSRecords	private static void markAsDeletedRecursively(int) throws java.io.IOException	e11045:100;
+com.intellij.openapi.vfs.newvfs.persistent.FSRecords	private static void markAsDeletedRecursively(int) throws java.io.IOException	e11150:107;
+com.intellij.openapi.vfs.newvfs.persistent.FSRecords	private static void markAsDeletedRecursively(int) throws java.io.IOException	e11045:212;
+com.intellij.openapi.vfs.newvfs.persistent.FSRecords	private static void markAsDeletedRecursively(int) throws java.io.IOException	e10978:167;

@@ -1,0 +1,5 @@
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	public void setMiniMode(boolean) 	e55799:59;
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	public void setMiniMode(boolean) 	e55491:84;
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	public void setMiniMode(boolean) 	e55537:101;
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	public void setMiniMode(boolean) 	e55537:77;
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	public void setMiniMode(boolean) 	e55702:156;

@@ -1,31 +1,10 @@
-java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.IMethod.getElementName()" because "javaElement" is null
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$2.visit(EmrGenerator.java:120)
-	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:653)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
-	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:258)
-	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethods(EmrGenerator.java:113)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$1.visit(EmrGenerator.java:90)
-	at org.eclipse.core.internal.resources.Resource.lambda$1(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.lambda$0(Resource.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:85)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
-	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
-	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
-	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.generateRecomendations(EmrGenerator.java:71)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractProjectMenuAction$1.doWorkIteration(AbstractProjectMenuAction.java:169)
-	at br.ufmg.dcc.labsoft.jextract.ui.AbstractJob.run(AbstractJob.java:28)
-	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1984:147;
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1932:322;
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1932:294;
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1984:270;
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1984:169;
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2716:118;
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2675:131;
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2716:90;
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2633:78;
+com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2764:70;

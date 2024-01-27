@@ -1,1 +1,5 @@
-java.lang.NullPointerException
+com.intellij.ide.customize.PluginGroups	public void setPluginEnabledWithDependencies(@NotNull PluginId, boolean) 	e17884:223;
+com.intellij.ide.customize.PluginGroups	public void setPluginEnabledWithDependencies(@NotNull PluginId, boolean) 	e17530:349;
+com.intellij.ide.customize.PluginGroups	public void setPluginEnabledWithDependencies(@NotNull PluginId, boolean) 	e17510:369;
+com.intellij.ide.customize.PluginGroups	public void setPluginEnabledWithDependencies(@NotNull PluginId, boolean) 	e17884:386;
+com.intellij.ide.customize.PluginGroups	public void setPluginEnabledWithDependencies(@NotNull PluginId, boolean) 	e17530:577;

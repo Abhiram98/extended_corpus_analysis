@@ -1,0 +1,5 @@
+com.intellij.ui.TextFieldWithAutoCompletionListProvider	public void fillCompletionVariants(@NotNull CompletionParameters, @NotNull String, @NotNull CompletionResultSet) 	e3628:213;
+com.intellij.ui.TextFieldWithAutoCompletionListProvider	public void fillCompletionVariants(@NotNull CompletionParameters, @NotNull String, @NotNull CompletionResultSet) 	e3846:568;
+com.intellij.ui.TextFieldWithAutoCompletionListProvider	public void fillCompletionVariants(@NotNull CompletionParameters, @NotNull String, @NotNull CompletionResultSet) 	e4041:373;
+com.intellij.ui.TextFieldWithAutoCompletionListProvider	public void fillCompletionVariants(@NotNull CompletionParameters, @NotNull String, @NotNull CompletionResultSet) 	e3628:786;
+com.intellij.ui.TextFieldWithAutoCompletionListProvider	public void fillCompletionVariants(@NotNull CompletionParameters, @NotNull String, @NotNull CompletionResultSet) 	e3553:482;

@@ -1,0 +1,5 @@
+com.intellij.ui.plaf.beg.IdeaMenuUI	protected final void paintHover(java.awt.Graphics, javax.swing.JComponent, javax.swing.JMenu, javax.swing.Icon) 	e7711:409;
+com.intellij.ui.plaf.beg.IdeaMenuUI	protected final void paintHover(java.awt.Graphics, javax.swing.JComponent, javax.swing.JMenu, javax.swing.Icon) 	e7652:552;
+com.intellij.ui.plaf.beg.IdeaMenuUI	protected final void paintHover(java.awt.Graphics, javax.swing.JComponent, javax.swing.JMenu, javax.swing.Icon) 	e7774:322;
+com.intellij.ui.plaf.beg.IdeaMenuUI	protected final void paintHover(java.awt.Graphics, javax.swing.JComponent, javax.swing.JMenu, javax.swing.Icon) 	e7711:385;
+com.intellij.ui.plaf.beg.IdeaMenuUI	protected final void paintHover(java.awt.Graphics, javax.swing.JComponent, javax.swing.JMenu, javax.swing.Icon) 	e7774:346;

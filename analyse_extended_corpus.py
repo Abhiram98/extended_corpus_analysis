@@ -27,6 +27,19 @@ def main():
         # hf_loc = len(obj['host_function_before_ef']['function_src'].split('\\n'))
         func_src = obj['host_function_before_ef']['function_src'].replace('\\n', '\n')
         hf_loc = func_src[func_src.find('{'):func_src.rfind('}')+1].count('\n')+1
+        try:
+            liveref_data = obj['liveref_analysis']['rank_by_size']
+        except Exception as e:
+            print("no liveref data")
+            liveref_data = None
+
+        try:
+            em_assist_data = obj['jetgpt_ranking']['llm_multishot_data']['temperature_1.0']\
+                ['rank_by_popularity_times_heat']
+        except Exception as e:
+            print("No EM Assist data")
+            raise
+
         project_data[project_name].append({
             "projectName": project_name,
             "sha": obj['sha_before_ef'],
@@ -34,7 +47,9 @@ def main():
             "functionName": obj['function_name'],
             "lineStart": obj['oracle']['line_start'],
             "lineEnd": obj['oracle']['line_end'],
-            "hfLoc": hf_loc
+            "hfLoc": hf_loc,
+            "liveref_analysis": liveref_data,
+            "em_assist": em_assist_data
         })
         all_proj.append(project_name)
 
@@ -54,8 +69,8 @@ def main():
 
 
 
-def analyse():
-    with open("CoreNLP-data.json") as f:
+def analyse(project_name):
+    with open(f"{project_name}-data.json") as f:
         data = json.load(f)
 
     hits_and_misses = []
@@ -72,38 +87,38 @@ def analyse():
 
         function_name = ref['functionName']
         oracle_start, oracle_end, hf_loc = ref['lineStart'], ref['lineEnd'], ref['hfLoc']
-        relpath = f"projects/CoreNLP/{ref['filename']}"
+        relpath = f"projects/{project_name}/{ref['filename']}"
         base_dir = relpath.split('src')[0] + 'src'
         all_base_dirs.append(base_dir)
-        # if base_dir!='projects/CoreNLP/src':
+        # if base_dir!=f'projects/{project_name}/src':
         #     continue
 
-        # subprocess.run([
-        #     "git", "-C", "projects/CoreNLP",
-        #     "restore", "."
-        # ])
-        #
-        # subprocess.run([
-        #     "git", "-C", "projects/CoreNLP",
-        #     "checkout", "-f", ref['sha']
-        # ])
-        #
-        # # with open(relpath) as f:
-        # #     hf_loc = f.read()
-        #
-        # try:
-        #     convert_jextract(["--jextract-out", f"JExtractOut/CoreNLP-{i}",
-        #                       "--base-dir", base_dir],
-        #                      standalone_mode=False)
-        # except:
-        #     print("Coudn't read data.")
-        #     hits_and_misses.append(False)
-        #     with open(f"JExtractOut/CoreNLP-{i}.csv", "w") as f:
-        #         f.write("JExtract internal error.")
-        #     unreadable += 1
-        #     continue
+        subprocess.run([
+            "git", "-C", f"projects/{project_name}",
+            "restore", "."
+        ])
 
-        df = pd.read_csv(f"JExtractOut/CoreNLP-{i}.csv")
+        subprocess.run([
+            "git", "-C", f"projects/{project_name}",
+            "checkout", "-f", ref['sha']
+        ])
+
+        # with open(relpath) as f:
+        #     hf_loc = f.read()
+
+        try:
+            convert_jextract(["--jextract-out", f"JExtractOut/{project_name}-{i}",
+                              "--base-dir", base_dir],
+                             standalone_mode=False)
+        except:
+            print("Coudn't read data.")
+            hits_and_misses.append(False)
+            with open(f"JExtractOut/{project_name}-{i}.csv", "w") as f:
+                f.write("JExtract internal error.")
+            unreadable += 1
+            continue
+
+        df = pd.read_csv(f"JExtractOut/{project_name}-{i}.csv")
         # suggestions = df[
         #     (df['function_name'] == function_name) &
         #     (df['source_filename'] == relpath)
@@ -142,7 +157,7 @@ def analyse():
     print(Counter(all_base_dirs))
     print(f"{unreadable=}")
 
-    with open("hits_and_misses.json", "w") as f:
+    with open(f"hits_and_misses-{project_name}.json", "w") as f:
         json.dump(hits_and_misses, f, indent=1)
 
 
@@ -161,6 +176,7 @@ def update_completed(project_name):
         except FileNotFoundError:
             continue
         try:
+            # if first_line != "":
             dotfile, func_signature, em_suggestion = first_line.split("	")
             completed.append(i)
         except:
@@ -178,30 +194,25 @@ def analyse_intellij():
         data = json.load(f)
     pass
 
-def analyse_liveref(project_name, tolerance = 3, topn=5):
+def analyse_other(project_name, key, tolerance = 3, topn=5):
     with open(f"{project_name}-data.json") as f:
         data = json.load(f)
     with open(f"{project_name}-completed.json") as f:
         completed = json.load(f)
-    client = MongoClient('localhost', 27017)
-    db_name = 'extract_function'
-    collection_name = 'extended_corpus'
-    collection = client[db_name][collection_name]
-    all_objs = collection.find({})
 
     hits_and_misses = []
 
     for i, d in enumerate(data):
-        if not completed[i]:
+        if i >= len(completed) or not completed[i]:
             continue
-        obj = all_objs[i]
-        liveref_data = obj['liveref_analysis']['rank_by_size']
+        # obj = all_objs[i]
+
 
         ref = data[i]
         oracle_start, oracle_end, hf_loc = ref['lineStart'], ref['lineEnd'], ref['hfLoc']
+        liveref_data = ref[key]
 
-        assert ref['sha'] == obj['sha_before_ef']
-        if liveref_data is None:
+        if not liveref_data:
             hits_and_misses.append(False)
             continue
 
@@ -227,18 +238,13 @@ def analyse_liveref(project_name, tolerance = 3, topn=5):
 
 if __name__ == '__main__':
     # main()
-    # analyse()
 
-    # update_completed("intellij-community")
-
-
-    update_completed("CoreNLP")
-
-    # update_completed("CoreNLP")
-
-    update_completed("CoreNLP")
-
-
+    # analyse_other("CoreNLP", 'liveref_analysis')
+    # analyse_other("intellij-community", 'liveref_analysis')
+    # analyse_other("CoreNLP", 'em_assist')
+    # analyse_other("intellij-community", 'em_assist')
+    # analyse("CoreNLP")
+    # analyse("intellij-community")
     update_completed("intellij-community")
     # update_completed("CoreNLP")
     # analyse_intellij()

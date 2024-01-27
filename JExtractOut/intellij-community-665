@@ -1,0 +1,5 @@
+com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl	public sealed FileEditor @NotNull [] getEditors(@NotNull VirtualFile) 	e60962:158;
+com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl	public sealed FileEditor @NotNull [] getEditors(@NotNull VirtualFile) 	e60962:100;
+com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl	public sealed FileEditor @NotNull [] getEditors(@NotNull VirtualFile) 	e61067:413;
+com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl	public sealed FileEditor @NotNull [] getEditors(@NotNull VirtualFile) 	e60896:224;
+com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl	public sealed FileEditor @NotNull [] getEditors(@NotNull VirtualFile) 	e60896:166;
