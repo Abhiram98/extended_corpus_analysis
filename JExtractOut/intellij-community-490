@@ -1,0 +1,4 @@
+com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean, boolean) 	e19974:99;
+com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean, boolean) 	e19890:79;
+com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean, boolean) 	e19974:44;
+com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean, boolean) 	e19912:57;

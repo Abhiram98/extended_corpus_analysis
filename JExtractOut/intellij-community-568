@@ -1,0 +1,5 @@
+com.intellij.openapi.options.newEditor.SettingsFilter	void <init>(@Nullable Project, @NotNull List<? extends ConfigurableGroup>, com.intellij.ui.SearchTextField) 	e2199:1123;
+com.intellij.openapi.options.newEditor.SettingsFilter	void <init>(@Nullable Project, @NotNull List<? extends ConfigurableGroup>, com.intellij.ui.SearchTextField) 	e2199:1097;
+com.intellij.openapi.options.newEditor.SettingsFilter	void <init>(@Nullable Project, @NotNull List<? extends ConfigurableGroup>, com.intellij.ui.SearchTextField) 	e2199:1146;
+com.intellij.openapi.options.newEditor.SettingsFilter	void <init>(@Nullable Project, @NotNull List<? extends ConfigurableGroup>, com.intellij.ui.SearchTextField) 	e4029:83;
+com.intellij.openapi.options.newEditor.SettingsFilter	void <init>(@Nullable Project, @NotNull List<? extends ConfigurableGroup>, com.intellij.ui.SearchTextField) 	e2297:1025;

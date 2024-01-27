@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/project/MergingQueueGuiExecutor.java,startBackgroundProcess,"(151, 159)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/project/MergingQueueGuiExecutor.java,startBackgroundProcess,"(149, 159)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/project/MergingQueueGuiExecutor.java,startBackgroundProcess,"(157, 158)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/project/MergingQueueGuiExecutor.java,startBackgroundProcess,"(165, 165)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/project/MergingQueueGuiExecutor.java,startBackgroundProcess,"(165, 169)"

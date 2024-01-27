@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextIcon.java,getTextBounds,"(36, 44)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextIcon.java,getTextBounds,"(36, 44)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextIcon.java,getTextBounds,"(36, 40)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextIcon.java,getTextBounds,"(29, 33)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextIcon.java,getTextBounds,"(29, 31)"

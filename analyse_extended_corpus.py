@@ -228,6 +228,7 @@ def analyse_liveref(project_name, tolerance = 3, topn=5):
 if __name__ == '__main__':
     # main()
     # analyse()
+
     # update_completed("intellij-community")
 
 
@@ -237,6 +238,9 @@ if __name__ == '__main__':
 
     update_completed("CoreNLP")
 
+
+    update_completed("intellij-community")
+    # update_completed("CoreNLP")
     # analyse_intellij()
 
 # platform/analysis-api/src/com/intellij/codeInsight/intention/preview/IntentionPreviewInfo.java

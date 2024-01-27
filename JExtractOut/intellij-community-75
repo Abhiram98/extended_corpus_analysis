@@ -1,0 +1,5 @@
+com.intellij.openapi.editor.impl.EditorMarkupModelImpl	private @Nullable RangeHighlighter getNearestRangeHighlighter(@NotNull MouseEvent) 	e26609:148;
+com.intellij.openapi.editor.impl.EditorMarkupModelImpl	private @Nullable RangeHighlighter getNearestRangeHighlighter(@NotNull MouseEvent) 	e26805:388;
+com.intellij.openapi.editor.impl.EditorMarkupModelImpl	private @Nullable RangeHighlighter getNearestRangeHighlighter(@NotNull MouseEvent) 	e26805:362;
+com.intellij.openapi.editor.impl.EditorMarkupModelImpl	private @Nullable RangeHighlighter getNearestRangeHighlighter(@NotNull MouseEvent) 	e26762:431;
+com.intellij.openapi.editor.impl.EditorMarkupModelImpl	private @Nullable RangeHighlighter getNearestRangeHighlighter(@NotNull MouseEvent) 	e26823:370;

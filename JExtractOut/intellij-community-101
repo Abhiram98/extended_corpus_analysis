@@ -1,0 +1,2 @@
+com.intellij.openapi.application.impl.ReadMostlyRWLock	void writeIntentLock() 	e9741:170;
+com.intellij.openapi.application.impl.ReadMostlyRWLock	void writeIntentLock() 	e9524:65;

@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorCopyPasteHelperImpl.java,pasteTransferable,"(95, 98)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorCopyPasteHelperImpl.java,pasteTransferable,"(95, 98)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorCopyPasteHelperImpl.java,pasteTransferable,"(98, 140)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorCopyPasteHelperImpl.java,pasteTransferable,"(95, 140)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorCopyPasteHelperImpl.java,pasteTransferable,"(96, 140)"

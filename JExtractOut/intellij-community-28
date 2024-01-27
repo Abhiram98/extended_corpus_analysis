@@ -1,0 +1,5 @@
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e69314:287;
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e69444:149;
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e69409:192;
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e69496:97;
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e69444:104;

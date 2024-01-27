@@ -1,0 +1,5 @@
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@NotNull Map<String,Object>, @NotNull @NonNls String, @NotNull @NonNls String) 	e4118:153;
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@NotNull Map<String,Object>, @NotNull @NonNls String, @NotNull @NonNls String) 	e4556:296;
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@NotNull Map<String,Object>, @NotNull @NonNls String, @NotNull @NonNls String) 	e4556:276;
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@NotNull Map<String,Object>, @NotNull @NonNls String, @NotNull @NonNls String) 	e3722:827;
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@NotNull Map<String,Object>, @NotNull @NonNls String, @NotNull @NonNls String) 	e3722:1130;

@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorMarkupModelImpl.java,getNearestRangeHighlighter,"(663, 664)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorMarkupModelImpl.java,getNearestRangeHighlighter,"(666, 675)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorMarkupModelImpl.java,getNearestRangeHighlighter,"(666, 674)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorMarkupModelImpl.java,getNearestRangeHighlighter,"(665, 675)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorMarkupModelImpl.java,getNearestRangeHighlighter,"(667, 675)"

@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/welcomeScreen/RecentProjectPanel.java,onAppStateChanged,"(617, 620)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/welcomeScreen/RecentProjectPanel.java,onAppStateChanged,"(618, 620)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/welcomeScreen/RecentProjectPanel.java,onAppStateChanged,"(624, 630)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/welcomeScreen/RecentProjectPanel.java,onAppStateChanged,"(627, 630)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/wm/impl/welcomeScreen/RecentProjectPanel.java,onAppStateChanged,"(624, 626)"

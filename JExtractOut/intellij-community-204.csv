@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/DarculaComboBoxUI.java,createArrowButton,"(152, 156)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/DarculaComboBoxUI.java,createArrowButton,"(193, 196)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/DarculaComboBoxUI.java,createArrowButton,"(193, 196)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/DarculaComboBoxUI.java,createArrowButton,"(144, 193)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/DarculaComboBoxUI.java,createArrowButton,"(163, 171)"

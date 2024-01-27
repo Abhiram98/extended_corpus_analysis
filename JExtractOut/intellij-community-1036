@@ -1,0 +1,3 @@
+com.intellij.ide.actionsOnSave.ActionOnSaveBackedByOwnConfigurable	public final sealed void setActionOnSaveEnabled(boolean) 	e4486:257;
+com.intellij.ide.actionsOnSave.ActionOnSaveBackedByOwnConfigurable	public final sealed void setActionOnSaveEnabled(boolean) 	e4390:84;
+com.intellij.ide.actionsOnSave.ActionOnSaveBackedByOwnConfigurable	public final sealed void setActionOnSaveEnabled(boolean) 	e4545:105;

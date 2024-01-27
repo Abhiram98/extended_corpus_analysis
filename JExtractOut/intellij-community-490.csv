@@ -1,0 +1,5 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ApplicationImpl.java,restart,"(580, 583)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ApplicationImpl.java,restart,"(576, 579)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ApplicationImpl.java,restart,"(580, 582)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ApplicationImpl.java,restart,"(577, 579)"

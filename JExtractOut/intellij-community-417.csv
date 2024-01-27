@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,dispatchEvent,"(384, 397)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,dispatchEvent,"(378, 397)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,dispatchEvent,"(431, 448)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,dispatchEvent,"(429, 448)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,dispatchEvent,"(385, 397)"

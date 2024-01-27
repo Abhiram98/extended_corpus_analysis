@@ -1,0 +1,7 @@
+com.intellij.ui.popup.AbstractPopup	public void show(@NotNull RelativePoint) 	e20716:114;
+com.intellij.ui.popup.AbstractPopup	public void show(@NotNull RelativePoint) 	e20647:113;
+com.intellij.ui.popup.AbstractPopup	public void show(@NotNull Component, int, int, boolean) 	e33189:375;
+com.intellij.ui.popup.AbstractPopup	public void show(@NotNull Component, int, int, boolean) 	e33240:324;
+com.intellij.ui.popup.AbstractPopup	public void show(@NotNull Component, int, int, boolean) 	e37758:94;
+com.intellij.ui.popup.AbstractPopup	public void show(@NotNull Component, int, int, boolean) 	e43508:80;
+com.intellij.ui.popup.AbstractPopup	public void show(@NotNull Component, int, int, boolean) 	e43427:161;

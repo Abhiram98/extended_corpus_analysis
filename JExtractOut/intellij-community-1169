@@ -1,0 +1,5 @@
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42465:70;
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42465:242;
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42503:204;
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42465:194;
+com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42542:165;

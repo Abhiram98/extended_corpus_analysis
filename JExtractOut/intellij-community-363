@@ -1,0 +1,5 @@
+com.intellij.openapi.keymap.impl.ui.KeymapPanel	public void quickListRenamed(@NotNull QuickList, @NotNull QuickList) 	e10580:317;
+com.intellij.openapi.keymap.impl.ui.KeymapPanel	public void quickListRenamed(@NotNull QuickList, @NotNull QuickList) 	e10734:155;
+com.intellij.openapi.keymap.impl.ui.KeymapPanel	public void quickListRenamed(@NotNull QuickList, @NotNull QuickList) 	e10677:212;
+com.intellij.openapi.keymap.impl.ui.KeymapPanel	public void quickListRenamed(@NotNull QuickList, @NotNull QuickList) 	e10640:257;
+com.intellij.openapi.keymap.impl.ui.KeymapPanel	public void quickListRenamed(@NotNull QuickList, @NotNull QuickList) 	e10782:97;

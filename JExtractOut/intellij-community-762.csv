@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/HoverService.java,mouseMoved,"(86, 86)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/HoverService.java,mouseMoved,"(77, 86)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/HoverService.java,mouseMoved,"(86, 86)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/HoverService.java,mouseMoved,"(78, 86)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/HoverService.java,mouseMoved,"(79, 86)"

@@ -1,0 +1,5 @@
+com.intellij.ide.IdeEventQueue	public sealed void dispatchEvent(@NotNull AWTEvent) 	e15966:258;
+com.intellij.ide.IdeEventQueue	public sealed void dispatchEvent(@NotNull AWTEvent) 	e15820:404;
+com.intellij.ide.IdeEventQueue	public sealed void dispatchEvent(@NotNull AWTEvent) 	e17357:435;
+com.intellij.ide.IdeEventQueue	public sealed void dispatchEvent(@NotNull AWTEvent) 	e17316:476;
+com.intellij.ide.IdeEventQueue	public sealed void dispatchEvent(@NotNull AWTEvent) 	e15990:234;

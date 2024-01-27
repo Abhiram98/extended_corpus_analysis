@@ -1,0 +1,3 @@
+com.intellij.application.options.editor.fonts.FontFamilyCombo	protected void <init>(boolean) 	e1402:60;
+com.intellij.application.options.editor.fonts.FontFamilyCombo	protected void <init>(boolean) 	e1373:67;
+com.intellij.application.options.editor.fonts.FontFamilyCombo	protected void <init>(boolean) 	e1347:50;

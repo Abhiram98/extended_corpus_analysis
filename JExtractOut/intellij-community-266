@@ -1,0 +1,2 @@
+com.intellij.ide.ui.laf.darcula.ui.TextFieldWithPopupHandlerUI.MouseDragAwareCaret	public sealed void mouseDragged(java.awt.event.MouseEvent) 	e23495:272;
+com.intellij.ide.ui.laf.darcula.ui.TextFieldWithPopupHandlerUI.MouseDragAwareCaret	public sealed void mouseDragged(java.awt.event.MouseEvent) 	e23741:26;

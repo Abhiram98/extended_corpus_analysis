@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/PluginDownloader.java,install,"(326, 332)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/PluginDownloader.java,install,"(319, 324)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/PluginDownloader.java,install,"(324, 332)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/PluginDownloader.java,install,"(319, 323)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/PluginDownloader.java,install,"(323, 324)"

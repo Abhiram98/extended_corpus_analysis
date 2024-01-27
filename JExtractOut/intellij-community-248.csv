@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/plugins/newui/PluginDetailsPageComponent.java,updateButtons,"(1201, 1225)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/plugins/newui/PluginDetailsPageComponent.java,updateButtons,"(1179, 1287)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/plugins/newui/PluginDetailsPageComponent.java,updateButtons,"(1207, 1225)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/plugins/newui/PluginDetailsPageComponent.java,updateButtons,"(1204, 1225)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/plugins/newui/PluginDetailsPageComponent.java,updateButtons,"(1201, 1225)"

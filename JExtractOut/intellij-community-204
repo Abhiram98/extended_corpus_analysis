@@ -1,0 +1,5 @@
+com.intellij.ide.ui.laf.darcula.ui.DarculaComboBoxUI	protected sealed javax.swing.JButton createArrowButton() 	e4997:193;
+com.intellij.ide.ui.laf.darcula.ui.DarculaComboBoxUI	protected sealed javax.swing.JButton createArrowButton() 	e6695:87;
+com.intellij.ide.ui.laf.darcula.ui.DarculaComboBoxUI	protected sealed javax.swing.JButton createArrowButton() 	e6695:68;
+com.intellij.ide.ui.laf.darcula.ui.DarculaComboBoxUI	protected sealed javax.swing.JButton createArrowButton() 	e4709:1981;
+com.intellij.ide.ui.laf.darcula.ui.DarculaComboBoxUI	protected sealed javax.swing.JButton createArrowButton() 	e5488:453;

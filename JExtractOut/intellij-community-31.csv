@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,prepareToShow,"(1350, 1358)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,prepareToShow,"(1346, 1358)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,prepareToShow,"(1346, 1369)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,prepareToShow,"(1344, 1378)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,prepareToShow,"(1330, 1344)"

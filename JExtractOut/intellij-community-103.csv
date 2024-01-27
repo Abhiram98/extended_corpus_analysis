@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeLock,"(281, 293)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeLock,"(278, 280)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeLock,"(277, 280)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeLock,"(276, 280)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeLock,"(275, 280)"

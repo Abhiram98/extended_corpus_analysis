@@ -1,0 +1,5 @@
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private @NotNull FileType detectFromContent(@NotNull VirtualFile, @NotNull ByteArraySequence) throws java.io.IOException	e24630:727;
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private @NotNull FileType detectFromContent(@NotNull VirtualFile, @NotNull ByteArraySequence) throws java.io.IOException	e24630:856;
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private @NotNull FileType detectFromContent(@NotNull VirtualFile, @NotNull ByteArraySequence) throws java.io.IOException	e24573:784;
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private @NotNull FileType detectFromContent(@NotNull VirtualFile, @NotNull ByteArraySequence) throws java.io.IOException	e24455:902;
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private @NotNull FileType detectFromContent(@NotNull VirtualFile, @NotNull ByteArraySequence) throws java.io.IOException	e25363:144;

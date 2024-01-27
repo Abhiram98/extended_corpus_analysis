@@ -1,0 +1,5 @@
+com.intellij.openapi.vfs.newvfs.RefreshWorker	private void processQueue(List<com.intellij.openapi.vfs.newvfs.events.VFileEvent>) throws com.intellij.openapi.vfs.newvfs.RefreshWorker.RefreshCancelledException	e6832:53;
+com.intellij.openapi.vfs.newvfs.RefreshWorker	private void processQueue(List<com.intellij.openapi.vfs.newvfs.events.VFileEvent>) throws com.intellij.openapi.vfs.newvfs.RefreshWorker.RefreshCancelledException	e7173:57;
+com.intellij.openapi.vfs.newvfs.RefreshWorker	private void processQueue(List<com.intellij.openapi.vfs.newvfs.events.VFileEvent>) throws com.intellij.openapi.vfs.newvfs.RefreshWorker.RefreshCancelledException	e6775:110;
+com.intellij.openapi.vfs.newvfs.RefreshWorker	private void processQueue(List<com.intellij.openapi.vfs.newvfs.events.VFileEvent>) throws com.intellij.openapi.vfs.newvfs.RefreshWorker.RefreshCancelledException	e7133:97;
+com.intellij.openapi.vfs.newvfs.RefreshWorker	private void processQueue(List<com.intellij.openapi.vfs.newvfs.events.VFileEvent>) throws com.intellij.openapi.vfs.newvfs.RefreshWorker.RefreshCancelledException	e6497:110;

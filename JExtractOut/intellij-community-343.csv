@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/featureStatistics/ProductivityFeaturesRegistryImpl.java,lazyLoadFromPluginsFeaturesProviders,"(114, 133)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/featureStatistics/ProductivityFeaturesRegistryImpl.java,lazyLoadFromPluginsFeaturesProviders,"(122, 133)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/featureStatistics/ProductivityFeaturesRegistryImpl.java,lazyLoadFromPluginsFeaturesProviders,"(114, 129)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/featureStatistics/ProductivityFeaturesRegistryImpl.java,lazyLoadFromPluginsFeaturesProviders,"(105, 133)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/featureStatistics/ProductivityFeaturesRegistryImpl.java,lazyLoadFromPluginsFeaturesProviders,"(129, 133)"

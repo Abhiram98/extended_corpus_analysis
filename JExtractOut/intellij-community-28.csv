@@ -1,0 +1,6 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/persistent/PersistentFSImpl.java,invalidateSubtree,"(1681, 1687)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/persistent/PersistentFSImpl.java,invalidateSubtree,"(1683, 1687)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/persistent/PersistentFSImpl.java,invalidateSubtree,"(1682, 1687)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/persistent/PersistentFSImpl.java,invalidateSubtree,"(1684, 1687)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/persistent/PersistentFSImpl.java,invalidateSubtree,"(1683, 1686)"

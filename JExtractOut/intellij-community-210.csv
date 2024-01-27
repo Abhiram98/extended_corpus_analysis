@@ -1,0 +1,4 @@
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/application/options/editor/fonts/FontFamilyCombo.java,<init>,"(38, 39)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/application/options/editor/fonts/FontFamilyCombo.java,<init>,"(37, 38)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/application/options/editor/fonts/FontFamilyCombo.java,<init>,"(37, 38)"

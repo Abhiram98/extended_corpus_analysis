@@ -1,0 +1,3 @@
+com.intellij.ide.troubleshooting.CompositeGeneralTroubleInfoCollector	static transient @NotNull String collectInfo(@NotNull Project, @NotNull GeneralTroubleInfoCollector @NotNull []) 	e913:160;
+com.intellij.ide.troubleshooting.CompositeGeneralTroubleInfoCollector	static transient @NotNull String collectInfo(@NotNull Project, @NotNull GeneralTroubleInfoCollector @NotNull []) 	e913:130;
+com.intellij.ide.troubleshooting.CompositeGeneralTroubleInfoCollector	static transient @NotNull String collectInfo(@NotNull Project, @NotNull GeneralTroubleInfoCollector @NotNull []) 	e989:84;
