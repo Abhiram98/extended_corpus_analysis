@@ -1,0 +1,5 @@
+com.intellij.ide.projectView.impl.ProjectViewImpl	public sealed boolean isAutoscrollFromSource(java.lang.String) 	e53391:120;
+com.intellij.ide.projectView.impl.ProjectViewImpl	public sealed boolean isAutoscrollFromSource(java.lang.String) 	e53358:153;
+com.intellij.ide.projectView.impl.ProjectViewImpl	public sealed boolean isAutoscrollFromSource(java.lang.String) 	e53322:189;
+com.intellij.ide.projectView.impl.ProjectViewImpl	public sealed boolean isAutoscrollFromSource(java.lang.String) 	e53255:256;
+com.intellij.ide.projectView.impl.ProjectViewImpl	public sealed boolean isAutoscrollFromSource(java.lang.String) 	e53190:321;

@@ -1,0 +1,2 @@
+com.intellij.codeInsight.editorActions.TypedHandler	private static boolean isInsideLiteral(@NotNull Editor, @NotNull QuoteHandler, int) 	e24805:40;
+com.intellij.codeInsight.editorActions.TypedHandler	private static boolean isInsideLiteral(@NotNull Editor, @NotNull QuoteHandler, int) 	e24776:127;

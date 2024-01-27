@@ -1,0 +1,5 @@
+com.intellij.ide.actions.SelectInContextImpl	private static com.intellij.ide.SelectInContext createEditorContext(@Nullable Project, @Nullable FileEditor, @Nullable VirtualFile) 	e4684:368;
+com.intellij.ide.actions.SelectInContextImpl	private static com.intellij.ide.SelectInContext createEditorContext(@Nullable Project, @Nullable FileEditor, @Nullable VirtualFile) 	e4461:591;
+com.intellij.ide.actions.SelectInContextImpl	private static com.intellij.ide.SelectInContext createEditorContext(@Nullable Project, @Nullable FileEditor, @Nullable VirtualFile) 	e4542:510;
+com.intellij.ide.actions.SelectInContextImpl	private static com.intellij.ide.SelectInContext createEditorContext(@Nullable Project, @Nullable FileEditor, @Nullable VirtualFile) 	e4500:552;
+com.intellij.ide.actions.SelectInContextImpl	private static com.intellij.ide.SelectInContext createEditorContext(@Nullable Project, @Nullable FileEditor, @Nullable VirtualFile) 	e5390:59;

@@ -1,0 +1,5 @@
+com.intellij.codeInsight.documentation.DocumentationHtmlUtil	static void prepareCSS(@NotNull HTMLEditorKit) 	e2896:2335;
+com.intellij.codeInsight.documentation.DocumentationHtmlUtil	static void prepareCSS(@NotNull HTMLEditorKit) 	e2691:2540;
+com.intellij.codeInsight.documentation.DocumentationHtmlUtil	static void prepareCSS(@NotNull HTMLEditorKit) 	e2627:2604;
+com.intellij.codeInsight.documentation.DocumentationHtmlUtil	static void prepareCSS(@NotNull HTMLEditorKit) 	e2691:597;
+com.intellij.codeInsight.documentation.DocumentationHtmlUtil	static void prepareCSS(@NotNull HTMLEditorKit) 	e2691:510;

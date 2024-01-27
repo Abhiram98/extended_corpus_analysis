@@ -1,0 +1,2 @@
+com.intellij.codeInsight.daemon.impl.ShowErrorDescriptionHandler	public void invoke(@NotNull Project, @NotNull Editor, @NotNull PsiFile) 	e1525:138;
+com.intellij.codeInsight.daemon.impl.ShowErrorDescriptionHandler	public void invoke(@NotNull Project, @NotNull Editor, @NotNull PsiFile) 	e1322:198;

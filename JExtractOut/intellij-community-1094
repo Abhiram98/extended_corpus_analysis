@@ -1,0 +1,5 @@
+com.intellij.psi.stubs.StubUpdatingIndex	public sealed @NotNull SingleEntryIndexer<SerializedStubTree> getIndexer() 	e8241:162;
+com.intellij.psi.stubs.StubUpdatingIndex	public sealed @NotNull SingleEntryIndexer<SerializedStubTree> getIndexer() 	e7706:248;
+com.intellij.psi.stubs.StubUpdatingIndex	public sealed @NotNull SingleEntryIndexer<SerializedStubTree> getIndexer() 	e7828:126;
+com.intellij.psi.stubs.StubUpdatingIndex	public sealed @NotNull SingleEntryIndexer<SerializedStubTree> getIndexer() 	e8241:231;
+com.intellij.psi.stubs.StubUpdatingIndex	public sealed @NotNull SingleEntryIndexer<SerializedStubTree> getIndexer() 	e8157:246;

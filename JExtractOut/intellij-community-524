@@ -1,0 +1,5 @@
+com.intellij.codeInspection.NonAsciiCharactersInspection	public sealed @NotNull PsiElementVisitor buildVisitor(@NotNull ProblemsHolder, boolean, @NotNull LocalInspectionToolSession) 	e3843:804;
+com.intellij.codeInspection.NonAsciiCharactersInspection	public sealed @NotNull PsiElementVisitor buildVisitor(@NotNull ProblemsHolder, boolean, @NotNull LocalInspectionToolSession) 	e4007:628;
+com.intellij.codeInspection.NonAsciiCharactersInspection	public sealed @NotNull PsiElementVisitor buildVisitor(@NotNull ProblemsHolder, boolean, @NotNull LocalInspectionToolSession) 	e3976:671;
+com.intellij.codeInspection.NonAsciiCharactersInspection	public sealed @NotNull PsiElementVisitor buildVisitor(@NotNull ProblemsHolder, boolean, @NotNull LocalInspectionToolSession) 	e3590:1067;
+com.intellij.codeInspection.NonAsciiCharactersInspection	public sealed @NotNull PsiElementVisitor buildVisitor(@NotNull ProblemsHolder, boolean, @NotNull LocalInspectionToolSession) 	e3559:1098;

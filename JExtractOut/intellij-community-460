@@ -1,0 +1,5 @@
+com.intellij.ide.structureView.newStructureView.StructureViewComponent	protected @NotNull ActionGroup createActionGroup() 	e12353:710;
+com.intellij.ide.structureView.newStructureView.StructureViewComponent	protected @NotNull ActionGroup createActionGroup() 	e12295:768;
+com.intellij.ide.structureView.newStructureView.StructureViewComponent	protected @NotNull ActionGroup createActionGroup() 	e13144:131;
+com.intellij.ide.structureView.newStructureView.StructureViewComponent	protected @NotNull ActionGroup createActionGroup() 	e13114:161;
+com.intellij.ide.structureView.newStructureView.StructureViewComponent	protected @NotNull ActionGroup createActionGroup() 	e13069:231;

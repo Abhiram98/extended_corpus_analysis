@@ -1,0 +1,1 @@
+com.intellij.codeInsight.daemon.impl.ErrorStripeUpdateManager	private com.intellij.codeInsight.daemon.impl.TrafficLightRenderer createRenderer(@NotNull Editor, @Nullable PsiFile) 	e4218:213;

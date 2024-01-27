@@ -1,0 +1,1 @@
+com.intellij.codeInsight.editorActions.TypedHandler	private static boolean hasNonClosedLiterals(@NotNull Editor, @NotNull QuoteHandler, int) 	e23991:40;

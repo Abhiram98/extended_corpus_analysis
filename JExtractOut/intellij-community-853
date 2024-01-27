@@ -1,0 +1,10 @@
+com.intellij.codeInsight.documentation.render.DocRenderItem.MyVisibleAreaListener	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e24406:300;
+com.intellij.codeInsight.documentation.render.DocRenderItem.MyVisibleAreaListener	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e24458:248;
+com.intellij.codeInsight.documentation.render.DocRenderItem.MyVisibleAreaListener	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e24514:192;
+com.intellij.codeInsight.documentation.render.DocRenderItem.MyVisibleAreaListener	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e24629:69;
+com.intellij.codeInsight.documentation.render.DocRenderItem.MyVisibleAreaListener	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e24599:99;
+com.intellij.codeInsight.documentation.render.DocRenderItem.IconVisibilityController	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e28746:476;
+com.intellij.codeInsight.documentation.render.DocRenderItem.IconVisibilityController	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e29007:207;
+com.intellij.codeInsight.documentation.render.DocRenderItem.IconVisibilityController	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e28784:430;
+com.intellij.codeInsight.documentation.render.DocRenderItem.IconVisibilityController	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e29052:150;
+com.intellij.codeInsight.documentation.render.DocRenderItem.IconVisibilityController	public void visibleAreaChanged(@NotNull VisibleAreaEvent) 	e29052:117;

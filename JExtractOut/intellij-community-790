@@ -1,0 +1,5 @@
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e3135:733;
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e3135:712;
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e3261:196;
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e3234:229;
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e2895:234;

@@ -1,0 +1,5 @@
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected @Nullable PsiElement findElementForQuickDoc(com.intellij.openapi.editor.Editor, int, com.intellij.openapi.project.Project) 	e15620:277;
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected @Nullable PsiElement findElementForQuickDoc(com.intellij.openapi.editor.Editor, int, com.intellij.openapi.project.Project) 	e15620:161;
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected @Nullable PsiElement findElementForQuickDoc(com.intellij.openapi.editor.Editor, int, com.intellij.openapi.project.Project) 	e15589:316;
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected @Nullable PsiElement findElementForQuickDoc(com.intellij.openapi.editor.Editor, int, com.intellij.openapi.project.Project) 	e15491:414;
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected @Nullable PsiElement findElementForQuickDoc(com.intellij.openapi.editor.Editor, int, com.intellij.openapi.project.Project) 	e15790:107;

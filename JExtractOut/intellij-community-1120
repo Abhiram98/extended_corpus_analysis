@@ -1,0 +1,5 @@
+com.intellij.ide.bookmarks.BookmarkManager	public void setMnemonic(@NotNull Bookmark, char) 	e17599:156;
+com.intellij.ide.bookmarks.BookmarkManager	public void setMnemonic(@NotNull Bookmark, char) 	e17665:90;
+com.intellij.ide.bookmarks.BookmarkManager	public void setMnemonic(@NotNull Bookmark, char) 	e17790:75;
+com.intellij.ide.bookmarks.BookmarkManager	public void setMnemonic(@NotNull Bookmark, char) 	e17599:114;
+com.intellij.ide.bookmarks.BookmarkManager	public void setMnemonic(@NotNull Bookmark, char) 	e17761:104;

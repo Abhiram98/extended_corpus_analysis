@@ -1,0 +1,5 @@
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected void handleMouseMoved(@NotNull EditorMouseEvent) 	e6766:495;
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected void handleMouseMoved(@NotNull EditorMouseEvent) 	e6893:368;
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected void handleMouseMoved(@NotNull EditorMouseEvent) 	e6732:529;
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected void handleMouseMoved(@NotNull EditorMouseEvent) 	e6420:906;
+com.intellij.openapi.editor.EditorMouseHoverPopupManager	protected void handleMouseMoved(@NotNull EditorMouseEvent) 	e6353:973;

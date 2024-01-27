@@ -1,0 +1,5 @@
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable Pair<@NotNull PsiElement,@Nullable String> getTarget(@Nullable PsiElement, @Nullable String) 	e52397:643;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable Pair<@NotNull PsiElement,@Nullable String> getTarget(@Nullable PsiElement, @Nullable String) 	e52607:425;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable Pair<@NotNull PsiElement,@Nullable String> getTarget(@Nullable PsiElement, @Nullable String) 	e52570:470;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable Pair<@NotNull PsiElement,@Nullable String> getTarget(@Nullable PsiElement, @Nullable String) 	e52469:571;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable Pair<@NotNull PsiElement,@Nullable String> getTarget(@Nullable PsiElement, @Nullable String) 	e52397:166;

@@ -1,0 +1,5 @@
+com.intellij.ide.scratch.ScratchesPopupAction	public sealed void actionPerformed(@NotNull AnActionEvent) 	e3061:345;
+com.intellij.ide.scratch.ScratchesPopupAction	public sealed void actionPerformed(@NotNull AnActionEvent) 	e1811:1955;
+com.intellij.ide.scratch.ScratchesPopupAction	public sealed void actionPerformed(@NotNull AnActionEvent) 	e2068:1385;
+com.intellij.ide.scratch.ScratchesPopupAction	public sealed void actionPerformed(@NotNull AnActionEvent) 	e2068:172;
+com.intellij.ide.scratch.ScratchesPopupAction	public sealed void actionPerformed(@NotNull AnActionEvent) 	e3491:265;

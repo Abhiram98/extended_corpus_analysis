@@ -1,0 +1,5 @@
+com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler	protected void showIntentionHint(@NotNull Project, @NotNull Editor, @NotNull PsiFile, @NotNull ShowIntentionsPass.IntentionsInfo, boolean) 	e5024:176;
+com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler	protected void showIntentionHint(@NotNull Project, @NotNull Editor, @NotNull PsiFile, @NotNull ShowIntentionsPass.IntentionsInfo, boolean) 	e4663:345;
+com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler	protected void showIntentionHint(@NotNull Project, @NotNull Editor, @NotNull PsiFile, @NotNull ShowIntentionsPass.IntentionsInfo, boolean) 	e4737:261;
+com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler	protected void showIntentionHint(@NotNull Project, @NotNull Editor, @NotNull PsiFile, @NotNull ShowIntentionsPass.IntentionsInfo, boolean) 	e4737:162;
+com.intellij.codeInsight.intention.impl.ShowIntentionActionsHandler	protected void showIntentionHint(@NotNull Project, @NotNull Editor, @NotNull PsiFile, @NotNull ShowIntentionsPass.IntentionsInfo, boolean) 	e4859:139;

@@ -1,0 +1,1 @@
+com.intellij.codeInsight.editorActions.TypedHandler	private static @Nullable CharSequence getClosingQuote(@NotNull Editor, @NotNull MultiCharQuoteHandler, int) 	e23301:39;

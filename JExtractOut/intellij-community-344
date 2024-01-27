@@ -1,0 +1,5 @@
+com.intellij.find.FindUtil	public static void configureFindModel(boolean, @Nullable Editor, com.intellij.find.FindModel, boolean) 	e4041:715;
+com.intellij.find.FindUtil	public static void configureFindModel(boolean, @Nullable Editor, com.intellij.find.FindModel, boolean) 	e4041:678;
+com.intellij.find.FindUtil	public static void configureFindModel(boolean, @Nullable Editor, com.intellij.find.FindModel, boolean) 	e3929:790;
+com.intellij.find.FindUtil	public static void configureFindModel(boolean, @Nullable Editor, com.intellij.find.FindModel, boolean) 	e3852:836;
+com.intellij.find.FindUtil	public static void configureFindModel(boolean, @Nullable Editor, com.intellij.find.FindModel, boolean) 	e3852:805;

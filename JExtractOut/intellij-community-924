@@ -1,0 +1,5 @@
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable PsiElement findTargetElementUnsafe(com.intellij.openapi.editor.Editor, int, @Nullable PsiFile, com.intellij.psi.PsiElement) 	e39866:1196;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable PsiElement findTargetElementUnsafe(com.intellij.openapi.editor.Editor, int, @Nullable PsiFile, com.intellij.psi.PsiElement) 	e39985:201;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable PsiElement findTargetElementUnsafe(com.intellij.openapi.editor.Editor, int, @Nullable PsiFile, com.intellij.psi.PsiElement) 	e39959:233;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable PsiElement findTargetElementUnsafe(com.intellij.openapi.editor.Editor, int, @Nullable PsiFile, com.intellij.psi.PsiElement) 	e39928:1134;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable PsiElement findTargetElementUnsafe(com.intellij.openapi.editor.Editor, int, @Nullable PsiFile, com.intellij.psi.PsiElement) 	e39866:1298;

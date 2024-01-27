@@ -1,0 +1,5 @@
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable HtmlChunk getExternalText(@Nullable PsiElement, @NlsSafe @Nullable String, @Nullable DocumentationProvider) 	e79682:201;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable HtmlChunk getExternalText(@Nullable PsiElement, @NlsSafe @Nullable String, @Nullable DocumentationProvider) 	e78948:935;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable HtmlChunk getExternalText(@Nullable PsiElement, @NlsSafe @Nullable String, @Nullable DocumentationProvider) 	e78838:1045;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable HtmlChunk getExternalText(@Nullable PsiElement, @NlsSafe @Nullable String, @Nullable DocumentationProvider) 	e78986:897;
+com.intellij.codeInsight.documentation.DocumentationManager	private @Nullable HtmlChunk getExternalText(@Nullable PsiElement, @NlsSafe @Nullable String, @Nullable DocumentationProvider) 	e79194:268;

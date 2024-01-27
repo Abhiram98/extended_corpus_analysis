@@ -1,0 +1,1 @@
+com.intellij.codeInsight.editorActions.TypedHandler	private static boolean isClosingQuote(@NotNull Editor, @NotNull QuoteHandler, int) 	e22933:40;
