@@ -24,9 +24,9 @@ def main():
         url = obj['host_function_before_ef']['url']
         # proj = "/".join(url.split('https://github.com/')[1].split('/')[:2])
         project_name = url.split('https://github.com/')[1].split('/')[1]
-        hf_loc = len(obj['host_function_before_ef']['function_src'].split('\\n'))
-        # func_src = obj['host_function_before_ef']['function_src'].replace('\\n', '\n')
-        # hf_loc = func_src[func_src.find('{'):func_src.rfind('}')+1].count('\n')+1
+        # hf_loc = len(obj['host_function_before_ef']['function_src'].split('\\n'))
+        func_src = obj['host_function_before_ef']['function_src'].replace('\\n', '\n')
+        hf_loc = func_src[func_src.find('{'):func_src.rfind('}')+1].count('\n')+1
         project_data[project_name].append({
             "projectName": project_name,
             "sha": obj['sha_before_ef'],
@@ -78,30 +78,30 @@ def analyse():
         # if base_dir!='projects/CoreNLP/src':
         #     continue
 
-        subprocess.run([
-            "git", "-C", "projects/CoreNLP",
-            "restore", "."
-        ])
-
-        subprocess.run([
-            "git", "-C", "projects/CoreNLP",
-            "checkout", "-f", ref['sha']
-        ])
-
-        # with open(relpath) as f:
-        #     hf_loc = f.read()
-
-        try:
-            convert_jextract(["--jextract-out", f"JExtractOut/CoreNLP-{i}",
-                              "--base-dir", base_dir],
-                             standalone_mode=False)
-        except:
-            print("Coudn't read data.")
-            hits_and_misses.append(False)
-            with open(f"JExtractOut/CoreNLP-{i}.csv", "w") as f:
-                f.write("JExtract internal error.")
-            unreadable += 1
-            continue
+        # subprocess.run([
+        #     "git", "-C", "projects/CoreNLP",
+        #     "restore", "."
+        # ])
+        #
+        # subprocess.run([
+        #     "git", "-C", "projects/CoreNLP",
+        #     "checkout", "-f", ref['sha']
+        # ])
+        #
+        # # with open(relpath) as f:
+        # #     hf_loc = f.read()
+        #
+        # try:
+        #     convert_jextract(["--jextract-out", f"JExtractOut/CoreNLP-{i}",
+        #                       "--base-dir", base_dir],
+        #                      standalone_mode=False)
+        # except:
+        #     print("Coudn't read data.")
+        #     hits_and_misses.append(False)
+        #     with open(f"JExtractOut/CoreNLP-{i}.csv", "w") as f:
+        #         f.write("JExtract internal error.")
+        #     unreadable += 1
+        #     continue
 
         df = pd.read_csv(f"JExtractOut/CoreNLP-{i}.csv")
         # suggestions = df[
@@ -178,16 +178,64 @@ def analyse_intellij():
         data = json.load(f)
     pass
 
+def analyse_liveref(project_name, tolerance = 3, topn=5):
+    with open(f"{project_name}-data.json") as f:
+        data = json.load(f)
+    with open(f"{project_name}-completed.json") as f:
+        completed = json.load(f)
+    client = MongoClient('localhost', 27017)
+    db_name = 'extract_function'
+    collection_name = 'extended_corpus'
+    collection = client[db_name][collection_name]
+    all_objs = collection.find({})
+
+    hits_and_misses = []
+
+    for i, d in enumerate(data):
+        if not completed[i]:
+            continue
+        obj = all_objs[i]
+        liveref_data = obj['liveref_analysis']['rank_by_size']
+
+        ref = data[i]
+        oracle_start, oracle_end, hf_loc = ref['lineStart'], ref['lineEnd'], ref['hfLoc']
+
+        assert ref['sha'] == obj['sha_before_ef']
+        if liveref_data is None:
+            hits_and_misses.append(False)
+            continue
+
+        found=  False
+        for ld in liveref_data[:topn]:
+            other_start, other_end = ld['line_start'], ld['line_end']
+            if within_tolerance(oracle_start, oracle_end,
+                                other_start, other_end, tolerance=tolerance, hf_loc=hf_loc):
+                hits_and_misses.append(True)
+                found=True
+
+        if not found:
+            hits_and_misses.append(False)
+
+    print(f"{len(hits_and_misses)}")
+    print(f"{sum(hits_and_misses)/len(hits_and_misses)}")
+
+    with open("hits_and_misses-liveref.json", "w") as f:
+        json.dump(hits_and_misses, f, indent=1)
+
+
 
 
 if __name__ == '__main__':
-    main()
+    # main()
     # analyse()
     # update_completed("intellij-community")
+
 
     update_completed("CoreNLP")
 
     # update_completed("CoreNLP")
+
+    update_completed("CoreNLP")
 
     # analyse_intellij()
 
