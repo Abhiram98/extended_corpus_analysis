@@ -25,6 +25,8 @@ def main():
         # proj = "/".join(url.split('https://github.com/')[1].split('/')[:2])
         project_name = url.split('https://github.com/')[1].split('/')[1]
         hf_loc = len(obj['host_function_before_ef']['function_src'].split('\\n'))
+        # func_src = obj['host_function_before_ef']['function_src'].replace('\\n', '\n')
+        # hf_loc = func_src[func_src.find('{'):func_src.rfind('}')+1].count('\n')+1
         project_data[project_name].append({
             "projectName": project_name,
             "sha": obj['sha_before_ef'],
@@ -48,7 +50,7 @@ def main():
 
     for pname in project_data.keys():
         with open(f"{pname}-data.json", 'w') as f:
-            json.dump(project_data[pname], f)
+            json.dump(project_data[pname], f, indent=1)
 
 
 
@@ -179,10 +181,14 @@ def analyse_intellij():
 
 
 if __name__ == '__main__':
-    # main()
+    main()
     # analyse()
     # update_completed("intellij-community")
+
     update_completed("CoreNLP")
+
+    # update_completed("CoreNLP")
+
     # analyse_intellij()
 
 # platform/analysis-api/src/com/intellij/codeInsight/intention/preview/IntentionPreviewInfo.java
