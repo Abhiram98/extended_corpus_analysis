@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,findTargetElementUnsafe,"(943, 971)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,findTargetElementUnsafe,"(946, 947)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,findTargetElementUnsafe,"(945, 948)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,findTargetElementUnsafe,"(944, 971)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,findTargetElementUnsafe,"(943, 974)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/PerformFixesModalTask.java,iteration,"(77, 80)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/PerformFixesModalTask.java,iteration,"(76, 81)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/PerformFixesModalTask.java,iteration,"(75, 81)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/PerformFixesModalTask.java,iteration,"(78, 80)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ex/PerformFixesModalTask.java,iteration,"(74, 82)"

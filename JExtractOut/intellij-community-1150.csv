@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/GroupedElementsRenderer.java,configureComponent,"(44, 55)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/GroupedElementsRenderer.java,configureComponent,"(57, 62)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/GroupedElementsRenderer.java,configureComponent,"(57, 60)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/GroupedElementsRenderer.java,configureComponent,"(60, 62)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/GroupedElementsRenderer.java,configureComponent,"(44, 57)"

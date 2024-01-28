@@ -1,1 +1,3 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/projectView/impl/ProjectViewImpl.java,selectElementFromEditor,"(1722, 1723)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/projectView/impl/ProjectViewImpl.java,selectElementFromEditor,"(1723, 1723)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/FilePageCacheLockFree.java,unmapPageAndReclaimBuffer,"(539, 547)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/FilePageCacheLockFree.java,unmapPageAndReclaimBuffer,"(538, 548)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/FilePageCacheLockFree.java,unmapPageAndReclaimBuffer,"(538, 547)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/FilePageCacheLockFree.java,unmapPageAndReclaimBuffer,"(530, 535)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/FilePageCacheLockFree.java,unmapPageAndReclaimBuffer,"(527, 536)"

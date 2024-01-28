@@ -1,1 +1,5 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/commander/AbstractListBuilder.java,drillDown,"(93, 94)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/commander/AbstractListBuilder.java,drillDown,"(92, 94)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/commander/AbstractListBuilder.java,drillDown,"(92, 93)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/commander/AbstractListBuilder.java,drillDown,"(91, 98)"

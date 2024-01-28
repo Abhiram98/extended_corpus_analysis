@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/io/FileSetLimiter.java,removeOlderFiles,"(179, 180)"
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/io/FileSetLimiter.java,removeOlderFiles,"(177, 185)"
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/io/FileSetLimiter.java,removeOlderFiles,"(178, 185)"
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/io/FileSetLimiter.java,removeOlderFiles,"(175, 191)"
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/io/FileSetLimiter.java,removeOlderFiles,"(175, 193)"

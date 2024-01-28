@@ -1,1 +1,11 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(46, 48)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(45, 55)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(45, 54)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(46, 55)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(46, 50)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(66, 70)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(65, 69)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(66, 69)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(64, 65)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/ex/SingleConfigurableEditor.java,<init>,"(68, 70)"

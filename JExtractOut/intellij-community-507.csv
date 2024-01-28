@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addRecursively,"(347, 348)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addRecursively,"(335, 342)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addRecursively,"(337, 341)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addRecursively,"(336, 342)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addRecursively,"(324, 330)"

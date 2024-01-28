@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/ShowIntentionActionsHandler.java,showIntentionHint,"(103, 105)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/ShowIntentionActionsHandler.java,showIntentionHint,"(97, 101)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/ShowIntentionActionsHandler.java,showIntentionHint,"(98, 100)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/ShowIntentionActionsHandler.java,showIntentionHint,"(98, 99)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/ShowIntentionActionsHandler.java,showIntentionHint,"(99, 100)"

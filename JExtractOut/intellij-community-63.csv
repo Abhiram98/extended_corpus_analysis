@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/BaseButtonBehavior.java,<init>,"(50, 52)"
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/BaseButtonBehavior.java,<init>,"(51, 52)"
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/BaseButtonBehavior.java,<init>,"(49, 52)"
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/BaseButtonBehavior.java,<init>,"(48, 51)"
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/BaseButtonBehavior.java,<init>,"(46, 47)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/StubUpdatingIndex.java,getIndexer,"(187, 188)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/StubUpdatingIndex.java,getIndexer,"(178, 181)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/StubUpdatingIndex.java,getIndexer,"(179, 181)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/StubUpdatingIndex.java,getIndexer,"(187, 189)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/StubUpdatingIndex.java,getIndexer,"(186, 188)"

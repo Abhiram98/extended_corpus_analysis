@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doContainsMapping,"(665, 667)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doContainsMapping,"(679, 680)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doContainsMapping,"(671, 681)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doContainsMapping,"(670, 685)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doContainsMapping,"(665, 669)"

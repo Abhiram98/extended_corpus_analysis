@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/openapi/keymap/MacKeymapUtil.java,getModifiersText,"(55, 56)"
+projects/intellij-community/platform/platform-api/src/com/intellij/openapi/keymap/MacKeymapUtil.java,getModifiersText,"(55, 58)"
+projects/intellij-community/platform/platform-api/src/com/intellij/openapi/keymap/MacKeymapUtil.java,getModifiersText,"(55, 57)"
+projects/intellij-community/platform/platform-api/src/com/intellij/openapi/keymap/MacKeymapUtil.java,getModifiersText,"(54, 58)"
+projects/intellij-community/platform/platform-api/src/com/intellij/openapi/keymap/MacKeymapUtil.java,getModifiersText,"(54, 57)"

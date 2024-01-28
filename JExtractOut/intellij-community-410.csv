@@ -1,1 +1,3 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/dependenciesCache/RescannedRootsUtil.java,getLibraryIteratorBuilders,"(117, 124)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/dependenciesCache/RescannedRootsUtil.java,getLibraryIteratorBuilders,"(118, 124)"

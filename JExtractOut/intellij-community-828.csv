@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/WholeFileLocalInspectionsPassFactory.java,createHighlightingPass,"(117, 118)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/WholeFileLocalInspectionsPassFactory.java,createHighlightingPass,"(118, 121)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/WholeFileLocalInspectionsPassFactory.java,createHighlightingPass,"(117, 121)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/WholeFileLocalInspectionsPassFactory.java,createHighlightingPass,"(101, 107)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/WholeFileLocalInspectionsPassFactory.java,createHighlightingPass,"(85, 123)"

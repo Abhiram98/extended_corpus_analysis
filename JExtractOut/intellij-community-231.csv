@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/projectView/impl/ProjectViewImpl.java,isAutoscrollFromSource,"(1472, 1473)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/projectView/impl/ProjectViewImpl.java,isAutoscrollFromSource,"(1471, 1473)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/projectView/impl/ProjectViewImpl.java,isAutoscrollFromSource,"(1470, 1473)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/projectView/impl/ProjectViewImpl.java,isAutoscrollFromSource,"(1469, 1473)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/projectView/impl/ProjectViewImpl.java,isAutoscrollFromSource,"(1468, 1473)"

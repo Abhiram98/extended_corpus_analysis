@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,getTarget,"(1234, 1246)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,getTarget,"(1237, 1245)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,getTarget,"(1236, 1246)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,getTarget,"(1235, 1246)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,getTarget,"(1234, 1235)"

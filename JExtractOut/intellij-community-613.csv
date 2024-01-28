@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextFieldWithAutoCompletionListProvider.java,fillCompletionVariants,"(87, 88)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextFieldWithAutoCompletionListProvider.java,fillCompletionVariants,"(89, 108)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextFieldWithAutoCompletionListProvider.java,fillCompletionVariants,"(93, 108)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextFieldWithAutoCompletionListProvider.java,fillCompletionVariants,"(87, 108)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/TextFieldWithAutoCompletionListProvider.java,fillCompletionVariants,"(86, 91)"

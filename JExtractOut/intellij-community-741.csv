@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationHtmlUtil.java,prepareCSS,"(71, 104)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationHtmlUtil.java,prepareCSS,"(68, 104)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationHtmlUtil.java,prepareCSS,"(67, 104)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationHtmlUtil.java,prepareCSS,"(68, 78)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationHtmlUtil.java,prepareCSS,"(68, 77)"

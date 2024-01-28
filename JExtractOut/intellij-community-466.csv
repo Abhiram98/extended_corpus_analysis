@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/MixedListFactory.java,createModel,"(31, 33)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/MixedListFactory.java,createModel,"(30, 33)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/MixedListFactory.java,createModel,"(30, 43)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/MixedListFactory.java,createModel,"(35, 43)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/MixedListFactory.java,createModel,"(31, 43)"

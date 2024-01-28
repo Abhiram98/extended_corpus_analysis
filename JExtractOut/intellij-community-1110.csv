@@ -1,1 +1,5 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,processExistingKeys,"(534, 536)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,processExistingKeys,"(534, 542)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,processExistingKeys,"(537, 542)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,processExistingKeys,"(545, 546)"

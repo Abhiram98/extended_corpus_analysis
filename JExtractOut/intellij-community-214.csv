@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,saveTo,"(455, 457)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,saveTo,"(447, 448)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,saveTo,"(457, 457)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,saveTo,"(447, 449)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,saveTo,"(459, 470)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doPut,"(390, 395)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doPut,"(390, 394)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doPut,"(389, 396)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doPut,"(387, 396)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doPut,"(398, 434)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/execution/services/ServiceTreeView.java,eventProcessed,"(504, 510)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/execution/services/ServiceTreeView.java,eventProcessed,"(511, 514)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/execution/services/ServiceTreeView.java,eventProcessed,"(511, 513)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/execution/services/ServiceTreeView.java,eventProcessed,"(504, 514)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/execution/services/ServiceTreeView.java,eventProcessed,"(504, 513)"

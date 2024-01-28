@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/find/FindUtil.java,configureFindModel,"(91, 109)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/find/FindUtil.java,configureFindModel,"(91, 108)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/find/FindUtil.java,configureFindModel,"(90, 108)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/find/FindUtil.java,configureFindModel,"(89, 107)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/find/FindUtil.java,configureFindModel,"(89, 106)"

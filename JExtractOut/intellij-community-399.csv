@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/navigationToolbar/NavBarPanel.java,getData,"(740, 750)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/navigationToolbar/NavBarPanel.java,getData,"(736, 750)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/navigationToolbar/NavBarPanel.java,getData,"(741, 742)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/navigationToolbar/NavBarPanel.java,getData,"(746, 747)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/navigationToolbar/NavBarPanel.java,getData,"(745, 750)"

@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/application/options/colors/ColorSettingsUtil.java,addInspectionSeverityAttributes,"(75, 80)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/application/options/colors/ColorSettingsUtil.java,addInspectionSeverityAttributes,"(64, 73)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/application/options/colors/ColorSettingsUtil.java,addInspectionSeverityAttributes,"(77, 78)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/application/options/colors/ColorSettingsUtil.java,addInspectionSeverityAttributes,"(71, 80)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/application/options/colors/ColorSettingsUtil.java,addInspectionSeverityAttributes,"(67, 73)"

@@ -1,1 +1,7 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/tree/TreeUtil.java,visitVisibleRows,"(1887, 1889)"
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/tree/TreeUtil.java,visitVisibleRows,"(1886, 1889)"
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/tree/TreeUtil.java,visitVisibleRows,"(1883, 1889)"
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/tree/TreeUtil.java,visitVisibleRows,"(1883, 1886)"
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/tree/TreeUtil.java,visitVisibleRows,"(1883, 1885)"
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/tree/TreeUtil.java,visitVisibleRows,"(1920, 1920)"

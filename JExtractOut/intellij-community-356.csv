@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/plaf/beg/IdeaMenuUI.java,paintHover,"(213, 218)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/plaf/beg/IdeaMenuUI.java,paintHover,"(212, 222)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/plaf/beg/IdeaMenuUI.java,paintHover,"(214, 217)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/plaf/beg/IdeaMenuUI.java,paintHover,"(213, 217)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/plaf/beg/IdeaMenuUI.java,paintHover,"(214, 218)"

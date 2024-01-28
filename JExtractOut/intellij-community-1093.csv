@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/ResizeableMappedFile.java,writeLength,"(147, 149)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/ResizeableMappedFile.java,writeLength,"(135, 145)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/ResizeableMappedFile.java,writeLength,"(139, 142)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/ResizeableMappedFile.java,writeLength,"(139, 144)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/ResizeableMappedFile.java,writeLength,"(143, 144)"

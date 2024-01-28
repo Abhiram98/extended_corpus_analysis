@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/hints/ParameterHintsPass.java,asyncUpdate,"(83, 85)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/hints/ParameterHintsPass.java,asyncUpdate,"(74, 81)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/hints/ParameterHintsPass.java,asyncUpdate,"(75, 77)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/hints/ParameterHintsPass.java,asyncUpdate,"(75, 76)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/hints/ParameterHintsPass.java,asyncUpdate,"(76, 77)"

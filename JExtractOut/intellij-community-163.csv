@@ -1,1 +1,4 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/internal/inspector/components/HierarchyTree.java,createComponentNode,"(190, 196)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/internal/inspector/components/HierarchyTree.java,createComponentNode,"(191, 197)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/internal/inspector/components/HierarchyTree.java,createComponentNode,"(191, 196)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/ObjectTree.java,assertIsEmpty,"(230, 234)"
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/ObjectTree.java,assertIsEmpty,"(231, 234)"
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/ObjectTree.java,assertIsEmpty,"(231, 233)"
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/ObjectTree.java,assertIsEmpty,"(230, 233)"
+projects/intellij-community/platform/util/src/com/intellij/openapi/util/ObjectTree.java,assertIsEmpty,"(222, 224)"

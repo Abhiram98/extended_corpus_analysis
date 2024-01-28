@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,doPut,"(235, 237)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,doPut,"(235, 235)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,doPut,"(238, 245)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,doPut,"(235, 238)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,doPut,"(241, 242)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchesPopupAction.java,actionPerformed,"(65, 69)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchesPopupAction.java,actionPerformed,"(44, 78)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchesPopupAction.java,actionPerformed,"(49, 72)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchesPopupAction.java,actionPerformed,"(49, 50)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchesPopupAction.java,actionPerformed,"(75, 77)"

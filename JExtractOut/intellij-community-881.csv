@@ -1,1 +1,2 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/ErrorStripeUpdateManager.java,createRenderer,"(93, 99)"

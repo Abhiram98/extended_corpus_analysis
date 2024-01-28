@@ -1,1 +1,5 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,contentsToByteArray,"(193, 193)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,contentsToByteArray,"(192, 192)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,contentsToByteArray,"(191, 192)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,contentsToByteArray,"(193, 194)"

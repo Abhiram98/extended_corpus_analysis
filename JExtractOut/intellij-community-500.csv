@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,setAddressInternal,"(444, 444)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,setAddressInternal,"(448, 451)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,setAddressInternal,"(447, 451)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,setAddressInternal,"(446, 447)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/IntToIntBtree.java,setAddressInternal,"(444, 447)"

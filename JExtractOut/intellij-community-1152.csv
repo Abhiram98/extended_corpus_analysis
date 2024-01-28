@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionToolbarImpl.java,setMiniMode,"(1595, 1596)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionToolbarImpl.java,setMiniMode,"(1587, 1588)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionToolbarImpl.java,setMiniMode,"(1588, 1590)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionToolbarImpl.java,setMiniMode,"(1588, 1589)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionToolbarImpl.java,setMiniMode,"(1594, 1596)"

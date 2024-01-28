@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/TitledSeparator.java,<init>,"(47, 51)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/TitledSeparator.java,<init>,"(45, 52)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/TitledSeparator.java,<init>,"(45, 51)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/TitledSeparator.java,<init>,"(47, 52)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/TitledSeparator.java,<init>,"(48, 51)"

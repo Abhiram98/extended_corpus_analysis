@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/UnindexedFilesScannerExecutor.java,startTaskInDumbMode,"(76, 84)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/UnindexedFilesScannerExecutor.java,startTaskInDumbMode,"(87, 88)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/UnindexedFilesScannerExecutor.java,startTaskInDumbMode,"(77, 84)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/UnindexedFilesScannerExecutor.java,startTaskInDumbMode,"(78, 79)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/UnindexedFilesScannerExecutor.java,startTaskInDumbMode,"(82, 83)"

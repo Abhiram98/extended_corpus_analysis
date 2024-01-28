@@ -1,1 +1,5 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/MapIndexStorage.java,initMapAndCache,"(88, 105)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/MapIndexStorage.java,initMapAndCache,"(89, 105)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/MapIndexStorage.java,initMapAndCache,"(96, 98)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/MapIndexStorage.java,initMapAndCache,"(93, 94)"

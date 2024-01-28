@@ -1,1 +1,5 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/runAnything/RunAnythingAction.java,updateShortcut,"(111, 112)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/runAnything/RunAnythingAction.java,updateShortcut,"(110, 113)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/runAnything/RunAnythingAction.java,updateShortcut,"(117, 118)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/runAnything/RunAnythingAction.java,updateShortcut,"(116, 119)"

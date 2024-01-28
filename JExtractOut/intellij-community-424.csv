@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/template/impl/InvokeTemplateAction.java,perform,"(105, 107)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/template/impl/InvokeTemplateAction.java,perform,"(82, 108)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/template/impl/InvokeTemplateAction.java,perform,"(87, 100)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/template/impl/InvokeTemplateAction.java,perform,"(102, 103)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/template/impl/InvokeTemplateAction.java,perform,"(83, 104)"

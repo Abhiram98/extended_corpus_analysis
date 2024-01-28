@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,createAppendCache,"(240, 262)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,createAppendCache,"(241, 262)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,createAppendCache,"(241, 258)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,createAppendCache,"(240, 258)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,createAppendCache,"(242, 262)"

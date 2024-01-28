@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/mac/screenmenu/Menu.java,endFill,"(105, 106)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/mac/screenmenu/Menu.java,endFill,"(99, 113)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/mac/screenmenu/Menu.java,endFill,"(99, 111)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/mac/screenmenu/Menu.java,endFill,"(99, 110)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/mac/screenmenu/Menu.java,endFill,"(97, 113)"

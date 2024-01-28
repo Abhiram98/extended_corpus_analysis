@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/NonAsciiCharactersInspection.java,buildVisitor,"(99, 111)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/NonAsciiCharactersInspection.java,buildVisitor,"(102, 110)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/NonAsciiCharactersInspection.java,buildVisitor,"(101, 111)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/NonAsciiCharactersInspection.java,buildVisitor,"(94, 112)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/NonAsciiCharactersInspection.java,buildVisitor,"(93, 112)"

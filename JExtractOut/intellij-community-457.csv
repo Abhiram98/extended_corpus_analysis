@@ -1,1 +1,4 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/impl/PsiDocumentManagerImpl.java,getPsiFile,"(66, 75)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/impl/PsiDocumentManagerImpl.java,getPsiFile,"(68, 74)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/impl/PsiDocumentManagerImpl.java,getPsiFile,"(67, 75)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/ToolbarDecorator.java,installUpdaters,"(476, 481)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/ToolbarDecorator.java,installUpdaters,"(473, 481)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/ToolbarDecorator.java,installUpdaters,"(473, 478)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/ToolbarDecorator.java,installUpdaters,"(470, 478)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/ToolbarDecorator.java,installUpdaters,"(470, 475)"

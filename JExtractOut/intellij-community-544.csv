@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,removeAssociatedValue,"(161, 166)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,removeAssociatedValue,"(152, 176)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,removeAssociatedValue,"(173, 175)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,removeAssociatedValue,"(172, 176)"
+projects/intellij-community/platform/util/src/com/intellij/util/indexing/impl/ValueContainerImpl.java,removeAssociatedValue,"(153, 176)"

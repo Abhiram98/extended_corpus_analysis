@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchFileServiceImpl.java,initFileOpenedListener,"(144, 147)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchFileServiceImpl.java,initFileOpenedListener,"(153, 174)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchFileServiceImpl.java,initFileOpenedListener,"(123, 151)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchFileServiceImpl.java,initFileOpenedListener,"(116, 151)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/scratch/ScratchFileServiceImpl.java,initFileOpenedListener,"(145, 147)"

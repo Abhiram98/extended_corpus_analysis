@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionResultsView.java,update,"(579, 580)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionResultsView.java,update,"(576, 586)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionResultsView.java,update,"(580, 581)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionResultsView.java,update,"(579, 581)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionResultsView.java,update,"(578, 585)"

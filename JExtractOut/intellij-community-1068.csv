@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/execution/process/AnsiStreamingLexer.java,advance,"(71, 72)"
+projects/intellij-community/platform/platform-api/src/com/intellij/execution/process/AnsiStreamingLexer.java,advance,"(75, 93)"
+projects/intellij-community/platform/platform-api/src/com/intellij/execution/process/AnsiStreamingLexer.java,advance,"(74, 93)"
+projects/intellij-community/platform/platform-api/src/com/intellij/execution/process/AnsiStreamingLexer.java,advance,"(77, 78)"
+projects/intellij-community/platform/platform-api/src/com/intellij/execution/process/AnsiStreamingLexer.java,advance,"(81, 82)"

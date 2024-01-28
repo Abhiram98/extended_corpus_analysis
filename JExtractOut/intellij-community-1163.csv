@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeConfigurable.java,<init>,"(445, 446)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeConfigurable.java,<init>,"(430, 449)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeConfigurable.java,<init>,"(427, 436)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeConfigurable.java,<init>,"(430, 451)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeConfigurable.java,<init>,"(427, 428)"

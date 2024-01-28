@@ -1,1 +1,5 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/refactoring/copy/CopyFilesOrDirectoriesHandler.java,handleExistingFiles,"(390, 395)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/refactoring/copy/CopyFilesOrDirectoriesHandler.java,handleExistingFiles,"(393, 394)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/refactoring/copy/CopyFilesOrDirectoriesHandler.java,handleExistingFiles,"(382, 384)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/refactoring/copy/CopyFilesOrDirectoriesHandler.java,handleExistingFiles,"(404, 406)"

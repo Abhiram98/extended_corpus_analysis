@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/Decompressor.java,extract,"(282, 341)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Decompressor.java,extract,"(307, 309)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Decompressor.java,extract,"(283, 341)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Decompressor.java,extract,"(306, 309)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Decompressor.java,extract,"(304, 316)"

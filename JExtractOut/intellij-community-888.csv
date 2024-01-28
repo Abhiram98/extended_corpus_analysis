@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/SelectInContextImpl.java,createEditorContext,"(128, 134)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/SelectInContextImpl.java,createEditorContext,"(122, 134)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/SelectInContextImpl.java,createEditorContext,"(125, 134)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/SelectInContextImpl.java,createEditorContext,"(123, 134)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/SelectInContextImpl.java,createEditorContext,"(142, 142)"

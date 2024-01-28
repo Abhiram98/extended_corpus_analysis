@@ -1,1 +1,10 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/PsiCopyPasteManager.java,getElements,"(77, 88)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/PsiCopyPasteManager.java,getElements,"(91, 92)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/PsiCopyPasteManager.java,getElements,"(81, 88)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/PsiCopyPasteManager.java,getElements,"(78, 88)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/PsiCopyPasteManager.java,getElements,"(82, 88)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/PsiCopyPasteManager.java,getElements,"(99, 106)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/PsiCopyPasteManager.java,getElements,"(167, 172)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/PsiCopyPasteManager.java,getElements,"(168, 171)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/PsiCopyPasteManager.java,getElements,"(169, 171)"
