@@ -1,3 +1,5 @@
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void trainClassifier(java.lang.String) 	e2407:71;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void trainClassifier(java.lang.String) 	e2336:99;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void testClassifier(java.lang.String) 	e2774:933;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void testClassifier(java.lang.String) 	e3487:150;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public void testClassifier(java.lang.String) 	e2561:175;
@@ -8,13 +10,17 @@ edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	priva
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private void outputTestSummary(Collection<java.lang.String>, GeneralDataset<java.lang.String,java.lang.String>, IntCounter<java.lang.String>) 	e5311:132;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private void outputTestSummary(Collection<java.lang.String>, GeneralDataset<java.lang.String,java.lang.String>, IntCounter<java.lang.String>) 	e4919:291;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private void outputTestSummary(Collection<java.lang.String>, GeneralDataset<java.lang.String,java.lang.String>, IntCounter<java.lang.String>) 	e5222:290;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private GeneralDataset<java.lang.String,java.lang.String> readDataset(java.lang.String) 	e5667:135;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private GeneralDataset<java.lang.String,java.lang.String> readDataset(java.lang.String) 	e5667:114;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private GeneralDataset<java.lang.String,java.lang.String> readDataset(java.lang.String) 	e5590:191;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e5917:308;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e5982:243;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e5946:279;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e6036:189;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e6036:129;
-edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e5982:183;
-edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	private Datum<java.lang.String,java.lang.String> makeDatumFromLine(java.lang.String) 	e5946:219;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e6913:48;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e6837:696;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e6837:130;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e6837:590;
 edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e6837:298;
-edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier	public static void main(java.lang.String[]) 	e7009:524;
+edu.stanford.nlp.international.spanish.pipeline.HamleDTMultiWordClassifier.LeadingVerbFeatureFunction	public List<java.lang.String> apply(java.lang.String) 	e8817:85;

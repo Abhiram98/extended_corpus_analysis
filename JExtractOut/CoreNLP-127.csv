@@ -1,5 +1,6 @@
 source_filename,function_name,loc_suggestion
 projects/CoreNLP/src/edu/stanford/nlp/trees/international/pennchinese/ChineseUtils.java,normalize,"(94, 97)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/international/pennchinese/ChineseUtils.java,normalize,"(98, 102)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/international/pennchinese/ChineseUtils.java,normalizeBMP,"(120, 125)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/international/pennchinese/ChineseUtils.java,normalizeBMP,"(120, 126)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/international/pennchinese/ChineseUtils.java,normalizeBMP,"(121, 125)"

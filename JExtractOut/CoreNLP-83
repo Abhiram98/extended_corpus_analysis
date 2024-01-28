@@ -4,14 +4,15 @@ edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void <init>(java.lang
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void <init>(java.lang.String, java.util.Properties) 	e3044:230;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void <init>(java.lang.String, java.util.Properties) 	e2953:329;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4239:75;
+edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4319:249;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4439:77;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4408:160;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e4239:164;
+edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void splitCharacters(edu.stanford.nlp.util.CoreMap) 	e5763:3131;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void splitCharacters(edu.stanford.nlp.util.CoreMap) 	e5787:3107;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void splitCharacters(edu.stanford.nlp.util.CoreMap) 	e5839:3055;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void splitCharacters(edu.stanford.nlp.util.CoreMap) 	e5920:2974;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void splitCharacters(edu.stanford.nlp.util.CoreMap) 	e5876:3018;
-edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void splitCharacters(edu.stanford.nlp.util.CoreMap) 	e7687:1144;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void runSegmentation(edu.stanford.nlp.util.CoreMap) 	e9708:799;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void runSegmentation(edu.stanford.nlp.util.CoreMap) 	e9684:823;
 edu.stanford.nlp.pipeline.ChineseSegmenterAnnotator	private void runSegmentation(edu.stanford.nlp.util.CoreMap) 	e10513:2929;

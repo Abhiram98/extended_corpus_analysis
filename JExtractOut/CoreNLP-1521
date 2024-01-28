@@ -21,8 +21,8 @@ edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(edu.stanford
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e4127:163;
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e4058:232;
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e4058:133;
+edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e3987:303;
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e3987:204;
-edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e3987:135;
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void main(java.lang.String[]) throws java.io.IOException	e6177:1695;
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void main(java.lang.String[]) throws java.io.IOException	e6103:1769;
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void main(java.lang.String[]) throws java.io.IOException	e5975:1897;

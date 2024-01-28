@@ -3,8 +3,11 @@ edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	void <init>(edu.stanford.nlp.se
 edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	void <init>(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.semgraph.semgrex.Alignment, edu.stanford.nlp.semgraph.SemanticGraph, boolean, edu.stanford.nlp.ling.IndexedWord, Map<java.lang.String,edu.stanford.nlp.ling.IndexedWord>, Map<java.lang.String,java.lang.String>, edu.stanford.nlp.semgraph.semgrex.VariableStrings) 	e1494:55;
 edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	void <init>(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.semgraph.semgrex.Alignment, edu.stanford.nlp.semgraph.SemanticGraph, boolean, edu.stanford.nlp.ling.IndexedWord, Map<java.lang.String,edu.stanford.nlp.ling.IndexedWord>, Map<java.lang.String,java.lang.String>, edu.stanford.nlp.semgraph.semgrex.VariableStrings) 	e1474:37;
 edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	void <init>(edu.stanford.nlp.semgraph.SemanticGraph, edu.stanford.nlp.semgraph.semgrex.Alignment, edu.stanford.nlp.semgraph.SemanticGraph, boolean, edu.stanford.nlp.ling.IndexedWord, Map<java.lang.String,edu.stanford.nlp.ling.IndexedWord>, Map<java.lang.String,java.lang.String>, edu.stanford.nlp.semgraph.semgrex.VariableStrings) 	e1410:79;
+edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	public void reset() 	e2093:51;
+edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	public void reset() 	e2068:46;
 edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	public boolean find() 	e5641:681;
 edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	public boolean find() 	e4364:380;
 edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	public boolean find() 	e4314:442;
 edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	public boolean find() 	e4899:412;
 edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	public boolean find() 	e4849:474;
+edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher	public boolean findNextMatchingNode() 	e6683:101;

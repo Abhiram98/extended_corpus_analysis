@@ -1,8 +1,8 @@
 edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public edu.stanford.nlp.semgraph.SemanticGraph apply(java.lang.String) 	e5160:109;
-edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public edu.stanford.nlp.semgraph.SemanticGraph apply(java.lang.String) 	e2973:2230;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public edu.stanford.nlp.semgraph.SemanticGraph apply(java.lang.String) 	e5160:91;
 edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public edu.stanford.nlp.semgraph.SemanticGraph apply(java.lang.String) 	e2044:3225;
-edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public edu.stanford.nlp.semgraph.SemanticGraph apply(java.lang.String) 	e2973:2179;
-edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public edu.stanford.nlp.semgraph.SemanticGraph apply(java.lang.String) 	e2973:2296;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public edu.stanford.nlp.semgraph.SemanticGraph apply(java.lang.String) 	e1984:3285;
+edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.SentenceProcessor	public edu.stanford.nlp.semgraph.SemanticGraph apply(java.lang.String) 	e2112:3157;
 edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.WordProcessor	public edu.stanford.nlp.ling.IndexedWord apply(java.lang.String) 	e5773:291;
 edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.WordProcessor	public edu.stanford.nlp.ling.IndexedWord apply(java.lang.String) 	e6308:757;
 edu.stanford.nlp.trees.ud.CoNLLUDocumentReader.WordProcessor	public edu.stanford.nlp.ling.IndexedWord apply(java.lang.String) 	e6382:683;

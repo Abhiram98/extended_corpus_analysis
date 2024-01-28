@@ -4,8 +4,15 @@ edu.stanford.nlp.pipeline.EntityMentionsAnnotator	public void <init>(java.lang.S
 edu.stanford.nlp.pipeline.EntityMentionsAnnotator	public void <init>(java.lang.String, java.util.Properties) 	e3521:307;
 edu.stanford.nlp.pipeline.EntityMentionsAnnotator	public void <init>(java.lang.String, java.util.Properties) 	e3469:165;
 edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static List<edu.stanford.nlp.ling.CoreLabel> tokensForCharacters(List<edu.stanford.nlp.ling.CoreLabel>, int, int) 	e3945:77;
+edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static List<edu.stanford.nlp.ling.CoreLabel> tokensForCharacters(List<edu.stanford.nlp.ling.CoreLabel>, int, int) 	e4027:189;
 edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static List<edu.stanford.nlp.ling.CoreLabel> tokensForCharacters(List<edu.stanford.nlp.ling.CoreLabel>, int, int) 	e4027:169;
 edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static List<edu.stanford.nlp.ling.CoreLabel> tokensForCharacters(List<edu.stanford.nlp.ling.CoreLabel>, int, int) 	e4064:126;
+edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static List<edu.stanford.nlp.ling.CoreLabel> tokensForCharacters(List<edu.stanford.nlp.ling.CoreLabel>, int, int) 	e3972:244;
+edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static Optional<edu.stanford.nlp.util.CoreMap> overlapsWithMention(edu.stanford.nlp.util.CoreMap, List<edu.stanford.nlp.util.CoreMap>) 	e6242:199;
+edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static Optional<edu.stanford.nlp.util.CoreMap> overlapsWithMention(edu.stanford.nlp.util.CoreMap, List<edu.stanford.nlp.util.CoreMap>) 	e6297:144;
+edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static Optional<edu.stanford.nlp.util.CoreMap> overlapsWithMention(edu.stanford.nlp.util.CoreMap, List<edu.stanford.nlp.util.CoreMap>) 	e5990:472;
+edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static Optional<edu.stanford.nlp.util.CoreMap> overlapsWithMention(edu.stanford.nlp.util.CoreMap, List<edu.stanford.nlp.util.CoreMap>) 	e6156:285;
+edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static Optional<edu.stanford.nlp.util.CoreMap> overlapsWithMention(edu.stanford.nlp.util.CoreMap, List<edu.stanford.nlp.util.CoreMap>) 	e6103:359;
 edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static List<edu.stanford.nlp.util.CoreMap> annotatePronominalMentions(edu.stanford.nlp.pipeline.Annotation) 	e8081:209;
 edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static List<edu.stanford.nlp.util.CoreMap> annotatePronominalMentions(edu.stanford.nlp.pipeline.Annotation) 	e7996:294;
 edu.stanford.nlp.pipeline.EntityMentionsAnnotator	private static List<edu.stanford.nlp.util.CoreMap> annotatePronominalMentions(edu.stanford.nlp.pipeline.Annotation) 	e8081:272;

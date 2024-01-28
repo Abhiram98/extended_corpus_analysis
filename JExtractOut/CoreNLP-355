@@ -1,8 +1,8 @@
+edu.stanford.nlp.dcoref.Dictionaries	private void setPronouns() 	e10836:206;
 edu.stanford.nlp.dcoref.Dictionaries	private void setPronouns() 	e10764:66;
 edu.stanford.nlp.dcoref.Dictionaries	private void setPronouns() 	e10881:161;
 edu.stanford.nlp.dcoref.Dictionaries	private void setPronouns() 	e10836:170;
 edu.stanford.nlp.dcoref.Dictionaries	private void setPronouns() 	e10764:112;
-edu.stanford.nlp.dcoref.Dictionaries	private void setPronouns() 	e10927:115;
 edu.stanford.nlp.dcoref.Dictionaries	public void loadStateAbbreviation(java.lang.String) 	e11367:99;
 edu.stanford.nlp.dcoref.Dictionaries	public void loadStateAbbreviation(java.lang.String) 	e11310:156;
 edu.stanford.nlp.dcoref.Dictionaries	public void loadStateAbbreviation(java.lang.String) 	e11279:195;
@@ -14,8 +14,15 @@ edu.stanford.nlp.dcoref.Dictionaries	private void loadDemonymLists(java.lang.Str
 edu.stanford.nlp.dcoref.Dictionaries	private void loadDemonymLists(java.lang.String) 	e11978:209;
 edu.stanford.nlp.dcoref.Dictionaries	private void loadDemonymLists(java.lang.String) 	e11932:255;
 edu.stanford.nlp.dcoref.Dictionaries	private static void getWordsFromFile(java.lang.String, Set<java.lang.String>, boolean) throws java.io.IOException	e12720:106;
+edu.stanford.nlp.dcoref.Dictionaries	private static void getWordsFromFile(java.lang.String, Set<java.lang.String>, boolean) throws java.io.IOException	e12690:187;
+edu.stanford.nlp.dcoref.Dictionaries	private static void getWordsFromFile(java.lang.String, Set<java.lang.String>, boolean) throws java.io.IOException	e12690:142;
+edu.stanford.nlp.dcoref.Dictionaries	private static void getWordsFromFile(java.lang.String, Set<java.lang.String>, boolean) throws java.io.IOException	e12555:277;
+edu.stanford.nlp.dcoref.Dictionaries	private void loadAnimacyLists(java.lang.String, java.lang.String) 	e12985:123;
+edu.stanford.nlp.dcoref.Dictionaries	private void loadGenderLists(java.lang.String, java.lang.String, java.lang.String) 	e13309:174;
 edu.stanford.nlp.dcoref.Dictionaries	private void loadGenderLists(java.lang.String, java.lang.String, java.lang.String) 	e13366:117;
 edu.stanford.nlp.dcoref.Dictionaries	private void loadGenderLists(java.lang.String, java.lang.String, java.lang.String) 	e13309:113;
+edu.stanford.nlp.dcoref.Dictionaries	private void loadNumberLists(java.lang.String, java.lang.String) 	e13663:119;
+edu.stanford.nlp.dcoref.Dictionaries	private void loadCountriesLists(java.lang.String) 	e14118:285;
 edu.stanford.nlp.dcoref.Dictionaries	private void loadCountriesLists(java.lang.String) 	e14283:90;
 edu.stanford.nlp.dcoref.Dictionaries	private void loadCountriesLists(java.lang.String) 	e14251:152;
 edu.stanford.nlp.dcoref.Dictionaries	private void loadCountriesLists(java.lang.String) 	e14251:130;

@@ -1,13 +1,13 @@
+edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public List<edu.stanford.nlp.ling.CoreLabel> entryToTokensList(java.lang.String) 	e553:353;
+edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public List<edu.stanford.nlp.ling.CoreLabel> entryToTokensList(java.lang.String) 	e553:326;
 edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public List<edu.stanford.nlp.ling.CoreLabel> entryToTokensList(java.lang.String) 	e667:206;
 edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public List<edu.stanford.nlp.ling.CoreLabel> entryToTokensList(java.lang.String) 	e667:176;
 edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public List<edu.stanford.nlp.ling.CoreLabel> entryToTokensList(java.lang.String) 	e735:138;
-edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public List<edu.stanford.nlp.ling.CoreLabel> entryToTokensList(java.lang.String) 	e618:261;
-edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public List<edu.stanford.nlp.ling.CoreLabel> entryToTokensList(java.lang.String) 	e812:61;
 edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public HashMap<java.lang.String,java.lang.Integer> sentenceResult(edu.stanford.nlp.pipeline.StanfordCoreNLP, List<edu.stanford.nlp.ling.CoreLabel>) throws java.lang.RuntimeException	e1967:173;
 edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public HashMap<java.lang.String,java.lang.Integer> sentenceResult(edu.stanford.nlp.pipeline.StanfordCoreNLP, List<edu.stanford.nlp.ling.CoreLabel>) throws java.lang.RuntimeException	e1201:761;
-edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public HashMap<java.lang.String,java.lang.Integer> sentenceResult(edu.stanford.nlp.pipeline.StanfordCoreNLP, List<edu.stanford.nlp.ling.CoreLabel>) throws java.lang.RuntimeException	e1323:639;
-edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public HashMap<java.lang.String,java.lang.Integer> sentenceResult(edu.stanford.nlp.pipeline.StanfordCoreNLP, List<edu.stanford.nlp.ling.CoreLabel>) throws java.lang.RuntimeException	e1323:798;
-edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public HashMap<java.lang.String,java.lang.Integer> sentenceResult(edu.stanford.nlp.pipeline.StanfordCoreNLP, List<edu.stanford.nlp.ling.CoreLabel>) throws java.lang.RuntimeException	e1323:750;
+edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public HashMap<java.lang.String,java.lang.Integer> sentenceResult(edu.stanford.nlp.pipeline.StanfordCoreNLP, List<edu.stanford.nlp.ling.CoreLabel>) throws java.lang.RuntimeException	e1323:109;
+edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public HashMap<java.lang.String,java.lang.Integer> sentenceResult(edu.stanford.nlp.pipeline.StanfordCoreNLP, List<edu.stanford.nlp.ling.CoreLabel>) throws java.lang.RuntimeException	e1201:188;
+edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public HashMap<java.lang.String,java.lang.Integer> sentenceResult(edu.stanford.nlp.pipeline.StanfordCoreNLP, List<edu.stanford.nlp.ling.CoreLabel>) throws java.lang.RuntimeException	e1437:703;
 edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public void testEnglishPOSModelAccuracy() 	e3055:157;
 edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public void testEnglishPOSModelAccuracy() 	e3391:201;
 edu.stanford.nlp.pipeline.POSTaggerBenchmarkITest	public void testEnglishPOSModelAccuracy() 	e3391:160;

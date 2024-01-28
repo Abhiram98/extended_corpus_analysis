@@ -1,8 +1,8 @@
 edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e2035:76;
+edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e896:1133;
 edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1199:830;
 edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1265:764;
 edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1329:229;
-edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public static java.lang.String runCorefTest(boolean) throws java.lang.Exception	e1442:116;
 edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public void testDcoref() throws java.lang.Exception	e7439:258;
 edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public void testDcoref() throws java.lang.Exception	e7439:677;
 edu.stanford.nlp.dcoref.DcorefBenchmarkSlowITest	public void testDcoref() throws java.lang.Exception	e7704:412;

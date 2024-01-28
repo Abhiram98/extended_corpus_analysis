@@ -1,9 +1,9 @@
 source_filename,function_name,loc_suggestion
 projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(133, 137)"
-projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(84, 133)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(133, 135)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(62, 137)"
-projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(84, 131)"
-projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(84, 137)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(60, 137)"
+projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(64, 137)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(159, 163)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(168, 183)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/ud/CoNLLUDocumentReader.java,apply,"(170, 183)"

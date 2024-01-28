@@ -1,9 +1,9 @@
 source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,<init>,"(33, 46)"
+projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,<init>,"(34, 46)"
 projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,<init>,"(35, 46)"
 projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,<init>,"(37, 46)"
 projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,<init>,"(38, 43)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,<init>,"(34, 35)"
-projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,<init>,"(33, 35)"
 projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,runCoref,"(54, 61)"
 projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,runCoref,"(53, 61)"
 projects/CoreNLP/src/edu/stanford/nlp/coref/neural/NeuralCorefAlgorithm.java,runCoref,"(55, 60)"

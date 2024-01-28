@@ -1,11 +1,12 @@
+edu.stanford.nlp.ie.crf.CheckTrueCaser	public static void main(java.lang.String[]) throws java.lang.Exception	e790:601;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	public static void main(java.lang.String[]) throws java.lang.Exception	e1269:122;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	public static void main(java.lang.String[]) throws java.lang.Exception	e1177:214;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	public static void main(java.lang.String[]) throws java.lang.Exception	e1068:323;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	public static void main(java.lang.String[]) throws java.lang.Exception	e986:405;
-edu.stanford.nlp.ie.crf.CheckTrueCaser	public static void main(java.lang.String[]) throws java.lang.Exception	e941:450;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	private static void processPath(java.lang.String, edu.stanford.nlp.pipeline.StanfordCoreNLP) 	e1702:145;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	private static void processPath(java.lang.String, edu.stanford.nlp.pipeline.StanfordCoreNLP) 	e1652:195;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	private static void processPath(java.lang.String, edu.stanford.nlp.pipeline.StanfordCoreNLP) 	e1733:106;
+edu.stanford.nlp.ie.crf.CheckTrueCaser	private static void processPath(java.lang.String, edu.stanford.nlp.pipeline.StanfordCoreNLP) 	e1538:315;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	private static void processFile(java.lang.String, edu.stanford.nlp.pipeline.StanfordCoreNLP) 	e2189:301;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	private static void processFile(java.lang.String, edu.stanford.nlp.pipeline.StanfordCoreNLP) 	e2242:248;
 edu.stanford.nlp.ie.crf.CheckTrueCaser	private static void processFile(java.lang.String, edu.stanford.nlp.pipeline.StanfordCoreNLP) 	e2242:294;

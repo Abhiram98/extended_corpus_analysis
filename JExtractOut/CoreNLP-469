@@ -7,7 +7,7 @@ edu.stanford.nlp.patterns.surface.PatternsForEachToken	void createTable() throws
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	void createTable() throws java.sql.SQLException, java.lang.ClassNotFoundException	e2183:147;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	void createTable() throws java.sql.SQLException, java.lang.ClassNotFoundException	e2136:194;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	void createTable() throws java.sql.SQLException, java.lang.ClassNotFoundException	e2012:96;
-edu.stanford.nlp.patterns.surface.PatternsForEachToken	void createTable() throws java.sql.SQLException, java.lang.ClassNotFoundException	e1728:109;
+edu.stanford.nlp.patterns.surface.PatternsForEachToken	void createTable() throws java.sql.SQLException, java.lang.ClassNotFoundException	e1842:494;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPatterns(Map<java.lang.String,Map<java.lang.Integer,Set<java.lang.Integer>>>) throws java.io.IOException, java.sql.SQLException	e2851:43;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPatterns(Map<java.lang.String,Map<java.lang.Integer,Set<java.lang.Integer>>>) throws java.io.IOException, java.sql.SQLException	e2834:66;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPatterns(Map<java.lang.String,Map<java.lang.Integer,Set<java.lang.Integer>>>) throws java.io.IOException, java.sql.SQLException	e2627:195;
@@ -16,8 +16,8 @@ edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPatterns(M
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPattern(java.lang.String, int, Set<java.lang.Integer>) throws java.sql.SQLException, java.io.IOException	e3519:43;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPattern(java.lang.String, int, Set<java.lang.Integer>) throws java.sql.SQLException, java.io.IOException	e3502:66;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPattern(java.lang.String, int, Set<java.lang.Integer>) throws java.sql.SQLException, java.io.IOException	e3451:117;
+edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPattern(java.lang.String, int, Set<java.lang.Integer>) throws java.sql.SQLException, java.io.IOException	e3403:165;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPattern(java.lang.String, int, Set<java.lang.Integer>) throws java.sql.SQLException, java.io.IOException	e3403:93;
-edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPattern(java.lang.String, int, Set<java.lang.Integer>) throws java.sql.SQLException, java.io.IOException	e3403:42;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPattern(java.lang.String, int, Set<java.lang.Integer>, java.sql.PreparedStatement) throws java.sql.SQLException, java.io.IOException	e4672:202;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPattern(java.lang.String, int, Set<java.lang.Integer>, java.sql.PreparedStatement) throws java.sql.SQLException, java.io.IOException	e3745:904;
 edu.stanford.nlp.patterns.surface.PatternsForEachToken	public void addPattern(java.lang.String, int, Set<java.lang.Integer>, java.sql.PreparedStatement) throws java.sql.SQLException, java.io.IOException	e3745:870;

@@ -3,6 +3,11 @@ edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public void <init>(edu.stanfo
 edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public void <init>(edu.stanford.nlp.parser.lexparser.Options, edu.stanford.nlp.parser.lexparser.Lexicon, edu.stanford.nlp.parser.common.ParserGrammar) 	e3904:690;
 edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public void <init>(edu.stanford.nlp.parser.lexparser.Options, edu.stanford.nlp.parser.lexparser.Lexicon, edu.stanford.nlp.parser.common.ParserGrammar) 	e3977:617;
 edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public void <init>(edu.stanford.nlp.parser.lexparser.Options, edu.stanford.nlp.parser.lexparser.Lexicon, edu.stanford.nlp.parser.common.ParserGrammar) 	e4058:399;
+edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public double getLBScore() 	e9349:84;
+edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public double getTagScore() 	e9548:84;
+edu.stanford.nlp.parser.lexparser.EvaluateTreebank	private static void nanScores(edu.stanford.nlp.trees.Tree) 	e9914:71;
+edu.stanford.nlp.parser.lexparser.EvaluateTreebank	private static void nanScores(edu.stanford.nlp.trees.Tree) 	e9848:61;
+edu.stanford.nlp.parser.lexparser.EvaluateTreebank	private static void nanScores(edu.stanford.nlp.trees.Tree) 	e9879:106;
 edu.stanford.nlp.parser.lexparser.EvaluateTreebank	private List<edu.stanford.nlp.ling.CoreLabel> getInputSentence(edu.stanford.nlp.trees.Tree) 	e10593:154;
 edu.stanford.nlp.parser.lexparser.EvaluateTreebank	private List<edu.stanford.nlp.ling.CoreLabel> getInputSentence(edu.stanford.nlp.trees.Tree) 	e10628:109;
 edu.stanford.nlp.parser.lexparser.EvaluateTreebank	private List<edu.stanford.nlp.ling.CoreLabel> getInputSentence(edu.stanford.nlp.trees.Tree) 	e10593:198;
@@ -17,4 +22,4 @@ edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public double testOnTreebank(
 edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public double testOnTreebank(edu.stanford.nlp.trees.Treebank) 	e26913:210;
 edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public double testOnTreebank(edu.stanford.nlp.trees.Treebank) 	e25742:2731;
 edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public double testOnTreebank(edu.stanford.nlp.trees.Treebank) 	e25742:2674;
-edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public double testOnTreebank(edu.stanford.nlp.trees.Treebank) 	e25696:2641;
+edu.stanford.nlp.parser.lexparser.EvaluateTreebank	public double testOnTreebank(edu.stanford.nlp.trees.Treebank) 	e22582:5891;

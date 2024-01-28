@@ -1,9 +1,9 @@
 source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/naturalli/OpenIEServlet.java,init,"(32, 47)"
 projects/CoreNLP/src/edu/stanford/nlp/naturalli/OpenIEServlet.java,init,"(29, 31)"
 projects/CoreNLP/src/edu/stanford/nlp/naturalli/OpenIEServlet.java,init,"(33, 46)"
 projects/CoreNLP/src/edu/stanford/nlp/naturalli/OpenIEServlet.java,init,"(44, 45)"
 projects/CoreNLP/src/edu/stanford/nlp/naturalli/OpenIEServlet.java,init,"(43, 45)"
-projects/CoreNLP/src/edu/stanford/nlp/naturalli/OpenIEServlet.java,init,"(43, 44)"
 projects/CoreNLP/src/edu/stanford/nlp/naturalli/OpenIEServlet.java,quote,"(98, 99)"
 projects/CoreNLP/src/edu/stanford/nlp/naturalli/OpenIEServlet.java,quote,"(72, 73)"
 projects/CoreNLP/src/edu/stanford/nlp/naturalli/OpenIEServlet.java,quote,"(77, 79)"

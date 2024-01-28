@@ -1,8 +1,8 @@
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public void <init>(int, ThreadsafeProcessor<I,O>, boolean) 	e3034:217;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public void <init>(int, ThreadsafeProcessor<I,O>, boolean) 	e2819:990;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public void <init>(int, ThreadsafeProcessor<I,O>, boolean) 	e2755:675;
+edu.stanford.nlp.util.concurrent.MulticoreWrapper	public void <init>(int, ThreadsafeProcessor<I,O>, boolean) 	e2755:1054;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public void <init>(int, ThreadsafeProcessor<I,O>, boolean) 	e2963:288;
-edu.stanford.nlp.util.concurrent.MulticoreWrapper	public void <init>(int, ThreadsafeProcessor<I,O>, boolean) 	e2819:611;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public synchronized void put(I) throws java.util.concurrent.RejectedExecutionException	e5389:186;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public synchronized void put(I) throws java.util.concurrent.RejectedExecutionException	e4977:407;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public synchronized void put(I) throws java.util.concurrent.RejectedExecutionException	e4957:427;
@@ -14,14 +14,17 @@ edu.stanford.nlp.util.concurrent.MulticoreWrapper	public void join(boolean) 	e61
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public void join(boolean) 	e6103:79;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public void join(boolean) 	e6191:393;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public O poll() 	e8306:141;
+edu.stanford.nlp.util.concurrent.MulticoreWrapper	public O poll() 	e8279:168;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper	public O poll() 	e8279:126;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public void <init>(I, int, ThreadsafeProcessor<I,O>, int, JobCallback<O>) 	e9319:63;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public void <init>(I, int, ThreadsafeProcessor<I,O>, int, JobCallback<O>) 	e9285:65;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public void <init>(I, int, ThreadsafeProcessor<I,O>, int, JobCallback<O>) 	e9257:55;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public void <init>(I, int, ThreadsafeProcessor<I,O>, int, JobCallback<O>) 	e9233:45;
+edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public void <init>(I, int, ThreadsafeProcessor<I,O>, int, JobCallback<O>) 	e9285:97;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public java.lang.Integer call() 	e9452:99;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public java.lang.Integer call() 	e9452:166;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public java.lang.Integer call() 	e9452:143;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public java.lang.Integer call() 	e9753:120;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.CallableJob	public java.lang.Integer call() 	e9753:97;
 edu.stanford.nlp.util.concurrent.MulticoreWrapper.QueueItem	public sealed boolean equals(java.lang.Object) 	e10517:86;
+edu.stanford.nlp.util.concurrent.MulticoreWrapper.QueueItem	public sealed boolean equals(java.lang.Object) 	e10460:143;

@@ -1,3 +1,6 @@
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double[] initial() 	e3083:250;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double[] initial() 	e3083:230;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double[] initial() 	e3029:284;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static int getPriorType(java.lang.String) 	e3726:571;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static int getPriorType(java.lang.String) 	e3639:658;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static int getPriorType(java.lang.String) 	e3813:484;
@@ -38,6 +41,8 @@ edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	private void calculat
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	private void calculateStochasticGradientLocal(double[], int[]) 	e16728:138;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	private void calculateStochasticGradientLocal(double[], int[]) 	e16562:304;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	private void calculateStochasticGradientLocal(double[], int[]) 	e16728:601;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	private void clearUpdateEs() 	e17569:93;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	private void clearUpdateEs() 	e17462:102;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double calculateStochasticUpdate(double[], double, int[], double) 	e18637:98;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double calculateStochasticUpdate(double[], double, int[], double) 	e18586:149;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double calculateStochasticUpdate(double[], double, int[], double) 	e18555:180;
@@ -52,7 +57,8 @@ edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double 
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double valueAt(double[], double, int[]) 	e24414:198;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double valueAt(double[], double, int[]) 	e24252:322;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double valueAt(double[], double, int[]) 	e24252:156;
-edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double valueAt(double[], double, int[]) 	e24094:314;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public sealed double valueAt(double[], double, int[]) 	e24094:480;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public int[][] getFeatureGrouping() 	e24750:96;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public int[][] getFeatureGrouping() 	e24783:63;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public int[][] getFeatureGrouping() 	e24750:79;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void applyPrior(double[], double) 	e25108:207;
@@ -65,14 +71,17 @@ edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected Pair<double
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected Pair<double[][][],double[][][]> getCondProbs(CRFCliqueTree#RAW, int[][][]) 	e28335:515;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected Pair<double[][][],double[][][]> getCondProbs(CRFCliqueTree#RAW, int[][][]) 	e28335:385;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected Pair<double[][][],double[][][]> getCondProbs(CRFCliqueTree#RAW, int[][][]) 	e26767:2789;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], double[][]) 	e29779:97;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>) 	e30199:80;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>) 	e30138:141;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>) 	e30166:113;
-edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>) 	e30019:40;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>) 	e30064:221;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>) 	e30047:238;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>, double) 	e30582:88;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>, double) 	e30521:149;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>, double) 	e30549:121;
-edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>, double) 	e30402:40;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>, double) 	e30447:229;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected void combine2DArr(double[][], Map<java.lang.Integer,double[]>, double) 	e30430:246;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static double[][] to2D(double[], List<Index<edu.stanford.nlp.ie.crf.CRFLabel>>, int[]) 	e31594:109;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static double[][] to2D(double[], List<Index<edu.stanford.nlp.ie.crf.CRFLabel>>, int[]) 	e31594:149;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static double[][] to2D(double[], List<Index<edu.stanford.nlp.ie.crf.CRFLabel>>, int[]) 	e31478:299;
@@ -83,6 +92,14 @@ edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static void to
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static void to2D(double[], List<Index<edu.stanford.nlp.ie.crf.CRFLabel>>, int[], double[][]) 	e32156:299;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static void to2D(double[], List<Index<edu.stanford.nlp.ie.crf.CRFLabel>>, int[], double[][]) 	e32156:273;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static void to2D(double[], List<Index<edu.stanford.nlp.ie.crf.CRFLabel>>, int[], double[][]) 	e32323:98;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public double[][] to2D(double[], double) 	e32728:86;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public void to2D(double[], double, double[][]) 	e33025:86;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static void clear2D(double[][]) 	e33278:66;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static void to1D(double[][], double[]) 	e33488:110;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static void to1D(double[][], double[]) 	e33442:162;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static double[] to1D(double[][], int) 	e33742:204;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static double[] to1D(double[][], int) 	e33742:181;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static double[] to1D(double[][], int) 	e33761:185;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static double[] to1D(double[][], int) 	e33761:162;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public static double[] to1D(double[][], int) 	e33807:110;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public int[][] getWeightIndices() 	e34378:47;
@@ -90,3 +107,6 @@ edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public int[][] getWei
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public int[][] getWeightIndices() 	e34239:196;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public int[][] getWeightIndices() 	e34192:251;
 edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	public int[][] getWeightIndices() 	e34171:272;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected double[][] empty2D() 	e34587:116;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected double[][] empty2D() 	e34587:102;
+edu.stanford.nlp.ie.crf.CRFLogConditionalObjectiveFunction	protected double[][] empty2D() 	e34520:169;

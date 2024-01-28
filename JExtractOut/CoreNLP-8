@@ -1,5 +1,5 @@
 edu.stanford.nlp.pipeline.TextOutputter	private static void print(edu.stanford.nlp.pipeline.Annotation, java.io.PrintWriter, edu.stanford.nlp.pipeline.AnnotationOutputter.Options) 	e6875:369;
-edu.stanford.nlp.pipeline.TextOutputter	private static void print(edu.stanford.nlp.pipeline.Annotation, java.io.PrintWriter, edu.stanford.nlp.pipeline.AnnotationOutputter.Options) 	e7658:1625;
 edu.stanford.nlp.pipeline.TextOutputter	private static void print(edu.stanford.nlp.pipeline.Annotation, java.io.PrintWriter, edu.stanford.nlp.pipeline.AnnotationOutputter.Options) 	e6048:3235;
+edu.stanford.nlp.pipeline.TextOutputter	private static void print(edu.stanford.nlp.pipeline.Annotation, java.io.PrintWriter, edu.stanford.nlp.pipeline.AnnotationOutputter.Options) 	e7658:1625;
 edu.stanford.nlp.pipeline.TextOutputter	private static void print(edu.stanford.nlp.pipeline.Annotation, java.io.PrintWriter, edu.stanford.nlp.pipeline.AnnotationOutputter.Options) 	e6428:2855;
 edu.stanford.nlp.pipeline.TextOutputter	private static void print(edu.stanford.nlp.pipeline.Annotation, java.io.PrintWriter, edu.stanford.nlp.pipeline.AnnotationOutputter.Options) 	e6523:2760;

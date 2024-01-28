@@ -4,11 +4,12 @@ edu.stanford.nlp.patterns.PhraseScorer	double getPatTFIDFScore(edu.stanford.nlp.
 edu.stanford.nlp.patterns.PhraseScorer	double getPatTFIDFScore(edu.stanford.nlp.patterns.CandidatePhrase, Counter<E>, Counter<E>) 	e2546:486;
 edu.stanford.nlp.patterns.PhraseScorer	double getPatTFIDFScore(edu.stanford.nlp.patterns.CandidatePhrase, Counter<E>, Counter<E>) 	e2242:222;
 edu.stanford.nlp.patterns.PhraseScorer	public static double getGoogleNgramScore(edu.stanford.nlp.patterns.CandidatePhrase) 	e3348:161;
+edu.stanford.nlp.patterns.PhraseScorer	public static double getGoogleNgramScore(edu.stanford.nlp.patterns.CandidatePhrase) 	e3323:206;
 edu.stanford.nlp.patterns.PhraseScorer	public double getDomainNgramScore(java.lang.String) 	e3869:62;
 edu.stanford.nlp.patterns.PhraseScorer	public double getDomainNgramScore(java.lang.String) 	e3815:292;
 edu.stanford.nlp.patterns.PhraseScorer	public double getDomainNgramScore(java.lang.String) 	e3704:403;
+edu.stanford.nlp.patterns.PhraseScorer	public double getDomainNgramScore(java.lang.String) 	e3610:497;
 edu.stanford.nlp.patterns.PhraseScorer	public double getDomainNgramScore(java.lang.String) 	e3610:88;
-edu.stanford.nlp.patterns.PhraseScorer	public double getDomainNgramScore(java.lang.String) 	e3589:109;
 edu.stanford.nlp.patterns.PhraseScorer	public double getDistSimWtScore(java.lang.String, java.lang.String) 	e4966:113;
 edu.stanford.nlp.patterns.PhraseScorer	public double getDistSimWtScore(java.lang.String, java.lang.String) 	e4396:683;
 edu.stanford.nlp.patterns.PhraseScorer	public double getDistSimWtScore(java.lang.String, java.lang.String) 	e4644:220;

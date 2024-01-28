@@ -7,6 +7,7 @@ edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void <init>(edu.stanford.n
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void <init>(edu.stanford.nlp.ie.NERClassifierCombiner, boolean, int, long, int) 	e8458:53;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void <init>(edu.stanford.nlp.ie.NERClassifierCombiner, boolean, int, long, int) 	e8438:43;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void <init>(edu.stanford.nlp.ie.NERClassifierCombiner, boolean, int, long, int) 	e8415:38;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public void <init>(edu.stanford.nlp.ie.NERClassifierCombiner, boolean, int, long, int) 	e8458:101;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e9519:378;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e8763:689;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void annotate(edu.stanford.nlp.pipeline.Annotation) 	e8928:473;
@@ -17,3 +18,8 @@ edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e11999:37;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e10888:1156;
 edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e11668:368;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneFailedSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e12255:220;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public sealed void doOneFailedSentence(edu.stanford.nlp.pipeline.Annotation, edu.stanford.nlp.util.CoreMap) 	e12384:85;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public Set<Class<? extends CoreAnnotation#RAW>> requirementsSatisfied() 	e15357:144;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public Set<Class<? extends CoreAnnotation#RAW>> requirementsSatisfied() 	e15357:107;
+edu.stanford.nlp.pipeline.NERCombinerAnnotator	public Set<Class<? extends CoreAnnotation#RAW>> requirementsSatisfied() 	e14417:1047;

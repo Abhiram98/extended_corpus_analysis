@@ -3,14 +3,16 @@ edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.util.Propert
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.util.Properties) 	e7556:492;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.util.Properties) 	e7420:531;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.util.Properties) 	e6086:2541;
+edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.lang.String, java.lang.String, java.lang.String, boolean) 	e9289:385;
+edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.lang.String, java.lang.String, java.lang.String, boolean) 	e9289:443;
+edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.lang.String, java.lang.String, java.lang.String, boolean) 	e9247:427;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.lang.String, java.lang.String, java.lang.String, boolean) 	e9391:197;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.lang.String, java.lang.String, java.lang.String, boolean) 	e9326:262;
-edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void <init>(java.lang.String, java.lang.String, java.lang.String, boolean) 	e9608:60;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	private static void addAnnotationPatterns(CollectionValuedMap<Class#RAW,Pair<java.util.regex.Pattern,java.util.regex.Pattern>>, java.lang.String, boolean) 	e12116:961;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	private static void addAnnotationPatterns(CollectionValuedMap<Class#RAW,Pair<java.util.regex.Pattern,java.util.regex.Pattern>>, java.lang.String, boolean) 	e12200:211;
+edu.stanford.nlp.pipeline.CleanXmlAnnotator	private static void addAnnotationPatterns(CollectionValuedMap<Class#RAW,Pair<java.util.regex.Pattern,java.util.regex.Pattern>>, java.lang.String, boolean) 	e11898:1179;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	private static void addAnnotationPatterns(CollectionValuedMap<Class#RAW,Pair<java.util.regex.Pattern,java.util.regex.Pattern>>, java.lang.String, boolean) 	e12418:659;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	private static void addAnnotationPatterns(CollectionValuedMap<Class#RAW,Pair<java.util.regex.Pattern,java.util.regex.Pattern>>, java.lang.String, boolean) 	e12287:790;
-edu.stanford.nlp.pipeline.CleanXmlAnnotator	private static void addAnnotationPatterns(CollectionValuedMap<Class#RAW,Pair<java.util.regex.Pattern,java.util.regex.Pattern>>, java.lang.String, boolean) 	e12200:877;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e13808:166;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e13834:140;
 edu.stanford.nlp.pipeline.CleanXmlAnnotator	public void annotate(edu.stanford.nlp.pipeline.Annotation) 	e13229:533;

@@ -18,11 +18,11 @@ edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeScores(java.io
 edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeScores(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e3523:193;
 edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeScores(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e3523:174;
 edu.stanford.nlp.sentiment.SentimentPipeline	static int outputTreeScores(java.io.PrintStream, edu.stanford.nlp.trees.Tree, int) 	e3590:126;
+edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4047:816;
 edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4420:130;
 edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4097:89;
 edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4240:129;
 edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4240:88;
-edu.stanford.nlp.sentiment.SentimentPipeline	static void outputTree(java.io.PrintStream, edu.stanford.nlp.trees.Tree, List<edu.stanford.nlp.sentiment.SentimentPipeline.Output>) 	e4610:128;
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e5304:163;
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e5179:288;
 edu.stanford.nlp.sentiment.SentimentPipeline	public static void help() 	e5179:189;

@@ -1,4 +1,5 @@
 edu.stanford.nlp.trees.international.pennchinese.ChineseUtils	public static java.lang.String normalize(java.lang.String, int, int, int) 	e3899:177;
+edu.stanford.nlp.trees.international.pennchinese.ChineseUtils	public static java.lang.String normalize(java.lang.String, int, int, int) 	e4081:152;
 edu.stanford.nlp.trees.international.pennchinese.ChineseUtils	private static java.lang.String normalizeBMP(java.lang.String, int, int, int) 	e4914:433;
 edu.stanford.nlp.trees.international.pennchinese.ChineseUtils	private static java.lang.String normalizeBMP(java.lang.String, int, int, int) 	e4914:463;
 edu.stanford.nlp.trees.international.pennchinese.ChineseUtils	private static java.lang.String normalizeBMP(java.lang.String, int, int, int) 	e4980:367;

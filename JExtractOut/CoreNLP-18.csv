@@ -4,3 +4,5 @@ projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.jav
 projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processRequest,"(38, 53)"
 projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processRequest,"(39, 53)"
 projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processRequest,"(35, 57)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processInputStream,"(67, 68)"
+projects/CoreNLP/src/edu/stanford/nlp/semgraph/semgrex/ProcessSemgrexRequest.java,processInputStream,"(68, 69)"

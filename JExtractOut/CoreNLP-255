@@ -1,3 +1,4 @@
+edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.util.CoreMap) 	e2528:72;
 edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3588:113;
 edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3588:82;
 edu.stanford.nlp.ling.CoreLabel	public void <init>(edu.stanford.nlp.ling.Label) 	e3287:70;
@@ -8,11 +9,21 @@ edu.stanford.nlp.ling.CoreLabel	private void initFromStrings(java.lang.String[],
 edu.stanford.nlp.ling.CoreLabel	private void initFromStrings(java.lang.String[], java.lang.String[]) 	e6776:537;
 edu.stanford.nlp.ling.CoreLabel	private void initFromStrings(java.lang.String[], java.lang.String[]) 	e6697:616;
 edu.stanford.nlp.ling.CoreLabel	private void initFromStrings(java.lang.String[], java.lang.String[]) 	e6681:954;
+edu.stanford.nlp.ling.CoreLabel.CoreLabelFactory	public edu.stanford.nlp.ling.Label newLabel(java.lang.String) 	e7829:45;
+edu.stanford.nlp.ling.CoreLabel.CoreLabelFactory	public edu.stanford.nlp.ling.Label newLabel(java.lang.String) 	e7788:66;
 edu.stanford.nlp.ling.CoreLabel.CoreLabelFactory	public edu.stanford.nlp.ling.Label newLabel(edu.stanford.nlp.ling.Label) 	e8748:267;
 edu.stanford.nlp.ling.CoreLabel.CoreLabelFactory	public edu.stanford.nlp.ling.Label newLabel(edu.stanford.nlp.ling.Label) 	e8748:244;
 edu.stanford.nlp.ling.CoreLabel.CoreLabelFactory	public edu.stanford.nlp.ling.Label newLabel(edu.stanford.nlp.ling.Label) 	e8549:400;
 edu.stanford.nlp.ling.CoreLabel.CoreLabelFactory	public edu.stanford.nlp.ling.Label newLabel(edu.stanford.nlp.ling.Label) 	e8458:392;
 edu.stanford.nlp.ling.CoreLabel.CoreLabelFactory	public edu.stanford.nlp.ling.Label newLabel(edu.stanford.nlp.ling.Label) 	e8363:376;
+edu.stanford.nlp.ling.CoreLabel	public java.lang.String getString(Class<KEY>) 	e9705:61;
+edu.stanford.nlp.ling.CoreLabel	public void setWord(java.lang.String) 	e10846:162;
+edu.stanford.nlp.ling.CoreLabel	public void setWord(java.lang.String) 	e10405:117;
+edu.stanford.nlp.ling.CoreLabel	public void setWord(java.lang.String) 	e10474:534;
+edu.stanford.nlp.ling.CoreLabel	public int index() 	e13541:44;
+edu.stanford.nlp.ling.CoreLabel	public int sentIndex() 	e13872:44;
+edu.stanford.nlp.ling.CoreLabel	public int beginPosition() 	e14234:38;
+edu.stanford.nlp.ling.CoreLabel	public int endPosition() 	e14427:38;
 edu.stanford.nlp.ling.CoreLabel	public java.lang.String toString(edu.stanford.nlp.ling.CoreLabel.OutputFormat) 	e17964:101;
 edu.stanford.nlp.ling.CoreLabel	public java.lang.String toString(edu.stanford.nlp.ling.CoreLabel.OutputFormat) 	e17868:197;
 edu.stanford.nlp.ling.CoreLabel	public java.lang.String toString(edu.stanford.nlp.ling.CoreLabel.OutputFormat) 	e16724:75;

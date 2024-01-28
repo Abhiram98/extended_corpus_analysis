@@ -1,9 +1,9 @@
 source_filename,function_name,loc_suggestion
 projects/CoreNLP/itest/src/edu/stanford/nlp/dcoref/DcorefBenchmarkSlowITest.java,runCorefTest,"(57, 58)"
+projects/CoreNLP/itest/src/edu/stanford/nlp/dcoref/DcorefBenchmarkSlowITest.java,runCorefTest,"(30, 55)"
 projects/CoreNLP/itest/src/edu/stanford/nlp/dcoref/DcorefBenchmarkSlowITest.java,runCorefTest,"(38, 55)"
 projects/CoreNLP/itest/src/edu/stanford/nlp/dcoref/DcorefBenchmarkSlowITest.java,runCorefTest,"(40, 55)"
 projects/CoreNLP/itest/src/edu/stanford/nlp/dcoref/DcorefBenchmarkSlowITest.java,runCorefTest,"(41, 44)"
-projects/CoreNLP/itest/src/edu/stanford/nlp/dcoref/DcorefBenchmarkSlowITest.java,runCorefTest,"(43, 44)"
 projects/CoreNLP/itest/src/edu/stanford/nlp/dcoref/DcorefBenchmarkSlowITest.java,testDcoref,"(180, 182)"
 projects/CoreNLP/itest/src/edu/stanford/nlp/dcoref/DcorefBenchmarkSlowITest.java,testDcoref,"(180, 189)"
 projects/CoreNLP/itest/src/edu/stanford/nlp/dcoref/DcorefBenchmarkSlowITest.java,testDcoref,"(183, 189)"

@@ -8,6 +8,9 @@ edu.stanford.nlp.ie.NERBenchmarkSlowITest	public HashMap<java.lang.String,java.l
 edu.stanford.nlp.ie.NERBenchmarkSlowITest	public HashMap<java.lang.String,java.lang.Double> parseResults(java.lang.String) 	e5012:243;
 edu.stanford.nlp.ie.NERBenchmarkSlowITest	public HashMap<java.lang.String,java.lang.Double> parseResults(java.lang.String) 	e5244:404;
 edu.stanford.nlp.ie.NERBenchmarkSlowITest	public HashMap<java.lang.String,java.lang.Double> parseResults(java.lang.String) 	e4917:767;
+edu.stanford.nlp.ie.NERBenchmarkSlowITest	public java.lang.String abbreviate(java.lang.String) throws java.lang.Exception	e5963:605;
+edu.stanford.nlp.ie.NERBenchmarkSlowITest	public java.lang.String abbreviate(java.lang.String) throws java.lang.Exception	e5963:575;
+edu.stanford.nlp.ie.NERBenchmarkSlowITest	public java.lang.String abbreviate(java.lang.String) throws java.lang.Exception	e5933:605;
 edu.stanford.nlp.ie.NERBenchmarkSlowITest	public HashMap<java.lang.String,java.lang.Double> evalDataset(java.lang.String) throws java.io.IOException, java.lang.Exception	e9822:343;
 edu.stanford.nlp.ie.NERBenchmarkSlowITest	public HashMap<java.lang.String,java.lang.Double> evalDataset(java.lang.String) throws java.io.IOException, java.lang.Exception	e9874:291;
 edu.stanford.nlp.ie.NERBenchmarkSlowITest	public HashMap<java.lang.String,java.lang.Double> evalDataset(java.lang.String) throws java.io.IOException, java.lang.Exception	e10065:70;

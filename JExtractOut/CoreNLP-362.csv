@@ -1,9 +1,9 @@
 source_filename,function_name,loc_suggestion
+projects/CoreNLP/src/edu/stanford/nlp/trees/SemanticHeadFinder.java,<init>,"(88, 106)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/SemanticHeadFinder.java,<init>,"(104, 106)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/SemanticHeadFinder.java,<init>,"(95, 96)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/SemanticHeadFinder.java,<init>,"(92, 96)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/SemanticHeadFinder.java,<init>,"(92, 93)"
-projects/CoreNLP/src/edu/stanford/nlp/trees/SemanticHeadFinder.java,<init>,"(88, 96)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/SemanticHeadFinder.java,ruleChanges,"(150, 153)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/SemanticHeadFinder.java,ruleChanges,"(147, 153)"
 projects/CoreNLP/src/edu/stanford/nlp/trees/SemanticHeadFinder.java,ruleChanges,"(147, 150)"
