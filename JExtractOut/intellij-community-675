@@ -1,5 +1,1 @@
-com.intellij.ide.IdeEventQueue	private void processIdleActivityListeners(@NotNull AWTEvent) 	e29589:648;
-com.intellij.ide.IdeEventQueue	private void processIdleActivityListeners(@NotNull AWTEvent) 	e29619:416;
-com.intellij.ide.IdeEventQueue	private void processIdleActivityListeners(@NotNull AWTEvent) 	e29109:475;
-com.intellij.ide.IdeEventQueue	private void processIdleActivityListeners(@NotNull AWTEvent) 	e29619:612;
-com.intellij.ide.IdeEventQueue	private void processIdleActivityListeners(@NotNull AWTEvent) 	e29666:369;
+java.lang.NullPointerException

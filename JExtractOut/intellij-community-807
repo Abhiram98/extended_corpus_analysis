@@ -1,5 +1,5 @@
-com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e26121:692;
-com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e26084:711;
-com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e26121:674;
-com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e26290:523;
-com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e26290:408;
+com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e26774:821;
+com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e26774:804;
+com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e26877:718;
+com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e27088:507;
+com.intellij.ui.EditorTextField	public sealed java.awt.Dimension getPreferredSize() 	e26914:681;

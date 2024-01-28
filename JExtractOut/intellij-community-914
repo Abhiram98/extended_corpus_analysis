@@ -1,5 +1,3 @@
-com.intellij.ui.BalloonLayoutImpl	private void doLayout(List<com.intellij.openapi.ui.popup.Balloon>, int, int) 	e8740:588;
-com.intellij.ui.BalloonLayoutImpl	private void doLayout(List<com.intellij.openapi.ui.popup.Balloon>, int, int) 	e8719:609;
-com.intellij.ui.BalloonLayoutImpl	private void doLayout(List<com.intellij.openapi.ui.popup.Balloon>, int, int) 	e9334:209;
-com.intellij.ui.BalloonLayoutImpl	private void doLayout(List<com.intellij.openapi.ui.popup.Balloon>, int, int) 	e9375:162;
-com.intellij.ui.BalloonLayoutImpl	private void doLayout(List<com.intellij.openapi.ui.popup.Balloon>, int, int) 	e8740:482;
+foundFile=true
+foundMethod=false
+noSource=false

@@ -1,0 +1,3 @@
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void setWritable(@NotNull VirtualFile, boolean) 	e6847:89;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void setWritable(@NotNull VirtualFile, boolean) 	e6812:124;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void setWritable(@NotNull VirtualFile, boolean) 	e6847:127;

@@ -1,3 +1,7 @@
+com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean) 	e19664:79;
+com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean) 	e19686:112;
+com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean) 	e19686:57;
+com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean, boolean) 	e19890:128;
 com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean, boolean) 	e19974:99;
 com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean, boolean) 	e19890:79;
 com.intellij.openapi.application.impl.ApplicationImpl	public final void restart(boolean, boolean) 	e19974:44;

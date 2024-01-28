@@ -1,5 +1,1 @@
-com.intellij.application.options.colors.AbstractFontOptionsPanel	protected void <init>(@Nullable Boolean) 	e7364:325;
-com.intellij.application.options.colors.AbstractFontOptionsPanel	protected void <init>(@Nullable Boolean) 	e3535:285;
-com.intellij.application.options.colors.AbstractFontOptionsPanel	protected void <init>(@Nullable Boolean) 	e3535:192;
-com.intellij.application.options.colors.AbstractFontOptionsPanel	protected void <init>(@Nullable Boolean) 	e6467:182;
-com.intellij.application.options.colors.AbstractFontOptionsPanel	protected void <init>(@Nullable Boolean) 	e6467:149;
+java.lang.NullPointerException

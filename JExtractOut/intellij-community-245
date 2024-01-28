@@ -1,0 +1,3 @@
+com.intellij.openapi.editor.impl.EditorImpl	public void adjustGlobalFontSize(float) 	e190764:118;
+com.intellij.openapi.editor.impl.EditorImpl	public void adjustGlobalFontSize(float) 	e190764:241;
+com.intellij.openapi.editor.impl.EditorImpl	public void adjustGlobalFontSize(float) 	e190683:199;

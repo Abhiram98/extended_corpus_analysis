@@ -1,2 +1,5 @@
-com.intellij.diagnostic.PerformanceWatcher	public void edtEventStarted() 	e12879:53;
-com.intellij.diagnostic.PerformanceWatcher	public void edtEventStarted() 	e12962:45;
+com.intellij.diagnostic.PerformanceWatcher	public void edtEventStarted() 	e14799:210;
+com.intellij.diagnostic.PerformanceWatcher	public void edtEventStarted() 	e14852:151;
+com.intellij.diagnostic.PerformanceWatcher	public void edtEventStarted() 	e14822:187;
+com.intellij.diagnostic.PerformanceWatcher	public void edtEventStarted() 	e14763:53;
+com.intellij.diagnostic.PerformanceWatcher	public void edtEventStarted() 	e14852:88;

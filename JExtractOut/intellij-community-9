@@ -1,1 +1,4 @@
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void deleteFile(java.lang.Object, @NotNull VirtualFile) 	e4068:111;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void deleteFile(java.lang.Object, @NotNull VirtualFile) throws java.io.IOException	e3998:105;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void deleteFile(java.lang.Object, @NotNull VirtualFile) throws java.io.IOException	e3970:139;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void deleteFile(java.lang.Object, @NotNull VirtualFile) throws java.io.IOException	e3970:183;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void deleteFile(java.lang.Object, @NotNull VirtualFile) throws java.io.IOException	e3935:174;

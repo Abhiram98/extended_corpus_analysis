@@ -1,5 +1,5 @@
-com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e3396:173;
-com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e3396:202;
-com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e3920:99;
-com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e3504:94;
-com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e3603:480;
+com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e4203:99;
+com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e4242:124;
+com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e4242:104;
+com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e4203:163;
+com.intellij.ide.ui.customization.CustomizableActionsPanel	private com.intellij.openapi.actionSystem.impl.ActionToolbarImpl createToolbar() 	e4203:143;

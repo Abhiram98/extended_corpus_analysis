@@ -1,5 +1,5 @@
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed @NotNull OutputStream getOutputStream(@NotNull VirtualFile, java.lang.Object, long, long) throws java.io.IOException	e7831:315;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed @NotNull OutputStream getOutputStream(@NotNull VirtualFile, java.lang.Object, long, long) throws java.io.IOException	e7808:338;
 com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed @NotNull OutputStream getOutputStream(@NotNull VirtualFile, java.lang.Object, long, long) throws java.io.IOException	e7831:277;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed @NotNull OutputStream getOutputStream(@NotNull VirtualFile, java.lang.Object, long, long) throws java.io.IOException	e7808:300;
 com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed @NotNull OutputStream getOutputStream(@NotNull VirtualFile, java.lang.Object, long, long) throws java.io.IOException	e7870:238;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed @NotNull OutputStream getOutputStream(@NotNull VirtualFile, java.lang.Object, long, long) throws java.io.IOException	e7870:186;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed @NotNull OutputStream getOutputStream(@NotNull VirtualFile, java.lang.Object, long, long) throws java.io.IOException	e7968:140;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed @NotNull OutputStream getOutputStream(@NotNull VirtualFile, java.lang.Object, long, long) throws java.io.IOException	e7870:276;

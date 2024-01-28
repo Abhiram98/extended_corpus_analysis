@@ -1,0 +1,3 @@
+com.intellij.internal.inspector.UiInspectorUtil	public static @NotNull String getClassPresentation(@NotNull Object) 	e5546:103;
+com.intellij.internal.inspector.UiInspectorUtil	public static @NotNull String getClassPresentation(@NotNull Object) 	e5464:185;
+com.intellij.internal.inspector.UiInspectorUtil	public static @NotNull String getClassPresentation(@NotNull Object) 	e5424:117;

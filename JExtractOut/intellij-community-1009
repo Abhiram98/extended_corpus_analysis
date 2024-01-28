@@ -1,5 +1,5 @@
-com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e11765:254;
-com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e12506:316;
-com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e11378:1121;
-com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e11849:161;
-com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e11454:985;
+com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e11508:254;
+com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e11592:161;
+com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e11197:985;
+com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e11165:1017;
+com.intellij.openapi.application.OldDirectoryCleaner.MenuDialog	protected sealed javax.swing.JComponent createCenterPanel() 	e11508:674;

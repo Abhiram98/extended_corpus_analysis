@@ -1,0 +1,2 @@
+com.intellij.ide.ui.laf.darcula.ui.DarculaCheckBoxUI	public sealed java.awt.Dimension getPreferredSize(javax.swing.JComponent) 	e4854:261;
+com.intellij.ide.ui.laf.darcula.ui.DarculaCheckBoxUI	public sealed java.awt.Dimension getPreferredSize(javax.swing.JComponent) 	e4807:270;

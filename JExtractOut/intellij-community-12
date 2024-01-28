@@ -1,0 +1,3 @@
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed String @NotNull [] list(@NotNull VirtualFile) 	e5589:89;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed String @NotNull [] list(@NotNull VirtualFile) 	e5589:115;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed String @NotNull [] list(@NotNull VirtualFile) 	e5554:124;

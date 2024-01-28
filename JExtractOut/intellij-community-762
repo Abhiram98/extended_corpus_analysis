@@ -1,5 +1,5 @@
-com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e3300:67;
-com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e3041:419;
-com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e3300:160;
-com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e3064:396;
-com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e3156:304;
+com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e2615:389;
+com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e2544:460;
+com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e2661:125;
+com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e2638:366;
+com.intellij.ide.HoverService.ComponentPoint	private void mouseMoved(@NotNull MouseEvent) 	e2874:130;

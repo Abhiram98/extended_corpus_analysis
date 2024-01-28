@@ -1,5 +1,5 @@
+com.intellij.ui.popup.PopupFactoryImpl	public sealed @NotNull BalloonBuilder createDialogBalloonBuilder(@NotNull JComponent, @PopupTitle @Nullable String) 	e27756:556;
 com.intellij.ui.popup.PopupFactoryImpl	public sealed @NotNull BalloonBuilder createDialogBalloonBuilder(@NotNull JComponent, @PopupTitle @Nullable String) 	e27910:111;
-com.intellij.ui.popup.PopupFactoryImpl	public sealed @NotNull BalloonBuilder createDialogBalloonBuilder(@NotNull JComponent, @PopupTitle @Nullable String) 	e27910:402;
-com.intellij.ui.popup.PopupFactoryImpl	public sealed @NotNull BalloonBuilder createDialogBalloonBuilder(@NotNull JComponent, @PopupTitle @Nullable String) 	e28026:307;
-com.intellij.ui.popup.PopupFactoryImpl	public sealed @NotNull BalloonBuilder createDialogBalloonBuilder(@NotNull JComponent, @PopupTitle @Nullable String) 	e27962:371;
-com.intellij.ui.popup.PopupFactoryImpl	public sealed @NotNull BalloonBuilder createDialogBalloonBuilder(@NotNull JComponent, @PopupTitle @Nullable String) 	e27962:350;
+com.intellij.ui.popup.PopupFactoryImpl	public sealed @NotNull BalloonBuilder createDialogBalloonBuilder(@NotNull JComponent, @PopupTitle @Nullable String) 	e27849:484;
+com.intellij.ui.popup.PopupFactoryImpl	public sealed @NotNull BalloonBuilder createDialogBalloonBuilder(@NotNull JComponent, @PopupTitle @Nullable String) 	e27849:463;
+com.intellij.ui.popup.PopupFactoryImpl	public sealed @NotNull BalloonBuilder createDialogBalloonBuilder(@NotNull JComponent, @PopupTitle @Nullable String) 	e27910:423;

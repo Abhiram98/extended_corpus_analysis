@@ -1,0 +1,3 @@
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void setTimeStamp(@NotNull VirtualFile, long) 	e6306:89;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void setTimeStamp(@NotNull VirtualFile, long) 	e6271:124;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void setTimeStamp(@NotNull VirtualFile, long) 	e6306:174;

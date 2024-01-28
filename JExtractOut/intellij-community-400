@@ -1,0 +1,2 @@
+com.intellij.openapi.editor.impl.CaretImpl	public boolean hasSelection() 	e41594:71;
+com.intellij.openapi.editor.impl.CaretImpl	public boolean hasSelection() 	e41622:256;

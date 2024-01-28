@@ -1,3 +1,5 @@
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	private com.intellij.openapi.vfs.ex.temp.TempFileSystem.FSDir convertDirectory(com.intellij.openapi.vfs.VirtualFile) 	e2196:121;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	private com.intellij.openapi.vfs.ex.temp.TempFileSystem.FSDir convertDirectory(com.intellij.openapi.vfs.VirtualFile) 	e2168:155;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	private com.intellij.openapi.vfs.ex.temp.TempFileSystem.FSDir convertDirectory(com.intellij.openapi.vfs.VirtualFile) 	e2328:105;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	private com.intellij.openapi.vfs.ex.temp.TempFileSystem.FSDir convertDirectory(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e2046:107;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	private com.intellij.openapi.vfs.ex.temp.TempFileSystem.FSDir convertDirectory(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e1981:272;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	private com.intellij.openapi.vfs.ex.temp.TempFileSystem.FSDir convertDirectory(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e2018:141;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	private com.intellij.openapi.vfs.ex.temp.TempFileSystem.FSDir convertDirectory(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e2018:235;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	private com.intellij.openapi.vfs.ex.temp.TempFileSystem.FSDir convertDirectory(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e2018:261;

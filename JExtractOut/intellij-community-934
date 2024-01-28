@@ -1,5 +1,5 @@
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e15112:35;
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e12469:118;
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e12592:3169;
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e13033:2728;
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e12469:474;
+com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e13269:162;
+com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e13324:107;
+com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e15294:35;
+com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e12406:118;
+com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e14988:955;

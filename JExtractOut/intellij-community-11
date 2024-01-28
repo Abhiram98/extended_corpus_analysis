@@ -1,0 +1,3 @@
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void renameFile(java.lang.Object, @NotNull VirtualFile, @NotNull String) throws java.io.IOException	e5142:89;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void renameFile(java.lang.Object, @NotNull VirtualFile, @NotNull String) throws java.io.IOException	e5107:124;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void renameFile(java.lang.Object, @NotNull VirtualFile, @NotNull String) throws java.io.IOException	e5142:118;

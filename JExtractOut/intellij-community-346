@@ -1,0 +1,2 @@
+com.intellij.ide.ui.laf.darcula.ui.DarculaRadioButtonUI	public sealed java.awt.Dimension getPreferredSize(javax.swing.JComponent) 	e3544:261;
+com.intellij.ide.ui.laf.darcula.ui.DarculaRadioButtonUI	public sealed java.awt.Dimension getPreferredSize(javax.swing.JComponent) 	e3497:270;

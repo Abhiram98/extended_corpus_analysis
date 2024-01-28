@@ -1,0 +1,5 @@
+com.intellij.ide.ui.laf.LafManagerImpl	private float getDefaultUserScaleFactor() 	e40724:138;
+com.intellij.ide.ui.laf.LafManagerImpl	private float getDefaultUserScaleFactor() 	e40582:137;
+com.intellij.ide.ui.laf.LafManagerImpl	private float getDefaultUserScaleFactor() 	e40582:229;
+com.intellij.ide.ui.laf.LafManagerImpl	private float getDefaultUserScaleFactor() 	e40661:201;
+com.intellij.ide.ui.laf.LafManagerImpl	private float getDefaultUserScaleFactor() 	e40661:150;

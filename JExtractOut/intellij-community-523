@@ -1,1 +1,3 @@
+com.intellij.openapi.fileChooser.impl.FileChooserUtil	public static void setLastOpenedFile(@Nullable Project, @Nullable VirtualFile) 	e1765:257;
 com.intellij.openapi.fileChooser.impl.FileChooserUtil	public static void setLastOpenedFile(@Nullable Project, @Nullable VirtualFile) 	e1892:130;
+com.intellij.openapi.fileChooser.impl.FileChooserUtil	public static void setLastOpenedFile(@Nullable Project, @NotNull Path) 	e2282:165;

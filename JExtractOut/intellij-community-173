@@ -1,10 +1,3 @@
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1984:147;
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1932:322;
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1932:294;
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1984:270;
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(@Nullable Project, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e1984:169;
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2716:118;
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2675:131;
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2716:90;
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2633:78;
-com.intellij.openapi.options.ex.SingleConfigurableEditor	public void <init>(java.awt.Component, @NotNull Configurable, java.lang.String, boolean, DialogWrapper.@NotNull IdeModalityType) 	e2764:70;
+foundFile=true
+foundMethod=false
+noSource=false

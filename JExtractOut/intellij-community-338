@@ -1,5 +1,5 @@
-com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	private synchronized void assertAllPointersDisposed() 	e21402:228;
-com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	private synchronized void assertAllPointersDisposed() 	e21135:261;
-com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	private synchronized void assertAllPointersDisposed() 	e21477:139;
-com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	private synchronized void assertAllPointersDisposed() 	e21438:186;
-com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	private synchronized void assertAllPointersDisposed() 	e21276:120;
+com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	public synchronized void assertAllPointersDisposed() 	e20451:228;
+com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	public synchronized void assertAllPointersDisposed() 	e20060:385;
+com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	public synchronized void assertAllPointersDisposed() 	e20201:244;
+com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	public synchronized void assertAllPointersDisposed() 	e20134:311;
+com.intellij.openapi.vfs.impl.VirtualFilePointerManagerImpl	public synchronized void assertAllPointersDisposed() 	e20201:478;

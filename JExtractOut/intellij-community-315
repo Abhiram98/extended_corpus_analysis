@@ -1,5 +1,3 @@
-com.intellij.openapi.editor.impl.EditorCopyPasteHelperImpl	public sealed TextRange @Nullable [] pasteTransferable(@NotNull Editor, @NotNull Transferable) throws com.intellij.openapi.editor.EditorCopyPasteHelper.TooLargeContentException	e4316:135;
-com.intellij.openapi.editor.impl.EditorCopyPasteHelperImpl	public sealed TextRange @Nullable [] pasteTransferable(@NotNull Editor, @NotNull Transferable) throws com.intellij.openapi.editor.EditorCopyPasteHelper.TooLargeContentException	e4280:171;
-com.intellij.openapi.editor.impl.EditorCopyPasteHelperImpl	public sealed TextRange @Nullable [] pasteTransferable(@NotNull Editor, @NotNull Transferable) throws com.intellij.openapi.editor.EditorCopyPasteHelper.TooLargeContentException	e4457:3108;
-com.intellij.openapi.editor.impl.EditorCopyPasteHelperImpl	public sealed TextRange @Nullable [] pasteTransferable(@NotNull Editor, @NotNull Transferable) throws com.intellij.openapi.editor.EditorCopyPasteHelper.TooLargeContentException	e4316:3249;
-com.intellij.openapi.editor.impl.EditorCopyPasteHelperImpl	public sealed TextRange @Nullable [] pasteTransferable(@NotNull Editor, @NotNull Transferable) throws com.intellij.openapi.editor.EditorCopyPasteHelper.TooLargeContentException	e4352:3213;
+foundFile=true
+foundMethod=false
+noSource=false

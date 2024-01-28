@@ -1,4 +1,5 @@
 com.intellij.openapi.application.impl.ReadMostlyRWLock	void writeIntentUnlock() 	e9836:56;
+com.intellij.openapi.application.impl.ReadMostlyRWLock	void writeIntentUnlock() 	e9805:87;
+com.intellij.openapi.application.impl.ReadMostlyRWLock	void writeIntentUnlock() 	e9774:118;
 com.intellij.openapi.application.impl.ReadMostlyRWLock	void writeIntentUnlock() 	e9869:60;
-com.intellij.openapi.application.impl.ReadMostlyRWLock	void writeIntentUnlock() 	e9805:58;
-com.intellij.openapi.application.impl.ReadMostlyRWLock	void writeIntentUnlock() 	e9774:57;
+com.intellij.openapi.application.impl.ReadMostlyRWLock	void writeIntentUnlock() 	e9836:93;
