@@ -1,0 +1,5 @@
+com.intellij.xdebugger.impl.evaluate.quick.XValueHint	private void showTree(com.intellij.xdebugger.frame.XValue) 	e11270:62;
+com.intellij.xdebugger.impl.evaluate.quick.XValueHint	private void showTree(com.intellij.xdebugger.frame.XValue) 	e11270:187;
+com.intellij.xdebugger.impl.evaluate.quick.XValueHint	private void showTree(com.intellij.xdebugger.frame.XValue) 	e11337:471;
+com.intellij.xdebugger.impl.evaluate.quick.XValueHint	private void showTree(com.intellij.xdebugger.frame.XValue) 	e11270:538;
+com.intellij.xdebugger.impl.evaluate.quick.XValueHint	private void showTree(com.intellij.xdebugger.frame.XValue) 	e11337:532;

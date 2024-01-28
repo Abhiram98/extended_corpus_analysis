@@ -1,5 +1,5 @@
-com.intellij.ui.popup.AbstractPopup	public void setWarning(@NotNull @Label String) 	e70912:217;
-com.intellij.ui.popup.AbstractPopup	public void setWarning(@NotNull @Label String) 	e70912:167;
-com.intellij.ui.popup.AbstractPopup	public void setWarning(@NotNull @Label String) 	e70939:190;
-com.intellij.ui.popup.AbstractPopup	public void setWarning(@NotNull @Label String) 	e70818:261;
-com.intellij.ui.popup.AbstractPopup	public void setWarning(@NotNull @Label String) 	e70939:140;
+com.intellij.ui.popup.AbstractPopup	public void setWarning(@Label String) 	e70912:217;
+com.intellij.ui.popup.AbstractPopup	public void setWarning(@Label String) 	e70912:167;
+com.intellij.ui.popup.AbstractPopup	public void setWarning(@Label String) 	e70939:190;
+com.intellij.ui.popup.AbstractPopup	public void setWarning(@Label String) 	e70818:261;
+com.intellij.ui.popup.AbstractPopup	public void setWarning(@Label String) 	e70939:140;

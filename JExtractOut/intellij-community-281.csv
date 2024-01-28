@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/tools/external/ExternalDiffToolUtil.java,execute,"(393, 396)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/tools/external/ExternalDiffToolUtil.java,execute,"(392, 396)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/tools/external/ExternalDiffToolUtil.java,execute,"(393, 398)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/tools/external/ExternalDiffToolUtil.java,execute,"(391, 402)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/tools/external/ExternalDiffToolUtil.java,execute,"(394, 395)"

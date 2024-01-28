@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/SearchEverywhereUI.java,updateSearchFieldAdvertisement,"(222, 236)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/SearchEverywhereUI.java,updateSearchFieldAdvertisement,"(223, 236)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/SearchEverywhereUI.java,updateSearchFieldAdvertisement,"(238, 244)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/SearchEverywhereUI.java,updateSearchFieldAdvertisement,"(223, 244)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/SearchEverywhereUI.java,updateSearchFieldAdvertisement,"(227, 236)"
+JExtract internal error.

@@ -1,1 +1,1 @@
-com.intellij.openapi.progress.impl.ProgressManagerImpl	protected final sealed void startTask(@NotNull Task, @NotNull ProgressIndicator, @Nullable Runnable) 	e4604:258;
+com.intellij.openapi.progress.impl.ProgressManagerImpl	protected final sealed void startTask(com.intellij.openapi.progress.Task, com.intellij.openapi.progress.ProgressIndicator, java.lang.Runnable) 	e4604:258;

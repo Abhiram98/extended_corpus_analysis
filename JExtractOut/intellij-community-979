@@ -1,5 +1,1 @@
-com.intellij.openapi.actionSystem.ex.ComboBoxAction.ComboBoxButton	public void <init>(@NotNull Presentation) 	e5748:1131;
-com.intellij.openapi.actionSystem.ex.ComboBoxAction.ComboBoxButton	public void <init>(@NotNull Presentation) 	e5712:1167;
-com.intellij.openapi.actionSystem.ex.ComboBoxAction.ComboBoxButton	public void <init>(@NotNull Presentation) 	e5712:74;
-com.intellij.openapi.actionSystem.ex.ComboBoxAction.ComboBoxButton	public void <init>(@NotNull Presentation) 	e5712:176;
-com.intellij.openapi.actionSystem.ex.ComboBoxAction.ComboBoxButton	public void <init>(@NotNull Presentation) 	e5895:87;
+java.lang.NullPointerException

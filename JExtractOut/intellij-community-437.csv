@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ex/ToolsImpl.java,isEnabled,"(330, 335)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ex/ToolsImpl.java,isEnabled,"(382, 394)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ex/ToolsImpl.java,isEnabled,"(383, 394)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ex/ToolsImpl.java,isEnabled,"(384, 394)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ex/ToolsImpl.java,isEnabled,"(385, 394)"

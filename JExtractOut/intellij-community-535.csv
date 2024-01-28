@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(276, 292)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(270, 276)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(278, 292)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(276, 286)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(278, 286)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(245, 255)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(258, 265)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(246, 255)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(249, 255)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,chosenPaths,"(259, 265)"

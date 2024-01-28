@@ -1,4 +1,6 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,convertDirectory,"(62, 67)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,convertDirectory,"(62, 67)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,convertDirectory,"(67, 67)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,convertDirectory,"(59, 60)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,convertDirectory,"(57, 62)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,convertDirectory,"(58, 61)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,convertDirectory,"(58, 62)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,convertDirectory,"(58, 63)"

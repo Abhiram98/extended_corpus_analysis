@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerTreeInlayPopup.java,createToolbar,"(140, 142)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerTreeInlayPopup.java,createToolbar,"(117, 118)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerTreeInlayPopup.java,createToolbar,"(118, 125)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerTreeInlayPopup.java,createToolbar,"(117, 125)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerTreeInlayPopup.java,createToolbar,"(119, 125)"

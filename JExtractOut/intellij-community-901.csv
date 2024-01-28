@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/actions/onSave/FormatOnSaveAction.java,processDocuments,"(32, 58)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/actions/onSave/FormatOnSaveAction.java,processDocuments,"(28, 58)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/actions/onSave/FormatOnSaveAction.java,processDocuments,"(26, 27)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/actions/onSave/FormatOnSaveAction.java,processDocuments,"(32, 52)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/actions/onSave/FormatOnSaveAction.java,processDocuments,"(34, 58)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/actions/onSave/FormatOnSaveAction.java,processDocuments,"(48, 52)"

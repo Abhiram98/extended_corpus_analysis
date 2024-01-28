@@ -1,4 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,clearPersistentAttributes,"(350, 354)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,clearPersistentAttributes,"(350, 351)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,clearPersistentAttributes,"(351, 354)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,clearPersistentAttributes,"(349, 350)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,clearPersistentAttributes,"(352, 354)"

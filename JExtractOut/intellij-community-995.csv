@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/util/DiffDividerDrawUtil.java,paint,"(413, 415)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/util/DiffDividerDrawUtil.java,paint,"(417, 422)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/util/DiffDividerDrawUtil.java,paint,"(412, 415)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/util/DiffDividerDrawUtil.java,paint,"(412, 424)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/diff/util/DiffDividerDrawUtil.java,paint,"(403, 424)"

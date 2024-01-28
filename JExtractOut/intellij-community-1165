@@ -1,5 +1,1 @@
-com.intellij.ide.actions.searcheverywhere.SearchEverywhereUI	private void updateSearchFieldAdvertisement() 	e9841:731;
-com.intellij.ide.actions.searcheverywhere.SearchEverywhereUI	private void updateSearchFieldAdvertisement() 	e9942:630;
-com.intellij.ide.actions.searcheverywhere.SearchEverywhereUI	private void updateSearchFieldAdvertisement() 	e10578:270;
-com.intellij.ide.actions.searcheverywhere.SearchEverywhereUI	private void updateSearchFieldAdvertisement() 	e9942:906;
-com.intellij.ide.actions.searcheverywhere.SearchEverywhereUI	private void updateSearchFieldAdvertisement() 	e10106:466;
+java.lang.NullPointerException

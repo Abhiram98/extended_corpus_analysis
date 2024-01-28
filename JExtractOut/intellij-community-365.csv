@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/ui/src/com/intellij/util/ui/JBInsets.java,create,"(60, 65)"
+projects/intellij-community/platform/util/ui/src/com/intellij/util/ui/JBInsets.java,create,"(64, 65)"
+projects/intellij-community/platform/util/ui/src/com/intellij/util/ui/JBInsets.java,create,"(63, 65)"
+projects/intellij-community/platform/util/ui/src/com/intellij/util/ui/JBInsets.java,create,"(63, 64)"
+projects/intellij-community/platform/util/ui/src/com/intellij/util/ui/JBInsets.java,create,"(62, 65)"

@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,loadRoots,"(726, 736)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,loadRoots,"(754, 757)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,loadRoots,"(715, 720)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,loadRoots,"(754, 757)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserPanelImpl.java,loadRoots,"(749, 770)"
+JExtract internal error.

@@ -1,0 +1,5 @@
+com.intellij.openapi.editor.impl.RangeMarkerImpl	protected void persistentHighlighterUpdate(com.intellij.openapi.editor.event.DocumentEvent, boolean) 	e8720:1206;
+com.intellij.openapi.editor.impl.RangeMarkerImpl	protected void persistentHighlighterUpdate(com.intellij.openapi.editor.event.DocumentEvent, boolean) 	e9150:158;
+com.intellij.openapi.editor.impl.RangeMarkerImpl	protected void persistentHighlighterUpdate(com.intellij.openapi.editor.event.DocumentEvent, boolean) 	e8720:1015;
+com.intellij.openapi.editor.impl.RangeMarkerImpl	protected void persistentHighlighterUpdate(com.intellij.openapi.editor.event.DocumentEvent, boolean) 	e8702:1033;
+com.intellij.openapi.editor.impl.RangeMarkerImpl	protected void persistentHighlighterUpdate(com.intellij.openapi.editor.event.DocumentEvent, boolean) 	e9034:284;

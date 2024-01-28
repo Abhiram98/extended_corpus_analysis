@@ -1,0 +1,5 @@
+com.intellij.diff.util.DiffDividerDrawUtil.DividerPolygon	public void paint(java.awt.Graphics2D, int, boolean) 	e16144:70;
+com.intellij.diff.util.DiffDividerDrawUtil.DividerPolygon	public void paint(java.awt.Graphics2D, int, boolean) 	e16222:264;
+com.intellij.diff.util.DiffDividerDrawUtil.DividerPolygon	public void paint(java.awt.Graphics2D, int, boolean) 	e16104:110;
+com.intellij.diff.util.DiffDividerDrawUtil.DividerPolygon	public void paint(java.awt.Graphics2D, int, boolean) 	e16104:413;
+com.intellij.diff.util.DiffDividerDrawUtil.DividerPolygon	public void paint(java.awt.Graphics2D, int, boolean) 	e15925:592;

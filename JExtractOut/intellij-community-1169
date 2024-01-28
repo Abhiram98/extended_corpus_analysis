@@ -1,5 +1,3 @@
-com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42327:70;
-com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42327:242;
-com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42365:204;
-com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42327:194;
-com.intellij.openapi.actionSystem.impl.ActionToolbarImpl	protected void actionsUpdated(boolean, @NotNull List<? extends AnAction>) 	e42404:165;
+foundFile=true
+foundMethod=false
+noSource=false

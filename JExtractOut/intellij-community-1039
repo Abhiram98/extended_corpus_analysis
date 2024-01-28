@@ -1,2 +1,1 @@
-com.intellij.diagnostic.PerformanceWatcher	public void edtEventFinished() 	e15129:159;
-com.intellij.diagnostic.PerformanceWatcher	public void edtEventFinished() 	e15099:195;
+java.lang.NullPointerException

@@ -1,0 +1,5 @@
+com.intellij.util.ui.JBInsets	public static com.intellij.util.ui.JBInsets create(java.awt.Insets) 	e1690:188;
+com.intellij.util.ui.JBInsets	public static com.intellij.util.ui.JBInsets create(java.awt.Insets) 	e1833:45;
+com.intellij.util.ui.JBInsets	public static com.intellij.util.ui.JBInsets create(java.awt.Insets) 	e1798:80;
+com.intellij.util.ui.JBInsets	public static com.intellij.util.ui.JBInsets create(java.awt.Insets) 	e1798:61;
+com.intellij.util.ui.JBInsets	public static com.intellij.util.ui.JBInsets create(java.awt.Insets) 	e1767:111;

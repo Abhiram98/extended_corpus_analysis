@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(244, 252)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(247, 251)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(246, 251)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(245, 252)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(248, 250)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(243, 251)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(242, 252)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(244, 251)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(247, 250)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/keymap/impl/ui/KeymapPanel.java,quickListRenamed,"(246, 250)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/core-api/src/com/intellij/openapi/application/WriteThread.java,submit,"(28, 29)"
+projects/intellij-community/platform/core-api/src/com/intellij/openapi/application/WriteThread.java,submit,"(42, 50)"
+projects/intellij-community/platform/core-api/src/com/intellij/openapi/application/WriteThread.java,submit,"(43, 51)"
+projects/intellij-community/platform/core-api/src/com/intellij/openapi/application/WriteThread.java,submit,"(43, 50)"
+projects/intellij-community/platform/core-api/src/com/intellij/openapi/application/WriteThread.java,submit,"(44, 49)"

@@ -1,0 +1,5 @@
+com.intellij.openapi.diff.impl.dir.DirDiffTableModel	public void performCopyTo(com.intellij.openapi.diff.impl.dir.DirDiffElementImpl) 	e21234:132;
+com.intellij.openapi.diff.impl.dir.DirDiffTableModel	public void performCopyTo(com.intellij.openapi.diff.impl.dir.DirDiffElementImpl) 	e21053:387;
+com.intellij.openapi.diff.impl.dir.DirDiffTableModel	public void performCopyTo(com.intellij.openapi.diff.impl.dir.DirDiffElementImpl) 	e21127:313;
+com.intellij.openapi.diff.impl.dir.DirDiffTableModel	public void performCopyTo(com.intellij.openapi.diff.impl.dir.DirDiffElementImpl) 	e21163:277;
+com.intellij.openapi.diff.impl.dir.DirDiffTableModel	public void performCopyTo(com.intellij.openapi.diff.impl.dir.DirDiffElementImpl) 	e21163:217;

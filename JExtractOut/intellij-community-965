@@ -1,5 +1,3 @@
-com.intellij.openapi.vfs.encoding.EncodingProjectManagerImpl	public void setMapping(@NotNull Map<? extends VirtualFile,? extends Charset>) 	e12291:116;
-com.intellij.openapi.vfs.encoding.EncodingProjectManagerImpl	public void setMapping(@NotNull Map<? extends VirtualFile,? extends Charset>) 	e12354:3258;
-com.intellij.openapi.vfs.encoding.EncodingProjectManagerImpl	public void setMapping(@NotNull Map<? extends VirtualFile,? extends Charset>) 	e12354:3207;
-com.intellij.openapi.vfs.encoding.EncodingProjectManagerImpl	public void setMapping(@NotNull Map<? extends VirtualFile,? extends Charset>) 	e13500:44;
-com.intellij.openapi.vfs.encoding.EncodingProjectManagerImpl	public void setMapping(@NotNull Map<? extends VirtualFile,? extends Charset>) 	e12291:3270;
+foundFile=true
+foundMethod=false
+noSource=false

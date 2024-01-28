@@ -1,1 +1,5 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/core-api/src/com/intellij/DynamicBundle.java,findBundle,"(46, 58)"
+projects/intellij-community/platform/core-api/src/com/intellij/DynamicBundle.java,findBundle,"(49, 51)"
+projects/intellij-community/platform/core-api/src/com/intellij/DynamicBundle.java,findBundle,"(49, 52)"
+projects/intellij-community/platform/core-api/src/com/intellij/DynamicBundle.java,findBundle,"(50, 52)"

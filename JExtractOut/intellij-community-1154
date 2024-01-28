@@ -1,0 +1,5 @@
+com.intellij.vcs.log.impl.VcsProjectLog	public void <init>(com.intellij.openapi.project.Project) 	e4503:332;
+com.intellij.vcs.log.impl.VcsProjectLog	public void <init>(com.intellij.openapi.project.Project) 	e4476:359;
+com.intellij.vcs.log.impl.VcsProjectLog	public void <init>(com.intellij.openapi.project.Project) 	e4394:441;
+com.intellij.vcs.log.impl.VcsProjectLog	public void <init>(com.intellij.openapi.project.Project) 	e4427:408;
+com.intellij.vcs.log.impl.VcsProjectLog	public void <init>(com.intellij.openapi.project.Project) 	e4351:484;

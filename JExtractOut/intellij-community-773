@@ -1,0 +1,10 @@
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(com.intellij.ui.svg.ImageValue, com.intellij.util.ImageLoader.Dimension2DDouble) 	e6960:344;
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(com.intellij.ui.svg.ImageValue, com.intellij.util.ImageLoader.Dimension2DDouble) 	e7309:61;
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(com.intellij.ui.svg.ImageValue, com.intellij.util.ImageLoader.Dimension2DDouble) 	e6960:410;
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(com.intellij.ui.svg.ImageValue, com.intellij.util.ImageLoader.Dimension2DDouble) 	e6960:392;
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(com.intellij.ui.svg.ImageValue, com.intellij.util.ImageLoader.Dimension2DDouble) 	e7239:131;
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(java.nio.ByteBuffer, int, int) throws java.lang.Throwable	e7707:223;
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(java.nio.ByteBuffer, int, int) throws java.lang.Throwable	e7707:419;
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(java.nio.ByteBuffer, int, int) throws java.lang.Throwable	e7935:191;
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(java.nio.ByteBuffer, int, int) throws java.lang.Throwable	e7598:332;
+com.intellij.ui.svg.SvgCacheManager	static java.awt.Image readImage(java.nio.ByteBuffer, int, int) throws java.lang.Throwable	e7742:102;

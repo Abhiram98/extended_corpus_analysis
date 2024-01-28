@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-api/src/com/intellij/openapi/actionSystem/ex/ComboBoxAction.java,<init>,"(162, 192)"
-projects/intellij-community/platform/platform-api/src/com/intellij/openapi/actionSystem/ex/ComboBoxAction.java,<init>,"(161, 192)"
-projects/intellij-community/platform/platform-api/src/com/intellij/openapi/actionSystem/ex/ComboBoxAction.java,<init>,"(161, 162)"
-projects/intellij-community/platform/platform-api/src/com/intellij/openapi/actionSystem/ex/ComboBoxAction.java,<init>,"(161, 164)"
-projects/intellij-community/platform/platform-api/src/com/intellij/openapi/actionSystem/ex/ComboBoxAction.java,<init>,"(165, 167)"
+JExtract internal error.

@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/util/src/com/intellij/openapi/application/ClassPathUtil.java,getUtilClassPath,"(23, 51)"
-projects/intellij-community/platform/util/src/com/intellij/openapi/application/ClassPathUtil.java,getUtilClassPath,"(23, 49)"
-projects/intellij-community/platform/util/src/com/intellij/openapi/application/ClassPathUtil.java,getUtilClassPath,"(45, 48)"
-projects/intellij-community/platform/util/src/com/intellij/openapi/application/ClassPathUtil.java,getUtilClassPath,"(44, 53)"
-projects/intellij-community/platform/util/src/com/intellij/openapi/application/ClassPathUtil.java,getUtilClassPath,"(44, 52)"
+JExtract internal error.

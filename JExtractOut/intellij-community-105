@@ -1,1 +1,2 @@
-com.intellij.codeInsight.editorActions.TypedHandler	private static @Nullable CharSequence getClosingQuote(@NotNull Editor, @NotNull MultiCharQuoteHandler, int) 	e23301:39;
+com.intellij.codeInsight.editorActions.TypedHandler	private static java.lang.CharSequence getClosingQuote(com.intellij.openapi.editor.Editor, com.intellij.codeInsight.editorActions.MultiCharQuoteHandler, int) 	e23301:39;
+com.intellij.codeInsight.editorActions.TypedHandler	private static java.lang.CharSequence getClosingQuote(com.intellij.openapi.editor.Editor, com.intellij.codeInsight.editorActions.MultiCharQuoteHandler, int) 	e23271:135;

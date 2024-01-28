@@ -1,5 +1,3 @@
-com.intellij.find.actions.ShowUsagesAction	private static @NotNull JBPopup createUsagePopup(@NotNull UsageViewImpl, @NotNull JTable, @NotNull Runnable, @NotNull TitlePanel, @NotNull ShowUsagesParameters, @NotNull ShowUsagesActionHandler) 	e26004:103;
-com.intellij.find.actions.ShowUsagesAction	private static @NotNull JBPopup createUsagePopup(@NotNull UsageViewImpl, @NotNull JTable, @NotNull Runnable, @NotNull TitlePanel, @NotNull ShowUsagesParameters, @NotNull ShowUsagesActionHandler) 	e28442:311;
-com.intellij.find.actions.ShowUsagesAction	private static @NotNull JBPopup createUsagePopup(@NotNull UsageViewImpl, @NotNull JTable, @NotNull Runnable, @NotNull TitlePanel, @NotNull ShowUsagesParameters, @NotNull ShowUsagesActionHandler) 	e28442:281;
-com.intellij.find.actions.ShowUsagesAction	private static @NotNull JBPopup createUsagePopup(@NotNull UsageViewImpl, @NotNull JTable, @NotNull Runnable, @NotNull TitlePanel, @NotNull ShowUsagesParameters, @NotNull ShowUsagesActionHandler) 	e26213:422;
-com.intellij.find.actions.ShowUsagesAction	private static @NotNull JBPopup createUsagePopup(@NotNull UsageViewImpl, @NotNull JTable, @NotNull Runnable, @NotNull TitlePanel, @NotNull ShowUsagesParameters, @NotNull ShowUsagesActionHandler) 	e26213:372;
+foundFile=true
+foundMethod=false
+noSource=false

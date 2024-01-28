@@ -1,5 +1,5 @@
-com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e2841:205;
-com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e2788:264;
-com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e2749:303;
-com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e2926:120;
-com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(@NotNull ProgressIndicator) 	e2688:459;
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(com.intellij.openapi.progress.ProgressIndicator) 	e2841:205;
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(com.intellij.openapi.progress.ProgressIndicator) 	e2788:264;
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(com.intellij.openapi.progress.ProgressIndicator) 	e2749:303;
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(com.intellij.openapi.progress.ProgressIndicator) 	e2926:120;
+com.intellij.codeInspection.ex.PerformFixesModalTask	public boolean iteration(com.intellij.openapi.progress.ProgressIndicator) 	e2688:459;

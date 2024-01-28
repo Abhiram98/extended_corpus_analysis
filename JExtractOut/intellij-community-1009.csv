@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/OldDirectoryCleaner.java,createCenterPanel,"(294, 297)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/OldDirectoryCleaner.java,createCenterPanel,"(306, 314)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/OldDirectoryCleaner.java,createCenterPanel,"(288, 306)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/OldDirectoryCleaner.java,createCenterPanel,"(295, 297)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/OldDirectoryCleaner.java,createCenterPanel,"(289, 305)"
+JExtract internal error.

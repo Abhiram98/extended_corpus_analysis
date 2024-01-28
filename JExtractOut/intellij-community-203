@@ -1,5 +1,5 @@
 com.intellij.util.indexing.UnindexedFilesScannerExecutor	private void startTaskInDumbMode(com.intellij.util.indexing.UnindexedFilesScanner) 	e3114:304;
 com.intellij.util.indexing.UnindexedFilesScannerExecutor	private void startTaskInDumbMode(com.intellij.util.indexing.UnindexedFilesScanner) 	e3438:68;
+com.intellij.util.indexing.UnindexedFilesScannerExecutor	private void startTaskInDumbMode(com.intellij.util.indexing.UnindexedFilesScanner) 	e2969:464;
+com.intellij.util.indexing.UnindexedFilesScannerExecutor	private void startTaskInDumbMode(com.intellij.util.indexing.UnindexedFilesScanner) 	e2969:503;
 com.intellij.util.indexing.UnindexedFilesScannerExecutor	private void startTaskInDumbMode(com.intellij.util.indexing.UnindexedFilesScanner) 	e3180:238;
-com.intellij.util.indexing.UnindexedFilesScannerExecutor	private void startTaskInDumbMode(com.intellij.util.indexing.UnindexedFilesScanner) 	e3196:79;
-com.intellij.util.indexing.UnindexedFilesScannerExecutor	private void startTaskInDumbMode(com.intellij.util.indexing.UnindexedFilesScanner) 	e3314:94;

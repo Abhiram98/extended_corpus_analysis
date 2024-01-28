@@ -1,3 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/ShowErrorDescriptionHandler.java,invoke,"(36, 40)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/ShowErrorDescriptionHandler.java,invoke,"(37, 40)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/ShowErrorDescriptionHandler.java,invoke,"(38, 40)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/ShowErrorDescriptionHandler.java,invoke,"(36, 37)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/daemon/impl/ShowErrorDescriptionHandler.java,invoke,"(35, 37)"

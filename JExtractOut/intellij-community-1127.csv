@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/editor/impl/RangeMarkerImpl.java,persistentHighlighterUpdate,"(231, 262)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/editor/impl/RangeMarkerImpl.java,persistentHighlighterUpdate,"(240, 242)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/editor/impl/RangeMarkerImpl.java,persistentHighlighterUpdate,"(231, 258)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/editor/impl/RangeMarkerImpl.java,persistentHighlighterUpdate,"(230, 258)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/editor/impl/RangeMarkerImpl.java,persistentHighlighterUpdate,"(236, 243)"

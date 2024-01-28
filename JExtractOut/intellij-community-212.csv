@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/RefreshWorker.java,processQueue,"(194, 196)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/RefreshWorker.java,processQueue,"(187, 187)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/RefreshWorker.java,processQueue,"(195, 199)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/RefreshWorker.java,processQueue,"(201, 203)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/RefreshWorker.java,processQueue,"(186, 187)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/RefreshWorker.java,processQueue,"(195, 199)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/RefreshWorker.java,processQueue,"(181, 182)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/newvfs/RefreshWorker.java,processQueue,"(199, 203)"

@@ -1,5 +1,5 @@
+com.intellij.openapi.util.ObjectTree	void assertIsEmpty(boolean) 	e7836:1021;
 com.intellij.openapi.util.ObjectTree	void assertIsEmpty(boolean) 	e8682:167;
 com.intellij.openapi.util.ObjectTree	void assertIsEmpty(boolean) 	e8757:92;
 com.intellij.openapi.util.ObjectTree	void assertIsEmpty(boolean) 	e8757:54;
 com.intellij.openapi.util.ObjectTree	void assertIsEmpty(boolean) 	e8682:129;
-com.intellij.openapi.util.ObjectTree	void assertIsEmpty(boolean) 	e8015:97;

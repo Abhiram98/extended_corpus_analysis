@@ -1,5 +1,5 @@
-com.intellij.ide.impl.ProjectUtil	public static @NotNull String getBaseDir() 	e26573:722;
-com.intellij.ide.impl.ProjectUtil	public static @NotNull String getBaseDir() 	e26912:383;
-com.intellij.ide.impl.ProjectUtil	public static @NotNull String getBaseDir() 	e26972:225;
-com.intellij.ide.impl.ProjectUtil	public static @NotNull String getBaseDir() 	e26691:604;
-com.intellij.ide.impl.ProjectUtil	public static @NotNull String getBaseDir() 	e26800:495;
+com.intellij.ide.impl.ProjectUtil	public static java.lang.String getBaseDir() 	e26573:722;
+com.intellij.ide.impl.ProjectUtil	public static java.lang.String getBaseDir() 	e26912:383;
+com.intellij.ide.impl.ProjectUtil	public static java.lang.String getBaseDir() 	e26972:225;
+com.intellij.ide.impl.ProjectUtil	public static java.lang.String getBaseDir() 	e26691:604;
+com.intellij.ide.impl.ProjectUtil	public static java.lang.String getBaseDir() 	e26800:495;

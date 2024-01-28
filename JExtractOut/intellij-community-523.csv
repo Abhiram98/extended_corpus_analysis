@@ -1,2 +1,4 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserUtil.java,setLastOpenedFile,"(47, 52)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserUtil.java,setLastOpenedFile,"(50, 52)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileChooser/impl/FileChooserUtil.java,setLastOpenedFile,"(59, 61)"

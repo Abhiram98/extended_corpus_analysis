@@ -1,5 +1,5 @@
-com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e69108:106;
-com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e68789:314;
-com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e68853:213;
-com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e68789:277;
-com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(@NotNull VirtualFile, @NotNull Object, @NotNull Object) 	e69071:143;
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(com.intellij.openapi.vfs.VirtualFile, java.lang.Object, java.lang.Object) 	e69108:106;
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(com.intellij.openapi.vfs.VirtualFile, java.lang.Object, java.lang.Object) 	e68789:314;
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(com.intellij.openapi.vfs.VirtualFile, java.lang.Object, java.lang.Object) 	e68853:213;
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(com.intellij.openapi.vfs.VirtualFile, java.lang.Object, java.lang.Object) 	e68789:277;
+com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl	private static void invalidateSubtree(com.intellij.openapi.vfs.VirtualFile, java.lang.Object, java.lang.Object) 	e69071:143;

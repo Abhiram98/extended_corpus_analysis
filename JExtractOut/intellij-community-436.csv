@@ -1,1 +1,5 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ex/ToolsImpl.java,getAttributesKey,"(356, 365)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ex/ToolsImpl.java,getAttributesKey,"(357, 365)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ex/ToolsImpl.java,getAttributesKey,"(359, 360)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ex/ToolsImpl.java,getAttributesKey,"(358, 365)"

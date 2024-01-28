@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/core-api/src/com/intellij/lexer/StringLiteralLexer.java,getTokenType,"(81, 82)"
+projects/intellij-community/platform/core-api/src/com/intellij/lexer/StringLiteralLexer.java,getTokenType,"(105, 131)"
+projects/intellij-community/platform/core-api/src/com/intellij/lexer/StringLiteralLexer.java,getTokenType,"(89, 131)"
+projects/intellij-community/platform/core-api/src/com/intellij/lexer/StringLiteralLexer.java,getTokenType,"(85, 131)"
+projects/intellij-community/platform/core-api/src/com/intellij/lexer/StringLiteralLexer.java,getTokenType,"(91, 131)"

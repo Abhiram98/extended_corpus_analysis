@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lvcs-impl/src/com/intellij/history/integration/LocalHistoryImpl.java,doDispose,"(124, 128)"
+projects/intellij-community/platform/lvcs-impl/src/com/intellij/history/integration/LocalHistoryImpl.java,doDispose,"(125, 128)"
+projects/intellij-community/platform/lvcs-impl/src/com/intellij/history/integration/LocalHistoryImpl.java,doDispose,"(126, 127)"
+projects/intellij-community/platform/lvcs-impl/src/com/intellij/history/integration/LocalHistoryImpl.java,doDispose,"(124, 127)"
+projects/intellij-community/platform/lvcs-impl/src/com/intellij/history/integration/LocalHistoryImpl.java,doDispose,"(126, 128)"

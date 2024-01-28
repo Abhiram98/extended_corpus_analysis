@@ -1,3 +1,7 @@
-com.intellij.util.io.Compressor	public final void addFile(@NotNull String, @NotNull Path, long) throws java.io.IOException	e7425:421;
-com.intellij.util.io.Compressor	public final void addFile(@NotNull String, @NotNull Path, long) throws java.io.IOException	e7634:212;
-com.intellij.util.io.Compressor	public final void addFile(@NotNull String, @NotNull Path, long) throws java.io.IOException	e7521:325;
+com.intellij.util.io.Compressor	public final void addFile(java.lang.String, java.nio.file.Path, long) throws java.io.IOException	e7361:493;
+com.intellij.util.io.Compressor	public final void addFile(java.lang.String, java.nio.file.Path, long) throws java.io.IOException	e7324:536;
+com.intellij.util.io.Compressor	public final void addFile(java.lang.String, java.nio.file.Path, long) throws java.io.IOException	e7425:421;
+com.intellij.util.io.Compressor	public final void addFile(java.lang.String, java.nio.file.Path, long) throws java.io.IOException	e7634:212;
+com.intellij.util.io.Compressor	public final void addFile(java.lang.String, java.nio.file.Path, long) throws java.io.IOException	e7521:325;
+com.intellij.util.io.Compressor	public final void addFile(java.lang.String, byte @NotNull [], long) throws java.io.IOException	e9845:142;
+com.intellij.util.io.Compressor	public final void addFile(java.lang.String, java.io.InputStream, long) throws java.io.IOException	e10305:104;

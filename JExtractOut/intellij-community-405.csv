@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/dvcs-impl/src/com/intellij/dvcs/DvcsUtil.java,guessVcsRoot,"(488, 495)"
+projects/intellij-community/platform/dvcs-impl/src/com/intellij/dvcs/DvcsUtil.java,guessVcsRoot,"(490, 494)"
+projects/intellij-community/platform/dvcs-impl/src/com/intellij/dvcs/DvcsUtil.java,guessVcsRoot,"(489, 496)"
+projects/intellij-community/platform/dvcs-impl/src/com/intellij/dvcs/DvcsUtil.java,guessVcsRoot,"(489, 495)"
+projects/intellij-community/platform/dvcs-impl/src/com/intellij/dvcs/DvcsUtil.java,guessVcsRoot,"(492, 493)"

@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
 projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doGet,"(580, 582)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doGet,"(584, 650)"
 projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doGet,"(580, 584)"
 projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doGet,"(580, 585)"
 projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doGet,"(580, 586)"
-projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,doGet,"(585, 650)"

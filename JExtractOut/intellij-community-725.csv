@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/evaluate/quick/XValueHint.java,showTree,"(272, 274)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/evaluate/quick/XValueHint.java,showTree,"(272, 275)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/evaluate/quick/XValueHint.java,showTree,"(275, 282)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/evaluate/quick/XValueHint.java,showTree,"(272, 282)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/evaluate/quick/XValueHint.java,showTree,"(275, 283)"

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/PerFileElementTypeStubModificationTracker.java,endUpdatesBatch,"(61, 96)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/PerFileElementTypeStubModificationTracker.java,endUpdatesBatch,"(75, 96)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/PerFileElementTypeStubModificationTracker.java,endUpdatesBatch,"(60, 74)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/PerFileElementTypeStubModificationTracker.java,endUpdatesBatch,"(61, 74)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/psi/stubs/PerFileElementTypeStubModificationTracker.java,endUpdatesBatch,"(62, 73)"

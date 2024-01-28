@@ -1,0 +1,5 @@
+com.intellij.ide.plugins.PluginManagerCore	private static Map<com.intellij.openapi.extensions.PluginId,Set<java.lang.String>> readBrokenPluginFile() 	e8793:567;
+com.intellij.ide.plugins.PluginManagerCore	private static Map<com.intellij.openapi.extensions.PluginId,Set<java.lang.String>> readBrokenPluginFile() 	e8829:531;
+com.intellij.ide.plugins.PluginManagerCore	private static Map<com.intellij.openapi.extensions.PluginId,Set<java.lang.String>> readBrokenPluginFile() 	e8793:546;
+com.intellij.ide.plugins.PluginManagerCore	private static Map<com.intellij.openapi.extensions.PluginId,Set<java.lang.String>> readBrokenPluginFile() 	e8829:510;
+com.intellij.ide.plugins.PluginManagerCore	private static Map<com.intellij.openapi.extensions.PluginId,Set<java.lang.String>> readBrokenPluginFile() 	e8405:1147;

@@ -1,11 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(578, 584)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(579, 584)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(580, 584)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(582, 583)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(581, 583)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(729, 739)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(733, 738)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(730, 738)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(734, 737)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/render/DocRenderItem.java,visibleAreaChanged,"(734, 736)"
+JExtract internal error.

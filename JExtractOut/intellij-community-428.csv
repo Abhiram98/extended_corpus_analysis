@@ -1,1 +1,3 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/editor-ui-ex/src/com/intellij/openapi/editor/colors/impl/FontPreferencesImpl.java,setUseLigatures,"(277, 279)"
+projects/intellij-community/platform/editor-ui-ex/src/com/intellij/openapi/editor/colors/impl/FontPreferencesImpl.java,setUseLigatures,"(276, 279)"

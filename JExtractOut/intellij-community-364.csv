@@ -1,1 +1,7 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/OSProcessUtil.java,terminateProcessGracefully,"(90, 98)"
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/OSProcessUtil.java,terminateProcessGracefully,"(86, 99)"
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/OSProcessUtil.java,terminateProcessGracefully,"(101, 106)"
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/OSProcessUtil.java,terminateProcessGracefully,"(121, 129)"
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/OSProcessUtil.java,terminateProcessGracefully,"(117, 130)"
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/OSProcessUtil.java,terminateProcessGracefully,"(132, 137)"

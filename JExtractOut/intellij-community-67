@@ -1,0 +1,5 @@
+com.intellij.psi.impl.source.SubstrateRef.StubRef	private com.intellij.psi.PsiFile reportError(StubElement<?>) 	e4091:768;
+com.intellij.psi.impl.source.SubstrateRef.StubRef	private com.intellij.psi.PsiFile reportError(StubElement<?>) 	e4161:721;
+com.intellij.psi.impl.source.SubstrateRef.StubRef	private com.intellij.psi.PsiFile reportError(StubElement<?>) 	e4161:698;
+com.intellij.psi.impl.source.SubstrateRef.StubRef	private com.intellij.psi.PsiFile reportError(StubElement<?>) 	e4235:647;
+com.intellij.psi.impl.source.SubstrateRef.StubRef	private com.intellij.psi.PsiFile reportError(StubElement<?>) 	e4091:137;

@@ -1,1 +1,3 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/usageView/src/com/intellij/usages/ChunkExtractor.java,createTextChunks,"(170, 173)"
+projects/intellij-community/platform/usageView/src/com/intellij/usages/ChunkExtractor.java,createTextChunks,"(171, 172)"

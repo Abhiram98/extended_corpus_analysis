@@ -2,4 +2,4 @@ com.intellij.codeInsight.documentation.DocumentationEditorPane	private int defin
 com.intellij.codeInsight.documentation.DocumentationEditorPane	private int definitionPreferredWidth() 	e4072:390;
 com.intellij.codeInsight.documentation.DocumentationEditorPane	private int definitionPreferredWidth() 	e4013:449;
 com.intellij.codeInsight.documentation.DocumentationEditorPane	private int definitionPreferredWidth() 	e4013:598;
-com.intellij.codeInsight.documentation.DocumentationEditorPane	private int definitionPreferredWidth() 	e4072:539;
+com.intellij.codeInsight.documentation.DocumentationEditorPane	private int definitionPreferredWidth() 	e3611:1000;

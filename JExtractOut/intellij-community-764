@@ -1,0 +1,1 @@
+com.intellij.codeInsight.TargetElementUtil	public static com.intellij.psi.PsiElement getTargetElementFromLookup(com.intellij.openapi.project.Project) 	e6251:306;

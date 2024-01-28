@@ -1,0 +1,5 @@
+com.intellij.execution.process.KillableProcessHandler	protected boolean destroyProcessGracefully() 	e8536:946;
+com.intellij.execution.process.KillableProcessHandler	protected boolean destroyProcessGracefully() 	e9547:238;
+com.intellij.execution.process.KillableProcessHandler	protected boolean destroyProcessGracefully() 	e8137:168;
+com.intellij.execution.process.KillableProcessHandler	protected boolean destroyProcessGracefully() 	e8579:903;
+com.intellij.execution.process.KillableProcessHandler	protected boolean destroyProcessGracefully() 	e7957:348;

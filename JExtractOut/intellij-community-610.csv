@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,reset,"(219, 220)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,reset,"(217, 218)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,reset,"(218, 220)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,reset,"(218, 219)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,reset,"(217, 219)"

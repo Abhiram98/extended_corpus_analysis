@@ -1,1 +1,2 @@
-com.intellij.ui.RelativeFont	public com.intellij.ui.RelativeFont fromResource(@NonNls @NotNull String, int, float) 	e3559:165;
+com.intellij.ui.RelativeFont	public com.intellij.ui.RelativeFont fromResource(java.lang.String, int, float) 	e3559:165;
+com.intellij.ui.RelativeFont	public com.intellij.ui.RelativeFont fromResource(java.lang.String, int, float) 	e3512:218;

@@ -1,0 +1,5 @@
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void addFontFamily(java.lang.String) 	e5752:390;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void addFontFamily(java.lang.String) 	e6075:67;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void addFontFamily(java.lang.String) 	e5589:481;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void addFontFamily(java.lang.String) 	e5589:353;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void addFontFamily(java.lang.String) 	e5589:258;

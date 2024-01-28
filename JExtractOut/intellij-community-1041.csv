@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ProblemDescriptorUtil.java,renderDescriptionMessage,"(100, 103)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ProblemDescriptorUtil.java,renderDescriptionMessage,"(81, 114)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ProblemDescriptorUtil.java,renderDescriptionMessage,"(81, 112)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ProblemDescriptorUtil.java,renderDescriptionMessage,"(79, 114)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInspection/ProblemDescriptorUtil.java,renderDescriptionMessage,"(96, 103)"

@@ -1,5 +1,5 @@
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(@NotNull VirtualFile) throws java.io.IOException	e7125:182;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(@NotNull VirtualFile) throws java.io.IOException	e7125:221;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(@NotNull VirtualFile) throws java.io.IOException	e7090:217;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(@NotNull VirtualFile) throws java.io.IOException	e7219:88;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(@NotNull VirtualFile) throws java.io.IOException	e7125:89;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e7125:182;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e7125:221;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e7090:217;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e7219:88;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed byte @NotNull [] contentsToByteArray(com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e7125:89;

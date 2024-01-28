@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,cacheAutoDetectedFileType,"(346, 374)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,cacheAutoDetectedFileType,"(348, 374)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,cacheAutoDetectedFileType,"(352, 355)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,cacheAutoDetectedFileType,"(353, 355)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileTypes/impl/FileTypeDetectionService.java,cacheAutoDetectedFileType,"(354, 355)"

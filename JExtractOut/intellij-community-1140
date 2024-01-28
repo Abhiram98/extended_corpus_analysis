@@ -1,2 +1,5 @@
-com.intellij.codeInsight.daemon.impl.ShowErrorDescriptionHandler	public void invoke(@NotNull Project, @NotNull Editor, @NotNull PsiFile) 	e1525:138;
-com.intellij.codeInsight.daemon.impl.ShowErrorDescriptionHandler	public void invoke(@NotNull Project, @NotNull Editor, @NotNull PsiFile) 	e1322:198;
+com.intellij.codeInsight.daemon.impl.ShowErrorDescriptionHandler	public void invoke(com.intellij.openapi.project.Project, com.intellij.openapi.editor.Editor, com.intellij.psi.PsiFile) 	e1322:341;
+com.intellij.codeInsight.daemon.impl.ShowErrorDescriptionHandler	public void invoke(com.intellij.openapi.project.Project, com.intellij.openapi.editor.Editor, com.intellij.psi.PsiFile) 	e1401:262;
+com.intellij.codeInsight.daemon.impl.ShowErrorDescriptionHandler	public void invoke(com.intellij.openapi.project.Project, com.intellij.openapi.editor.Editor, com.intellij.psi.PsiFile) 	e1525:138;
+com.intellij.codeInsight.daemon.impl.ShowErrorDescriptionHandler	public void invoke(com.intellij.openapi.project.Project, com.intellij.openapi.editor.Editor, com.intellij.psi.PsiFile) 	e1322:198;
+com.intellij.codeInsight.daemon.impl.ShowErrorDescriptionHandler	public void invoke(com.intellij.openapi.project.Project, com.intellij.openapi.editor.Editor, com.intellij.psi.PsiFile) 	e1269:251;

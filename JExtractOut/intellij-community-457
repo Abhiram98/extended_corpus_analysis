@@ -1,3 +1,5 @@
-com.intellij.psi.impl.PsiDocumentManagerImpl	public sealed @Nullable PsiFile getPsiFile(@NotNull Document) 	e3171:842;
-com.intellij.psi.impl.PsiDocumentManagerImpl	public sealed @Nullable PsiFile getPsiFile(@NotNull Document) 	e3322:683;
-com.intellij.psi.impl.PsiDocumentManagerImpl	public sealed @Nullable PsiFile getPsiFile(@NotNull Document) 	e3262:751;
+com.intellij.psi.impl.PsiDocumentManagerImpl	public sealed com.intellij.psi.PsiFile getPsiFile(com.intellij.openapi.editor.Document) 	e3087:932;
+com.intellij.psi.impl.PsiDocumentManagerImpl	public sealed com.intellij.psi.PsiFile getPsiFile(com.intellij.openapi.editor.Document) 	e3143:876;
+com.intellij.psi.impl.PsiDocumentManagerImpl	public sealed com.intellij.psi.PsiFile getPsiFile(com.intellij.openapi.editor.Document) 	e3171:842;
+com.intellij.psi.impl.PsiDocumentManagerImpl	public sealed com.intellij.psi.PsiFile getPsiFile(com.intellij.openapi.editor.Document) 	e3322:683;
+com.intellij.psi.impl.PsiDocumentManagerImpl	public sealed com.intellij.psi.PsiFile getPsiFile(com.intellij.openapi.editor.Document) 	e3143:896;

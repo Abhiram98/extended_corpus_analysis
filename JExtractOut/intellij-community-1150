@@ -1,5 +1,3 @@
-com.intellij.ui.GroupedElementsRenderer	protected final javax.swing.JComponent configureComponent(@ListItem String, @Tooltip String, javax.swing.Icon, javax.swing.Icon, boolean, boolean, @Separator String, int) 	e1571:557;
-com.intellij.ui.GroupedElementsRenderer	protected final javax.swing.JComponent configureComponent(@ListItem String, @Tooltip String, javax.swing.Icon, javax.swing.Icon, boolean, boolean, @Separator String, int) 	e2134:178;
-com.intellij.ui.GroupedElementsRenderer	protected final javax.swing.JComponent configureComponent(@ListItem String, @Tooltip String, javax.swing.Icon, javax.swing.Icon, boolean, boolean, @Separator String, int) 	e2134:145;
-com.intellij.ui.GroupedElementsRenderer	protected final javax.swing.JComponent configureComponent(@ListItem String, @Tooltip String, javax.swing.Icon, javax.swing.Icon, boolean, boolean, @Separator String, int) 	e2219:93;
-com.intellij.ui.GroupedElementsRenderer	protected final javax.swing.JComponent configureComponent(@ListItem String, @Tooltip String, javax.swing.Icon, javax.swing.Icon, boolean, boolean, @Separator String, int) 	e1571:600;
+foundFile=true
+foundMethod=false
+noSource=false

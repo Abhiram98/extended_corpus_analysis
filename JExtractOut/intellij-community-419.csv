@@ -1,1 +1,4 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/analysis-api/src/com/intellij/codeInsight/intention/preview/IntentionPreviewInfo.java,rename,"(181, 191)"
+projects/intellij-community/platform/analysis-api/src/com/intellij/codeInsight/intention/preview/IntentionPreviewInfo.java,rename,"(181, 190)"
+projects/intellij-community/platform/analysis-api/src/com/intellij/codeInsight/intention/preview/IntentionPreviewInfo.java,rename,"(184, 191)"

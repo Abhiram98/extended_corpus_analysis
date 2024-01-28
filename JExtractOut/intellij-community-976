@@ -1,0 +1,5 @@
+com.intellij.psi.impl.search.PsiSearchHelperImpl	public com.intellij.psi.search.SearchScope getUseScope(com.intellij.psi.PsiElement) 	e3528:569;
+com.intellij.psi.impl.search.PsiSearchHelperImpl	public com.intellij.psi.search.SearchScope getUseScope(com.intellij.psi.PsiElement) 	e3575:540;
+com.intellij.psi.impl.search.PsiSearchHelperImpl	public com.intellij.psi.search.SearchScope getUseScope(com.intellij.psi.PsiElement) 	e3575:522;
+com.intellij.psi.impl.search.PsiSearchHelperImpl	public com.intellij.psi.search.SearchScope getUseScope(com.intellij.psi.PsiElement) 	e3870:245;
+com.intellij.psi.impl.search.PsiSearchHelperImpl	public com.intellij.psi.search.SearchScope getUseScope(com.intellij.psi.PsiElement) 	e3870:227;

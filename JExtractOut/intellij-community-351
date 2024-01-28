@@ -1,0 +1,6 @@
+com.intellij.codeInsight.template.impl.TemplateContext	public boolean isEnabled(com.intellij.codeInsight.template.TemplateContextType) 	e2981:294;
+com.intellij.codeInsight.template.impl.TemplateContext	public boolean isEnabled(com.intellij.codeInsight.template.TemplateContextType) 	e3085:141;
+com.intellij.codeInsight.template.impl.TemplateContext	public boolean isEnabled(com.intellij.codeInsight.template.TemplateContextType) 	e3050:225;
+com.intellij.codeInsight.template.impl.TemplateContext	private boolean isEnabled(com.intellij.codeInsight.template.LiveTemplateContextBean) 	e3406:298;
+com.intellij.codeInsight.template.impl.TemplateContext	private boolean isEnabled(com.intellij.codeInsight.template.LiveTemplateContextBean) 	e3510:145;
+com.intellij.codeInsight.template.impl.TemplateContext	private boolean isEnabled(com.intellij.codeInsight.template.LiveTemplateContextBean) 	e3475:229;

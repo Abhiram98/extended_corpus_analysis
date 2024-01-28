@@ -1,0 +1,5 @@
+com.intellij.codeInspection.InspectionApplicationBase	private static void subscribeToRootChanges(com.intellij.openapi.project.Project, com.intellij.codeInspection.InspectionsReportConverter) 	e13284:168;
+com.intellij.codeInspection.InspectionApplicationBase	private static void subscribeToRootChanges(com.intellij.openapi.project.Project, com.intellij.codeInspection.InspectionsReportConverter) 	e13457:565;
+com.intellij.codeInspection.InspectionApplicationBase	private static void subscribeToRootChanges(com.intellij.openapi.project.Project, com.intellij.codeInspection.InspectionsReportConverter) 	e13423:599;
+com.intellij.codeInspection.InspectionApplicationBase	private static void subscribeToRootChanges(com.intellij.openapi.project.Project, com.intellij.codeInspection.InspectionsReportConverter) 	e13862:144;
+com.intellij.codeInspection.InspectionApplicationBase	private static void subscribeToRootChanges(com.intellij.openapi.project.Project, com.intellij.codeInspection.InspectionsReportConverter) 	e13423:79;

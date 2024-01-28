@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/AnActionButton.java,getPreferredPopupPoint,"(170, 171)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/AnActionButton.java,getPreferredPopupPoint,"(152, 171)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/AnActionButton.java,getPreferredPopupPoint,"(152, 158)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/AnActionButton.java,getPreferredPopupPoint,"(159, 171)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/AnActionButton.java,getPreferredPopupPoint,"(151, 158)"
-projects/intellij-community/platform/platform-api/src/com/intellij/ui/AnActionButton.java,getPreferredPopupPoint,"(153, 158)"

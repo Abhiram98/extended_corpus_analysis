@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateState.java,processAllExpressions,"(366, 394)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateState.java,processAllExpressions,"(364, 394)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateState.java,processAllExpressions,"(353, 364)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateState.java,processAllExpressions,"(353, 363)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateState.java,processAllExpressions,"(353, 394)"

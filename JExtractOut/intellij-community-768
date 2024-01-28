@@ -1,7 +1,3 @@
-com.intellij.openapi.actionSystem.ex.ActionButtonLook	public void paintBackground(java.awt.Graphics, javax.swing.JComponent, int) 	e3350:106;
-com.intellij.openapi.actionSystem.ex.ActionButtonLook	public void paintBackground(java.awt.Graphics, javax.swing.JComponent, int) 	e3407:314;
-com.intellij.openapi.actionSystem.ex.ActionButtonLook	public void paintBackground(java.awt.Graphics, javax.swing.JComponent, int) 	e3350:412;
-com.intellij.openapi.actionSystem.ex.ActionButtonLook	public void paintBackground(java.awt.Graphics, javax.swing.JComponent, int) 	e3407:355;
-com.intellij.openapi.actionSystem.ex.ActionButtonLook	public void paintBackground(java.awt.Graphics, javax.swing.JComponent, int) 	e3461:301;
-com.intellij.openapi.actionSystem.ex.ActionButtonLook	public void paintBackground(java.awt.Graphics, javax.swing.JComponent, java.awt.Color) 	e3851:106;
-com.intellij.openapi.actionSystem.ex.ActionButtonLook	public void paintBackground(java.awt.Graphics, javax.swing.JComponent, java.awt.Color) 	e3908:90;
+foundFile=true
+foundMethod=true
+noSource=false

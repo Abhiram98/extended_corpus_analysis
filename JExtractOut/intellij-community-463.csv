@@ -1,2 +1,3 @@
 source_filename,function_name,loc_suggestion
 projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/UnindexedFilesUpdater.java,getNumberOfScanningThreads,"(674, 676)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/UnindexedFilesUpdater.java,getNumberOfScanningThreads,"(673, 676)"

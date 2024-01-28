@@ -1,1 +1,2 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/util/ui/StatusText.java,paint,"(376, 381)"

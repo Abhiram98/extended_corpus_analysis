@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(427, 432)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(426, 433)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(426, 433)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(425, 433)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(422, 426)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(425, 427)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(424, 428)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(423, 428)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(422, 428)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,paintButtonLook,"(419, 423)"

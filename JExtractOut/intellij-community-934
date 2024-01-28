@@ -1,5 +1,1 @@
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e13269:162;
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e13324:107;
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e15294:35;
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e12406:118;
-com.intellij.openapi.editor.impl.softwrap.mapping.SoftWrapApplianceManager	public boolean recalculateIfNecessary() 	e14988:955;
+java.lang.NullPointerException

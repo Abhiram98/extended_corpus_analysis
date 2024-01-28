@@ -1,0 +1,5 @@
+org.jetbrains.ikv.Ikv.SizeAwareIkv	public java.nio.ByteBuffer getValue(T) 	e1879:210;
+org.jetbrains.ikv.Ikv.SizeAwareIkv	public java.nio.ByteBuffer getValue(T) 	e1834:255;
+org.jetbrains.ikv.Ikv.SizeAwareIkv	public java.nio.ByteBuffer getValue(T) 	e1781:308;
+org.jetbrains.ikv.Ikv.SizeAwareIkv	public java.nio.ByteBuffer getValue(T) 	e1916:173;
+org.jetbrains.ikv.Ikv.SizeAwareIkv	public java.nio.ByteBuffer getValue(T) 	e1879:189;

@@ -1,2 +1,2 @@
-com.intellij.openapi.fileEditor.impl.EditorWindow	public void setSelectedEditor(@NotNull EditorComposite, boolean) 	e18074:87;
-com.intellij.openapi.fileEditor.impl.EditorWindow	public void setSelectedEditor(@NotNull EditorComposite, boolean) 	e18049:118;
+com.intellij.openapi.fileEditor.impl.EditorWindow	public void setSelectedEditor(com.intellij.openapi.fileEditor.impl.EditorComposite, boolean) 	e18074:87;
+com.intellij.openapi.fileEditor.impl.EditorWindow	public void setSelectedEditor(com.intellij.openapi.fileEditor.impl.EditorComposite, boolean) 	e18049:118;

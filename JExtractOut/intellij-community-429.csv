@@ -1,1 +1,3 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/editor-ui-ex/src/com/intellij/openapi/editor/colors/impl/FontPreferencesImpl.java,setRegularSubFamily,"(297, 299)"
+projects/intellij-community/platform/editor-ui-ex/src/com/intellij/openapi/editor/colors/impl/FontPreferencesImpl.java,setRegularSubFamily,"(296, 299)"

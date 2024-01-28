@@ -1,5 +1,5 @@
-com.intellij.codeInsight.hints.ParameterHintsPass	public static @NotNull CancellablePromise<?> asyncUpdate(@NotNull PsiElement, @NotNull Editor) 	e4081:72;
-com.intellij.codeInsight.hints.ParameterHintsPass	public static @NotNull CancellablePromise<?> asyncUpdate(@NotNull PsiElement, @NotNull Editor) 	e3642:356;
-com.intellij.codeInsight.hints.ParameterHintsPass	public static @NotNull CancellablePromise<?> asyncUpdate(@NotNull PsiElement, @NotNull Editor) 	e3658:169;
-com.intellij.codeInsight.hints.ParameterHintsPass	public static @NotNull CancellablePromise<?> asyncUpdate(@NotNull PsiElement, @NotNull Editor) 	e3658:146;
-com.intellij.codeInsight.hints.ParameterHintsPass	public static @NotNull CancellablePromise<?> asyncUpdate(@NotNull PsiElement, @NotNull Editor) 	e3749:78;
+com.intellij.codeInsight.hints.ParameterHintsPass	public static CancellablePromise<?> asyncUpdate(com.intellij.psi.PsiElement, com.intellij.openapi.editor.Editor) 	e4081:72;
+com.intellij.codeInsight.hints.ParameterHintsPass	public static CancellablePromise<?> asyncUpdate(com.intellij.psi.PsiElement, com.intellij.openapi.editor.Editor) 	e3596:622;
+com.intellij.codeInsight.hints.ParameterHintsPass	public static CancellablePromise<?> asyncUpdate(com.intellij.psi.PsiElement, com.intellij.openapi.editor.Editor) 	e3642:356;
+com.intellij.codeInsight.hints.ParameterHintsPass	public static CancellablePromise<?> asyncUpdate(com.intellij.psi.PsiElement, com.intellij.openapi.editor.Editor) 	e3658:169;
+com.intellij.codeInsight.hints.ParameterHintsPass	public static CancellablePromise<?> asyncUpdate(com.intellij.psi.PsiElement, com.intellij.openapi.editor.Editor) 	e3658:146;

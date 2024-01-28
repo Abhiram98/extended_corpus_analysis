@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/ui/frame/MainFrame.java,createActionsToolbar,"(213, 254)"
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/ui/frame/MainFrame.java,createActionsToolbar,"(228, 255)"
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/ui/frame/MainFrame.java,createActionsToolbar,"(239, 240)"
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/ui/frame/MainFrame.java,createActionsToolbar,"(231, 255)"
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/ui/frame/MainFrame.java,createActionsToolbar,"(214, 226)"

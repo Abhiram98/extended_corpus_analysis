@@ -1,5 +1,3 @@
-com.intellij.ui.PopupHandler	public static @NotNull MouseListener installPopupHandler(@NotNull JComponent, @NotNull ActionGroup, @NonNls String, @Nullable ActionManager, @Nullable PopupMenuListener) 	e3621:66;
-com.intellij.ui.PopupHandler	public static @NotNull MouseListener installPopupHandler(@NotNull JComponent, @NotNull ActionGroup, @NonNls String, @Nullable ActionManager, @Nullable PopupMenuListener) 	e3227:374;
-com.intellij.ui.PopupHandler	public static @NotNull MouseListener installPopupHandler(@NotNull JComponent, @NotNull ActionGroup, @NonNls String, @Nullable ActionManager, @Nullable PopupMenuListener) 	e3091:571;
-com.intellij.ui.PopupHandler	public static @NotNull MouseListener installPopupHandler(@NotNull JComponent, @NotNull ActionGroup, @NonNls String, @Nullable ActionManager, @Nullable PopupMenuListener) 	e3091:525;
-com.intellij.ui.PopupHandler	public static @NotNull MouseListener installPopupHandler(@NotNull JComponent, @NotNull ActionGroup, @NonNls String, @Nullable ActionManager, @Nullable PopupMenuListener) 	e3227:246;
+foundFile=true
+foundMethod=false
+noSource=false

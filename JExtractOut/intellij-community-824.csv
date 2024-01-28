@@ -1,4 +1,5 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,getTarget,"(1228, 1236)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,getTarget,"(1233, 1236)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,getTarget,"(1232, 1236)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/documentation/DocumentationManager.java,getTarget,"(1229, 1236)"

@@ -1,1 +1,5 @@
-java.lang.NullPointerException
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private void cacheAutoDetectedFileType(com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.fileTypes.FileType) 	e15901:1604;
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private void cacheAutoDetectedFileType(com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.fileTypes.FileType) 	e15978:1527;
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private void cacheAutoDetectedFileType(com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.fileTypes.FileType) 	e16231:212;
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private void cacheAutoDetectedFileType(com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.fileTypes.FileType) 	e16281:162;
+com.intellij.openapi.fileTypes.impl.FileTypeDetectionService	private void cacheAutoDetectedFileType(com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.fileTypes.FileType) 	e16347:96;

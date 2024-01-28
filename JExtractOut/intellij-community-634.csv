@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/IconLoader.java,loadCustomVersionOrScale,"(91, 112)"
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/IconLoader.java,loadCustomVersionOrScale,"(92, 112)"
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/IconLoader.java,loadCustomVersionOrScale,"(92, 94)"
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/IconLoader.java,loadCustomVersionOrScale,"(97, 98)"
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/IconLoader.java,loadCustomVersionOrScale,"(95, 112)"

@@ -1,1 +1,4 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,synchronizeAll,"(791, 794)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,synchronizeAll,"(791, 793)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,synchronizeAll,"(788, 794)"

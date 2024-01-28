@@ -1,2 +1,3 @@
 com.intellij.ui.jcef.JBCefFpsMeterImpl	private void requestRepaint() 	e5617:81;
+com.intellij.ui.jcef.JBCefFpsMeterImpl	private void requestRepaint() 	e5584:114;
 com.intellij.ui.jcef.JBCefFpsMeterImpl	private void requestRepaint() 	e5653:45;

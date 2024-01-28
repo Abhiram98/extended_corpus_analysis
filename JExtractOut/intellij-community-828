@@ -1,5 +1,1 @@
-com.intellij.codeInsight.daemon.impl.WholeFileLocalInspectionsPassFactory	public @Nullable TextEditorHighlightingPass createHighlightingPass(@NotNull PsiFile, @NotNull Editor) 	e4731:153;
-com.intellij.codeInsight.daemon.impl.WholeFileLocalInspectionsPassFactory	public @Nullable TextEditorHighlightingPass createHighlightingPass(@NotNull PsiFile, @NotNull Editor) 	e4777:233;
-com.intellij.codeInsight.daemon.impl.WholeFileLocalInspectionsPassFactory	public @Nullable TextEditorHighlightingPass createHighlightingPass(@NotNull PsiFile, @NotNull Editor) 	e4731:279;
-com.intellij.codeInsight.daemon.impl.WholeFileLocalInspectionsPassFactory	public @Nullable TextEditorHighlightingPass createHighlightingPass(@NotNull PsiFile, @NotNull Editor) 	e4250:259;
-com.intellij.codeInsight.daemon.impl.WholeFileLocalInspectionsPassFactory	public @Nullable TextEditorHighlightingPass createHighlightingPass(@NotNull PsiFile, @NotNull Editor) 	e3524:1501;
+java.lang.NullPointerException

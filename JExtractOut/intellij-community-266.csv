@@ -1,3 +1,5 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/TextFieldWithPopupHandlerUI.java,mouseDragged,"(712, 715)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/TextFieldWithPopupHandlerUI.java,mouseDragged,"(713, 715)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/TextFieldWithPopupHandlerUI.java,mouseDragged,"(715, 715)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/TextFieldWithPopupHandlerUI.java,mouseDragged,"(711, 716)"

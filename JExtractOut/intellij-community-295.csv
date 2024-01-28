@@ -1,4 +1,5 @@
 source_filename,function_name,loc_suggestion
 projects/intellij-community/platform/lang-impl/src/com/intellij/ui/DeferredIconImpl.java,paintIcon,"(169, 172)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/ui/DeferredIconImpl.java,paintIcon,"(162, 167)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ui/DeferredIconImpl.java,paintIcon,"(163, 172)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/ui/DeferredIconImpl.java,paintIcon,"(163, 167)"

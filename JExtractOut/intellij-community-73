@@ -1,0 +1,5 @@
+com.intellij.lexer.StringLiteralLexer	public sealed com.intellij.psi.tree.IElementType getTokenType() 	e3203:69;
+com.intellij.lexer.StringLiteralLexer	public sealed com.intellij.psi.tree.IElementType getTokenType() 	e4065:769;
+com.intellij.lexer.StringLiteralLexer	public sealed com.intellij.psi.tree.IElementType getTokenType() 	e3371:1463;
+com.intellij.lexer.StringLiteralLexer	public sealed com.intellij.psi.tree.IElementType getTokenType() 	e3284:1550;
+com.intellij.lexer.StringLiteralLexer	public sealed com.intellij.psi.tree.IElementType getTokenType() 	e3469:1365;

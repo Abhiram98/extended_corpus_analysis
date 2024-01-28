@@ -1,1 +1,12 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(266, 267)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(265, 267)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(264, 268)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(265, 266)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(263, 268)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(280, 285)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(512, 540)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(513, 541)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(513, 540)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(525, 541)"
+projects/intellij-community/platform/core-impl/src/com/intellij/openapi/progress/impl/CoreProgressManager.java,runProcessWithProgressSynchronously,"(514, 522)"

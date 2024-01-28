@@ -1,5 +1,5 @@
-com.intellij.ui.AnActionButton	public final @NotNull RelativePoint getPreferredPopupPoint() 	e5208:97;
-com.intellij.ui.AnActionButton	public final @NotNull RelativePoint getPreferredPopupPoint() 	e4504:262;
-com.intellij.ui.AnActionButton	public final @NotNull RelativePoint getPreferredPopupPoint() 	e4771:534;
-com.intellij.ui.AnActionButton	public final @NotNull RelativePoint getPreferredPopupPoint() 	e4466:300;
-com.intellij.ui.AnActionButton	public final @NotNull RelativePoint getPreferredPopupPoint() 	e4538:228;
+com.intellij.ui.AnActionButton	public final com.intellij.ui.awt.RelativePoint getPreferredPopupPoint() 	e5208:97;
+com.intellij.ui.AnActionButton	public final com.intellij.ui.awt.RelativePoint getPreferredPopupPoint() 	e4504:801;
+com.intellij.ui.AnActionButton	public final com.intellij.ui.awt.RelativePoint getPreferredPopupPoint() 	e4504:262;
+com.intellij.ui.AnActionButton	public final com.intellij.ui.awt.RelativePoint getPreferredPopupPoint() 	e4771:534;
+com.intellij.ui.AnActionButton	public final com.intellij.ui.awt.RelativePoint getPreferredPopupPoint() 	e4466:300;

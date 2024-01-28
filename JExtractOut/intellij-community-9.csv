@@ -1,2 +1,5 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,deleteFile,"(108, 114)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,deleteFile,"(107, 108)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,deleteFile,"(106, 109)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,deleteFile,"(106, 110)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/vfs/ex/temp/TempFileSystem.java,deleteFile,"(105, 109)"

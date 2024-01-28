@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/newEditor/SettingsFilter.java,<init>,"(50, 72)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/newEditor/SettingsFilter.java,<init>,"(50, 72)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/newEditor/SettingsFilter.java,<init>,"(50, 73)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/newEditor/SettingsFilter.java,<init>,"(89, 91)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/options/newEditor/SettingsFilter.java,<init>,"(50, 72)"
+JExtract internal error.

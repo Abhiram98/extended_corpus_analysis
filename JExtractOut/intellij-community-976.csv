@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/indexing-impl/src/com/intellij/psi/impl/search/PsiSearchHelperImpl.java,getUseScope,"(77, 89)"
+projects/intellij-community/platform/indexing-impl/src/com/intellij/psi/impl/search/PsiSearchHelperImpl.java,getUseScope,"(78, 90)"
+projects/intellij-community/platform/indexing-impl/src/com/intellij/psi/impl/search/PsiSearchHelperImpl.java,getUseScope,"(78, 89)"
+projects/intellij-community/platform/indexing-impl/src/com/intellij/psi/impl/search/PsiSearchHelperImpl.java,getUseScope,"(86, 90)"
+projects/intellij-community/platform/indexing-impl/src/com/intellij/psi/impl/search/PsiSearchHelperImpl.java,getUseScope,"(86, 89)"

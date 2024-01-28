@@ -1,4 +1,5 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/mac/MacWinTabsHandler.java,exitFullScreen,"(128, 133)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/ui/mac/MacWinTabsHandler.java,exitFullScreen,"(129, 132)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/mac/MacWinTabsHandler.java,exitFullScreen,"(130, 132)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/ui/mac/MacWinTabsHandler.java,exitFullScreen,"(129, 130)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/mac/MacWinTabsHandler.java,exitFullScreen,"(130, 132)"

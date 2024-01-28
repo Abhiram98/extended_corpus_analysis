@@ -1,1 +1,4 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/ui/src/com/intellij/util/ui/UIUtil.java,setFosterParent,"(1706, 1707)"
+projects/intellij-community/platform/util/ui/src/com/intellij/util/ui/UIUtil.java,setFosterParent,"(1703, 1706)"
+projects/intellij-community/platform/util/ui/src/com/intellij/util/ui/UIUtil.java,setFosterParent,"(1703, 1705)"

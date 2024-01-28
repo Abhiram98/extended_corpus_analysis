@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/impl/VcsProjectLog.java,<init>,"(94, 101)"
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/impl/VcsProjectLog.java,<init>,"(93, 101)"
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/impl/VcsProjectLog.java,<init>,"(91, 101)"
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/impl/VcsProjectLog.java,<init>,"(92, 101)"
+projects/intellij-community/platform/vcs-log/impl/src/com/intellij/vcs/log/impl/VcsProjectLog.java,<init>,"(89, 101)"

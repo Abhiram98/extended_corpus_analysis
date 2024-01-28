@@ -8,6 +8,7 @@ import numpy as np
 
 from parse_jextract import convert_jextract, within_tolerance
 
+
 def main():
     client = MongoClient('localhost', 27017)
     db_name = 'extract_function'
@@ -26,7 +27,7 @@ def main():
         project_name = url.split('https://github.com/')[1].split('/')[1]
         # hf_loc = len(obj['host_function_before_ef']['function_src'].split('\\n'))
         func_src = obj['host_function_before_ef']['function_src'].replace('\\n', '\n')
-        hf_loc = func_src[func_src.find('{'):func_src.rfind('}')+1].count('\n')+1
+        hf_loc = func_src[func_src.find('{'):func_src.rfind('}') + 1].count('\n') + 1
         try:
             liveref_data = obj['liveref_analysis']['rank_by_size']
         except Exception as e:
@@ -34,7 +35,7 @@ def main():
             liveref_data = None
 
         try:
-            em_assist_data = obj['jetgpt_ranking']['llm_multishot_data']['temperature_1.0']\
+            em_assist_data = obj['jetgpt_ranking']['llm_multishot_data']['temperature_1.0'] \
                 ['rank_by_popularity_times_heat']
         except Exception as e:
             print("No EM Assist data")
@@ -54,7 +55,7 @@ def main():
         all_proj.append(project_name)
 
         all_shas.append(obj['sha_before_ef'])
-        ef_locs.append(obj['oracle']['line_end']-obj['oracle']['line_start']+1)
+        ef_locs.append(obj['oracle']['line_end'] - obj['oracle']['line_start'] + 1)
 
     print(Counter(all_proj))
     sha_counter = Counter(all_shas).values()
@@ -68,10 +69,11 @@ def main():
             json.dump(project_data[pname], f, indent=1)
 
 
-
 def analyse(project_name):
     with open(f"{project_name}-data.json") as f:
         data = json.load(f)
+    with open(f"{project_name}-completed.json") as f:
+        completed = json.load(f)
 
     hits_and_misses = []
     tolerance_pct = 3
@@ -84,6 +86,8 @@ def analyse(project_name):
     for i, ref in enumerate(data):
         # if i > LIMIT:
         #     break
+        # if i not in completed:
+        #     continue
 
         function_name = ref['functionName']
         oracle_start, oracle_end, hf_loc = ref['lineStart'], ref['lineEnd'], ref['hfLoc']
@@ -144,15 +148,14 @@ def analyse(project_name):
         else:
             hits_and_misses.append(False)
             print("no suggestions found.")
-            no_sug+=1
-
+            no_sug += 1
 
     # convert_jextract(["--jextract-out", "JExtractOut/CoreNLP-1",
     #                  "--base-dir", "projects/CoreNLP/src"],
     #                  standalone_mode=False)
 
     print(f"{len(hits_and_misses)}")
-    print(f"{sum(hits_and_misses)/len(hits_and_misses)}")
+    print(f"{sum(hits_and_misses) / len(hits_and_misses)}")
     print(f"{no_sug=}")
     print(Counter(all_base_dirs))
     print(f"{unreadable=}")
@@ -172,17 +175,23 @@ def update_completed(project_name):
         #     break
         try:
             with open(f"JExtractOut/{project_name}-{i}") as f:
-                first_line = f.read().split("\n")[0]
+                file_contents = f.read()
+                first_line = file_contents.split("\n")[0]
         except FileNotFoundError:
             continue
         try:
-            # if first_line != "":
-            dotfile, func_signature, em_suggestion = first_line.split("	")
-            completed.append(i)
+            if first_line.startswith("foundFile"):
+                parts = file_contents.split('\n')
+                foundFile = parts[0].split('=')[1] == 'true'
+                foundMethod = parts[1].split('=')[1] == 'true'
+                noSrc = parts[2].split('=')[1] == 'false'
+                if foundFile and foundMethod and noSrc:
+                    completed.append(i)
+            else:
+                dotfile, func_signature, em_suggestion = first_line.split("	")
+                completed.append(i)
         except:
             pass
-
-
 
     print("completed.", len(completed))
     with open(f"{project_name}-completed.json", 'w') as f:
@@ -194,7 +203,8 @@ def analyse_intellij():
         data = json.load(f)
     pass
 
-def analyse_other(project_name, key, tolerance = 3, topn=5):
+
+def analyse_other(project_name, key, tolerance=3, topn=5):
     with open(f"{project_name}-data.json") as f:
         data = json.load(f)
     with open(f"{project_name}-completed.json") as f:
@@ -207,7 +217,6 @@ def analyse_other(project_name, key, tolerance = 3, topn=5):
             continue
         # obj = all_objs[i]
 
-
         ref = data[i]
         oracle_start, oracle_end, hf_loc = ref['lineStart'], ref['lineEnd'], ref['hfLoc']
         liveref_data = ref[key]
@@ -216,24 +225,22 @@ def analyse_other(project_name, key, tolerance = 3, topn=5):
             hits_and_misses.append(False)
             continue
 
-        found=  False
+        found = False
         for ld in liveref_data[:topn]:
             other_start, other_end = ld['line_start'], ld['line_end']
             if within_tolerance(oracle_start, oracle_end,
                                 other_start, other_end, tolerance=tolerance, hf_loc=hf_loc):
                 hits_and_misses.append(True)
-                found=True
+                found = True
 
         if not found:
             hits_and_misses.append(False)
 
     print(f"{len(hits_and_misses)}")
-    print(f"{sum(hits_and_misses)/len(hits_and_misses)}")
+    print(f"{sum(hits_and_misses) / len(hits_and_misses)}")
 
-    with open("hits_and_misses-liveref.json", "w") as f:
+    with open(f"hits_and_misses-{key}.json", "w") as f:
         json.dump(hits_and_misses, f, indent=1)
-
-
 
 
 if __name__ == '__main__':
@@ -242,10 +249,10 @@ if __name__ == '__main__':
     # analyse_other("CoreNLP", 'liveref_analysis')
     # analyse_other("intellij-community", 'liveref_analysis')
     # analyse_other("CoreNLP", 'em_assist')
-    # analyse_other("intellij-community", 'em_assist')
+    analyse_other("intellij-community", 'em_assist')
     # analyse("CoreNLP")
     # analyse("intellij-community")
-    update_completed("intellij-community")
+    # update_completed("intellij-community")
     # update_completed("CoreNLP")
     # analyse_intellij()
 

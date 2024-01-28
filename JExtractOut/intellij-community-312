@@ -3,7 +3,10 @@ com.intellij.ide.PsiCopyPasteManager	public PsiElement @Nullable [] getElements(
 com.intellij.ide.PsiCopyPasteManager	public PsiElement @Nullable [] getElements(boolean[]) 	e3149:250;
 com.intellij.ide.PsiCopyPasteManager	public PsiElement @Nullable [] getElements(boolean[]) 	e3073:326;
 com.intellij.ide.PsiCopyPasteManager	public PsiElement @Nullable [] getElements(boolean[]) 	e3196:203;
+com.intellij.ide.PsiCopyPasteManager	static PsiElement @Nullable [] getElements(java.awt.datatransfer.Transferable) 	e3599:300;
 com.intellij.ide.PsiCopyPasteManager	static PsiElement @Nullable [] getElements(java.awt.datatransfer.Transferable) 	e3624:275;
+com.intellij.ide.PsiCopyPasteManager.MyData	public com.intellij.psi.PsiElement[] getElements() 	e5797:303;
 com.intellij.ide.PsiCopyPasteManager.MyData	public com.intellij.psi.PsiElement[] getElements() 	e5850:195;
+com.intellij.ide.PsiCopyPasteManager.MyData	public com.intellij.psi.PsiElement[] getElements() 	e5797:248;
+com.intellij.ide.PsiCopyPasteManager.MyData	public com.intellij.psi.PsiElement[] getElements() 	e5850:250;
 com.intellij.ide.PsiCopyPasteManager.MyData	public com.intellij.psi.PsiElement[] getElements() 	e5915:120;
-com.intellij.ide.PsiCopyPasteManager.MyData	public com.intellij.psi.PsiElement[] getElements() 	e5968:67;

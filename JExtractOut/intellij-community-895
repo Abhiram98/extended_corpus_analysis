@@ -1,5 +1,1 @@
-com.intellij.ide.plugins.newui.ListPluginComponent	private void createNotAllowedMarker() 	e6472:90;
-com.intellij.ide.plugins.newui.ListPluginComponent	private void createNotAllowedMarker() 	e6246:221;
-com.intellij.ide.plugins.newui.ListPluginComponent	private void createNotAllowedMarker() 	e6246:266;
-com.intellij.ide.plugins.newui.ListPluginComponent	private void createNotAllowedMarker() 	e6380:132;
-com.intellij.ide.plugins.newui.ListPluginComponent	private void createNotAllowedMarker() 	e6293:174;
+java.lang.NullPointerException

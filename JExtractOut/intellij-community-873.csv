@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/lang-impl/src/com/intellij/execution/console/LanguageConsoleImpl.java,<init>,"(99, 107)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/execution/console/LanguageConsoleImpl.java,<init>,"(99, 106)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/execution/console/LanguageConsoleImpl.java,<init>,"(98, 106)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/execution/console/LanguageConsoleImpl.java,<init>,"(107, 108)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/execution/console/LanguageConsoleImpl.java,<init>,"(100, 108)"
+JExtract internal error.

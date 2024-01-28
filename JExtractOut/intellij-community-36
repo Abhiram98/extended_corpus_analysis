@@ -1,2 +1,3 @@
-com.intellij.ide.projectView.impl.ProjectViewImpl.MyAutoScrollFromSourceHandler	protected sealed void selectElementFromEditor(@NotNull FileEditor) 	e62050:130;
-com.intellij.ide.projectView.impl.ProjectViewImpl.MyAutoScrollFromSourceHandler	protected sealed void selectElementFromEditor(@NotNull FileEditor) 	e62122:58;
+com.intellij.ide.projectView.impl.ProjectViewImpl.MyAutoScrollFromSourceHandler	protected sealed void selectElementFromEditor(com.intellij.openapi.fileEditor.FileEditor) 	e61954:234;
+com.intellij.ide.projectView.impl.ProjectViewImpl.MyAutoScrollFromSourceHandler	protected sealed void selectElementFromEditor(com.intellij.openapi.fileEditor.FileEditor) 	e62050:130;
+com.intellij.ide.projectView.impl.ProjectViewImpl.MyAutoScrollFromSourceHandler	protected sealed void selectElementFromEditor(com.intellij.openapi.fileEditor.FileEditor) 	e62122:58;

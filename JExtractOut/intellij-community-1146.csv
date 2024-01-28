@@ -1,4 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/GroupedSearchListModel.java,getItemsForContributor,"(199, 202)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/GroupedSearchListModel.java,getItemsForContributor,"(199, 201)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/actions/searcheverywhere/GroupedSearchListModel.java,getItemsForContributor,"(198, 201)"
+JExtract internal error.

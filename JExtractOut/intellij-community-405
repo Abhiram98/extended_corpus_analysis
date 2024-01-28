@@ -1,0 +1,5 @@
+com.intellij.dvcs.DvcsUtil	public static com.intellij.openapi.vfs.VirtualFile guessVcsRoot(com.intellij.openapi.project.Project, com.intellij.openapi.vfs.VirtualFile) 	e19893:305;
+com.intellij.dvcs.DvcsUtil	public static com.intellij.openapi.vfs.VirtualFile guessVcsRoot(com.intellij.openapi.project.Project, com.intellij.openapi.vfs.VirtualFile) 	e19948:244;
+com.intellij.dvcs.DvcsUtil	public static com.intellij.openapi.vfs.VirtualFile guessVcsRoot(com.intellij.openapi.project.Project, com.intellij.openapi.vfs.VirtualFile) 	e19922:293;
+com.intellij.dvcs.DvcsUtil	public static com.intellij.openapi.vfs.VirtualFile guessVcsRoot(com.intellij.openapi.project.Project, com.intellij.openapi.vfs.VirtualFile) 	e19922:276;
+com.intellij.dvcs.DvcsUtil	public static com.intellij.openapi.vfs.VirtualFile guessVcsRoot(com.intellij.openapi.project.Project, com.intellij.openapi.vfs.VirtualFile) 	e20054:130;

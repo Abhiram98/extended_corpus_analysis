@@ -1,9 +1,10 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(290, 301)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(292, 301)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(294, 300)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(293, 301)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(298, 300)"
-projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(299, 300)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(356, 370)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(361, 370)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(362, 370)"
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/CommonActionsPanel.java,updateButton,"(357, 358)"

@@ -1,5 +1,3 @@
-com.intellij.ide.plugins.InstalledPluginsTableModel	protected final void enableRows(@NotNull Collection<? extends IdeaPluginDescriptor>, @NotNull PluginEnableDisableAction) 	e6368:226;
-com.intellij.ide.plugins.InstalledPluginsTableModel	protected final void enableRows(@NotNull Collection<? extends IdeaPluginDescriptor>, @NotNull PluginEnableDisableAction) 	e6447:189;
-com.intellij.ide.plugins.InstalledPluginsTableModel	protected final void enableRows(@NotNull Collection<? extends IdeaPluginDescriptor>, @NotNull PluginEnableDisableAction) 	e6861:365;
-com.intellij.ide.plugins.InstalledPluginsTableModel	protected final void enableRows(@NotNull Collection<? extends IdeaPluginDescriptor>, @NotNull PluginEnableDisableAction) 	e6600:626;
-com.intellij.ide.plugins.InstalledPluginsTableModel	protected final void enableRows(@NotNull Collection<? extends IdeaPluginDescriptor>, @NotNull PluginEnableDisableAction) 	e6641:585;
+foundFile=true
+foundMethod=false
+noSource=false

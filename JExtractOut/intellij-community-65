@@ -42,6 +42,7 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.dom.IMethodB
 	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
 	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
 	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
 	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
 	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
 	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)

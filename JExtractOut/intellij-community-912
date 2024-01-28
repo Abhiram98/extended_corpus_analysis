@@ -2,3 +2,4 @@ com.intellij.ide.commander.AbstractListBuilder	public final void drillDown() 	e3
 com.intellij.ide.commander.AbstractListBuilder	public final void drillDown() 	e2952:111;
 com.intellij.ide.commander.AbstractListBuilder	public final void drillDown() 	e2952:79;
 com.intellij.ide.commander.AbstractListBuilder	public final void drillDown() 	e2938:186;
+com.intellij.ide.commander.AbstractListBuilder	public final void drillDown() 	e2891:304;

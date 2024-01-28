@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/PopupFactoryImpl.java,createDialogBalloonBuilder,"(600, 612)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/PopupFactoryImpl.java,createDialogBalloonBuilder,"(602, 603)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/PopupFactoryImpl.java,createDialogBalloonBuilder,"(602, 612)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/PopupFactoryImpl.java,createDialogBalloonBuilder,"(604, 614)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/PopupFactoryImpl.java,createDialogBalloonBuilder,"(603, 614)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/PopupFactoryImpl.java,createDialogBalloonBuilder,"(603, 612)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/PopupFactoryImpl.java,createDialogBalloonBuilder,"(601, 614)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/PopupFactoryImpl.java,createDialogBalloonBuilder,"(601, 612)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/PopupFactoryImpl.java,createDialogBalloonBuilder,"(602, 614)"

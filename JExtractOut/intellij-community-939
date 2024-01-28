@@ -1,5 +1,3 @@
-com.intellij.openapi.application.ClassPathUtil	public static @NotNull Collection<String> getUtilClassPath() 	e755:1759;
-com.intellij.openapi.application.ClassPathUtil	public static @NotNull Collection<String> getUtilClassPath() 	e755:1695;
-com.intellij.openapi.application.ClassPathUtil	public static @NotNull Collection<String> getUtilClassPath() 	e2328:116;
-com.intellij.openapi.application.ClassPathUtil	public static @NotNull Collection<String> getUtilClassPath() 	e2288:477;
-com.intellij.openapi.application.ClassPathUtil	public static @NotNull Collection<String> getUtilClassPath() 	e2288:348;
+foundFile=true
+foundMethod=false
+noSource=false

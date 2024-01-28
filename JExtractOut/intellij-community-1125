@@ -1,5 +1,1 @@
-com.intellij.util.io.Decompressor	public final void extract(@NotNull Path) throws java.io.IOException	e9939:2177;
-com.intellij.util.io.Decompressor	public final void extract(@NotNull Path) throws java.io.IOException	e10818:149;
-com.intellij.util.io.Decompressor	public final void extract(@NotNull Path) throws java.io.IOException	e9958:2158;
-com.intellij.util.io.Decompressor	public final void extract(@NotNull Path) throws java.io.IOException	e10753:214;
-com.intellij.util.io.Decompressor	public final void extract(@NotNull Path) throws java.io.IOException	e10667:517;
+java.lang.NullPointerException

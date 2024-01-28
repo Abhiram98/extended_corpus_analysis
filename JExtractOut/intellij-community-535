@@ -1,5 +1,5 @@
-com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	@NotNull List<@NotNull Path> chosenPaths() 	e10245:418;
-com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	@NotNull List<@NotNull Path> chosenPaths() 	e10687:361;
-com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	@NotNull List<@NotNull Path> chosenPaths() 	e10294:369;
-com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	@NotNull List<@NotNull Path> chosenPaths() 	e10397:266;
-com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	@NotNull List<@NotNull Path> chosenPaths() 	e10737:311;
+com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	List<@NotNull Path> chosenPaths() 	e10245:418;
+com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	List<@NotNull Path> chosenPaths() 	e10687:361;
+com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	List<@NotNull Path> chosenPaths() 	e10294:369;
+com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	List<@NotNull Path> chosenPaths() 	e10397:266;
+com.intellij.openapi.fileChooser.impl.FileChooserPanelImpl	List<@NotNull Path> chosenPaths() 	e10737:311;

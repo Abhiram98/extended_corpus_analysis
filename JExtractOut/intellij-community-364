@@ -1,0 +1,6 @@
+com.intellij.execution.process.OSProcessUtil	public static void terminateProcessGracefully(java.lang.Process) throws java.lang.RuntimeException	e3057:379;
+com.intellij.execution.process.OSProcessUtil	public static void terminateProcessGracefully(java.lang.Process) throws java.lang.RuntimeException	e2897:547;
+com.intellij.execution.process.OSProcessUtil	public static void terminateProcessGracefully(java.lang.Process) throws java.lang.RuntimeException	e3460:259;
+com.intellij.execution.process.OSProcessUtil	public static void terminateProcessGracefully(int) throws java.lang.RuntimeException	e4209:375;
+com.intellij.execution.process.OSProcessUtil	public static void terminateProcessGracefully(int) throws java.lang.RuntimeException	e4049:543;
+com.intellij.execution.process.OSProcessUtil	public static void terminateProcessGracefully(int) throws java.lang.RuntimeException	e4608:244;

@@ -1,0 +1,5 @@
+com.intellij.openapi.application.WriteThread	public static Future<java.lang.Void> submit(java.lang.Runnable) 	e922:34;
+com.intellij.openapi.application.WriteThread	public static Future<T> submit(ThrowableComputable<? extends T,?>) 	e1353:281;
+com.intellij.openapi.application.WriteThread	public static Future<T> submit(ThrowableComputable<? extends T,?>) 	e1414:239;
+com.intellij.openapi.application.WriteThread	public static Future<T> submit(ThrowableComputable<? extends T,?>) 	e1414:220;
+com.intellij.openapi.application.WriteThread	public static Future<T> submit(ThrowableComputable<? extends T,?>) 	e1489:137;

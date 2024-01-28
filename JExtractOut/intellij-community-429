@@ -1,0 +1,2 @@
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void setRegularSubFamily(java.lang.String) 	e9500:71;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void setRegularSubFamily(java.lang.String) 	e9462:109;

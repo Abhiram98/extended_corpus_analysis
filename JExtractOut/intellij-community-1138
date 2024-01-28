@@ -1,5 +1,1 @@
-com.intellij.ide.ui.laf.darcula.DarculaLaf	public sealed void initialize() 	e12796:385;
-com.intellij.ide.ui.laf.darcula.DarculaLaf	public sealed void initialize() 	e13278:115;
-com.intellij.ide.ui.laf.darcula.DarculaLaf	public sealed void initialize() 	e12784:488;
-com.intellij.ide.ui.laf.darcula.DarculaLaf	public sealed void initialize() 	e12830:230;
-com.intellij.ide.ui.laf.darcula.DarculaLaf	public sealed void initialize() 	e12796:323;
+java.lang.NullPointerException

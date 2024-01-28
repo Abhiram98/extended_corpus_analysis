@@ -1,5 +1,1 @@
-com.intellij.idea.StartupUtil	private static @NotNull CompletableFuture<?> scheduleInitUi(@NotNull String @NotNull [], @Nullable ForkJoinTask<@Nullable Object>) 	e18328:142;
-com.intellij.idea.StartupUtil	private static @NotNull CompletableFuture<?> scheduleInitUi(@NotNull String @NotNull [], @Nullable ForkJoinTask<@Nullable Object>) 	e18161:309;
-com.intellij.idea.StartupUtil	private static @NotNull CompletableFuture<?> scheduleInitUi(@NotNull String @NotNull [], @Nullable ForkJoinTask<@Nullable Object>) 	e18969:324;
-com.intellij.idea.StartupUtil	private static @NotNull CompletableFuture<?> scheduleInitUi(@NotNull String @NotNull [], @Nullable ForkJoinTask<@Nullable Object>) 	e18931:362;
-com.intellij.idea.StartupUtil	private static @NotNull CompletableFuture<?> scheduleInitUi(@NotNull String @NotNull [], @Nullable ForkJoinTask<@Nullable Object>) 	e18991:190;
+java.lang.NullPointerException

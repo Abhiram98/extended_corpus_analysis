@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/CachedIntentions.java,wrapActionsTo,"(199, 270)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/CachedIntentions.java,wrapActionsTo,"(206, 270)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/CachedIntentions.java,wrapActionsTo,"(206, 269)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/CachedIntentions.java,wrapActionsTo,"(200, 203)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/intention/impl/CachedIntentions.java,wrapActionsTo,"(207, 270)"
+JExtract internal error.

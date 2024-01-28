@@ -1,1 +1,4 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/internal/inspector/UiInspectorUtil.java,getClassPresentation,"(145, 146)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/internal/inspector/UiInspectorUtil.java,getClassPresentation,"(144, 146)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/internal/inspector/UiInspectorUtil.java,getClassPresentation,"(143, 144)"

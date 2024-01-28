@@ -1,1 +1,3 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/openapi/diagnostic/JulLogger.java,clearHandlers,"(104, 106)"
+projects/intellij-community/platform/util/src/com/intellij/openapi/diagnostic/JulLogger.java,clearHandlers,"(103, 106)"

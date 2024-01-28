@@ -1,5 +1,5 @@
-com.intellij.help.impl.KeymapGenerator	public void main(@NotNull List<String>) 	e1067:1527;
-com.intellij.help.impl.KeymapGenerator	public void main(@NotNull List<String>) 	e1067:1497;
-com.intellij.help.impl.KeymapGenerator	public void main(@NotNull List<String>) 	e1067:1892;
-com.intellij.help.impl.KeymapGenerator	public void main(@NotNull List<String>) 	e2600:379;
-com.intellij.help.impl.KeymapGenerator	public void main(@NotNull List<String>) 	e2600:359;
+com.intellij.help.impl.KeymapGenerator	public void main(List<java.lang.String>) 	e1067:1527;
+com.intellij.help.impl.KeymapGenerator	public void main(List<java.lang.String>) 	e1067:1497;
+com.intellij.help.impl.KeymapGenerator	public void main(List<java.lang.String>) 	e1067:1892;
+com.intellij.help.impl.KeymapGenerator	public void main(List<java.lang.String>) 	e2600:379;
+com.intellij.help.impl.KeymapGenerator	public void main(List<java.lang.String>) 	e2600:359;

@@ -1,2 +1,4 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/ResizeableMappedFile.java,force,"(172, 175)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/ResizeableMappedFile.java,force,"(171, 176)"
 projects/intellij-community/platform/util/src/com/intellij/util/io/ResizeableMappedFile.java,force,"(173, 174)"

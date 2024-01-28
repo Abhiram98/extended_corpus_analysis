@@ -1,2 +1,3 @@
 source_filename,function_name,loc_suggestion
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/editorActions/TypedHandler.java,isClosingQuote,"(527, 528)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/editorActions/TypedHandler.java,isClosingQuote,"(526, 531)"

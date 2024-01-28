@@ -1,0 +1,5 @@
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void clearFonts() 	e2505:67;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void clearFonts() 	e2477:95;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void clearFonts() 	e2446:126;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void clearFonts() 	e2446:54;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void clearFonts() 	e2418:154;

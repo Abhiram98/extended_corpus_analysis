@@ -1,0 +1,5 @@
+com.intellij.util.io.PersistentHashMapCanonicalizationTest	public static List<K> stableSortBySerializedBytes(List<K>, DataExternalizer<K>) 	e1832:256;
+com.intellij.util.io.PersistentHashMapCanonicalizationTest	public static List<K> stableSortBySerializedBytes(List<K>, DataExternalizer<K>) 	e1905:125;
+com.intellij.util.io.PersistentHashMapCanonicalizationTest	public static List<K> stableSortBySerializedBytes(List<K>, DataExternalizer<K>) 	e1979:51;
+com.intellij.util.io.PersistentHashMapCanonicalizationTest	public static List<K> stableSortBySerializedBytes(List<K>, DataExternalizer<K>) 	e1816:417;
+com.intellij.util.io.PersistentHashMapCanonicalizationTest	public static List<K> stableSortBySerializedBytes(List<K>, DataExternalizer<K>) 	e1905:102;

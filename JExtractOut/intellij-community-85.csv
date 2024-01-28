@@ -1,1 +1,9 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/tree/AsyncTreeModel.java,accept,"(247, 254)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/tree/AsyncTreeModel.java,accept,"(247, 253)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/tree/AsyncTreeModel.java,accept,"(240, 244)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/tree/AsyncTreeModel.java,accept,"(241, 244)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/tree/AsyncTreeModel.java,accept,"(237, 246)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/tree/AsyncTreeModel.java,accept,"(453, 454)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/tree/AsyncTreeModel.java,accept,"(450, 450)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/tree/AsyncTreeModel.java,accept,"(453, 453)"

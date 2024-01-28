@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/LafManagerImpl.java,getDefaultUserScaleFactor,"(1060, 1061)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/LafManagerImpl.java,getDefaultUserScaleFactor,"(1058, 1059)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/LafManagerImpl.java,getDefaultUserScaleFactor,"(1058, 1060)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/LafManagerImpl.java,getDefaultUserScaleFactor,"(1059, 1061)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/LafManagerImpl.java,getDefaultUserScaleFactor,"(1059, 1060)"

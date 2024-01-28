@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerInlayUtil.java,createLineEndInlay,"(33, 34)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerInlayUtil.java,createLineEndInlay,"(57, 59)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerInlayUtil.java,createLineEndInlay,"(35, 60)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerInlayUtil.java,createLineEndInlay,"(34, 60)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/XDebuggerInlayUtil.java,createLineEndInlay,"(33, 60)"

@@ -1,5 +1,1 @@
-com.intellij.diagnostic.ui.EventWatcherToolWindowFactory.TableProvidingListener	void <init>() 	e2981:2274;
-com.intellij.diagnostic.ui.EventWatcherToolWindowFactory.TableProvidingListener	void <init>() 	e4785:1506;
-com.intellij.diagnostic.ui.EventWatcherToolWindowFactory.TableProvidingListener	void <init>() 	e2981:1796;
-com.intellij.diagnostic.ui.EventWatcherToolWindowFactory.TableProvidingListener	void <init>() 	e3939:2352;
-com.intellij.diagnostic.ui.EventWatcherToolWindowFactory.TableProvidingListener	void <init>() 	e3939:1316;
+java.lang.NullPointerException

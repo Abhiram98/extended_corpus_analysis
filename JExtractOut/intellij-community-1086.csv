@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/lang-impl/src/com/intellij/find/actions/ShowUsagesAction.java,createUsagePopup,"(607, 608)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/find/actions/ShowUsagesAction.java,createUsagePopup,"(669, 673)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/find/actions/ShowUsagesAction.java,createUsagePopup,"(669, 672)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/find/actions/ShowUsagesAction.java,createUsagePopup,"(611, 619)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/find/actions/ShowUsagesAction.java,createUsagePopup,"(611, 617)"
+JExtract internal error.

@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,synchronizeSelected,"(774, 777)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,synchronizeSelected,"(774, 776)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,synchronizeSelected,"(773, 777)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,synchronizeSelected,"(773, 776)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,synchronizeSelected,"(770, 777)"

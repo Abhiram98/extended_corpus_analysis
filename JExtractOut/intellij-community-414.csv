@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/changes/UpdateRequestsQueue.java,stop,"(112, 114)"
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/changes/UpdateRequestsQueue.java,stop,"(112, 115)"
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/changes/UpdateRequestsQueue.java,stop,"(110, 115)"
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/changes/UpdateRequestsQueue.java,stop,"(110, 114)"
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/changes/UpdateRequestsQueue.java,stop,"(104, 110)"

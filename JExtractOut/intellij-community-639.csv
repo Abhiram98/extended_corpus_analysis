@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/text/TextWithMnemonic.java,parse,"(219, 235)"
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/text/TextWithMnemonic.java,parse,"(217, 235)"
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/text/TextWithMnemonic.java,parse,"(211, 213)"
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/text/TextWithMnemonic.java,parse,"(220, 235)"
+projects/intellij-community/platform/util/ui/src/com/intellij/openapi/util/text/TextWithMnemonic.java,parse,"(215, 247)"

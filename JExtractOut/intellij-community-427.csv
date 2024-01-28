@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/editor-ui-ex/src/com/intellij/openapi/editor/colors/impl/FontPreferencesImpl.java,addFontFamily,"(172, 181)"
+projects/intellij-community/platform/editor-ui-ex/src/com/intellij/openapi/editor/colors/impl/FontPreferencesImpl.java,addFontFamily,"(179, 181)"
+projects/intellij-community/platform/editor-ui-ex/src/com/intellij/openapi/editor/colors/impl/FontPreferencesImpl.java,addFontFamily,"(170, 178)"
+projects/intellij-community/platform/editor-ui-ex/src/com/intellij/openapi/editor/colors/impl/FontPreferencesImpl.java,addFontFamily,"(170, 175)"
+projects/intellij-community/platform/editor-ui-ex/src/com/intellij/openapi/editor/colors/impl/FontPreferencesImpl.java,addFontFamily,"(170, 174)"

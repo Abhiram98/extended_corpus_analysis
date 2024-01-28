@@ -1,5 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/plugins/newui/ListPluginComponent.java,createNotAllowedMarker,"(176, 177)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/plugins/newui/ListPluginComponent.java,createNotAllowedMarker,"(175, 176)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/plugins/newui/ListPluginComponent.java,createNotAllowedMarker,"(174, 175)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/plugins/newui/ListPluginComponent.java,createNotAllowedMarker,"(173, 174)"
+JExtract internal error.

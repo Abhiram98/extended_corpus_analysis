@@ -1,0 +1,2 @@
+com.intellij.usages.ChunkExtractor	public TextChunk @NotNull [] createTextChunks(com.intellij.usages.UsageInfo2UsageAdapter, java.lang.CharSequence, int, int, boolean, List<? super com.intellij.usages.TextChunk>) 	e8293:245;
+com.intellij.usages.ChunkExtractor	public TextChunk @NotNull [] createTextChunks(com.intellij.usages.UsageInfo2UsageAdapter, java.lang.CharSequence, int, int, boolean, List<? super com.intellij.usages.TextChunk>) 	e8382:148;

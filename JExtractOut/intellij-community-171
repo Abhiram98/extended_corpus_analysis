@@ -1,4 +1,5 @@
 com.intellij.util.indexing.impl.MapIndexStorage	protected void initMapAndCache() throws java.io.IOException	e4016:612;
 com.intellij.util.indexing.impl.MapIndexStorage	protected void initMapAndCache() throws java.io.IOException	e4074:554;
+com.intellij.util.indexing.impl.MapIndexStorage	protected void initMapAndCache() throws java.io.IOException	e3469:1174;
 com.intellij.util.indexing.impl.MapIndexStorage	protected void initMapAndCache() throws java.io.IOException	e4344:121;
-com.intellij.util.indexing.impl.MapIndexStorage	protected void initMapAndCache() throws java.io.IOException	e4268:40;
+com.intellij.util.indexing.impl.MapIndexStorage	protected void initMapAndCache() throws java.io.IOException	e3536:1107;

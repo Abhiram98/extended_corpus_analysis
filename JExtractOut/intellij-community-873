@@ -1,5 +1,1 @@
-com.intellij.execution.console.LanguageConsoleImpl	public void <init>(LanguageConsoleImpl.@NotNull Helper) 	e4530:718;
-com.intellij.execution.console.LanguageConsoleImpl	public void <init>(LanguageConsoleImpl.@NotNull Helper) 	e4530:582;
-com.intellij.execution.console.LanguageConsoleImpl	public void <init>(LanguageConsoleImpl.@NotNull Helper) 	e4507:605;
-com.intellij.execution.console.LanguageConsoleImpl	public void <init>(LanguageConsoleImpl.@NotNull Helper) 	e5117:201;
-com.intellij.execution.console.LanguageConsoleImpl	public void <init>(LanguageConsoleImpl.@NotNull Helper) 	e4593:725;
+java.lang.NullPointerException

@@ -1,0 +1,3 @@
+com.intellij.openapi.util.KeyedExtensionCollector	final List<T> buildExtensionsFromExtensionPoint(List<T>, Predicate<? super KeyedLazyInstance<T>>, List<? extends KeyedLazyInstance<T>>) 	e5413:537;
+com.intellij.openapi.util.KeyedExtensionCollector	final List<T> buildExtensionsFromExtensionPoint(List<T>, Predicate<? super KeyedLazyInstance<T>>, List<? extends KeyedLazyInstance<T>>) 	e5851:93;
+com.intellij.openapi.util.KeyedExtensionCollector	final List<T> buildExtensionsFromExtensionPoint(List<T>, Predicate<? super KeyedLazyInstance<T>>, List<? extends KeyedLazyInstance<T>>) 	e5851:65;

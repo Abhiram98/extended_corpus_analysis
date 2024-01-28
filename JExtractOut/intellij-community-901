@@ -1,5 +1,5 @@
-com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(@NotNull Project, @NotNull Document @NotNull []) 	e1546:1468;
-com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(@NotNull Project, @NotNull Document @NotNull []) 	e1306:185;
-com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(@NotNull Project, @NotNull Document @NotNull []) 	e1546:1177;
-com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(@NotNull Project, @NotNull Document @NotNull []) 	e1644:1370;
-com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(@NotNull Project, @NotNull Document @NotNull []) 	e2429:294;
+com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(com.intellij.openapi.project.Project, Document @NotNull []) 	e1546:1468;
+com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(com.intellij.openapi.project.Project, Document @NotNull []) 	e1496:1518;
+com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(com.intellij.openapi.project.Project, Document @NotNull []) 	e1306:185;
+com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(com.intellij.openapi.project.Project, Document @NotNull []) 	e1546:1177;
+com.intellij.codeInsight.actions.onSave.FormatOnSaveAction	public sealed void processDocuments(com.intellij.openapi.project.Project, Document @NotNull []) 	e1644:1370;

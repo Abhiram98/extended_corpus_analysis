@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/execution-impl/src/com/intellij/execution/impl/SingleConfigurationConfigurable.java,requestToUpdateWarning,"(170, 172)"
+projects/intellij-community/platform/execution-impl/src/com/intellij/execution/impl/SingleConfigurationConfigurable.java,requestToUpdateWarning,"(169, 173)"
+projects/intellij-community/platform/execution-impl/src/com/intellij/execution/impl/SingleConfigurationConfigurable.java,requestToUpdateWarning,"(165, 173)"
+projects/intellij-community/platform/execution-impl/src/com/intellij/execution/impl/SingleConfigurationConfigurable.java,requestToUpdateWarning,"(167, 173)"
+projects/intellij-community/platform/execution-impl/src/com/intellij/execution/impl/SingleConfigurationConfigurable.java,requestToUpdateWarning,"(163, 173)"

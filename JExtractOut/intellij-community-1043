@@ -1,5 +1,1 @@
-com.intellij.application.options.codeStyle.excludedFiles.ExcludedGlobPatternsPanel	public void <init>() 	e1532:149;
-com.intellij.application.options.codeStyle.excludedFiles.ExcludedGlobPatternsPanel	public void <init>() 	e1532:166;
-com.intellij.application.options.codeStyle.excludedFiles.ExcludedGlobPatternsPanel	public void <init>() 	e1835:106;
-com.intellij.application.options.codeStyle.excludedFiles.ExcludedGlobPatternsPanel	public void <init>() 	e1436:56;
-com.intellij.application.options.codeStyle.excludedFiles.ExcludedGlobPatternsPanel	public void <init>() 	e1231:58;
+java.lang.NullPointerException

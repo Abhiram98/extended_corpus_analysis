@@ -1,0 +1,2 @@
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void setUseLigatures(boolean) 	e9059:71;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void setUseLigatures(boolean) 	e9022:108;

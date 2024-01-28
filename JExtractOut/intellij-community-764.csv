@@ -1,1 +1,2 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/TargetElementUtil.java,getTargetElementFromLookup,"(153, 162)"

@@ -1,0 +1,3 @@
+com.intellij.codeInsight.intention.preview.IntentionPreviewInfo	public static com.intellij.codeInsight.intention.preview.IntentionPreviewInfo rename(com.intellij.psi.PsiFile, @NlsSafe String) 	e5409:487;
+com.intellij.codeInsight.intention.preview.IntentionPreviewInfo	public static com.intellij.codeInsight.intention.preview.IntentionPreviewInfo rename(com.intellij.psi.PsiFile, @NlsSafe String) 	e5409:394;
+com.intellij.codeInsight.intention.preview.IntentionPreviewInfo	public static com.intellij.codeInsight.intention.preview.IntentionPreviewInfo rename(com.intellij.psi.PsiFile, @NlsSafe String) 	e5571:325;

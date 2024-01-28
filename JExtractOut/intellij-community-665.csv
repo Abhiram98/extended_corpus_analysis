@@ -3,4 +3,4 @@ projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/file
 projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileEditor/impl/FileEditorManagerImpl.java,getEditors,"(1498, 1500)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileEditor/impl/FileEditorManagerImpl.java,getEditors,"(1501, 1512)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileEditor/impl/FileEditorManagerImpl.java,getEditors,"(1497, 1501)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileEditor/impl/FileEditorManagerImpl.java,getEditors,"(1497, 1500)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/fileEditor/impl/FileEditorManagerImpl.java,getEditors,"(1498, 1512)"

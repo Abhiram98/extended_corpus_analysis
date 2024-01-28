@@ -1,1 +1,11 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(181, 183)"
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(184, 185)"
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(181, 185)"
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(181, 184)"
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(183, 185)"
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(192, 199)"
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(192, 201)"
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(200, 201)"
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(190, 199)"
+projects/intellij-community/platform/util/ui/src/com/intellij/ui/svg/SvgCacheManager.java,readImage,"(193, 195)"

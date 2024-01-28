@@ -1,1 +1,3 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/core-api/src/com/intellij/util/ModalityUiUtil.java,invokeLaterIfNeeded,"(27, 32)"
+projects/intellij-community/platform/core-api/src/com/intellij/util/ModalityUiUtil.java,invokeLaterIfNeeded,"(53, 58)"

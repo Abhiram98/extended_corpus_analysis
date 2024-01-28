@@ -1,5 +1,5 @@
-com.intellij.ide.navigationToolbar.NavBarPanel	public @Nullable Object getData(@NotNull String) 	e23154:357;
-com.intellij.ide.navigationToolbar.NavBarPanel	public @Nullable Object getData(@NotNull String) 	e23058:453;
-com.intellij.ide.navigationToolbar.NavBarPanel	public @Nullable Object getData(@NotNull String) 	e23188:95;
-com.intellij.ide.navigationToolbar.NavBarPanel	public @Nullable Object getData(@NotNull String) 	e23332:114;
-com.intellij.ide.navigationToolbar.NavBarPanel	public @Nullable Object getData(@NotNull String) 	e23295:216;
+com.intellij.ide.navigationToolbar.NavBarPanel	public java.lang.Object getData(java.lang.String) 	e22520:991;
+com.intellij.ide.navigationToolbar.NavBarPanel	public java.lang.Object getData(java.lang.String) 	e22559:952;
+com.intellij.ide.navigationToolbar.NavBarPanel	public java.lang.Object getData(java.lang.String) 	e23154:357;
+com.intellij.ide.navigationToolbar.NavBarPanel	public java.lang.Object getData(java.lang.String) 	e23058:453;
+com.intellij.ide.navigationToolbar.NavBarPanel	public java.lang.Object getData(java.lang.String) 	e23188:95;

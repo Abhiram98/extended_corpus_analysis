@@ -1,1 +1,3 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/DarculaCheckBoxUI.java,getPreferredSize,"(123, 125)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/DarculaCheckBoxUI.java,getPreferredSize,"(122, 124)"

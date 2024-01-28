@@ -1,6 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,processIdleActivityListeners,"(767, 784)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,processIdleActivityListeners,"(768, 777)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,processIdleActivityListeners,"(759, 766)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,processIdleActivityListeners,"(768, 783)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/IdeEventQueue.java,processIdleActivityListeners,"(769, 777)"
+JExtract internal error.

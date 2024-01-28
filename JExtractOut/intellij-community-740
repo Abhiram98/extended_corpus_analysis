@@ -1,5 +1,5 @@
-com.intellij.ui.TitledSeparator	public void <init>(@Separator String, @Nullable JComponent) 	e1709:425;
-com.intellij.ui.TitledSeparator	public void <init>(@Separator String, @Nullable JComponent) 	e1647:523;
-com.intellij.ui.TitledSeparator	public void <init>(@Separator String, @Nullable JComponent) 	e1647:487;
-com.intellij.ui.TitledSeparator	public void <init>(@Separator String, @Nullable JComponent) 	e1709:461;
-com.intellij.ui.TitledSeparator	public void <init>(@Separator String, @Nullable JComponent) 	e1745:389;
+com.intellij.ui.TitledSeparator	public void <init>(@Separator String, javax.swing.JComponent) 	e1709:425;
+com.intellij.ui.TitledSeparator	public void <init>(@Separator String, javax.swing.JComponent) 	e1647:523;
+com.intellij.ui.TitledSeparator	public void <init>(@Separator String, javax.swing.JComponent) 	e1647:487;
+com.intellij.ui.TitledSeparator	public void <init>(@Separator String, javax.swing.JComponent) 	e1709:461;
+com.intellij.ui.TitledSeparator	public void <init>(@Separator String, javax.swing.JComponent) 	e1745:389;

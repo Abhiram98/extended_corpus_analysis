@@ -1,3 +1,4 @@
-com.intellij.ui.DeferredIconImpl	public void paintIcon(java.awt.Component, @NotNull Graphics, int, int) 	e6310:114;
-com.intellij.ui.DeferredIconImpl	public void paintIcon(java.awt.Component, @NotNull Graphics, int, int) 	e6015:289;
-com.intellij.ui.DeferredIconImpl	public void paintIcon(java.awt.Component, @NotNull Graphics, int, int) 	e6067:237;
+com.intellij.ui.DeferredIconImpl	public void paintIcon(java.awt.Component, java.awt.Graphics, int, int) 	e6310:114;
+com.intellij.ui.DeferredIconImpl	public void paintIcon(java.awt.Component, java.awt.Graphics, int, int) 	e6015:289;
+com.intellij.ui.DeferredIconImpl	public void paintIcon(java.awt.Component, java.awt.Graphics, int, int) 	e6067:357;
+com.intellij.ui.DeferredIconImpl	public void paintIcon(java.awt.Component, java.awt.Graphics, int, int) 	e6067:237;

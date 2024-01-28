@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/external-system-impl/src/com/intellij/openapi/externalSystem/service/project/manage/ProjectDataManagerImpl.java,runFinalTasks,"(171, 173)"
+projects/intellij-community/platform/external-system-impl/src/com/intellij/openapi/externalSystem/service/project/manage/ProjectDataManagerImpl.java,runFinalTasks,"(170, 174)"
+projects/intellij-community/platform/external-system-impl/src/com/intellij/openapi/externalSystem/service/project/manage/ProjectDataManagerImpl.java,runFinalTasks,"(175, 187)"
+projects/intellij-community/platform/external-system-impl/src/com/intellij/openapi/externalSystem/service/project/manage/ProjectDataManagerImpl.java,runFinalTasks,"(176, 183)"
+projects/intellij-community/platform/external-system-impl/src/com/intellij/openapi/externalSystem/service/project/manage/ProjectDataManagerImpl.java,runFinalTasks,"(177, 179)"

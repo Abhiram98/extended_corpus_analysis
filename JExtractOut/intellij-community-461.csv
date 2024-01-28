@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/structureView/newStructureView/StructureViewComponent.java,createActionGroup,"(333, 362)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/ide/structureView/newStructureView/StructureViewComponent.java,createActionGroup,"(334, 355)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/ide/structureView/newStructureView/StructureViewComponent.java,createActionGroup,"(333, 355)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/ide/structureView/newStructureView/StructureViewComponent.java,createActionGroup,"(360, 361)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/ide/structureView/newStructureView/StructureViewComponent.java,createActionGroup,"(358, 361)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/structureView/newStructureView/StructureViewComponent.java,createActionGroup,"(357, 363)"

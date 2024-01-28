@@ -1,3 +1,3 @@
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed boolean isWritable(@NotNull VirtualFile) 	e6594:89;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed boolean isWritable(@NotNull VirtualFile) 	e6594:119;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed boolean isWritable(@NotNull VirtualFile) 	e6559:124;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed boolean isWritable(com.intellij.openapi.vfs.VirtualFile) 	e6594:89;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed boolean isWritable(com.intellij.openapi.vfs.VirtualFile) 	e6594:119;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed boolean isWritable(com.intellij.openapi.vfs.VirtualFile) 	e6559:124;

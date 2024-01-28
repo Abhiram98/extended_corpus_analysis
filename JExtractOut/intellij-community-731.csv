@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(445, 447)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(448, 480)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(449, 480)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(454, 456)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(453, 456)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(447, 482)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(446, 482)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(445, 446)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(448, 482)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/actionSystem/impl/ActionButton.java,processMouseEvent,"(449, 482)"

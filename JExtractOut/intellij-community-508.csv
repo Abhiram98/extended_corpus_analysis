@@ -1,4 +1,8 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addFile,"(207, 212)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addFile,"(206, 213)"
 projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addFile,"(208, 211)"
 projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addFile,"(210, 211)"
 projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addFile,"(209, 211)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addFile,"(251, 253)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/Compressor.java,addFile,"(262, 264)"

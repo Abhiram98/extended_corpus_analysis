@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/editor/EditorMouseHoverPopupManager.java,findElementForQuickDoc,"(376, 386)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/editor/EditorMouseHoverPopupManager.java,findElementForQuickDoc,"(380, 384)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/editor/EditorMouseHoverPopupManager.java,findElementForQuickDoc,"(380, 381)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/editor/EditorMouseHoverPopupManager.java,findElementForQuickDoc,"(379, 385)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/editor/EditorMouseHoverPopupManager.java,findElementForQuickDoc,"(378, 385)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/editor/EditorMouseHoverPopupManager.java,findElementForQuickDoc,"(382, 384)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/openapi/editor/EditorMouseHoverPopupManager.java,findElementForQuickDoc,"(377, 388)"

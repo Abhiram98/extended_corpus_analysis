@@ -1,1 +1,5 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/editor-ui-api/src/com/intellij/ide/util/treeView/PresentableNodeDescriptor.java,getName,"(226, 230)"
+projects/intellij-community/platform/editor-ui-api/src/com/intellij/ide/util/treeView/PresentableNodeDescriptor.java,getName,"(227, 230)"
+projects/intellij-community/platform/editor-ui-api/src/com/intellij/ide/util/treeView/PresentableNodeDescriptor.java,getName,"(227, 229)"
+projects/intellij-community/platform/editor-ui-api/src/com/intellij/ide/util/treeView/PresentableNodeDescriptor.java,getName,"(226, 229)"

@@ -1,1 +1,3 @@
-java.lang.NullPointerException
+foundFile=true
+foundMethod=false
+noSource=false

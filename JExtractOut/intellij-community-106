@@ -1,1 +1,2 @@
-com.intellij.codeInsight.editorActions.TypedHandler	private static boolean isOpeningQuote(@NotNull Editor, @NotNull QuoteHandler, int) 	e23643:40;
+com.intellij.codeInsight.editorActions.TypedHandler	private static boolean isOpeningQuote(com.intellij.openapi.editor.Editor, com.intellij.codeInsight.editorActions.QuoteHandler, int) 	e23643:40;
+com.intellij.codeInsight.editorActions.TypedHandler	private static boolean isOpeningQuote(com.intellij.openapi.editor.Editor, com.intellij.codeInsight.editorActions.QuoteHandler, int) 	e23613:135;

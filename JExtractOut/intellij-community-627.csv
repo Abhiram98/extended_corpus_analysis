@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
 projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/FileBasedIndexScanUtil.java,processValuesInOneFile,"(202, 204)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/FileBasedIndexScanUtil.java,processValuesInOneFile,"(198, 208)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/FileBasedIndexScanUtil.java,processValuesInOneFile,"(197, 208)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/FileBasedIndexScanUtil.java,processValuesInOneFile,"(200, 208)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/FileBasedIndexScanUtil.java,processValuesInOneFile,"(202, 205)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/util/indexing/FileBasedIndexScanUtil.java,processValuesInOneFile,"(199, 208)"

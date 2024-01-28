@@ -1,5 +1,3 @@
-com.intellij.codeInsight.intention.impl.CachedIntentions	private boolean wrapActionsTo(@NotNull List<? extends HighlightInfo.IntentionActionDescriptor>, @NotNull Set<IntentionActionWithTextCaching>, boolean) 	e8650:3397;
-com.intellij.codeInsight.intention.impl.CachedIntentions	private boolean wrapActionsTo(@NotNull List<? extends HighlightInfo.IntentionActionDescriptor>, @NotNull Set<IntentionActionWithTextCaching>, boolean) 	e8926:3121;
-com.intellij.codeInsight.intention.impl.CachedIntentions	private boolean wrapActionsTo(@NotNull List<? extends HighlightInfo.IntentionActionDescriptor>, @NotNull Set<IntentionActionWithTextCaching>, boolean) 	e8926:3101;
-com.intellij.codeInsight.intention.impl.CachedIntentions	private boolean wrapActionsTo(@NotNull List<? extends HighlightInfo.IntentionActionDescriptor>, @NotNull Set<IntentionActionWithTextCaching>, boolean) 	e8680:213;
-com.intellij.codeInsight.intention.impl.CachedIntentions	private boolean wrapActionsTo(@NotNull List<? extends HighlightInfo.IntentionActionDescriptor>, @NotNull Set<IntentionActionWithTextCaching>, boolean) 	e8992:3055;
+foundFile=true
+foundMethod=false
+noSource=false

@@ -1,2 +1,3 @@
 source_filename,function_name,loc_suggestion
 projects/intellij-community/platform/platform-api/src/com/intellij/ui/RelativeFont.java,fromResource,"(98, 99)"
+projects/intellij-community/platform/platform-api/src/com/intellij/ui/RelativeFont.java,fromResource,"(96, 100)"

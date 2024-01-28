@@ -1,5 +1,5 @@
-com.intellij.openapi.keymap.MacKeymapUtil	static @NotNull String getModifiersText(int) 	e2380:222;
-com.intellij.openapi.keymap.MacKeymapUtil	static @NotNull String getModifiersText(int) 	e2380:332;
-com.intellij.openapi.keymap.MacKeymapUtil	static @NotNull String getModifiersText(int) 	e2380:305;
-com.intellij.openapi.keymap.MacKeymapUtil	static @NotNull String getModifiersText(int) 	e2296:416;
-com.intellij.openapi.keymap.MacKeymapUtil	static @NotNull String getModifiersText(int) 	e2296:389;
+com.intellij.openapi.keymap.MacKeymapUtil	static java.lang.String getModifiersText(int) 	e2131:581;
+com.intellij.openapi.keymap.MacKeymapUtil	static java.lang.String getModifiersText(int) 	e2131:554;
+com.intellij.openapi.keymap.MacKeymapUtil	static java.lang.String getModifiersText(int) 	e2086:599;
+com.intellij.openapi.keymap.MacKeymapUtil	static java.lang.String getModifiersText(int) 	e2380:222;
+com.intellij.openapi.keymap.MacKeymapUtil	static java.lang.String getModifiersText(int) 	e2380:332;

@@ -1,1 +1,3 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/DarculaRadioButtonUI.java,getPreferredSize,"(100, 102)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/laf/darcula/ui/DarculaRadioButtonUI.java,getPreferredSize,"(99, 101)"

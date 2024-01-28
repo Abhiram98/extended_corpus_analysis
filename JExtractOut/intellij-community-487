@@ -1,8 +1,8 @@
 com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private void installBackgroundImage() 	e2813:185;
 com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private void installBackgroundImage() 	e2931:67;
 com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private void installBackgroundImage() 	e2709:217;
-com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@Nullable Map<String,Object>, java.lang.String) 	e3712:153;
-com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@Nullable Map<String,Object>, java.lang.String) 	e3267:1285;
-com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@Nullable Map<String,Object>, java.lang.String) 	e3203:1349;
-com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@Nullable Map<String,Object>, java.lang.String) 	e4150:295;
-com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(@Nullable Map<String,Object>, java.lang.String) 	e4150:276;
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(Map<java.lang.String,java.lang.Object>, java.lang.String) 	e3712:153;
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(Map<java.lang.String,java.lang.Object>, java.lang.String) 	e3267:1285;
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(Map<java.lang.String,java.lang.Object>, java.lang.String) 	e3203:1349;
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(Map<java.lang.String,java.lang.Object>, java.lang.String) 	e4150:295;
+com.intellij.ide.ui.laf.UIThemeBasedLookAndFeelInfo	private boolean installBackgroundImage(Map<java.lang.String,java.lang.Object>, java.lang.String) 	e4150:276;

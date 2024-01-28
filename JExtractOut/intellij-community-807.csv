@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(733, 755)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(730, 755)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(733, 755)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(736, 755)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(736, 751)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(755, 784)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(755, 783)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(758, 784)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(765, 784)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/EditorTextField.java,getPreferredSize,"(759, 784)"

@@ -1,0 +1,5 @@
+com.intellij.openapi.util.text.TextWithMnemonic	public static com.intellij.openapi.util.text.TextWithMnemonic parse(java.lang.String) 	e8427:505;
+com.intellij.openapi.util.text.TextWithMnemonic	public static com.intellij.openapi.util.text.TextWithMnemonic parse(java.lang.String) 	e8396:536;
+com.intellij.openapi.util.text.TextWithMnemonic	public static com.intellij.openapi.util.text.TextWithMnemonic parse(java.lang.String) 	e8182:96;
+com.intellij.openapi.util.text.TextWithMnemonic	public static com.intellij.openapi.util.text.TextWithMnemonic parse(java.lang.String) 	e8452:480;
+com.intellij.openapi.util.text.TextWithMnemonic	public static com.intellij.openapi.util.text.TextWithMnemonic parse(java.lang.String) 	e8284:1199;

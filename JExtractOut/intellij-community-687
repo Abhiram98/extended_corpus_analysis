@@ -1,0 +1,2 @@
+com.intellij.openapi.diagnostic.JulLogger	public static void clearHandlers() 	e2926:81;
+com.intellij.openapi.diagnostic.JulLogger	public static void clearHandlers() 	e2875:132;

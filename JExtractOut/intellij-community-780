@@ -1,6 +1,3 @@
-com.intellij.util.ui.tree.TreeUtil	public static javax.swing.tree.TreePath visitVisibleRows(@NotNull JTree, @NotNull TreeVisitor) 	e73706:102;
-com.intellij.util.ui.tree.TreeUtil	public static javax.swing.tree.TreePath visitVisibleRows(@NotNull JTree, @NotNull TreeVisitor) 	e73659:149;
-com.intellij.util.ui.tree.TreeUtil	public static javax.swing.tree.TreePath visitVisibleRows(@NotNull JTree, @NotNull TreeVisitor) 	e73539:269;
-com.intellij.util.ui.tree.TreeUtil	public static javax.swing.tree.TreePath visitVisibleRows(@NotNull JTree, @NotNull TreeVisitor) 	e73539:160;
-com.intellij.util.ui.tree.TreeUtil	public static javax.swing.tree.TreePath visitVisibleRows(@NotNull JTree, @NotNull TreeVisitor) 	e73539:113;
-com.intellij.util.ui.tree.TreeUtil	public static void visitVisibleRows(@NotNull JTree, @NotNull Function<? super TreePath,? extends T>, @NotNull Consumer<? super T>) 	e74810:44;
+foundFile=true
+foundMethod=false
+noSource=false

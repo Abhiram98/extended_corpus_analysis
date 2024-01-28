@@ -1,0 +1,2 @@
+com.intellij.openapi.components.ComponentCategorizer	public static com.intellij.openapi.components.SettingsCategory getCategory(PersistentStateComponent<?>) 	e689:132;
+com.intellij.openapi.components.ComponentCategorizer	public static com.intellij.openapi.components.SettingsCategory getCategory(PersistentStateComponent<?>) 	e616:205;

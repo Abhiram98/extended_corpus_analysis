@@ -1,3 +1,6 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/diagnostic/PerformanceWatcher.java,edtEventStarted,"(304, 305)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/diagnostic/PerformanceWatcher.java,edtEventStarted,"(305, 306)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/diagnostic/PerformanceWatcher.java,edtEventStarted,"(367, 370)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/diagnostic/PerformanceWatcher.java,edtEventStarted,"(366, 371)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/diagnostic/PerformanceWatcher.java,edtEventStarted,"(363, 364)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/diagnostic/PerformanceWatcher.java,edtEventStarted,"(367, 369)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/diagnostic/PerformanceWatcher.java,edtEventStarted,"(364, 371)"

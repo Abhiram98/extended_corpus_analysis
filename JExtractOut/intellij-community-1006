@@ -1,5 +1,3 @@
-com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher	private boolean processActionOrWaitSecondStroke(javax.swing.KeyStroke) 	e18212:243;
-com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher	private boolean processActionOrWaitSecondStroke(javax.swing.KeyStroke) 	e18212:226;
-com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher	private boolean processActionOrWaitSecondStroke(javax.swing.KeyStroke) 	e18212:169;
-com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher	private boolean processActionOrWaitSecondStroke(javax.swing.KeyStroke) 	e18387:68;
-com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher	private boolean processActionOrWaitSecondStroke(javax.swing.KeyStroke) 	e17489:717;
+foundFile=true
+foundMethod=false
+noSource=false

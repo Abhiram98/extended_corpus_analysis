@@ -1,4 +1,5 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/actionsOnSave/ActionOnSaveBackedByOwnConfigurable.java,setActionOnSaveEnabled,"(112, 123)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/ide/actionsOnSave/ActionOnSaveBackedByOwnConfigurable.java,setActionOnSaveEnabled,"(117, 123)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/ide/actionsOnSave/ActionOnSaveBackedByOwnConfigurable.java,setActionOnSaveEnabled,"(113, 114)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/ide/actionsOnSave/ActionOnSaveBackedByOwnConfigurable.java,setActionOnSaveEnabled,"(118, 119)"

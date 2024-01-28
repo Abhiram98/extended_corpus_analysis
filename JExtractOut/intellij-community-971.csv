@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/analysis-impl/src/com/intellij/refactoring/rename/RenameUtilBase.java,doRenameGenericNamedElement,"(32, 80)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/refactoring/rename/RenameUtilBase.java,doRenameGenericNamedElement,"(57, 58)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/refactoring/rename/RenameUtilBase.java,doRenameGenericNamedElement,"(81, 83)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/refactoring/rename/RenameUtilBase.java,doRenameGenericNamedElement,"(39, 80)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/refactoring/rename/RenameUtilBase.java,doRenameGenericNamedElement,"(39, 41)"

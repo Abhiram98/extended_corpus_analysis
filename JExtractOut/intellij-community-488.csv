@@ -1,11 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(845, 846)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(842, 846)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(842, 845)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(849, 859)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(849, 860)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(955, 958)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(956, 958)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(953, 958)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(954, 958)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/ConfigImportHelper.java,migratePlugins,"(958, 958)"
+JExtract internal error.

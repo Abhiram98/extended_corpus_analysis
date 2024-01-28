@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/impl/LineStatusTrackerBaseContentUtil.java,getBaseRevision,"(39, 70)"
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/impl/LineStatusTrackerBaseContentUtil.java,getBaseRevision,"(48, 70)"
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/impl/LineStatusTrackerBaseContentUtil.java,getBaseRevision,"(52, 53)"
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/impl/LineStatusTrackerBaseContentUtil.java,getBaseRevision,"(47, 70)"
+projects/intellij-community/platform/vcs-impl/src/com/intellij/openapi/vcs/impl/LineStatusTrackerBaseContentUtil.java,getBaseRevision,"(35, 36)"

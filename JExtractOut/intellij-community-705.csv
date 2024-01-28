@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(81, 83)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(81, 84)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(87, 89)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(82, 84)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(84, 89)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(90, 91)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(91, 93)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(91, 92)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(90, 93)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/ui/customization/CustomizableActionsPanel.java,createToolbar,"(90, 92)"

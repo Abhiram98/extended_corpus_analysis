@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/InlineDebugRenderer.java,handleClick,"(128, 129)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/InlineDebugRenderer.java,handleClick,"(124, 126)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/InlineDebugRenderer.java,handleClick,"(134, 136)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/InlineDebugRenderer.java,handleClick,"(128, 131)"
+projects/intellij-community/platform/xdebugger-impl/src/com/intellij/xdebugger/impl/inline/InlineDebugRenderer.java,handleClick,"(133, 137)"

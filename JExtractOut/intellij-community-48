@@ -1,0 +1,5 @@
+com.intellij.codeInspection.options.OptionController	public static com.intellij.codeInspection.options.OptionController fieldsOf(java.lang.Object) 	e9494:338;
+com.intellij.codeInspection.options.OptionController	public static com.intellij.codeInspection.options.OptionController fieldsOf(java.lang.Object) 	e9494:281;
+com.intellij.codeInspection.options.OptionController	public static com.intellij.codeInspection.options.OptionController fieldsOf(java.lang.Object) 	e9473:359;
+com.intellij.codeInspection.options.OptionController	public static com.intellij.codeInspection.options.OptionController fieldsOf(java.lang.Object) 	e9877:579;
+com.intellij.codeInspection.options.OptionController	public static com.intellij.codeInspection.options.OptionController fieldsOf(java.lang.Object) 	e9473:302;

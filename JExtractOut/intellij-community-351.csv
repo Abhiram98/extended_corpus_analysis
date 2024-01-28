@@ -1,1 +1,7 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateContext.java,isEnabled,"(80, 85)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateContext.java,isEnabled,"(82, 83)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateContext.java,isEnabled,"(81, 85)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateContext.java,isEnabled,"(91, 96)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateContext.java,isEnabled,"(93, 94)"
+projects/intellij-community/platform/analysis-impl/src/com/intellij/codeInsight/template/impl/TemplateContext.java,isEnabled,"(92, 96)"

@@ -1,0 +1,2 @@
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void setBoldSubFamily(java.lang.String) 	e9742:71;
+com.intellij.openapi.editor.colors.impl.FontPreferencesImpl	public sealed void setBoldSubFamily(java.lang.String) 	e9707:106;

@@ -1,4 +1,5 @@
 source_filename,function_name,loc_suggestion
 projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,processKeys,"(501, 503)"
 projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,processKeys,"(501, 504)"
+projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,processKeys,"(500, 512)"
 projects/intellij-community/platform/util/src/com/intellij/util/io/PersistentMapImpl.java,processKeys,"(507, 508)"

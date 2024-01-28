@@ -3,4 +3,4 @@ projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/navi
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/navigation/GotoImplementationHandler.java,createImplementationComparator,"(252, 256)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/navigation/GotoImplementationHandler.java,createImplementationComparator,"(256, 262)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/navigation/GotoImplementationHandler.java,createImplementationComparator,"(258, 261)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/navigation/GotoImplementationHandler.java,createImplementationComparator,"(255, 262)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/codeInsight/navigation/GotoImplementationHandler.java,createImplementationComparator,"(254, 262)"

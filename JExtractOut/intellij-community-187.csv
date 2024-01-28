@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,setWarning,"(2042, 2046)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,setWarning,"(2042, 2045)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,setWarning,"(2043, 2046)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,setWarning,"(2041, 2045)"
 projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,setWarning,"(2043, 2045)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,setWarning,"(2041, 2042)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,setWarning,"(2045, 2046)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,setWarning,"(2044, 2046)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,setWarning,"(2043, 2044)"

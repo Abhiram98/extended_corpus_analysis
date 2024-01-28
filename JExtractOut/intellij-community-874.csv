@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/KillableProcessHandler.java,destroyProcessGracefully,"(219, 235)"
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/KillableProcessHandler.java,destroyProcessGracefully,"(240, 243)"
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/KillableProcessHandler.java,destroyProcessGracefully,"(210, 212)"
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/KillableProcessHandler.java,destroyProcessGracefully,"(220, 235)"
+projects/intellij-community/platform/platform-util-io/src/com/intellij/execution/process/KillableProcessHandler.java,destroyProcessGracefully,"(206, 212)"

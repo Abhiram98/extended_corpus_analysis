@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/impl/ProjectUtil.java,getBaseDir,"(653, 665)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/impl/ProjectUtil.java,getBaseDir,"(660, 665)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/impl/ProjectUtil.java,getBaseDir,"(661, 664)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/impl/ProjectUtil.java,getBaseDir,"(656, 665)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/ide/impl/ProjectUtil.java,getBaseDir,"(657, 665)"

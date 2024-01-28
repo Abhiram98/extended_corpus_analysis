@@ -1,0 +1,5 @@
+com.intellij.codeInsight.template.impl.TemplateState	private void processAllExpressions(com.intellij.codeInsight.template.impl.TemplateImpl) 	e13624:757;
+com.intellij.codeInsight.template.impl.TemplateState	private void processAllExpressions(com.intellij.codeInsight.template.impl.TemplateImpl) 	e13603:778;
+com.intellij.codeInsight.template.impl.TemplateState	private void processAllExpressions(com.intellij.codeInsight.template.impl.TemplateImpl) 	e12915:701;
+com.intellij.codeInsight.template.impl.TemplateState	private void processAllExpressions(com.intellij.codeInsight.template.impl.TemplateImpl) 	e12915:681;
+com.intellij.codeInsight.template.impl.TemplateState	private void processAllExpressions(com.intellij.codeInsight.template.impl.TemplateImpl) 	e12915:1466;

@@ -1,1 +1,4 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorImpl.java,adjustGlobalFontSize,"(5158, 5160)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorImpl.java,adjustGlobalFontSize,"(5158, 5161)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/editor/impl/EditorImpl.java,adjustGlobalFontSize,"(5157, 5160)"

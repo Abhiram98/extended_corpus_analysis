@@ -1,0 +1,1 @@
+com.intellij.codeInsight.completion.impl.CompletionServiceImpl	public static transient boolean isPhase(Class<? extends CompletionPhase> @NotNull []) 	e6698:164;

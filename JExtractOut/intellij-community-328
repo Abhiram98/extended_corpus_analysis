@@ -1,0 +1,2 @@
+com.intellij.openapi.progress.impl.CoreProgressManager	public static com.intellij.openapi.application.ModalityState getCurrentThreadProgressModality() 	e34383:177;
+com.intellij.openapi.progress.impl.CoreProgressManager	public static com.intellij.openapi.application.ModalityState getCurrentThreadProgressModality() 	e34479:147;

@@ -1,5 +1,5 @@
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, @NotNull VirtualFile, @NotNull VirtualFile) throws java.io.IOException	e4331:638;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, @NotNull VirtualFile, @NotNull VirtualFile) throws java.io.IOException	e4587:382;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, @NotNull VirtualFile, @NotNull VirtualFile) throws java.io.IOException	e4915:54;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, @NotNull VirtualFile, @NotNull VirtualFile) throws java.io.IOException	e4871:98;
-com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, @NotNull VirtualFile, @NotNull VirtualFile) throws java.io.IOException	e4331:608;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e4331:638;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e4587:382;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e4915:54;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e4871:98;
+com.intellij.openapi.vfs.ex.temp.TempFileSystem	public sealed void moveFile(java.lang.Object, com.intellij.openapi.vfs.VirtualFile, com.intellij.openapi.vfs.VirtualFile) throws java.io.IOException	e4331:608;

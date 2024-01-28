@@ -1,0 +1,5 @@
+com.intellij.diff.tools.external.ExternalDiffTool	public static void show(com.intellij.openapi.project.Project, com.intellij.diff.chains.DiffRequestChain, com.intellij.diff.DiffDialogHints) 	e3135:151;
+com.intellij.diff.tools.external.ExternalDiffTool	public static void show(com.intellij.openapi.project.Project, com.intellij.diff.chains.DiffRequestChain, com.intellij.diff.DiffDialogHints) 	e3377:125;
+com.intellij.diff.tools.external.ExternalDiffTool	public static void show(com.intellij.openapi.project.Project, com.intellij.diff.chains.DiffRequestChain, com.intellij.diff.DiffDialogHints) 	e2939:347;
+com.intellij.diff.tools.external.ExternalDiffTool	public static void show(com.intellij.openapi.project.Project, com.intellij.diff.chains.DiffRequestChain, com.intellij.diff.DiffDialogHints) 	e2880:406;
+com.intellij.diff.tools.external.ExternalDiffTool	public static void show(com.intellij.openapi.project.Project, com.intellij.diff.chains.DiffRequestChain, com.intellij.diff.DiffDialogHints) 	e2939:188;

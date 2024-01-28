@@ -1,5 +1,1 @@
-com.intellij.openapi.fileTypes.impl.FileTypeConfigurable.RecognizedFileTypesPanel	void <init>() 	e18547:84;
-com.intellij.openapi.fileTypes.impl.FileTypeConfigurable.RecognizedFileTypesPanel	void <init>() 	e17938:812;
-com.intellij.openapi.fileTypes.impl.FileTypeConfigurable.RecognizedFileTypesPanel	void <init>() 	e17771:372;
-com.intellij.openapi.fileTypes.impl.FileTypeConfigurable.RecognizedFileTypesPanel	void <init>() 	e17938:876;
-com.intellij.openapi.fileTypes.impl.FileTypeConfigurable.RecognizedFileTypesPanel	void <init>() 	e17771:159;
+java.lang.NullPointerException

@@ -1,0 +1,5 @@
+com.intellij.codeInspection.ex.ToolsImpl	boolean isEnabled(com.intellij.psi.search.scope.packageSet.NamedScope, com.intellij.openapi.project.Project) 	e12678:234;
+com.intellij.codeInspection.ex.ToolsImpl	public boolean isEnabled(com.intellij.psi.PsiElement) 	e14461:553;
+com.intellij.codeInspection.ex.ToolsImpl	public boolean isEnabled(com.intellij.psi.PsiElement) 	e14540:474;
+com.intellij.codeInspection.ex.ToolsImpl	public boolean isEnabled(com.intellij.psi.PsiElement) 	e14584:430;
+com.intellij.codeInspection.ex.ToolsImpl	public boolean isEnabled(com.intellij.psi.PsiElement) 	e14676:338;

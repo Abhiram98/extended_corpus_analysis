@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/inspect/src/com/intellij/codeInspection/InspectionApplicationBase.java,subscribeToRootChanges,"(333, 335)"
+projects/intellij-community/platform/inspect/src/com/intellij/codeInspection/InspectionApplicationBase.java,subscribeToRootChanges,"(336, 347)"
+projects/intellij-community/platform/inspect/src/com/intellij/codeInspection/InspectionApplicationBase.java,subscribeToRootChanges,"(335, 347)"
+projects/intellij-community/platform/inspect/src/com/intellij/codeInspection/InspectionApplicationBase.java,subscribeToRootChanges,"(344, 345)"
+projects/intellij-community/platform/inspect/src/com/intellij/codeInspection/InspectionApplicationBase.java,subscribeToRootChanges,"(335, 336)"

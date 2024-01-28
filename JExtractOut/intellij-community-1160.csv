@@ -1,1 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/util/diagnostic/src/com/intellij/diagnostic/ActivityImpl.java,<init>,"(48, 51)"
+projects/intellij-community/platform/util/diagnostic/src/com/intellij/diagnostic/ActivityImpl.java,<init>,"(44, 51)"
+projects/intellij-community/platform/util/diagnostic/src/com/intellij/diagnostic/ActivityImpl.java,<init>,"(42, 51)"
+projects/intellij-community/platform/util/diagnostic/src/com/intellij/diagnostic/ActivityImpl.java,<init>,"(45, 51)"
+projects/intellij-community/platform/util/diagnostic/src/com/intellij/diagnostic/ActivityImpl.java,<init>,"(46, 51)"

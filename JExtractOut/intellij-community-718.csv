@@ -1,1 +1,4 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/projectModel-impl/src/com/intellij/openapi/components/ComponentCategorizer.java,getCategory,"(14, 17)"
+projects/intellij-community/platform/projectModel-impl/src/com/intellij/openapi/components/ComponentCategorizer.java,getCategory,"(15, 18)"
+projects/intellij-community/platform/projectModel-impl/src/com/intellij/openapi/components/ComponentCategorizer.java,getCategory,"(15, 17)"

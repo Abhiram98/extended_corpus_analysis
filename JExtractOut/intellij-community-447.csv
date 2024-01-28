@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,performCopyTo,"(649, 651)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,performCopyTo,"(646, 653)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,performCopyTo,"(647, 653)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,performCopyTo,"(648, 653)"
+projects/intellij-community/platform/diff-impl/src/com/intellij/openapi/diff/impl/dir/DirDiffTableModel.java,performCopyTo,"(648, 652)"

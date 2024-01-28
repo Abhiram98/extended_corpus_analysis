@@ -1,6 +1,6 @@
 source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/bookmarks/BookmarkManager.java,setMnemonic,"(466, 471)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/ide/bookmarks/BookmarkManager.java,setMnemonic,"(465, 467)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/bookmarks/BookmarkManager.java,setMnemonic,"(465, 470)"
+projects/intellij-community/platform/lang-impl/src/com/intellij/ide/bookmarks/BookmarkManager.java,setMnemonic,"(466, 470)"
 projects/intellij-community/platform/lang-impl/src/com/intellij/ide/bookmarks/BookmarkManager.java,setMnemonic,"(466, 467)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/bookmarks/BookmarkManager.java,setMnemonic,"(470, 471)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/bookmarks/BookmarkManager.java,setMnemonic,"(465, 466)"
-projects/intellij-community/platform/lang-impl/src/com/intellij/ide/bookmarks/BookmarkManager.java,setMnemonic,"(469, 471)"

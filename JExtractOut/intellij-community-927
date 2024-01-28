@@ -1,5 +1,1 @@
-com.intellij.ide.scratch.ScratchFileServiceImpl	private void initFileOpenedListener() 	e6876:203;
-com.intellij.ide.scratch.ScratchFileServiceImpl	private void initFileOpenedListener() 	e7148:921;
-com.intellij.ide.scratch.ScratchFileServiceImpl	private void initFileOpenedListener() 	e5558:1584;
-com.intellij.ide.scratch.ScratchFileServiceImpl	private void initFileOpenedListener() 	e5380:1762;
-com.intellij.ide.scratch.ScratchFileServiceImpl	private void initFileOpenedListener() 	e6954:125;
+java.lang.NullPointerException

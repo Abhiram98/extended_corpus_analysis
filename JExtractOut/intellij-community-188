@@ -1,0 +1,11 @@
+com.intellij.openapi.progress.impl.CoreProgressManager	public sealed T runProcessWithProgressSynchronously(ThrowableComputable<T,E>, @DialogTitle String, boolean, com.intellij.openapi.project.Project) throws E	e10512:57;
+com.intellij.openapi.progress.impl.CoreProgressManager	public sealed T runProcessWithProgressSynchronously(ThrowableComputable<T,E>, @DialogTitle String, boolean, com.intellij.openapi.project.Project) throws E	e10471:98;
+com.intellij.openapi.progress.impl.CoreProgressManager	public sealed T runProcessWithProgressSynchronously(ThrowableComputable<T,E>, @DialogTitle String, boolean, com.intellij.openapi.project.Project) throws E	e10448:127;
+com.intellij.openapi.progress.impl.CoreProgressManager	public sealed T runProcessWithProgressSynchronously(ThrowableComputable<T,E>, @DialogTitle String, boolean, com.intellij.openapi.project.Project) throws E	e10471:83;
+com.intellij.openapi.progress.impl.CoreProgressManager	public sealed T runProcessWithProgressSynchronously(ThrowableComputable<T,E>, @DialogTitle String, boolean, com.intellij.openapi.project.Project) throws E	e10413:162;
+com.intellij.openapi.progress.impl.CoreProgressManager	public sealed boolean runProcessWithProgressSynchronously(java.lang.Runnable, @DialogTitle String, boolean, com.intellij.openapi.project.Project, javax.swing.JComponent) 	e11099:206;
+com.intellij.openapi.progress.impl.CoreProgressManager	protected boolean runProcessWithProgressSynchronously(com.intellij.openapi.progress.Task) 	e19426:1436;
+com.intellij.openapi.progress.impl.CoreProgressManager	protected boolean runProcessWithProgressSynchronously(com.intellij.openapi.progress.Task) 	e19473:1408;
+com.intellij.openapi.progress.impl.CoreProgressManager	protected boolean runProcessWithProgressSynchronously(com.intellij.openapi.progress.Task) 	e19473:1389;
+com.intellij.openapi.progress.impl.CoreProgressManager	protected boolean runProcessWithProgressSynchronously(com.intellij.openapi.progress.Task) 	e19726:1155;
+com.intellij.openapi.progress.impl.CoreProgressManager	protected boolean runProcessWithProgressSynchronously(com.intellij.openapi.progress.Task) 	e19512:201;

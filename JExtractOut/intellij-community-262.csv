@@ -1,8 +1,1 @@
-source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,show,"(535, 536)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,show,"(534, 535)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,show,"(858, 864)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,show,"(859, 864)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,show,"(987, 988)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,show,"(1146, 1148)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/ui/popup/AbstractPopup.java,show,"(1143, 1148)"
+JExtract internal error.

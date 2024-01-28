@@ -1,0 +1,1 @@
+com.intellij.codeInspection.ex.ToolsImpl	public InspectionToolWrapper<?,?> getEnabledTool(com.intellij.psi.PsiElement, boolean) 	e15190:718;

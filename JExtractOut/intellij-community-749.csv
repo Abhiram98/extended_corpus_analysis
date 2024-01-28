@@ -1,1 +1,6 @@
-JExtract internal error.
+source_filename,function_name,loc_suggestion
+projects/intellij-community/platform/core-impl/src/com/intellij/ide/plugins/PluginManagerCore.java,readBrokenPluginFile,"(221, 232)"
+projects/intellij-community/platform/core-impl/src/com/intellij/ide/plugins/PluginManagerCore.java,readBrokenPluginFile,"(222, 232)"
+projects/intellij-community/platform/core-impl/src/com/intellij/ide/plugins/PluginManagerCore.java,readBrokenPluginFile,"(221, 231)"
+projects/intellij-community/platform/core-impl/src/com/intellij/ide/plugins/PluginManagerCore.java,readBrokenPluginFile,"(222, 231)"
+projects/intellij-community/platform/core-impl/src/com/intellij/ide/plugins/PluginManagerCore.java,readBrokenPluginFile,"(214, 239)"

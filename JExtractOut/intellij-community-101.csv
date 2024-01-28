@@ -1,3 +1,6 @@
 source_filename,function_name,loc_suggestion
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeIntentLock,"(264, 271)"
-projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeIntentLock,"(250, 255)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeIntentLock,"(255, 260)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeIntentLock,"(249, 250)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeIntentLock,"(247, 261)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeIntentLock,"(245, 261)"
+projects/intellij-community/platform/platform-impl/src/com/intellij/openapi/application/impl/ReadMostlyRWLock.java,writeIntentLock,"(244, 245)"
