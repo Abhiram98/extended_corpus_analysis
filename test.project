@@ -1,5 +1,5 @@
 <projectDescription>
-	<name>intellij.platform.ide.impl</name>
+	<name>plugins</name>
 	<comment />
 	<projects>
 	</projects>
@@ -38,17 +38,9 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/diff-api/src</location>
 </link><link>
-    <name>platform-lang-core</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/lang-core/src</location>
-</link><link>
     <name>platform-platform-resources</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-resources/src</location>
-</link><link>
-    <name>platform-tracing</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/tracing/src</location>
 </link><link>
     <name>platform-core-impl</name>
     <type>2</type>
@@ -57,18 +49,6 @@
     <name>platform-service-container</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/service-container/src</location>
-</link><link>
-    <name>platform-remote-core</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/remote-core/src</location>
-</link><link>
-    <name>platform-external-process-auth-helper</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/external-process-auth-helper/src</location>
-</link><link>
-    <name>platform-external-process-auth-helper-rt</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/external-process-auth-helper/rt/src</location>
 </link><link>
     <name>platform-lvcs-impl</name>
     <type>2</type>
@@ -90,14 +70,6 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/lang-api/src</location>
 </link><link>
-    <name>platform-ide-core-impl</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/ide-core-impl/src</location>
-</link><link>
-    <name>platform-tracing-ide</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/tracing-ide/src</location>
-</link><link>
     <name>platform-inspect</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/inspect/src</location>
@@ -117,10 +89,6 @@
     <name>platform-bootstrap</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/bootstrap/src</location>
-</link><link>
-    <name>platform-bootstrap-dev</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/bootstrap/dev/src</location>
 </link><link>
     <name>platform-boot</name>
     <type>2</type>
@@ -146,69 +114,37 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/ui/src</location>
 </link><link>
+    <name>platform-util-strings</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/strings/src</location>
+</link><link>
     <name>platform-util-text-matching</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/text-matching/src</location>
 </link><link>
-    <name>platform-util-trove</name>
+    <name>platform-util-diagnostic</name>
     <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/trove/src</location>
-</link><link>
-    <name>platform-util-diff</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/diff/src</location>
-</link><link>
-    <name>platform-util-rt-java8</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/rt-java8/src</location>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/diagnostic/src</location>
 </link><link>
     <name>platform-util-zip</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/zip/src</location>
 </link><link>
-    <name>platform-util-immutable-key-value-store</name>
+    <name>platform-util-collections</name>
     <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/immutable-key-value-store/src</location>
-</link><link>
-    <name>platform-util-immutable-key-value-store-benchmark</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/immutable-key-value-store/benchmark/src</location>
-</link><link>
-    <name>platform-util-xmlDom</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/xmlDom/src</location>
-</link><link>
-    <name>platform-util-jdom</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/jdom/src</location>
-</link><link>
-    <name>platform-util-base</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/base/src</location>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/collections/src</location>
 </link><link>
     <name>platform-platform-util-io</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-util-io/src</location>
 </link><link>
-    <name>platform-platform-util-io-impl</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-util-io-impl/src</location>
-</link><link>
     <name>platform-dvcs-impl</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/dvcs-impl/src</location>
 </link><link>
-    <name>platform-workspaceModel-codegen-impl</name>
+    <name>platform-workspaceModel-ide</name>
     <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/workspaceModel/codegen-impl/src</location>
-</link><link>
-    <name>platform-workspaceModel-jps</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/workspaceModel/jps/src</location>
-</link><link>
-    <name>platform-workspaceModel-codegen</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/workspaceModel/codegen/src</location>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/workspaceModel/ide/src</location>
 </link><link>
     <name>platform-workspaceModel-storage</name>
     <type>2</type>
@@ -226,10 +162,6 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-resources-en/src</location>
 </link><link>
-    <name>platform-ide-core</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/ide-core/src</location>
-</link><link>
     <name>platform-platform-api</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-api/src</location>
@@ -237,10 +169,6 @@
     <name>platform-external-system-api</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/external-system-api/src</location>
-</link><link>
-    <name>platform-external-system-api-dependency-updater</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/external-system-api/dependency-updater/src</location>
 </link><link>
     <name>platform-xdebugger-api</name>
     <type>2</type>
@@ -254,10 +182,6 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/diagnostic/src</location>
 </link><link>
-    <name>platform-diagnostic-telemetry</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/diagnostic/telemetry/src</location>
-</link><link>
     <name>platform-forms_rt</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/forms_rt/src</location>
@@ -265,14 +189,6 @@
     <name>platform-usageView</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/usageView/src</location>
-</link><link>
-    <name>platform-dependencies-toolwindow</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/dependencies-toolwindow/src</location>
-</link><link>
-    <name>platform-usageView-impl</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/usageView-impl/src</location>
 </link><link>
     <name>platform-util-rt</name>
     <type>2</type>
@@ -298,37 +214,9 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/execution-impl/src</location>
 </link><link>
-    <name>platform-sqlite</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/sqlite/src</location>
-</link><link>
-    <name>platform-tips-of-the-day</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/tips-of-the-day/src</location>
-</link><link>
-    <name>platform-collaboration-tools</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/collaboration-tools/src</location>
-</link><link>
-    <name>platform-collaboration-tools-auth</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/collaboration-tools/auth/src</location>
-</link><link>
-    <name>platform-wsl-impl</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/wsl-impl/src</location>
-</link><link>
-    <name>platform-feedback</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/feedback/src</location>
-</link><link>
     <name>platform-extensions</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/extensions/src</location>
-</link><link>
-    <name>platform-markdown-utils</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/markdown-utils/src</location>
 </link><link>
     <name>platform-object-serializer</name>
     <type>2</type>
@@ -354,21 +242,9 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/diff-impl/src</location>
 </link><link>
-    <name>platform-macro</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/macro/src</location>
-</link><link>
     <name>platform-platform-cds-agent</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-cds-agent/src</location>
-</link><link>
-    <name>platform-execution</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/execution/src</location>
-</link><link>
-    <name>platform-smart-update</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/smart-update/src</location>
 </link><link>
     <name>platform-icons</name>
     <type>2</type>
@@ -426,17 +302,9 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-api/vcs-api-core/src</location>
 </link><link>
-    <name>platform-credential-store-ui</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/credential-store-ui/src</location>
-</link><link>
     <name>platform-structure-view-impl</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/structure-view-impl/src</location>
-</link><link>
-    <name>platform-reproducible-builds</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/reproducible-builds/src</location>
 </link><link>
     <name>platform-script-debugger-backend</name>
     <type>2</type>
@@ -462,25 +330,9 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/script-debugger/debugger-ui/src</location>
 </link><link>
-    <name>platform-remoteDev-util</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/remoteDev-util/src</location>
-</link><link>
-    <name>platform-jps-bootstrap</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/jps-bootstrap/src</location>
-</link><link>
     <name>platform-core-api</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/core-api/src</location>
-</link><link>
-    <name>platform-refactoring</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/refactoring/src</location>
-</link><link>
-    <name>platform-platform-util-netty</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-util-netty/src</location>
 </link><link>
     <name>platform-editor-ui-ex</name>
     <type>2</type>
@@ -506,6 +358,10 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/built-in-server/client/node-rpc-client/src</location>
 </link><link>
+    <name>platform-vcs-code-review</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-code-review/src</location>
+</link><link>
     <name>platform-ml-impl</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/ml-impl/src</location>
@@ -522,45 +378,401 @@
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/projectModel-api/src</location>
 </link><link>
-    <name>platform-ml-api</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/ml-api/src</location>
-</link><link>
     <name>platform-configuration-store-impl</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/configuration-store-impl/src</location>
-</link><link>
-    <name>platform-warmup</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/warmup/src</location>
-</link><link>
-    <name>platform-warmup-performanceTesting</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/warmup/performanceTesting/src</location>
 </link><link>
     <name>platform-platform-impl</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-impl/src</location>
 </link><link>
-    <name>platform-webSymbols</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/webSymbols/src</location>
-</link><link>
-    <name>platform-webSymbols-web-types-gen-ext</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/webSymbols/web-types-gen/ext/src</location>
-</link><link>
-    <name>platform-build-scripts</name>
-    <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/build-scripts/src</location>
-</link><link>
     <name>platform-build-scripts-dev-server</name>
     <type>2</type>
     <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/build-scripts/dev-server/src</location>
 </link><link>
-    <name>platform-build-scripts-downloader</name>
+    <name>platform-build-scripts-icons</name>
     <type>2</type>
-    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/build-scripts/downloader/src</location>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/build-scripts/icons/src</location>
+</link><link>
+    <name>platform-external-system-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/external-system-impl/src</location>
+</link></linkedResources><linkedResources><link>
+    <name>platform-statistics</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/statistics/src</location>
+</link><link>
+    <name>platform-statistics-uploader</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/statistics/uploader/src</location>
+</link><link>
+    <name>platform-statistics-config</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/statistics/config/src</location>
+</link><link>
+    <name>platform-statistics-devkit</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/statistics/devkit/src</location>
+</link><link>
+    <name>platform-tasks-platform-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/tasks-platform-api/src</location>
+</link><link>
+    <name>platform-diff-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/diff-api/src</location>
+</link><link>
+    <name>platform-platform-resources</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-resources/src</location>
+</link><link>
+    <name>platform-core-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/core-impl/src</location>
+</link><link>
+    <name>platform-service-container</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/service-container/src</location>
+</link><link>
+    <name>platform-lvcs-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/lvcs-impl/src</location>
+</link><link>
+    <name>platform-credential-store</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/credential-store/src</location>
+</link><link>
+    <name>platform-external-system-rt</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/external-system-rt/src</location>
+</link><link>
+    <name>platform-lang-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/lang-impl/src</location>
+</link><link>
+    <name>platform-lang-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/lang-api/src</location>
+</link><link>
+    <name>platform-inspect</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/inspect/src</location>
+</link><link>
+    <name>platform-vcs-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-impl/src</location>
+</link><link>
+    <name>platform-rd-platform-community</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/rd-platform-community/src</location>
+</link><link>
+    <name>platform-tasks-platform-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/tasks-platform-impl/src</location>
+</link><link>
+    <name>platform-bootstrap</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/bootstrap/src</location>
+</link><link>
+    <name>platform-boot</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/boot/src</location>
+</link><link>
+    <name>platform-core-ui</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/core-ui/src</location>
+</link><link>
+    <name>platform-projectModel-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/projectModel-impl/src</location>
+</link><link>
+    <name>platform-platform-main</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-main/src</location>
+</link><link>
+    <name>platform-util</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/src</location>
+</link><link>
+    <name>platform-util-ui</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/ui/src</location>
+</link><link>
+    <name>platform-util-strings</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/strings/src</location>
+</link><link>
+    <name>platform-util-text-matching</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/text-matching/src</location>
+</link><link>
+    <name>platform-util-diagnostic</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/diagnostic/src</location>
+</link><link>
+    <name>platform-util-zip</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/zip/src</location>
+</link><link>
+    <name>platform-util-collections</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util/collections/src</location>
+</link><link>
+    <name>platform-platform-util-io</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-util-io/src</location>
+</link><link>
+    <name>platform-dvcs-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/dvcs-impl/src</location>
+</link><link>
+    <name>platform-workspaceModel-ide</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/workspaceModel/ide/src</location>
+</link><link>
+    <name>platform-workspaceModel-storage</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/workspaceModel/storage/src</location>
+</link><link>
+    <name>platform-util-ex</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util-ex/src</location>
+</link><link>
+    <name>platform-analysis-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/analysis-impl/src</location>
+</link><link>
+    <name>platform-platform-resources-en</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-resources-en/src</location>
+</link><link>
+    <name>platform-platform-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-api/src</location>
+</link><link>
+    <name>platform-external-system-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/external-system-api/src</location>
+</link><link>
+    <name>platform-xdebugger-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/xdebugger-api/src</location>
+</link><link>
+    <name>platform-xdebugger-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/xdebugger-impl/src</location>
+</link><link>
+    <name>platform-diagnostic</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/diagnostic/src</location>
+</link><link>
+    <name>platform-forms_rt</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/forms_rt/src</location>
+</link><link>
+    <name>platform-usageView</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/usageView/src</location>
+</link><link>
+    <name>platform-util-rt</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util-rt/src</location>
+</link><link>
+    <name>platform-util-class-loader</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/util-class-loader/src</location>
+</link><link>
+    <name>platform-remote-servers-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/remote-servers/impl/src</location>
+</link><link>
+    <name>platform-remote-servers-agent-rt</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/remote-servers/agent-rt/src</location>
+</link><link>
+    <name>platform-remote-servers-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/remote-servers/api/src</location>
+</link><link>
+    <name>platform-execution-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/execution-impl/src</location>
+</link><link>
+    <name>platform-extensions</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/extensions/src</location>
+</link><link>
+    <name>platform-object-serializer</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/object-serializer/src</location>
+</link><link>
+    <name>platform-code-style-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/code-style-impl/src</location>
+</link><link>
+    <name>platform-dvcs-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/dvcs-api/src</location>
+</link><link>
+    <name>platform-smRunner</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/smRunner/src</location>
+</link><link>
+    <name>platform-smRunner-vcs</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/smRunner/vcs/src</location>
+</link><link>
+    <name>platform-diff-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/diff-impl/src</location>
+</link><link>
+    <name>platform-platform-cds-agent</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-cds-agent/src</location>
+</link><link>
+    <name>platform-icons</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/icons/src</location>
+</link><link>
+    <name>platform-code-style-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/code-style-api/src</location>
+</link><link>
+    <name>platform-vcs-log-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-log/impl/src</location>
+</link><link>
+    <name>platform-vcs-log-graph</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-log/graph/src</location>
+</link><link>
+    <name>platform-vcs-log-graph-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-log/graph-api/src</location>
+</link><link>
+    <name>platform-vcs-log-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-log/api/src</location>
+</link><link>
+    <name>platform-indexing-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/indexing-api/src</location>
+</link><link>
+    <name>platform-elevation</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/elevation/src</location>
+</link><link>
+    <name>platform-elevation-common</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/elevation/common/src</location>
+</link><link>
+    <name>platform-elevation-daemon</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/elevation/daemon/src</location>
+</link><link>
+    <name>platform-elevation-client</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/elevation/client/src</location>
+</link><link>
+    <name>platform-duplicates-analysis</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/duplicates-analysis/src</location>
+</link><link>
+    <name>platform-vcs-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-api/src</location>
+</link><link>
+    <name>platform-vcs-api-vcs-api-core</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-api/vcs-api-core/src</location>
+</link><link>
+    <name>platform-structure-view-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/structure-view-impl/src</location>
+</link><link>
+    <name>platform-script-debugger-backend</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/script-debugger/backend/src</location>
+</link><link>
+    <name>platform-script-debugger-protocol-protocol-reader-runtime</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/script-debugger/protocol/protocol-reader-runtime/src</location>
+</link><link>
+    <name>platform-script-debugger-protocol-protocol-model-generator</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/script-debugger/protocol/protocol-model-generator/src</location>
+</link><link>
+    <name>platform-script-debugger-protocol-protocol-reader</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/script-debugger/protocol/protocol-reader/src</location>
+</link><link>
+    <name>platform-script-debugger-protocol-schema-reader-generator</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/script-debugger/protocol/schema-reader-generator/src</location>
+</link><link>
+    <name>platform-script-debugger-debugger-ui</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/script-debugger/debugger-ui/src</location>
+</link><link>
+    <name>platform-core-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/core-api/src</location>
+</link><link>
+    <name>platform-editor-ui-ex</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/editor-ui-ex/src</location>
+</link><link>
+    <name>platform-editor-ui-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/editor-ui-api/src</location>
+</link><link>
+    <name>platform-indexing-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/indexing-impl/src</location>
+</link><link>
+    <name>platform-built-in-server-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/built-in-server-api/src</location>
+</link><link>
+    <name>platform-built-in-server</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/built-in-server/src</location>
+</link><link>
+    <name>platform-built-in-server-client-node-rpc-client</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/built-in-server/client/node-rpc-client/src</location>
+</link><link>
+    <name>platform-vcs-code-review</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/vcs-code-review/src</location>
+</link><link>
+    <name>platform-ml-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/ml-impl/src</location>
+</link><link>
+    <name>platform-lvcs-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/lvcs-api/src</location>
+</link><link>
+    <name>platform-analysis-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/analysis-api/src</location>
+</link><link>
+    <name>platform-projectModel-api</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/projectModel-api/src</location>
+</link><link>
+    <name>platform-configuration-store-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/configuration-store-impl/src</location>
+</link><link>
+    <name>platform-platform-impl</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/platform-impl/src</location>
+</link><link>
+    <name>platform-build-scripts-dev-server</name>
+    <type>2</type>
+    <location>/Users/abhiram/Documents/JetGPT/extended_corpus/projects/intellij-community/platform/build-scripts/dev-server/src</location>
 </link><link>
     <name>platform-build-scripts-icons</name>
     <type>2</type>

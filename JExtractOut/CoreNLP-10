@@ -1,74 +1,62 @@
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void <init>(edu.stanford.nlp.parser.shiftreduce.ShiftReduceOptions, Index<edu.stanford.nlp.parser.shiftreduce.Transition>, Set<java.lang.String>, Set<java.lang.String>, Set<java.lang.String>) 	e1790:777;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void <init>(edu.stanford.nlp.parser.shiftreduce.ShiftReduceOptions, Index<edu.stanford.nlp.parser.shiftreduce.Transition>, Set<java.lang.String>, Set<java.lang.String>, Set<java.lang.String>) 	e1898:669;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void <init>(edu.stanford.nlp.parser.shiftreduce.ShiftReduceOptions, Index<edu.stanford.nlp.parser.shiftreduce.Transition>, Set<java.lang.String>, Set<java.lang.String>, Set<java.lang.String>) 	e1840:727;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void <init>(edu.stanford.nlp.parser.shiftreduce.ShiftReduceOptions, Index<edu.stanford.nlp.parser.shiftreduce.Transition>, Set<java.lang.String>, Set<java.lang.String>, Set<java.lang.String>) 	e1790:103;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void <init>(edu.stanford.nlp.parser.shiftreduce.ShiftReduceOptions, Index<edu.stanford.nlp.parser.shiftreduce.Transition>, Set<java.lang.String>, Set<java.lang.String>, Set<java.lang.String>) 	e2020:471;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void <init>(edu.stanford.nlp.parser.shiftreduce.PerceptronModel) 	e2694:191;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void <init>(edu.stanford.nlp.parser.shiftreduce.PerceptronModel) 	e2743:142;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void <init>(edu.stanford.nlp.parser.shiftreduce.PerceptronModel) 	e2645:93;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void <init>(edu.stanford.nlp.parser.shiftreduce.PerceptronModel) 	e2645:240;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageScoredModels(Collection<ScoredObject<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>>) 	e3452:126;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageScoredModels(Collection<ScoredObject<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>>) 	e3244:202;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageScoredModels(Collection<ScoredObject<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>>) 	e3130:316;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageScoredModels(Collection<ScoredObject<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>>) 	e3435:143;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageScoredModels(Collection<ScoredObject<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>>) 	e3318:128;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageModels(Collection<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>) 	e4006:409;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageModels(Collection<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>) 	e3762:239;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageModels(Collection<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>) 	e3654:347;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageModels(Collection<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>) 	e3812:144;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void averageModels(Collection<edu.stanford.nlp.parser.shiftreduce.PerceptronModel>) 	e3857:93;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void condenseFeatures() 	e4860:62;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void condenseFeatures() 	e4834:88;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void condenseFeatures() 	e4782:140;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void condenseFeatures() 	e4782:71;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void condenseFeatures() 	e4741:181;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void filterFeatures(Set<java.lang.String>) 	e5093:75;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void filterFeatures(Set<java.lang.String>) 	e5057:117;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void outputStats() 	e5365:142;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void outputStats() 	e5341:166;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void outputStats() 	e5273:465;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void outputStats() 	e5572:233;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public void outputStats() 	e5341:225;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	sealed Set<java.lang.String> tagSet() 	e6088:356;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	sealed Set<java.lang.String> tagSet() 	e6627:42;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	sealed Set<java.lang.String> tagSet() 	e6042:402;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	sealed Set<java.lang.String> tagSet() 	e6088:581;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	sealed Set<java.lang.String> tagSet() 	e6088:564;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private ScoredObject<java.lang.Integer> findHighestScoringTransition(edu.stanford.nlp.parser.shiftreduce.State, List<java.lang.String>, boolean) 	e7022:95;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private Collection<ScoredObject<java.lang.Integer>> findHighestScoringTransitions(edu.stanford.nlp.parser.shiftreduce.State, List<java.lang.String>, boolean, int, List<edu.stanford.nlp.parser.common.ParserConstraint>) 	e7719:221;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private Collection<ScoredObject<java.lang.Integer>> findHighestScoringTransitions(edu.stanford.nlp.parser.shiftreduce.State, List<java.lang.String>, boolean, int, List<edu.stanford.nlp.parser.common.ParserConstraint>) 	e7759:175;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private Collection<ScoredObject<java.lang.Integer>> findHighestScoringTransitions(edu.stanford.nlp.parser.shiftreduce.State, List<java.lang.String>, boolean, int, List<edu.stanford.nlp.parser.common.ParserConstraint>) 	e7719:351;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private Collection<ScoredObject<java.lang.Integer>> findHighestScoringTransitions(edu.stanford.nlp.parser.shiftreduce.State, List<java.lang.String>, boolean, int, List<edu.stanford.nlp.parser.common.ParserConstraint>) 	e7663:277;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private Collection<ScoredObject<java.lang.Integer>> findHighestScoringTransitions(edu.stanford.nlp.parser.shiftreduce.State, List<java.lang.String>, boolean, int, List<edu.stanford.nlp.parser.common.ParserConstraint>) 	e7946:416;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainTree(edu.stanford.nlp.parser.shiftreduce.TrainingExample, edu.stanford.nlp.parser.shiftreduce.Oracle) 	e14440:298;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainTree(edu.stanford.nlp.parser.shiftreduce.TrainingExample, edu.stanford.nlp.parser.shiftreduce.Oracle) 	e8759:57;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainTree(edu.stanford.nlp.parser.shiftreduce.TrainingExample, edu.stanford.nlp.parser.shiftreduce.Oracle) 	e18558:184;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainTree(edu.stanford.nlp.parser.shiftreduce.TrainingExample, edu.stanford.nlp.parser.shiftreduce.Oracle) 	e8822:9920;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainTree(edu.stanford.nlp.parser.shiftreduce.TrainingExample, edu.stanford.nlp.parser.shiftreduce.Oracle) 	e8782:95;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainBatch(List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.parser.shiftreduce.Oracle, MulticoreWrapper<edu.stanford.nlp.parser.shiftreduce.TrainingExample,edu.stanford.nlp.parser.shiftreduce.TrainingResult>) 	e20030:795;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainBatch(List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.parser.shiftreduce.Oracle, MulticoreWrapper<edu.stanford.nlp.parser.shiftreduce.TrainingExample,edu.stanford.nlp.parser.shiftreduce.TrainingResult>) 	e20380:111;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainBatch(List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.parser.shiftreduce.Oracle, MulticoreWrapper<edu.stanford.nlp.parser.shiftreduce.TrainingExample,edu.stanford.nlp.parser.shiftreduce.TrainingResult>) 	e20380:84;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainBatch(List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.parser.shiftreduce.Oracle, MulticoreWrapper<edu.stanford.nlp.parser.shiftreduce.TrainingExample,edu.stanford.nlp.parser.shiftreduce.TrainingResult>) 	e20135:91;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private edu.stanford.nlp.parser.shiftreduce.TrainingResult trainBatch(List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.parser.shiftreduce.Oracle, MulticoreWrapper<edu.stanford.nlp.parser.shiftreduce.TrainingExample,edu.stanford.nlp.parser.shiftreduce.TrainingResult>) 	e19952:873;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private double evaluate(edu.stanford.nlp.tagger.common.Tagger, edu.stanford.nlp.trees.Treebank, java.lang.String) 	e21156:55;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private double evaluate(edu.stanford.nlp.tagger.common.Tagger, edu.stanford.nlp.trees.Treebank, java.lang.String) 	e20917:234;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private double evaluate(edu.stanford.nlp.tagger.common.Tagger, edu.stanford.nlp.trees.Treebank, java.lang.String) 	e21111:100;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private double evaluate(edu.stanford.nlp.tagger.common.Tagger, edu.stanford.nlp.trees.Treebank, java.lang.String) 	e20917:146;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private double evaluate(edu.stanford.nlp.tagger.common.Tagger, edu.stanford.nlp.trees.Treebank, java.lang.String) 	e21068:143;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	void augmentData(List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, java.util.Random) 	e21590:247;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	void augmentData(List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, java.util.Random) 	e21666:163;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int, Set<java.lang.String>) 	e27500:249;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int, Set<java.lang.String>) 	e22330:209;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int, Set<java.lang.String>) 	e25168:410;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int, Set<java.lang.String>) 	e27658:91;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	private void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int, Set<java.lang.String>) 	e25213:365;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	Set<java.lang.String> pruneFeatures(Set<java.lang.String>, java.util.Random, double) 	e29794:93;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	Set<java.lang.String> pruneFeatures(Set<java.lang.String>, java.util.Random, double) 	e29754:166;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	Set<java.lang.String> pruneFeatures(Set<java.lang.String>, java.util.Random, double) 	e29754:139;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	Set<java.lang.String> pruneFeatures(Set<java.lang.String>, java.util.Random, double) 	e29625:124;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	Set<java.lang.String> pruneFeatures(Set<java.lang.String>, java.util.Random, double) 	e29575:174;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public sealed void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int) 	e30646:89;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public sealed void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int) 	e30455:280;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public sealed void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int) 	e30559:176;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public sealed void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int) 	e30646:129;
-edu.stanford.nlp.parser.shiftreduce.PerceptronModel	public sealed void trainModel(java.lang.String, edu.stanford.nlp.tagger.common.Tagger, java.util.Random, List<edu.stanford.nlp.parser.shiftreduce.TrainingExample>, edu.stanford.nlp.trees.Treebank, int) 	e30646:183;
+java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.dom.IVariableBinding.getDeclaringClass()" because "fieldBinding" is null
+	at br.ufmg.dcc.labsoft.jextract.ranking.DependenciesAstVisitor.visit(DependenciesAstVisitor.java:58)
+	at org.eclipse.jdt.core.dom.FieldAccess.accept0(FieldAccess.java:183)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.MethodInvocation.accept0(MethodInvocation.java:228)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
+	at org.eclipse.jdt.core.dom.ExpressionStatement.accept0(ExpressionStatement.java:136)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
+	at org.eclipse.jdt.core.dom.ForStatement.accept0(ForStatement.java:218)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.Block.accept0(Block.java:128)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:3177)
+	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:677)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.fillEntitySets(EmrScoringFunction.java:125)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrScoringFunction.computeScore(EmrScoringFunction.java:45)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.handleSlice(EmrGenerator.java:322)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.end(EmrGenerator.java:272)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:246)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.extract(EmrGenerator.java:245)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.init(EmrGenerator.java:230)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.forEachSlice(EmrGenerator.java:158)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethod(EmrGenerator.java:210)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.access$2(EmrGenerator.java:201)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$2.visit(EmrGenerator.java:136)
+	at org.eclipse.jdt.core.dom.MethodDeclaration.accept0(MethodDeclaration.java:653)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.TypeDeclaration.accept0(TypeDeclaration.java:499)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:3200)
+	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:258)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:3129)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.analyseMethods(EmrGenerator.java:119)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator$1.visit(EmrGenerator.java:96)
+	at org.eclipse.core.internal.resources.Resource.lambda$1(Resource.java:117)
+	at org.eclipse.core.internal.resources.Resource.lambda$0(Resource.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:90)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:135)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:94)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:55)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:117)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:105)
+	at br.ufmg.dcc.labsoft.jextract.generation.EmrGenerator.generateRecomendations(EmrGenerator.java:75)
+	at br.ufmg.dcc.labsoft.jextract.ui.AbstractProjectMenuAction$1.doWorkIteration(AbstractProjectMenuAction.java:183)
+	at br.ufmg.dcc.labsoft.jextract.ui.AbstractJob.run(AbstractJob.java:28)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

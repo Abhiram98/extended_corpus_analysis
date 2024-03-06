@@ -67,8 +67,10 @@ def create_project_classpath(project_dir):
     # Add to .project
     rootdir = 'projects/intellij-community/platform'
 
-    project_xml = ET.parse("base.project")
-    classpath_xml = ET.parse("base.classpath")
+    # project_xml = ET.parse("base.project")
+    # classpath_xml = ET.parse("base.classpath")
+    project_xml = ET.parse(f"{project_dir}/.project")
+    classpath_xml = ET.parse(f"{project_dir}/.classpath")
 
     sub_projects = []
     count = 0
@@ -81,7 +83,8 @@ def create_project_classpath(project_dir):
                 continue
 
             link_name = "-".join(subdir.split('intellij-community/')[1].split('/'))
-            if link_name=='platform-impl':
+            project_name = "-".join(project_dir.split("/")[-2:])
+            if link_name==project_name:
                 continue
             fullpath = os.path.abspath(os.path.join(subdir, 'src'))
             project_out = f"""
@@ -123,5 +126,5 @@ def create_project_classpath(project_dir):
 
 if __name__ == '__main__':
     create_project_classpath(["--project_dir",
-                              "projects/intellij-community/platform/platform-impl"],
+                              "projects/intellij-community/plugins"],
                              standalone_mode=False)

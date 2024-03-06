@@ -5,6 +5,7 @@ import pandas as pd
 from pymongo import MongoClient
 from collections import Counter, defaultdict
 import numpy as np
+import matplotlib.pyplot as plt
 
 from parse_jextract import convert_jextract, within_tolerance
 
@@ -27,7 +28,7 @@ def main():
         project_name = url.split('https://github.com/')[1].split('/')[1]
         # hf_loc = len(obj['host_function_before_ef']['function_src'].split('\\n'))
         func_src = obj['host_function_before_ef']['function_src'].replace('\\n', '\n')
-        hf_loc = func_src[func_src.find('{'):func_src.rfind('}') + 1].count('\n') + 1
+        hf_loc = func_src[func_src.find('{'):func_src.rfind('}') + 1].count('\n') + 1 - 2
         try:
             liveref_data = obj['liveref_analysis']['rank_by_size']
         except Exception as e:
@@ -69,80 +70,99 @@ def main():
             json.dump(project_data[pname], f, indent=1)
 
 
-def analyse(project_name):
+def analyse(project_name, tolerance_pct=3, topn=5, tolerance_loc=False):
     with open(f"{project_name}-data.json") as f:
         data = json.load(f)
     with open(f"{project_name}-completed.json") as f:
         completed = json.load(f)
 
     hits_and_misses = []
-    tolerance_pct = 3
+    # tolerance_pct = 3
 
     no_sug = 0
     # LIMIT = 1010
     all_base_dirs = []
     unreadable = 0
+    hf_lens = []
+    ef_lens = []
+    hits = []
 
     for i, ref in enumerate(data):
+        if i not in completed:
+            hits_and_misses.append(False)
+            continue
         # if i > LIMIT:
         #     break
         # if i not in completed:
         #     continue
 
         function_name = ref['functionName']
-        oracle_start, oracle_end, hf_loc = ref['lineStart'], ref['lineEnd'], ref['hfLoc']
+        oracle_start, oracle_end, hf_loc, sha = ref['lineStart'], ref['lineEnd'], ref['hfLoc'], ref['sha']
         relpath = f"projects/{project_name}/{ref['filename']}"
         base_dir = relpath.split('src')[0] + 'src'
         all_base_dirs.append(base_dir)
         # if base_dir!=f'projects/{project_name}/src':
         #     continue
 
-        subprocess.run([
-            "git", "-C", f"projects/{project_name}",
-            "restore", "."
-        ])
-
-        subprocess.run([
-            "git", "-C", f"projects/{project_name}",
-            "checkout", "-f", ref['sha']
-        ])
+        # subprocess.run([
+        #     "git", "-C", f"projects/{project_name}",
+        #     "restore", "."
+        # ])
+        #
+        # subprocess.run([
+        #     "git", "-C", f"projects/{project_name}",
+        #     "checkout", "-f", ref['sha']
+        # ])
 
         # with open(relpath) as f:
         #     hf_loc = f.read()
-
-        try:
-            convert_jextract(["--jextract-out", f"JExtractOut/{project_name}-{i}",
-                              "--base-dir", base_dir],
-                             standalone_mode=False)
-        except:
-            print("Coudn't read data.")
-            hits_and_misses.append(False)
-            with open(f"JExtractOut/{project_name}-{i}.csv", "w") as f:
-                f.write("JExtract internal error.")
-            unreadable += 1
-            continue
+        #
+        # try:
+        #     convert_jextract(["--jextract-out", f"JExtractOut/{project_name}-{i}",
+        #                       "--base-dir", base_dir],
+        #                      standalone_mode=False)
+        # except:
+        #     print("Coudn't read data.")
+        #     hits_and_misses.append(False)
+        #     with open(f"JExtractOut/{project_name}-{i}.csv", "w") as f:
+        #         f.write("JExtract internal error.")
+        #     unreadable += 1
+        #     continue
 
         df = pd.read_csv(f"JExtractOut/{project_name}-{i}.csv")
         # suggestions = df[
         #     (df['function_name'] == function_name) &
         #     (df['source_filename'] == relpath)
         #     ]
+
+        if df.columns[0] == 'JExtract internal error.':
+            hits_and_misses.append(False)
+            continue
+
+        s2 = df[
+            df['function_name'] == function_name
+            ]
         suggestions = df
 
         if len(suggestions) > 0:
             found = False
-            for sug in suggestions['loc_suggestion'].to_list():
+            for sug in suggestions['loc_suggestion'].to_list()[:topn]:
                 sug_start, sug_end = sug[1:-1].split(',')
                 sug_start = int(sug_start)
                 sug_end = int(sug_end)
                 if within_tolerance(
                         oracle_start, oracle_end,
                         sug_start, sug_end,
-                        tolerance_pct, hf_loc
+                        tolerance_pct, hf_loc,
+                        tolerance_loc=tolerance_loc
                 ):
                     hits_and_misses.append(True)
                     found = True
+                    hf_lens.append(hf_loc)
+                    ef_lens.append(oracle_end - oracle_start + 1)
+                    hits.append(i)
                     break
+
             if not found:
                 hits_and_misses.append(False)
         else:
@@ -156,12 +176,17 @@ def analyse(project_name):
 
     print(f"{len(hits_and_misses)}")
     print(f"{sum(hits_and_misses) / len(hits_and_misses)}")
+    print(f"{sum(hits_and_misses)=}")
     print(f"{no_sug=}")
     print(Counter(all_base_dirs))
     print(f"{unreadable=}")
+    print(f"{np.mean(hf_lens)=}")
+    print(f"{np.mean(ef_lens)=}")
 
-    with open(f"hits_and_misses-{project_name}.json", "w") as f:
+    with open(f"hits_and_misses-{project_name}-JExtract.json", "w") as f:
         json.dump(hits_and_misses, f, indent=1)
+
+    return hits
 
 
 def update_completed(project_name):
@@ -171,6 +196,13 @@ def update_completed(project_name):
     completed = []
     # LIMIT = 1010
     for i, ref in enumerate(data):
+
+        if (ref['lineEnd'] - ref['lineStart'] + 1) >= 0.88 * ref['hfLoc']:
+            print("too large EM")
+            continue
+        # if ref['hfLoc'] <= 3:
+        #     continue
+
         # if i > LIMIT:
         #     break
         try:
@@ -204,16 +236,20 @@ def analyse_intellij():
     pass
 
 
-def analyse_other(project_name, key, tolerance=3, topn=5):
+def analyse_other(project_name, key, tolerance=3, topn=5, tolerance_loc=False):
     with open(f"{project_name}-data.json") as f:
         data = json.load(f)
     with open(f"{project_name}-completed.json") as f:
         completed = json.load(f)
 
     hits_and_misses = []
+    hf_lens = []
+    ef_lens = []
+    hits = []
 
     for i, d in enumerate(data):
-        if i >= len(completed) or not completed[i]:
+        if i not in completed:
+            hits_and_misses.append(False)
             continue
         # obj = all_objs[i]
 
@@ -229,31 +265,144 @@ def analyse_other(project_name, key, tolerance=3, topn=5):
         for ld in liveref_data[:topn]:
             other_start, other_end = ld['line_start'], ld['line_end']
             if within_tolerance(oracle_start, oracle_end,
-                                other_start, other_end, tolerance=tolerance, hf_loc=hf_loc):
+                                other_start, other_end, tolerance=tolerance,
+                                hf_loc=hf_loc, tolerance_loc=tolerance_loc):
                 hits_and_misses.append(True)
                 found = True
+                hf_lens.append(hf_loc)
+                ef_lens.append(oracle_end - oracle_start + 1)
+                hits.append(i)
+                break
 
         if not found:
             hits_and_misses.append(False)
 
-    print(f"{len(hits_and_misses)}")
-    print(f"{sum(hits_and_misses) / len(hits_and_misses)}")
+    print(f"{len(completed)=}")
+    print(f"{sum(hits_and_misses)=}")
+    print(f"{sum(hits_and_misses) / len(hits_and_misses)=}")
+    print(f"{np.mean(hf_lens)=}")
+    print(f"{np.mean(ef_lens)=}")
 
-    with open(f"hits_and_misses-{key}.json", "w") as f:
+    with open(f"hits_and_misses-{project_name}-{key}.json", "w") as f:
         json.dump(hits_and_misses, f, indent=1)
+
+    return hits
+
+
+def analyse_missed(h1, h2, project_name):
+    with open(f"{project_name}-data.json") as f:
+        data = json.load(f)
+
+    missed = [j for i, j in enumerate(data) if i in set(h1).intersection(set(h2))]
+    hflocs = [i['hfLoc'] for i in missed]
+    efLocs = [i['lineEnd'] - i['lineStart'] + 1 for i in missed]
+
+    print(f"{np.mean(hflocs)=}")
+    print(f"{np.mean(efLocs)=}")
+    print(f"{min(hflocs)=}")
+    print(f"{min(efLocs)=}")
+
+    print(f"{max(hflocs)=}")
+    print(f"{max(efLocs)=}")
+    plt.hist(hflocs)
+    plt.show()
+
+
+def analyse_hits(project_name,
+                 topn,
+                 tolerance,
+                 tolerance_loc,
+                 completed_only=False):
+    with open(f"hits_and_misses-{project_name}-em_assist.json") as f:
+        em_hits = json.load(f)
+    with open(f"hits_and_misses-{project_name}-liveref_analysis.json") as f:
+        lref_hits = json.load(f)
+    with open(f"hits_and_misses-{project_name}-JExtract.json") as f:
+        j_hits = json.load(f)
+
+    with open(f"{project_name}-completed.json") as f:
+        completed = json.load(f)
+
+    with open(f"{project_name}-data.json") as f:
+        data = json.load(f)
+
+    assert len(em_hits) == len(lref_hits) == len(j_hits) == len(data)
+
+    hf_em, hf_lr, hf_j, actual, hf_completed = [], [], [], [], []
+
+    for i, d in enumerate(data):
+        hfloc = d['hfLoc']
+
+        if completed_only and i not in completed:
+            actual.append(hfloc)
+            continue
+
+        actual.append(hfloc)
+        hf_completed.append(hfloc)
+
+        if i < len(em_hits) and em_hits[i]:
+            hf_em.append(hfloc)
+        if i < len(lref_hits) and lref_hits[i]:
+            hf_lr.append(hfloc)
+        if i < len(j_hits) and j_hits[i]:
+            hf_j.append(hfloc)
+
+    print(f"{np.mean(hf_em)=}")
+    print(f"{np.mean(hf_lr)=}")
+    print(f"{np.mean(hf_j)=}")
+
+    hf_em = [i if i < 100 else 100 for i in hf_em]
+    hf_lr = [i if i < 100 else 100 for i in hf_lr]
+    hf_j = [i if i < 100 else 100 for i in hf_j]
+    hf_completed = [i if i < 100 else 100 for i in hf_completed]
+
+    bins = np.arange(0, 100, 5)
+    if completed_only:
+        plt.hist([hf_em, hf_lr, hf_j, hf_completed], bins=bins,
+                 label=['EM-Assist', 'Liveref', 'JExtract', 'completed'])
+    else:
+        plt.hist([hf_em, hf_lr, hf_j, actual], bins=bins,
+                 label=['EM-Assist', 'Liveref', 'JExtract', 'actual'])
+    plt.xlabel("Host method length")
+    plt.ylabel("Frequency")
+    plt.xticks(bins)
+    plt.legend(loc='upper right')
+    tolerance_str = '-loc' if tolerance_loc else '%'
+    plt.title(f"{project_name}\n{topn=}, {tolerance=}{tolerance_str}")
+    plt.show()
 
 
 if __name__ == '__main__':
     # main()
+    topn = 5
+    tolerance = 5
+    tolerance_loc = False
+    # tolerance = 2
+    # tolerance_loc = True
 
-    # analyse_other("CoreNLP", 'liveref_analysis')
-    # analyse_other("intellij-community", 'liveref_analysis')
-    # analyse_other("CoreNLP", 'em_assist')
-    analyse_other("intellij-community", 'em_assist')
-    # analyse("CoreNLP")
-    # analyse("intellij-community")
-    # update_completed("intellij-community")
-    # update_completed("CoreNLP")
+    update_completed("intellij-community")
+    update_completed("CoreNLP")
+    #
+    analyse_other("CoreNLP", 'liveref_analysis', tolerance=tolerance, topn=topn, tolerance_loc=tolerance_loc)
+    analyse_other("intellij-community", 'liveref_analysis', tolerance=tolerance, topn=topn, tolerance_loc=tolerance_loc)
+    analyse_other("CoreNLP", 'em_assist', tolerance=tolerance, topn=topn, tolerance_loc=tolerance_loc)
+    h1 = analyse_other("intellij-community", 'em_assist', tolerance=tolerance, topn=topn, tolerance_loc=tolerance_loc)
+    analyse("CoreNLP", tolerance_pct=tolerance, topn=topn, tolerance_loc=tolerance_loc)
+    h2 = analyse("intellij-community", tolerance_pct=tolerance, topn=topn, tolerance_loc=tolerance_loc)
+    #
+    analyse_hits("CoreNLP",
+                 topn=topn,
+                 tolerance=tolerance,
+                 tolerance_loc=tolerance_loc
+                 )
+    analyse_hits("intellij-community",
+                 topn=topn,
+                 tolerance=tolerance,
+                 tolerance_loc=tolerance_loc,
+                 completed_only=True)
+
+    # analyse_missed(h2, h1, "intellij-community")
+
     # analyse_intellij()
 
 # platform/analysis-api/src/com/intellij/codeInsight/intention/preview/IntentionPreviewInfo.java
