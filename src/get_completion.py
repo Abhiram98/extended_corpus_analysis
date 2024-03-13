@@ -3,10 +3,10 @@ import tiktoken
 import time
 import google.generativeai as palm
 
-with open("gpt-key-2") as f:
+with open("../../gpt-key-2") as f:
     openai.api_key = f.read()
 
-with open("palm-key") as f:
+with open("../../palm-key") as f:
     palm.configure(api_key=f.read())
 
 def extract_response_gpt(response):

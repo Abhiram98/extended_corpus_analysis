@@ -1,0 +1,668 @@
+[
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.SteamAPI",
+        "host_parameter": [],
+        "host_end_off_set": 975,
+        "extracted_method_parameter_count": 0,
+        "extracted_method_start_line": 42,
+        "length_host": 8,
+        "host_parameter_count": 0,
+        "host_end_line": 38,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamAPI.java",
+            "start_column": 3,
+            "startOffset": 784,
+            "end_offset": 972,
+            "start_line": 31,
+            "end_line": 37,
+            "end_column": 20
+        },
+        "host_start_line": 29,
+        "extracted_method_functionName": "init",
+        "extracted_method_parameter": [],
+        "host_class_name": "com.codedisaster.steamworks.SteamAPI",
+        "host_start_column": 2,
+        "sha": "671650c99f4f91a5c2abda38070ff1609d71cbef",
+        "host_functionName": "init",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/671650c99f4f91a5c2abda38070ff1609d71cbef#diff-38772b75ccd5c806c7769f7868c439151870f3a1e3a9b38ccba3e2295b7d52f6L31",
+        "extracted_method_end_off_set": 1039,
+        "extracted_method_end_column": 3,
+        "length_extracted": 9,
+        "extracted_method_end_line": 44,
+        "filename": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamAPI.java",
+        "extracted_method_start_off_set": 948,
+        "extracted_method_start_column": 2,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 3,
+        "host_start_off_set": 728
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.test.SteamTestApp",
+        "host_parameter": [{
+            "name": "arguments",
+            "type": "String"
+        }],
+        "host_end_off_set": 3810,
+        "extracted_method_parameter_count": 1,
+        "extracted_method_start_line": 139,
+        "length_host": 13,
+        "host_parameter_count": 1,
+        "host_end_line": 159,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "tests/src/main/java/com/codedisaster/steamworks/test/SteamTestApp.java",
+            "start_column": 3,
+            "startOffset": 3449,
+            "end_offset": 3630,
+            "start_line": 142,
+            "end_line": 145,
+            "end_column": 66
+        },
+        "host_start_line": 140,
+        "extracted_method_functionName": "clientMain",
+        "extracted_method_parameter": [{
+            "name": "arguments",
+            "type": "String"
+        }],
+        "host_class_name": "com.codedisaster.steamworks.test.SteamTestApp",
+        "host_start_column": 2,
+        "sha": "ddb1159bf2ffb23be5a21a28738ee26f348e5853",
+        "host_functionName": "clientMain",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/ddb1159bf2ffb23be5a21a28738ee26f348e5853#diff-a3daf74c621e232b5eef76db9fdacd155a3bf761bbe81b5e9b94e776d089af70L142",
+        "extracted_method_end_off_set": 3587,
+        "extracted_method_end_column": 3,
+        "length_extracted": 17,
+        "extracted_method_end_line": 155,
+        "filename": "tests/src/main/java/com/codedisaster/steamworks/test/SteamTestApp.java",
+        "extracted_method_start_off_set": 3318,
+        "extracted_method_start_column": 2,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 3,
+        "host_start_off_set": 3398
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.SteamAPI",
+        "host_parameter": [],
+        "host_end_off_set": 565,
+        "extracted_method_parameter_count": 0,
+        "extracted_method_start_line": 27,
+        "length_host": 3,
+        "host_parameter_count": 0,
+        "host_end_line": 29,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamAPI.java",
+            "start_column": 3,
+            "startOffset": 519,
+            "end_offset": 562,
+            "start_line": 28,
+            "end_line": 28,
+            "end_column": 46
+        },
+        "host_start_line": 27,
+        "extracted_method_functionName": "isSteamRunning",
+        "extracted_method_parameter": [],
+        "host_class_name": "com.codedisaster.steamworks.SteamAPI",
+        "host_start_column": 2,
+        "sha": "96a2daf0caa854344eca2840e6f69f23d7e1e5c4",
+        "host_functionName": "isSteamRunning",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/96a2daf0caa854344eca2840e6f69f23d7e1e5c4#diff-38772b75ccd5c806c7769f7868c439151870f3a1e3a9b38ccba3e2295b7d52f6L28",
+        "extracted_method_end_off_set": 914,
+        "extracted_method_end_column": 3,
+        "length_extracted": 3,
+        "extracted_method_end_line": 37,
+        "filename": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamAPI.java",
+        "extracted_method_start_off_set": 476,
+        "extracted_method_start_column": 2,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 3,
+        "host_start_off_set": 476
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.test.SteamClientAPITestApp.ugcCallback.new SteamUGCCallback",
+        "host_parameter": [
+            {
+                "name": "query",
+                "type": "SteamUGCQuery"
+            },
+            {
+                "name": "numResultsReturned",
+                "type": "int"
+            },
+            {
+                "name": "totalMatchingResults",
+                "type": "int"
+            },
+            {
+                "name": "isCachedData",
+                "type": "boolean"
+            },
+            {
+                "name": "result",
+                "type": "SteamResult"
+            }
+        ],
+        "host_end_off_set": 8457,
+        "extracted_method_parameter_count": 5,
+        "extracted_method_start_line": 206,
+        "length_host": 10,
+        "host_parameter_count": 5,
+        "host_end_line": 227,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamClientAPITestApp.java",
+            "start_column": 5,
+            "startOffset": 7918,
+            "end_offset": 8405,
+            "start_line": 216,
+            "end_line": 223,
+            "end_column": 80
+        },
+        "host_start_line": 206,
+        "extracted_method_functionName": "onUGCQueryCompleted",
+        "extracted_method_parameter": [
+            {
+                "name": "query",
+                "type": "SteamUGCQuery"
+            },
+            {
+                "name": "numResultsReturned",
+                "type": "int"
+            },
+            {
+                "name": "totalMatchingResults",
+                "type": "int"
+            },
+            {
+                "name": "isCachedData",
+                "type": "boolean"
+            },
+            {
+                "name": "result",
+                "type": "SteamResult"
+            }
+        ],
+        "host_class_name": "com.codedisaster.steamworks.test.SteamClientAPITestApp.ugcCallback.new SteamUGCCallback",
+        "host_start_column": 3,
+        "sha": "7040d187f75c152144ec6dd4793bd886330ba07d",
+        "host_functionName": "onUGCQueryCompleted",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/7040d187f75c152144ec6dd4793bd886330ba07d#diff-94910a75553804f9830498ad6c2cf6ab8e9bdd835b9908b7ae7eec93558dcd3cL216",
+        "extracted_method_end_off_set": 8015,
+        "extracted_method_end_column": 4,
+        "length_extracted": 3,
+        "extracted_method_end_line": 219,
+        "filename": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamClientAPITestApp.java",
+        "extracted_method_start_off_set": 7399,
+        "extracted_method_start_column": 3,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 4,
+        "host_start_off_set": 7399
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.test.SteamClientAPITestApp.ugcCallback.new SteamUGCCallback",
+        "host_parameter": [
+            {
+                "name": "query",
+                "type": "SteamUGCQuery"
+            },
+            {
+                "name": "numResultsReturned",
+                "type": "int"
+            },
+            {
+                "name": "totalMatchingResults",
+                "type": "int"
+            },
+            {
+                "name": "isCachedData",
+                "type": "boolean"
+            },
+            {
+                "name": "result",
+                "type": "SteamResult"
+            }
+        ],
+        "host_end_off_set": 8457,
+        "extracted_method_parameter_count": 5,
+        "extracted_method_start_line": 206,
+        "length_host": 10,
+        "host_parameter_count": 5,
+        "host_end_line": 227,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamClientAPITestApp.java",
+            "start_column": 5,
+            "startOffset": 7918,
+            "end_offset": 8405,
+            "start_line": 216,
+            "end_line": 223,
+            "end_column": 80
+        },
+        "host_start_line": 206,
+        "extracted_method_functionName": "onUGCQueryCompleted",
+        "extracted_method_parameter": [
+            {
+                "name": "query",
+                "type": "SteamUGCQuery"
+            },
+            {
+                "name": "numResultsReturned",
+                "type": "int"
+            },
+            {
+                "name": "totalMatchingResults",
+                "type": "int"
+            },
+            {
+                "name": "isCachedData",
+                "type": "boolean"
+            },
+            {
+                "name": "result",
+                "type": "SteamResult"
+            }
+        ],
+        "host_class_name": "com.codedisaster.steamworks.test.SteamClientAPITestApp.ugcCallback.new SteamUGCCallback",
+        "host_start_column": 3,
+        "sha": "7040d187f75c152144ec6dd4793bd886330ba07d",
+        "host_functionName": "onUGCQueryCompleted",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/7040d187f75c152144ec6dd4793bd886330ba07d#diff-94910a75553804f9830498ad6c2cf6ab8e9bdd835b9908b7ae7eec93558dcd3cL216",
+        "extracted_method_end_off_set": 8015,
+        "extracted_method_end_column": 4,
+        "length_extracted": 3,
+        "extracted_method_end_line": 219,
+        "filename": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamClientAPITestApp.java",
+        "extracted_method_start_off_set": 7399,
+        "extracted_method_start_column": 3,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 4,
+        "host_start_off_set": 7399
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.test.SteamClientAPITestApp.ugcCallback.new SteamUGCCallback",
+        "host_parameter": [
+            {
+                "name": "details",
+                "type": "SteamUGCDetails"
+            },
+            {
+                "name": "result",
+                "type": "SteamResult"
+            }
+        ],
+        "host_end_off_set": 9519,
+        "extracted_method_parameter_count": 2,
+        "extracted_method_start_line": 231,
+        "length_host": 4,
+        "host_parameter_count": 2,
+        "host_end_line": 250,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamClientAPITestApp.java",
+            "start_column": 4,
+            "startOffset": 9054,
+            "end_offset": 9515,
+            "start_line": 242,
+            "end_line": 249,
+            "end_column": 77
+        },
+        "host_start_line": 239,
+        "extracted_method_functionName": "onRequestUGCDetails",
+        "extracted_method_parameter": [
+            {
+                "name": "details",
+                "type": "SteamUGCDetails"
+            },
+            {
+                "name": "result",
+                "type": "SteamResult"
+            }
+        ],
+        "host_class_name": "com.codedisaster.steamworks.test.SteamClientAPITestApp.ugcCallback.new SteamUGCCallback",
+        "host_start_column": 3,
+        "sha": "7040d187f75c152144ec6dd4793bd886330ba07d",
+        "host_functionName": "onRequestUGCDetails",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/7040d187f75c152144ec6dd4793bd886330ba07d#diff-94910a75553804f9830498ad6c2cf6ab8e9bdd835b9908b7ae7eec93558dcd3cL242",
+        "extracted_method_end_off_set": 8657,
+        "extracted_method_end_column": 4,
+        "length_extracted": 3,
+        "extracted_method_end_line": 235,
+        "filename": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamClientAPITestApp.java",
+        "extracted_method_start_off_set": 8451,
+        "extracted_method_start_column": 3,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 4,
+        "host_start_off_set": 8893
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.test.SteamClientAPITestApp.ugcCallback.new SteamUGCCallback",
+        "host_parameter": [
+            {
+                "name": "details",
+                "type": "SteamUGCDetails"
+            },
+            {
+                "name": "result",
+                "type": "SteamResult"
+            }
+        ],
+        "host_end_off_set": 9519,
+        "extracted_method_parameter_count": 2,
+        "extracted_method_start_line": 231,
+        "length_host": 4,
+        "host_parameter_count": 2,
+        "host_end_line": 250,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamClientAPITestApp.java",
+            "start_column": 4,
+            "startOffset": 9054,
+            "end_offset": 9515,
+            "start_line": 242,
+            "end_line": 249,
+            "end_column": 77
+        },
+        "host_start_line": 239,
+        "extracted_method_functionName": "onRequestUGCDetails",
+        "extracted_method_parameter": [
+            {
+                "name": "details",
+                "type": "SteamUGCDetails"
+            },
+            {
+                "name": "result",
+                "type": "SteamResult"
+            }
+        ],
+        "host_class_name": "com.codedisaster.steamworks.test.SteamClientAPITestApp.ugcCallback.new SteamUGCCallback",
+        "host_start_column": 3,
+        "sha": "7040d187f75c152144ec6dd4793bd886330ba07d",
+        "host_functionName": "onRequestUGCDetails",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/7040d187f75c152144ec6dd4793bd886330ba07d#diff-94910a75553804f9830498ad6c2cf6ab8e9bdd835b9908b7ae7eec93558dcd3cL242",
+        "extracted_method_end_off_set": 8657,
+        "extracted_method_end_column": 4,
+        "length_extracted": 3,
+        "extracted_method_end_line": 235,
+        "filename": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamClientAPITestApp.java",
+        "extracted_method_start_off_set": 8451,
+        "extracted_method_start_column": 3,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 4,
+        "host_start_off_set": 8893
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.SteamNetworking",
+        "host_parameter": [
+            {
+                "name": "dest",
+                "type": "Buffer"
+            },
+            {
+                "name": "channel",
+                "type": "int"
+            }
+        ],
+        "host_end_off_set": 1815,
+        "extracted_method_parameter_count": 3,
+        "extracted_method_start_line": 85,
+        "length_host": 15,
+        "host_parameter_count": 2,
+        "host_end_line": 70,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamNetworking.java",
+            "start_column": 3,
+            "startOffset": 1444,
+            "end_offset": 1797,
+            "start_line": 59,
+            "end_line": 68,
+            "end_column": 4
+        },
+        "host_start_line": 58,
+        "extracted_method_functionName": "readP2PPacket",
+        "extracted_method_parameter": [
+            {
+                "name": "steamIDRemote",
+                "type": "SteamID"
+            },
+            {
+                "name": "dest",
+                "type": "ByteBuffer"
+            },
+            {
+                "name": "channel",
+                "type": "int"
+            }
+        ],
+        "host_class_name": "com.codedisaster.steamworks.SteamNetworking",
+        "host_start_column": 2,
+        "sha": "514b198956a637f1cc8473582ca90009f410e4bb",
+        "host_functionName": "readP2PPacket",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/514b198956a637f1cc8473582ca90009f410e4bb#diff-6514ea830d652df7f2d580d27119bdf9cc391a2e4ac6d52756851a0dd1cdff98L59",
+        "extracted_method_end_off_set": 2888,
+        "extracted_method_end_column": 3,
+        "length_extracted": 18,
+        "extracted_method_end_line": 98,
+        "filename": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamNetworking.java",
+        "extracted_method_start_off_set": 2200,
+        "extracted_method_start_column": 2,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 3,
+        "host_start_off_set": 1363
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.SteamAPI",
+        "host_parameter": [],
+        "host_end_off_set": 243,
+        "extracted_method_parameter_count": 0,
+        "extracted_method_start_line": 7,
+        "length_host": 4,
+        "host_parameter_count": 0,
+        "host_end_line": 10,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamAPI.java",
+            "start_column": 3,
+            "startOffset": 141,
+            "end_offset": 240,
+            "start_line": 8,
+            "end_line": 9,
+            "end_column": 20
+        },
+        "host_start_line": 7,
+        "extracted_method_functionName": "init",
+        "extracted_method_parameter": [],
+        "host_class_name": "com.codedisaster.steamworks.SteamAPI",
+        "host_start_column": 2,
+        "sha": "8e5cc68efacbfd0b914c23f5fc4b1a428e8fd770",
+        "host_functionName": "init",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/8e5cc68efacbfd0b914c23f5fc4b1a428e8fd770#diff-38772b75ccd5c806c7769f7868c439151870f3a1e3a9b38ccba3e2295b7d52f6L8",
+        "extracted_method_end_off_set": 162,
+        "extracted_method_end_column": 3,
+        "length_extracted": 6,
+        "extracted_method_end_line": 9,
+        "filename": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamAPI.java",
+        "extracted_method_start_off_set": 108,
+        "extracted_method_start_column": 2,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 3,
+        "host_start_off_set": 108
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.SteamGameServerAPI",
+        "host_parameter": [
+            {
+                "name": "ip",
+                "type": "int"
+            },
+            {
+                "name": "steamPort",
+                "type": "short"
+            },
+            {
+                "name": "gamePort",
+                "type": "short"
+            },
+            {
+                "name": "queryPort",
+                "type": "short"
+            },
+            {
+                "name": "serverMode",
+                "type": "ServerMode"
+            },
+            {
+                "name": "versionString",
+                "type": "String"
+            }
+        ],
+        "host_end_off_set": 596,
+        "extracted_method_parameter_count": 6,
+        "extracted_method_start_line": 18,
+        "length_host": 4,
+        "host_parameter_count": 6,
+        "host_end_line": 25,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamGameServerAPI.java",
+            "start_column": 3,
+            "startOffset": 417,
+            "end_offset": 593,
+            "start_line": 21,
+            "end_line": 24,
+            "end_column": 20
+        },
+        "host_start_line": 18,
+        "extracted_method_functionName": "init",
+        "extracted_method_parameter": [
+            {
+                "name": "ip",
+                "type": "int"
+            },
+            {
+                "name": "steamPort",
+                "type": "short"
+            },
+            {
+                "name": "gamePort",
+                "type": "short"
+            },
+            {
+                "name": "queryPort",
+                "type": "short"
+            },
+            {
+                "name": "serverMode",
+                "type": "ServerMode"
+            },
+            {
+                "name": "versionString",
+                "type": "String"
+            }
+        ],
+        "host_class_name": "com.codedisaster.steamworks.SteamGameServerAPI",
+        "host_start_column": 2,
+        "sha": "8e5cc68efacbfd0b914c23f5fc4b1a428e8fd770",
+        "host_functionName": "init",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/8e5cc68efacbfd0b914c23f5fc4b1a428e8fd770#diff-8aa34eae47a2ac3b7d3e41e5c3aa7eb876f4f4da44fa7fdd72fb253dd0143d29L21",
+        "extracted_method_end_off_set": 501,
+        "extracted_method_end_column": 3,
+        "length_extracted": 6,
+        "extracted_method_end_line": 22,
+        "filename": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamGameServerAPI.java",
+        "extracted_method_start_off_set": 272,
+        "extracted_method_start_column": 2,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 3,
+        "host_start_off_set": 272
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.SteamInterface",
+        "host_parameter": [{
+            "name": "pointer",
+            "type": "long"
+        }],
+        "host_end_off_set": 163,
+        "extracted_method_parameter_count": 1,
+        "extracted_method_start_line": 8,
+        "length_host": 3,
+        "host_parameter_count": 1,
+        "host_end_line": 9,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamInterface.java",
+            "start_column": 3,
+            "startOffset": 137,
+            "end_offset": 160,
+            "start_line": 8,
+            "end_line": 8,
+            "end_column": 26
+        },
+        "host_start_line": 7,
+        "extracted_method_functionName": "SteamInterface",
+        "extracted_method_parameter": [{
+            "name": "pointer",
+            "type": "long"
+        }],
+        "host_class_name": "com.codedisaster.steamworks.SteamInterface",
+        "host_start_column": 2,
+        "sha": "a5d6ac49ee3f6a6ea88200a328ced81e2f6ac917",
+        "host_functionName": "SteamInterface",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/a5d6ac49ee3f6a6ea88200a328ced81e2f6ac917#diff-bf4f72871033928b1eb3f2b2034e4a15c7d2b429baeada795c2b5c494126be07L8",
+        "extracted_method_end_off_set": 190,
+        "extracted_method_end_column": 3,
+        "length_extracted": 4,
+        "extracted_method_end_line": 10,
+        "filename": "java-wrapper/src/main/java/com/codedisaster/steamworks/SteamInterface.java",
+        "extracted_method_start_off_set": 136,
+        "extracted_method_start_column": 2,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 3,
+        "host_start_off_set": 104
+    },
+    {
+        "extracted_method_class_name": "com.codedisaster.steamworks.test.SteamTestApp",
+        "host_parameter": [{
+            "name": "arguments",
+            "type": "String"
+        }],
+        "host_end_off_set": 15113,
+        "extracted_method_parameter_count": 1,
+        "extracted_method_start_line": 78,
+        "length_host": 36,
+        "host_parameter_count": 1,
+        "host_end_line": 391,
+        "automatable": false,
+        "extracted_code_range_from_source_operation": {
+            "file_path": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamAPITestApplication.java",
+            "start_column": 3,
+            "startOffset": 13504,
+            "end_offset": 15110,
+            "start_line": 341,
+            "end_line": 390,
+            "end_column": 15
+        },
+        "host_start_line": 339,
+        "extracted_method_functionName": "clientMain",
+        "extracted_method_parameter": [{
+            "name": "arguments",
+            "type": "String"
+        }],
+        "host_class_name": "com.codedisaster.steamworks.test.SteamAPITestApplication",
+        "host_start_column": 2,
+        "sha": "205e47cedd48bbde5b983b3d737fb6bd4112f1c0",
+        "host_functionName": "run",
+        "url": "https://github.com/code-disaster/steamworks4j/commit/205e47cedd48bbde5b983b3d737fb6bd4112f1c0#diff-ca567b0d416d734cc00e0678a9beff659896d4655cc97e0a57cef49af9394976L341",
+        "extracted_method_end_off_set": 1873,
+        "extracted_method_end_column": 3,
+        "length_extracted": 20,
+        "extracted_method_end_line": 91,
+        "filename": "java-wrapper/src/test/java/com/codedisaster/steamworks/test/SteamAPITestApplication.java",
+        "extracted_method_start_off_set": 1647,
+        "extracted_method_start_column": 2,
+        "projectName": "code-disaster/steamworks4j",
+        "host_end_column": 3,
+        "host_start_off_set": 13409
+    }
+]
