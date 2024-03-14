@@ -1,6 +1,6 @@
-source_filename,function_name,loc_suggestion
-projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(50, 54)"
-projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(42, 54)"
-projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(47, 54)"
-projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(52, 53)"
-projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,"(56, 61)"
+source_filename,function_name,function_signature,loc_suggestion
+../projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,public static void main(java.lang.String[]) ,"(50, 54)"
+../projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,public static void main(java.lang.String[]) ,"(42, 54)"
+../projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,public static void main(java.lang.String[]) ,"(47, 54)"
+../projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,public static void main(java.lang.String[]) ,"(52, 53)"
+../projects/CoreNLP/src/edu/stanford/nlp/sentiment/SentimentPipeline.java,main,public static void main(java.lang.String[]) ,"(56, 61)"

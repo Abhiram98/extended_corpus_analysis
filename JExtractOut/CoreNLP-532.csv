@@ -1,6 +1,6 @@
-source_filename,function_name,loc_suggestion
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(41, 54)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(56, 58)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(41, 44)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(45, 54)"
-projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,"(45, 51)"
+source_filename,function_name,function_signature,loc_suggestion
+../projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,public void annotate(edu.stanford.nlp.pipeline.Annotation) ,"(41, 54)"
+../projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,public void annotate(edu.stanford.nlp.pipeline.Annotation) ,"(56, 58)"
+../projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,public void annotate(edu.stanford.nlp.pipeline.Annotation) ,"(41, 44)"
+../projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,public void annotate(edu.stanford.nlp.pipeline.Annotation) ,"(45, 54)"
+../projects/CoreNLP/src/edu/stanford/nlp/pipeline/SentenceAnnotator.java,annotate,public void annotate(edu.stanford.nlp.pipeline.Annotation) ,"(45, 51)"

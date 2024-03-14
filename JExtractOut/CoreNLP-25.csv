@@ -1,6 +1,6 @@
-source_filename,function_name,loc_suggestion
-projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,"(26, 34)"
-projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,"(27, 34)"
-projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,"(28, 33)"
-projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,"(29, 33)"
-projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,"(30, 33)"
+source_filename,function_name,function_signature,loc_suggestion
+../projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,public void testConll2007() ,"(26, 34)"
+../projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,public void testConll2007() ,"(27, 34)"
+../projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,public void testConll2007() ,"(28, 33)"
+../projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,public void testConll2007() ,"(29, 33)"
+../projects/CoreNLP/test/src/edu/stanford/nlp/trees/TreePrintTest.java,testConll2007,public void testConll2007() ,"(30, 33)"
