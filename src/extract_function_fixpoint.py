@@ -22,7 +22,7 @@ class EMIterator:
         self.iter_func = self._fixpoint_iter if self.num_iterations == 0 else self._llm_iter
 
     def iterate(self,  func_str, model, temperature):
-        self.iter_func(func_str, model, temperature)
+        return self.iter_func(func_str, model, temperature)
 
     def _fixpoint_iter(self, func_str, model, temperature):
         MAX_CHANCES = 2
@@ -189,6 +189,17 @@ def fix_missing(all_objs, model='gpt-4'):
         completed.add((obj['_id'], temp))
 
 
+def get_parent_commit(project_dir, commit_hash):
+    # git log --pretty=%P -n 1 "<commit-hash>"
+    response = subprocess.run([
+        "git", "-C", f"{project_dir}",
+        "log", "--pretty=%P",
+        '-n', '1',
+        commit_hash
+    ], stdout=subprocess.PIPE)
+
+    return response.stdout.decode('utf-8').strip()
+
 def change_git(project_dir, commit_hash):
     subprocess.run([
         "git", "-C", f"{project_dir}",
@@ -219,10 +230,15 @@ def ask_llm(rminer_out_file, project_name,
     em_iter = EMIterator(num_iterations)
 
     for i, em_data in enumerate(rminer_data):
+
+        print(f"Completed {i}/{len(rminer_data)}")
         filename = em_data['filename']
         assert project_name == em_data['projectName'].split('/')[-1]
 
-        change_git(f"{projects_dir}/{project_name}", em_data['sha'])
+        project_path = f"{projects_dir}/{project_name}"
+        commit_hash = em_data['sha']
+        parent_hash = get_parent_commit(project_path, commit_hash)
+        change_git(project_path, parent_hash)
 
         with open(f"{projects_dir}/{project_name}/{filename}") as f:
             file_str = f.read()
@@ -236,11 +252,17 @@ def ask_llm(rminer_out_file, project_name,
         end_line = em_data['host_end_line']
         func_str_with_line_nums = add_line_nums(func_str, start_line - 1)
 
-        results = em_iter.iterate(func_str_with_line_nums, model=llm_name, temperature=temp)
-        dest_dir = f"{output_dir}/{llm_name}/{project_name}"
-        os.makedirs(dest_dir)
-        with open(f"{dest_dir}/func={i}", "w") as f:
-            json.dump(results, f)
+        dest_dir = f"{output_dir}/{llm_name}/temp-{temp}/{project_name}"
+        dest_file = f"{dest_dir}/func-{i}.json"
+
+        if not os.path.exists(dest_file):
+            results = em_iter.iterate(func_str_with_line_nums, model=llm_name, temperature=temp)
+            try:
+                os.makedirs(dest_dir)
+            except FileExistsError:
+                pass
+            with open(dest_file, "w") as f:
+                json.dump(results, f, indent=1)
 
 if __name__ == '__main__':
     ask_llm(["--rminer_out_file",

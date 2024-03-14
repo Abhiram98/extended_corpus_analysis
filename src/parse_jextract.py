@@ -2,7 +2,7 @@ import json
 import click
 import os
 import pandas as pd
-from pymongo import MongoClient
+# from pymongo import MongoClient
 
 
 def get_function_name(func_signature: str):
@@ -27,12 +27,16 @@ def convert2loc(em_suggestion: str, code_str: str):
 
     return start_line, end_line
 
+@click.group()
+def cli():
+    pass
 
-@click.command()
+
+@cli.command()
 @click.option("--jextract-out", help='path to jextract output file', default=None)
 @click.option("--base-dir", help='root directory of the source code.', default=None)
 @click.option("--dest-dir", default=None, help='Where to store the resulting csv file')
-def convert_jextract(jextract_out: str, base_dir: str, dest_dir: str):
+def convert2csv(jextract_out: str, base_dir: str, dest_dir: str):
     if dest_dir is None:
         dest_dir = os.path.dirname(jextract_out)
 
@@ -71,10 +75,10 @@ def convert_jextract(jextract_out: str, base_dir: str, dest_dir: str):
         loc_suggestion = convert2loc(em_suggestion, code_str)
 
         data.append(
-            (filename, func_name, loc_suggestion)
+            (filename, func_name, func_signature, loc_suggestion)
         )
 
-    pd.DataFrame(data, columns=['source_filename', 'function_name', 'loc_suggestion']). \
+    pd.DataFrame(data, columns=['source_filename', 'function_name', 'function_signature', 'loc_suggestion']). \
         to_csv(f"{dest_dir}/{basename}.csv", index=False)
 
     return data
@@ -97,7 +101,7 @@ def within_tolerance(oracle_start, oracle_end,
     return offby <= tolerance_lines
 
 
-@click.command()
+@cli.command()
 @click.option("--jextract_parsed_csv", help="csv file with the parse jextract output")
 @click.option("--tolerance-pct", type=int, help="csv file with the parse jextract output")
 @click.option("--tolerance-loc", type=bool,
@@ -234,13 +238,15 @@ if __name__ == '__main__':
     #                   "../TBE/jextract/out/JextractOut-wikidev-filters.csv")
     # df.to_csv("../TBE/jextract/out/JextractOut-combined.csv", index=False)
 
-    get_hitmiss(["--jextract_parsed_csv",
-                 '../TBE/jextract/out/JextractOut-combined.csv',
-                 # '../TBE/jextract/out/JextractOut-junit.csv',
-                 "--tolerance-pct", "1",
-                 # "--tolerance-loc", "True",
-                 # "--project", "MyWebMarket",
-                 # "--project", "junit3.8",
-                 # "--project", "JHotDraw5.2",
-                 "--topn", "3"],
-                standalone_mode=False)
+    # get_hitmiss(["--jextract_parsed_csv",
+    #              '../TBE/jextract/out/JextractOut-combined.csv',
+    #              # '../TBE/jextract/out/JextractOut-junit.csv',
+    #              "--tolerance-pct", "1",
+    #              # "--tolerance-loc", "True",
+    #              # "--project", "MyWebMarket",
+    #              # "--project", "junit3.8",
+    #              # "--project", "JHotDraw5.2",
+    #              "--topn", "3"],
+    #             standalone_mode=False)
+
+    cli()
