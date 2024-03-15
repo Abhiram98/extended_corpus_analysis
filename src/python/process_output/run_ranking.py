@@ -192,7 +192,7 @@ if __name__=='__main__':
         'MAX_METHOD_LOC_THRESHOLD': 0.88,
         'MIN_METHOD_LOC_THRESHOLD': 0.0
     }
-    ranking = 'popularity'
+    ranking = 'popheat'
     model = 'gpt-3'
     db_str = 'extract_function/ef1_copy'
     dataset = db_str.split('/')[1]
@@ -214,7 +214,7 @@ if __name__=='__main__':
             for itval in ITERS:
                     print(f"setting iter={itval}")
                     args =['jetgpt_eval', '-db', db_str,
-                           '-fld-name', 'jetgpt_ranking', '-rank', ranking, '-temp', str(temp),
+                           '-fld-name', f'jetgpt_ranking_{model}', '-rank', ranking, '-temp', str(temp),
                            '-shot-type', 'ms', '-heuristics', 'TT',
                            '-settings_key', get_settings_hash(settings),
                            # '-csv',
@@ -233,8 +233,8 @@ if __name__=='__main__':
         with open(f"../data/pickle/{dataset}/{settings_hash}-{ranking}-{model}.pickle", 'wb') as f:
             pickle.dump(all_dfs, f)
 
-    param = 'top5_1'
+    param = 'top5_3'
 
-    title = f"recall\nranking={ranking}, {param.split('_')[0]} candidates, {param.split('_')[1]}% tolerance"
+    title = f"recall: {model}\nranking={ranking}, {param.split('_')[0]} candidates, {param.split('_')[1]}% tolerance"
     # title = ''
     draw_plots(all_dfs, param, title, measure='recall')

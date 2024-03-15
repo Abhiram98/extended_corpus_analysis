@@ -88,15 +88,31 @@ class JExtractAnalyser():
 
         self.update_completed()
 
+    @staticmethod
+    def get_parent_commit(project_dir, commit_hash):
+        # git log --pretty=%P -n 1 "<commit-hash>"
+        response = subprocess.run([
+            "git", "-C", f"{project_dir}",
+            "log", "--pretty=%P",
+            '-n', '1',
+            commit_hash
+        ], stdout=subprocess.PIPE)
+
+        return response.stdout.decode('utf-8').strip()
+
     def change_git(self, commit_hash):
         subprocess.run([
             "git", "-C", f"{self.projects_root_dir}/{self.project_name}",
             "restore", "."
         ])
 
+        parent_commit = \
+            JExtractAnalyser.get_parent_commit(
+                f"{self.projects_root_dir}/{self.project_name}", commit_hash)
+
         subprocess.run([
             "git", "-C", f"{self.projects_root_dir}/{self.project_name}",
-            "checkout", "-f", commit_hash
+            "checkout", "-f", parent_commit
         ])
 
     def analyse(self):
@@ -144,7 +160,6 @@ class JExtractAnalyser():
 
             df = pd.read_csv(f"{self.jextract_out_dir}/{self.project_name}-{i}.csv")
 
-
             if df.columns[0] == 'JExtract internal error.':
                 hits_and_misses.append(False)
                 continue
@@ -162,7 +177,7 @@ class JExtractAnalyser():
                 found = False
                 for _, per_func_suggestions in suggestions.groupby("function_signature"):
                     found = found or self.hit_miss_from_suggestions(hf_loc,
-                                                           oracle_end, oracle_start, per_func_suggestions)
+                                                                    oracle_end, oracle_start, per_func_suggestions)
                 if found:
                     hits_and_misses.append(True)
                     hf_lens.append(hf_loc)
@@ -398,10 +413,10 @@ def analyse_hits(project_name,
 @click.option("--jextract_out_dir", help="Output directory of jextract.")
 @click.option("--tolerance_pct", help="tolerance %", type=int, default=3)
 @click.option("--top_n_candidates", help='number of top candidates to select', default=5, type=int)
-def analyse_data( projects_root_dir,project_name,
+def analyse_data(projects_root_dir, project_name,
                  data_file, jextract_out_dir,
                  tolerance_pct, top_n_candidates):
-    JExtractAnalyser(projects_root_dir,project_name,
+    JExtractAnalyser(projects_root_dir, project_name,
                      data_file, jextract_out_dir,
                      tolerance_pct, top_n_candidates).analyse()
 

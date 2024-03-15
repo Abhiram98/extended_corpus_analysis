@@ -12,6 +12,8 @@ import click
 import subprocess
 import functools
 import my_grazie
+from em_writer import EMwriter
+from mongo_writer import MongoWriter
 
 pp = pprint.PrettyPrinter(indent=2)
 
@@ -21,7 +23,7 @@ class EMIterator:
         self.num_iterations = num_iterations
         self.iter_func = self._fixpoint_iter if self.num_iterations == 0 else self._llm_iter
 
-    def iterate(self,  func_str, model, temperature):
+    def iterate(self, func_str, model, temperature):
         return self.iter_func(func_str, model, temperature)
 
     def _fixpoint_iter(self, func_str, model, temperature):
@@ -200,6 +202,7 @@ def get_parent_commit(project_dir, commit_hash):
 
     return response.stdout.decode('utf-8').strip()
 
+
 def change_git(project_dir, commit_hash):
     subprocess.run([
         "git", "-C", f"{project_dir}",
@@ -210,10 +213,16 @@ def change_git(project_dir, commit_hash):
         "git", "-C", f"{project_dir}",
         "checkout", "-f", commit_hash
     ])
-
+def create_writer(writer_type, *args, **kwargs):
+    if writer_type == 'mongo':
+        return MongoWriter(*args, **kwargs)
+    else:
+        return EMwriter(*args, **kwargs)
 
 @click.command()
 @click.option("--rminer_out_file", help="refactoring miner output in json format.")
+@click.option("--use_mongodb", help='load and save data to mongodb? Use rminer_out_file as db_str.', type=bool,
+              default=False)
 @click.option("--project_name", help='name of project')
 @click.option("--projects_dir", help='root directory containing project', default='../projects')
 @click.option("--output_dir", help="destination to save LLM output to.", default='../data/em-assist')
@@ -221,53 +230,56 @@ def change_git(project_dir, commit_hash):
 @click.option("--num_iterations", help='num of iterations to run LLM. If 0, run till fixpoint', default=15, type=int)
 @click.option("--temp", help="temperature to run llm for. If -1, then run for all temperatures in (0,0.2, 0.4, 0.6, "
                              "0.8, 1.0, 1.2)", default=1.2, type=float)
-def ask_llm(rminer_out_file, project_name,
+def ask_llm(rminer_out_file, use_mongodb, project_name,
             projects_dir, output_dir, llm_name, num_iterations,
             temp):
-    with open(rminer_out_file) as f:
-        rminer_data = json.load(f)
+    write_type = 'mongo' if use_mongodb else 'file'
+    writer = create_writer(write_type, rminer_out_file, output_dir)
+    rminer_data = writer.getdata()
 
     em_iter = EMIterator(num_iterations)
 
     for i, em_data in enumerate(rminer_data):
 
         print(f"Completed {i}/{len(rminer_data)}")
-        filename = em_data['filename']
-        assert project_name == em_data['projectName'].split('/')[-1]
+
+        filename = writer.get_filename(em_data)
+        if project_name != writer.get_projectname(em_data).split('/')[-1]:
+            print("Not the same project: ", writer.get_projectname(em_data))
+            continue
 
         project_path = f"{projects_dir}/{project_name}"
-        commit_hash = em_data['sha']
+        commit_hash = writer.get_commitafter(em_data)
         parent_hash = get_parent_commit(project_path, commit_hash)
         change_git(project_path, parent_hash)
 
         with open(f"{projects_dir}/{project_name}/{filename}") as f:
             file_str = f.read()
 
-        start_offset = em_data['host_start_off_set']
-        end_offset = em_data['host_end_off_set']
-        func_str = file_str[start_offset:end_offset]
-        print()
+        func_str = writer.get_func_str(em_data, file_str)
 
-        start_line = em_data['host_start_line']
-        end_line = em_data['host_end_line']
+        start_line = writer.get_startline(em_data)
+        end_line = writer.get_endline(em_data)
         func_str_with_line_nums = add_line_nums(func_str, start_line - 1)
 
         dest_dir = f"{output_dir}/{llm_name}/temp-{temp}/{project_name}"
         dest_file = f"{dest_dir}/func-{i}.json"
 
-        if not os.path.exists(dest_file):
+        if not writer.exists(dest_file):
             results = em_iter.iterate(func_str_with_line_nums, model=llm_name, temperature=temp)
-            try:
-                os.makedirs(dest_dir)
-            except FileExistsError:
-                pass
-            with open(dest_file, "w") as f:
-                json.dump(results, f, indent=1)
+            writer.write(results, dest_file)
+
 
 if __name__ == '__main__':
+    # ask_llm(["--rminer_out_file",
+    #          '../data/rminer/code-disaster_steamworks4j.json',
+    #          '--project_name', 'steamworks4j',
+    #          '--temp', '1.2'],
+    #         standalone_mode=False)
     ask_llm(["--rminer_out_file",
-             '../data/rminer/code-disaster_steamworks4j.json',
-             '--project_name', 'steamworks4j',
+             'extract_function/extended_corpus',
+             '--use_mongodb', "True",
+             '--project_name', 'CoreNLP',
              '--temp', '1.2'],
             standalone_mode=False)
 
